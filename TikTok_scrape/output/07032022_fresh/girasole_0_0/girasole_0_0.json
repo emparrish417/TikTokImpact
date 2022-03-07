@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6920145881271747590",
+        "shortId": "",
+        "uniqueId": "girasole_0_0",
+        "nickname": "Spia",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e0ac1ac474b262766818ae35764ee97~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=W7kDmpaQVLjEnvFCD3kwY6NHVd4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e0ac1ac474b262766818ae35764ee97~c5_720x720.jpeg?x-expires=1646773200&x-signature=Ou%2BfOt7QadhrdFOnQ5FM14vynBE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e0ac1ac474b262766818ae35764ee97~c5_100x100.jpeg?x-expires=1646773200&x-signature=wNpFZAH2vYR6qORufRqFowiaFg4%3D",
+        "signature": "Sweet 23\nGrown in Ukraine\nMilan, travel, makeup, humor",
+        "createTime": 1611242358,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOG2A0u-ehJKeRSefifH-v-WLuOcvfLPFK3e7r3-OKLRJtqDTZErvbREOttn7mcPo",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Travel & Tourism",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12300,
+        "followingCount": 149,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 216,
+        "diggCount": 0
+    },
+    "itemList": []
+}

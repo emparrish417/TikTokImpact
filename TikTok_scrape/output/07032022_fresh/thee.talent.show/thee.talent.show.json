@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7047649333379122181",
+        "shortId": "",
+        "uniqueId": "thee.talent.show",
+        "nickname": "The Talent Show",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/38fbfba03115f77d09b6d60ed0011ea2~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=A1qTBx95wayFfSsF2oq5EATPlKw%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/38fbfba03115f77d09b6d60ed0011ea2~c5_720x720.jpeg?x-expires=1646773200&x-signature=xpJ45W2yt2Sg0wJXSLIsNwaKg14%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/38fbfba03115f77d09b6d60ed0011ea2~c5_100x100.jpeg?x-expires=1646773200&x-signature=biWHKtFC5zccgU5iFM1WsKmwj8s%3D",
+        "signature": "\ud83c\udfaf 110,000 \ud83c\udfaf \n\ud83c\udfa9 We post TALENT from around the world \ud83c\udfa9\n\ud83d\udea8 FOLLOW for MORE \ud83d\udea8",
+        "createTime": 1640908887,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAW5uVo-ok5miK6pOhB4zTfr1MqQYa_mP9JF38-wVPIcj0amoy2A6NjokDxKlkiBWE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 108000,
+        "followingCount": 0,
+        "heart": 2300000,
+        "heartCount": 2300000,
+        "videoCount": 172,
+        "diggCount": 0
+    },
+    "itemList": []
+}

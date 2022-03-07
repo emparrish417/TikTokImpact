@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6667283048457781253",
+        "shortId": "",
+        "uniqueId": "maxklymenko",
+        "nickname": "Max Klymenko",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e52824712a077e3e422dd89fcceb1e63~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=Yz%2FtKQiQbBsTz6nNUI%2BLIo%2FnkYA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e52824712a077e3e422dd89fcceb1e63~c5_720x720.jpeg?x-expires=1646773200&x-signature=vU74ToDe%2BW84qWY2wngRysF2rQA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e52824712a077e3e422dd89fcceb1e63~c5_100x100.jpeg?x-expires=1646773200&x-signature=2RGdlSe4ivJ0PnPRCZg%2Fyqmjjuk%3D",
+        "signature": "\u2018self-proclaimed \ud83e\udde0 of TikTok\u2019\nHelp UKRAINE \u2b07\ufe0f",
+        "createTime": 1556097261,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAAwmTzP9kGp8zW4j1UE-tNHDWkVlgqYRD8e3lU69GRPltRnEEx68KV6DpnT9SKEID",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://savelife.in.ua/en/donate/",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2500000,
+        "followingCount": 145,
+        "heart": 87900000,
+        "heartCount": 87900000,
+        "videoCount": 1793,
+        "diggCount": 0
+    },
+    "itemList": []
+}

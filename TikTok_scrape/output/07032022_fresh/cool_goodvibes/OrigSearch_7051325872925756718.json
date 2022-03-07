@@ -1,0 +1,151 @@
+{
+    "id": "7051325872925756718",
+    "desc": "#funnny #commentsoffforareason",
+    "createTime": 1641764743,
+    "video": {
+        "id": "7051325872925756718",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/107f2ab8bfbf48499ccc62020001feec?x-expires=1646708400&x-signature=Ns%2FmARxAfi0odJMUKAHZGFsJO7U%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0cb72345f10b45faadef398a63826bff_1641764743?x-expires=1646708400&x-signature=q5TPzp2h9WFIaFi%2BXZt3%2BMMLDrs%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fa204268b7a64cab9d5c83b98e53c285_1641764744?x-expires=1646708400&x-signature=YUDrJ0aomOWyct8QGnVmNuyJ14A%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9c3ded42cdc20e29a2e224e4df191e34/6226d31c/video/tos/useast5/tos-useast5-ve-0068c004-tx/d0881c8cf2f441e3a72259515ef9ee15/?a=1988&br=4090&bt=2045&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThalCQDXq&l=202203072152470101130061470690A6D6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3M1ZTQ6ZmRvOjMzZzczNEApOzVmPGZoZjtkN2Q1NTc5NWdlZ2NgcjRnYmFgLS1kMS9zcy8tLy42LzViYV4wLTJfYjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9c3ded42cdc20e29a2e224e4df191e34/6226d31c/video/tos/useast5/tos-useast5-ve-0068c004-tx/d0881c8cf2f441e3a72259515ef9ee15/?a=1988&br=4090&bt=2045&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThalCQDXq&l=202203072152470101130061470690A6D6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3M1ZTQ6ZmRvOjMzZzczNEApOzVmPGZoZjtkN2Q1NTc5NWdlZ2NgcjRnYmFgLS1kMS9zcy8tLy42LzViYV4wLTJfYjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0cb72345f10b45faadef398a63826bff_1641764743~tplv-tiktok-play.jpeg?x-expires=1647291600&x-signature=31Fy7y9f%2FN041A0avLeJY3e%2B3VQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0cb72345f10b45faadef398a63826bff_1641764743~tplv-tiktokx-share-play.jpeg?x-expires=1647291600&x-signature=liDxM3OK%2FkgARsIT7TiDeBeJiKU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/107f2ab8bfbf48499ccc62020001feec?x-expires=1646708400&x-signature=Ns%2FmARxAfi0odJMUKAHZGFsJO7U%3D",
+        "bitrate": 2094926,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6913647604564640773",
+        "uniqueId": "cool_goodvibes",
+        "nickname": "Pray for Ukraine\ud83c\uddfa\ud83c\udde6\ud83d\ude4f",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6bf24f53947e2d7204c48d4ca12b709f~c5_100x100.jpeg?x-expires=1646773200&x-signature=tjbnOr1FXCsl2RPayVX%2BEpk68i8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6bf24f53947e2d7204c48d4ca12b709f~c5_720x720.jpeg?x-expires=1646773200&x-signature=2SirH3l15g%2Bpaux0CgU7z%2FCrVnI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6bf24f53947e2d7204c48d4ca12b709f~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=10YxzplCxmoMczMlOy0W5wZdAMI%3D",
+        "signature": "pray for Ukraine\ud83c\uddfa\ud83c\udde6\nUkraine Steven\ud83c\uddfa\ud83c\udde6\nsupport Ukraine \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZXd5GWaTLcUO0LIxPdUg8dfg4JVNq7PdhC22yqfXtelXyd8x3S3mOam87GQ-LyC8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7032604623575780098",
+        "title": "If u look at the sound u sopport lgbtq",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7032607886610156289.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/348fa4fcad22b5ebcba80e60935c2616~c5_100x100.jpeg?x-expires=1646773200&x-signature=4NChLwTez%2ByeWA%2BG4OLRm29S%2FCc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/348fa4fcad22b5ebcba80e60935c2616~c5_720x720.jpeg?x-expires=1646773200&x-signature=YGtdFekBhnKAlFBPawwQNeBwn7Q%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/348fa4fcad22b5ebcba80e60935c2616~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=1Kf6cNB%2Bj3dWEp9Fhl8dCUJ0%2Fwo%3D",
+        "authorName": "BrewVR",
+        "original": true,
+        "duration": 16,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "76189",
+            "title": "funnny",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1653255501658118",
+            "title": "commentsoffforareason",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 357600,
+        "shareCount": 6193,
+        "commentCount": 0,
+        "playCount": 850700
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "funnny",
+            "hashtagId": "76189",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": ""
+        },
+        {
+            "awemeId": "",
+            "start": 8,
+            "end": 30,
+            "hashtagName": "commentsoffforareason",
+            "hashtagId": "1653255501658118",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": ""
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 9940,
+        "followerCount": 51800,
+        "heartCount": 520900,
+        "videoCount": 2731,
+        "diggCount": 16600,
+        "heart": 520900
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "The popular girl",
+                "Me"
+            ]
+        }
+    ],
+    "isAd": false
+}

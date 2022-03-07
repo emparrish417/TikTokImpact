@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7035975754279093250",
+        "shortId": "",
+        "uniqueId": "omgsehun",
+        "nickname": "\u2b50\ufe0f",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/020af456694016d24667f9aa037ccde3.jpeg?x-expires=1646773200&x-signature=YwOzhixZfUMqtwrMLlGux4N4EIk%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/020af456694016d24667f9aa037ccde3.jpeg?x-expires=1646773200&x-signature=gzML0xxFuAgjOUv6UoGgBxrrzQo%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/020af456694016d24667f9aa037ccde3.jpeg?x-expires=1646773200&x-signature=Imiz3shNHRFLX7vqbW7gZTzlckg%3D",
+        "signature": "rui \ud83e\uddce\u200d\u2640\ufe0f",
+        "createTime": 1638191065,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxZUhlXNNi6NDKg0_lcUGpqxdwgG7yeKr9F9koXQKSFAucIdiWNPbqEFXB2Je0k_e",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://omgsehun.carrd.co",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6880,
+        "followingCount": 433,
+        "heart": 270900,
+        "heartCount": 270900,
+        "videoCount": 59,
+        "diggCount": 0
+    },
+    "itemList": []
+}

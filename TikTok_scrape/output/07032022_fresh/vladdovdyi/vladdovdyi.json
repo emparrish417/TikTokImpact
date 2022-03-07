@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6630668943949266949",
+        "shortId": "",
+        "uniqueId": "vladdovdyi",
+        "nickname": "Vlad Dovdyi",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d7a771925e2738716f76df59d87e9ba9~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=ei2LtJaVqNqmZyV4YgvojYhMnn8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d7a771925e2738716f76df59d87e9ba9~c5_720x720.jpeg?x-expires=1646773200&x-signature=iCBn%2FGN2HPAo7ZpRZGao3079T9k%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d7a771925e2738716f76df59d87e9ba9~c5_100x100.jpeg?x-expires=1646773200&x-signature=tlLn6rPYiK4Zy2cp9PCRDcxxriM%3D",
+        "signature": "Inst: @vlad_dovdyi",
+        "createTime": 1543823857,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOjOmflgnSYbwX-dyoqxRNaktg5HPi_pFMEFlwAdI7TJdkdGEirL2aA61HTNG3Mbu",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1736,
+        "followingCount": 194,
+        "heart": 272800,
+        "heartCount": 272800,
+        "videoCount": 39,
+        "diggCount": 0
+    },
+    "itemList": []
+}

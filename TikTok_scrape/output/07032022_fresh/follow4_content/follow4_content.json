@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6881670529235305474",
+        "shortId": "",
+        "uniqueId": "follow4_content",
+        "nickname": "follow4_content",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2fcc27c0f84ae4af4e2feed1bbb4556b~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=DqR7P9gpPPwTkWsBM1fy%2Fe%2FgOdQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2fcc27c0f84ae4af4e2feed1bbb4556b~c5_720x720.jpeg?x-expires=1646773200&x-signature=Y%2F4YZHZ5hlAkoDthEpSK%2FJ%2Bki2c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2fcc27c0f84ae4af4e2feed1bbb4556b~c5_100x100.jpeg?x-expires=1646773200&x-signature=Em8r7EwPWJhBJqaF6Ud3ryDl0gY%3D",
+        "signature": "Nl/En content\nThx for 24k \ud83d\ude4c\ud83d\udd25",
+        "createTime": 1602263939,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqOWm6myzAd-ghzRin02KVaV8s1G3SHMdEa-PW9G-adwRl2T9rDWvOAUINgocvIGK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.unicef.nl/doneren/help-de-kinderen-in-oekraine",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24100,
+        "followingCount": 4178,
+        "heart": 415200,
+        "heartCount": 415200,
+        "videoCount": 642,
+        "diggCount": 0
+    },
+    "itemList": []
+}

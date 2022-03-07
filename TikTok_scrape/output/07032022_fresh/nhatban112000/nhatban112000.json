@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6617024546921709569",
+        "shortId": "",
+        "uniqueId": "nhatban112000",
+        "nickname": "\u0110\u1eb7ng Long Nh\u1eadt",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/261e11fba49ae1760acae56ff12a5822.jpeg?x-expires=1646773200&x-signature=AwhT7vvPyfLgO1vjhs%2BP2qkZTSg%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/261e11fba49ae1760acae56ff12a5822.jpeg?x-expires=1646773200&x-signature=jrnpq7qtC%2BpdZr2UrRoNRvKCdKs%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/261e11fba49ae1760acae56ff12a5822.jpeg?x-expires=1646773200&x-signature=LgRAv%2FgDQ63AG3W6xaXIvUg0uqU%3D",
+        "signature": "\ud83d\udd25",
+        "createTime": 1546920592,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYDvDaWKnMT9Dm0_Z71Ea66BUYxbz5dDhiP-yisrLv-t_XeiE9qnR689SX0MvBE7j",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.facebook.com/danglongnhat01",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8479,
+        "followingCount": 89,
+        "heart": 462300,
+        "heartCount": 462300,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

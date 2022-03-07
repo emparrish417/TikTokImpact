@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6995208940170888193",
+        "shortId": "",
+        "uniqueId": "_.rabs_",
+        "nickname": "rabs",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/eb8f00b0b9d76e7ac1962bcf98e49918.jpeg?x-expires=1646773200&x-signature=fOkuGpJOL1AsU5%2FO9D2p8xNTBbc%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/eb8f00b0b9d76e7ac1962bcf98e49918.jpeg?x-expires=1646773200&x-signature=HdyIxj0yvqr7VKFkUq3XZqJRs3Y%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/eb8f00b0b9d76e7ac1962bcf98e49918.jpeg?x-expires=1646773200&x-signature=JQPtIVo0n2TLlrfP%2Br2Tj3Haj%2FA%3D",
+        "signature": "Can we hit 10k?",
+        "createTime": 1628699544,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAANXHqns-9Lyi1FCjwI2_k2Ht0DgXz-ACCoRZ1_2p7HfoQSLTfVUUDmfxDeu-ZM3Z",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8334,
+        "followingCount": 162,
+        "heart": 261800,
+        "heartCount": 261800,
+        "videoCount": 14,
+        "diggCount": 0
+    },
+    "itemList": []
+}

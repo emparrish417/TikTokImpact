@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6845604547177235461",
+        "shortId": "",
+        "uniqueId": "tss.c.o",
+        "nickname": "\u0421arina",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9aeb74cae4e4b37ce56c1c0f3cd218cc~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=BUD7S3luWmjlZJI2wlyOCqtWQ4w%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9aeb74cae4e4b37ce56c1c0f3cd218cc~c5_720x720.jpeg?x-expires=1646773200&x-signature=xsXzTsdZc4wD4N6yKv%2Bvi34HP5c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9aeb74cae4e4b37ce56c1c0f3cd218cc~c5_100x100.jpeg?x-expires=1646773200&x-signature=S2fvcFEpK28CHStyvqIwhaWe0MU%3D",
+        "signature": "Italy \nAesthetic | fun |1997\nUniversit\u00e0 di Torino | Beni culturali",
+        "createTime": 1593837841,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUBFPb65iYZaMZ__-1DFzDyRS9E2luEOsGoQaMQ1UkG9kPwZwY_7UDUqRMaEegjlY",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 140800,
+        "followingCount": 17,
+        "heart": 5200000,
+        "heartCount": 5200000,
+        "videoCount": 157,
+        "diggCount": 0
+    },
+    "itemList": []
+}

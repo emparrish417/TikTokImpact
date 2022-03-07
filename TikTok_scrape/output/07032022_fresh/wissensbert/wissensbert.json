@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6768137181787587589",
+        "shortId": "",
+        "uniqueId": "wissensbert",
+        "nickname": "wissensbert",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d6c50f1171f40611dcc0332d0c463e06~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=MYnVv2xRI81KAGNdv9OTvSjgH5M%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d6c50f1171f40611dcc0332d0c463e06~c5_720x720.jpeg?x-expires=1646773200&x-signature=RCcp2srSg69g1j%2BZVvSB48Kt8SI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d6c50f1171f40611dcc0332d0c463e06~c5_100x100.jpeg?x-expires=1646773200&x-signature=s4aSLo%2Fh1qjE69ZPIuFPbxfY2AU%3D",
+        "signature": "\ud83c\udf0d CEO of Wissen\n\ud83d\udccd Heidelberg",
+        "createTime": 1588416496,
+        "verified": true,
+        "secUid": "MS4wLjABAAAA-gENBPnqqAeWMLL4igDXuTWDutGZ1n21fWCrA5sCVkog2ZeIpJBzGscRVqLTKV1p",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "info@wissensbert.de",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1900000,
+        "followingCount": 162,
+        "heart": 57200000,
+        "heartCount": 57200000,
+        "videoCount": 637,
+        "diggCount": 0
+    },
+    "itemList": []
+}

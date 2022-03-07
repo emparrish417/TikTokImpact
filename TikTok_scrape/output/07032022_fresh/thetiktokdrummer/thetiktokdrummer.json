@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "302047710327664640",
+        "shortId": "",
+        "uniqueId": "thetiktokdrummer",
+        "nickname": "Austin Ware",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2c6e11fe3d7c7362e007bc96f99f828~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=6FUkYxtu7SPGChtwhSDaLPEza%2BI%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2c6e11fe3d7c7362e007bc96f99f828~c5_720x720.jpeg?x-expires=1646773200&x-signature=wkxHdOv63wD7Y9%2FXpVgwWfoLXr0%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2c6e11fe3d7c7362e007bc96f99f828~c5_100x100.jpeg?x-expires=1646773200&x-signature=sZmk6d8HJbOGMaNpae816Tr9fX4%3D",
+        "signature": "\u201cIt\u2019s Bigger Than Drums\u201d\u2728\nBiz: info@awentertainmentgroup.com",
+        "createTime": 1512385300,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAi2RvUzAw5VCB39yw8T1YI8sMx9sjeaMdhsnNDRmP9Hwq2SEaSI8BixrAAVl0XsZ1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/AustinWare",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10500000,
+        "followingCount": 344,
+        "heart": 145800000,
+        "heartCount": 145800000,
+        "videoCount": 680,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6648707054277541894",
+        "shortId": "",
+        "uniqueId": "julsino",
+        "nickname": "julsino",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/93e085006b13dc627d6ad2e5c8d15365~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=uBUwkqjIQfEMdGKWAohSftrohaA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/93e085006b13dc627d6ad2e5c8d15365~c5_720x720.jpeg?x-expires=1646773200&x-signature=frabriQfub8KoYSnoxZiD8AdS7M%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/93e085006b13dc627d6ad2e5c8d15365~c5_100x100.jpeg?x-expires=1646773200&x-signature=n4A7UjEHZdtPq1XVg0%2FxMs1fkoM%3D",
+        "signature": "Millenialshit",
+        "createTime": 1552974000,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaa3ADldHTIeDGf7fYsyycFN6JOJAqGufojyr0D_vq9kCFU7CAj1CX_K8LNiSUURK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.etsy.com/de/listing/1145553320/handgemachte-schlusselanhanger-unikate?ref=listings_manager_grid",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2208,
+        "followingCount": 262,
+        "heart": 250500,
+        "heartCount": 250500,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

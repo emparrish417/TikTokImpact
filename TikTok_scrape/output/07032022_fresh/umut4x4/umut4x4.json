@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6850368333868811270",
+        "shortId": "",
+        "uniqueId": "umut4x4",
+        "nickname": "Umut",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/bf413122ae8bbaede51360e70a7b6759.jpeg?x-expires=1646773200&x-signature=B%2Bho4tQZHa6CG0KTuvnORGLFSls%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/bf413122ae8bbaede51360e70a7b6759.jpeg?x-expires=1646773200&x-signature=Klv07XkQfQLtVYBU8Q2ZJofWPBI%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bf413122ae8bbaede51360e70a7b6759.jpeg?x-expires=1646773200&x-signature=kuTS7DE9dM5qWTWsf3xwOgLqQuk%3D",
+        "signature": "",
+        "createTime": 1594947063,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA44M_TjcqSdft0y1OX3SpNd4-Em6Su9eGFTR7LYPl5cCSkPa3ga2uv7ytGvYj9T9F",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2041,
+        "followingCount": 259,
+        "heart": 38800,
+        "heartCount": 38800,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

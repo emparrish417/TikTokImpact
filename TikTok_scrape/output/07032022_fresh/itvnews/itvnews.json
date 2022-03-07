@@ -1,0 +1,47 @@
+{
+    "user": {
+        "id": "6646858005663072262",
+        "shortId": "",
+        "uniqueId": "itvnews",
+        "nickname": "itvnews",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1636615677554694~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=wlNOh2mcsoRKrTDqXaXGxHWA81s%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1636615677554694~c5_720x720.jpeg?x-expires=1646773200&x-signature=3tNbCQdblHRjCn7nD3ccO6eG4c4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1636615677554694~c5_100x100.jpeg?x-expires=1646773200&x-signature=ZMjre55NfKKE690%2FzYItAkMCCGE%3D",
+        "signature": "",
+        "createTime": 1560769365,
+        "verified": true,
+        "secUid": "MS4wLjABAAAANEUMYYl8V-FTczdYQcJqwW1_6ras5q71ypHAwYRbU_DiZd2CYOaCid2UnL6EJrrD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "itv.com/news",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "ios": "https://apps.apple.com/gb/app/itv-news-breaking-stories/id907113454",
+                "android": "https://play.google.com/store/apps/details?id=com.itv.itvnewsapp&hl=en_GB&gl=US"
+            },
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 563700,
+        "followingCount": 1,
+        "heart": 8100000,
+        "heartCount": 8100000,
+        "videoCount": 255,
+        "diggCount": 0
+    },
+    "itemList": []
+}

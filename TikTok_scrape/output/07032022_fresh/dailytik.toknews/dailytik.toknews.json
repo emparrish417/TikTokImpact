@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7028871479098721285",
+        "shortId": "",
+        "uniqueId": "dailytik.toknews",
+        "nickname": "\ud83c\udfa5\u2709\ufe0f",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7cb351f2acd6a109e00eb3bd1bf5c87c~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=aspX%2BkO22hrhCsoExh8jN1qp01g%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7cb351f2acd6a109e00eb3bd1bf5c87c~c5_720x720.jpeg?x-expires=1646773200&x-signature=%2FfiR6oGEp8ylSGgZGK%2FEKgQmgYA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7cb351f2acd6a109e00eb3bd1bf5c87c~c5_100x100.jpeg?x-expires=1646773200&x-signature=CPP4bBOeI2LNB%2F1dvIJNUKh07rk%3D",
+        "signature": "Christian\nWhat\u2019s going on? Watch these videos to get news updates",
+        "createTime": 1636538506,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAe11u9hcf_vHKHDplBRKZX4JoKU2F13ty8o13MHnEZ4XNtn9AU-ia9w6KA8bcGjJc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 614,
+        "followingCount": 1427,
+        "heart": 697,
+        "heartCount": 697,
+        "videoCount": 50,
+        "diggCount": 0
+    },
+    "itemList": []
+}

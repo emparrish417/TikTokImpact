@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6798699522093761542",
+        "shortId": "",
+        "uniqueId": "mikekruzich",
+        "nickname": "Mike Kruzich",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_1080x1080.jpeg?x-expires=1646773200&x-signature=2A5zngkRqJQN3Ebf%2FkiKm%2BIZ3QI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_720x720.jpeg?x-expires=1646773200&x-signature=wbRiJ%2BntU2xiVeyo6Y2neeBT4lw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_100x100.jpeg?x-expires=1646773200&x-signature=mVXcHLsT70k39cf5b1meVV6Zo5I%3D",
+        "signature": "Follow For Daily Crazy News Stories \ud83e\udd2f\nBiz: support@mikekruzich.com",
+        "createTime": 1595016675,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAP9gB-cfjK14GMhjetJ1TO38JKpibG16W6-GK0vQlrZ7b9hGpusAOilFTkCopHsJe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.tapptree.io/mikekruzich",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3600000,
+        "followingCount": 1111,
+        "heart": 67500000,
+        "heartCount": 67500000,
+        "videoCount": 774,
+        "diggCount": 0
+    },
+    "itemList": []
+}
