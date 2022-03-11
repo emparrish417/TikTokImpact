@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6874997167154758662",
+        "shortId": "",
+        "uniqueId": "raminesq",
+        "nickname": "raminesq",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7a0cbceb733f8c6f0d5a29eeb16e3ac4~c5_1080x1080.jpeg?x-expires=1646960400&x-signature=X8uI1AhecjzPdPD5mz658yDRvb0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7a0cbceb733f8c6f0d5a29eeb16e3ac4~c5_720x720.jpeg?x-expires=1646960400&x-signature=2Qlb7kLTJj5sXzGBcVmhHz%2F1nbo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7a0cbceb733f8c6f0d5a29eeb16e3ac4~c5_100x100.jpeg?x-expires=1646960400&x-signature=rAkI%2Bi7eswm991N8KnUR5bWXOiY%3D",
+        "signature": "Attorney  | Cyclist  | Justice",
+        "createTime": 1600710127,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAN7wd2tDuJ1u11koc1NLx46dK5qngnipmLWX6DPSv7sN0GMj-RdC1ygZaXj8lRqPs",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "BeverlyHillsBikeLaw.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3989,
+        "followingCount": 109,
+        "heart": 335600,
+        "heartCount": 335600,
+        "videoCount": 48,
+        "diggCount": 0
+    },
+    "itemList": []
+}

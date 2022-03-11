@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6807823894533080070",
+        "shortId": "",
+        "uniqueId": "wamemez",
+        "nickname": "WaMemes",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/64a34094c2f66154da115f389783871a~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=UaZeLlurtFxJRcTVISAB73tHMZM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/64a34094c2f66154da115f389783871a~c5_720x720.jpeg?x-expires=1647111600&x-signature=qGY3i1pXcdx29IqKbyE99rV74P4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/64a34094c2f66154da115f389783871a~c5_100x100.jpeg?x-expires=1647111600&x-signature=sKjit0Dy%2BoQF6HJSYN%2FHA7QfS78%3D",
+        "signature": "\ud83c\uddf0\ud83c\uddea\nInsta: @stacey_wamemes",
+        "createTime": 1585321098,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjjxHvgByaDbZmi7Liq_LuDNs2fiVQOA2BjgHP5gw4h3ydDdJxiyHNOnBiREpoFQh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1320,
+        "followingCount": 186,
+        "heart": 237600,
+        "heartCount": 237600,
+        "videoCount": 94,
+        "diggCount": 0
+    },
+    "itemList": []
+}

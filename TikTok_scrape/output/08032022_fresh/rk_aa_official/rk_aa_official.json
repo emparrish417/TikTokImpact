@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6536388472666592256",
+        "shortId": "",
+        "uniqueId": "rk_aa_official",
+        "nickname": "Vibe \ud83c\udf3c\ud83c\udf3b\ud83d\udd25",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/18a74541f41ca5446597a6ed2881312a~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=XFbBDsNP20683JB7%2BA4W9zy6RmA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/18a74541f41ca5446597a6ed2881312a~c5_720x720.jpeg?x-expires=1646870400&x-signature=QOT%2FPVG2t3Fm3QNGeBxTVPjU498%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/18a74541f41ca5446597a6ed2881312a~c5_100x100.jpeg?x-expires=1646870400&x-signature=TZeCQTZyygB%2B6W%2B5SnQWagOIEnI%3D",
+        "signature": "Rahul Karna",
+        "createTime": 1521871535,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxK56IQ09xf4wXmqlxG-knfRSEzLNflV3cIkMPSguMWdxUVwqkaHEjojrI1Fil-1H",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "amazon.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 23200,
+        "followingCount": 841,
+        "heart": 3400000,
+        "heartCount": 3400000,
+        "videoCount": 372,
+        "diggCount": 0
+    },
+    "itemList": []
+}

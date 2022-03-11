@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6915870418658591750",
+        "shortId": "",
+        "uniqueId": "dragon_eth",
+        "nickname": "Ethan Jackson815",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b3f69d757f1792876a1cd858781441d~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=BjfGoYcD2s3L8cMgayckeUiquqM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b3f69d757f1792876a1cd858781441d~c5_720x720.jpeg?x-expires=1647111600&x-signature=37pbDy2O%2Bxs%2FT8J%2B8bwI85g6wCE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b3f69d757f1792876a1cd858781441d~c5_100x100.jpeg?x-expires=1647111600&x-signature=aJ7uhFTb1VfSyTG9%2BDMj3U2hd%2Fg%3D",
+        "signature": "",
+        "createTime": 1610226715,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnN5vfC3yDOiR9cK79ICaHbXJJCRV_ds94SmRlIiwb01njD5fLvas0VkfLrA3-Dx5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 49,
+        "followingCount": 77,
+        "heart": 337,
+        "heartCount": 337,
+        "videoCount": 47,
+        "diggCount": 0
+    },
+    "itemList": []
+}

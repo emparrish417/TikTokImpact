@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7013146163990037509",
+        "shortId": "",
+        "uniqueId": "strongman4life",
+        "nickname": "strongman4life",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/02f0cd8801026b184d31ece07cbc7405~c5_1080x1080.jpeg?x-expires=1646956800&x-signature=6KJem9oi54wrDyWsbSh0SIHJb0w%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/02f0cd8801026b184d31ece07cbc7405~c5_720x720.jpeg?x-expires=1646956800&x-signature=XBHbGSu6keuEWyAPC8E4SAyPegw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/02f0cd8801026b184d31ece07cbc7405~c5_100x100.jpeg?x-expires=1646956800&x-signature=tea5XnFLQbiBbtjfAZL54rxCECo%3D",
+        "signature": "it's a joke calm down",
+        "createTime": 1632875420,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyaD8aZXpkn-xQKUWVeMlLUuvYrvjuGqdSHUnHDmj6Qu0mgVyNrmE-tPBHSDLWQ59",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "beacons.ai/strongman4life",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13200,
+        "followingCount": 396,
+        "heart": 561900,
+        "heartCount": 561900,
+        "videoCount": 132,
+        "diggCount": 0
+    },
+    "itemList": []
+}

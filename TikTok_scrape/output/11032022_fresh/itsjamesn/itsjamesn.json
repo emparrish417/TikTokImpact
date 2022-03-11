@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6646387353768509445",
+        "shortId": "",
+        "uniqueId": "itsjamesn",
+        "nickname": "James",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b0037cca66a797f961d8c7f7e649369~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=4Ke8xBo2oTI4R9VQ9NHAPzLJNn4%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b0037cca66a797f961d8c7f7e649369~c5_720x720.jpeg?x-expires=1647111600&x-signature=54A6KPXBEl7FA9jnDV0Jm6mnfy4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b0037cca66a797f961d8c7f7e649369~c5_100x100.jpeg?x-expires=1647111600&x-signature=fUkaKXPryjUwLZ4iVjQ16HuPO8s%3D",
+        "signature": "its not just a boulder... its a rock",
+        "createTime": 1590670942,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAm75AmD1kAoFFipw2bJd5Mcmf8MtSUx97x0o1HxnKYxVN-qllv0X9p5unKQU0Xejf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1849,
+        "followingCount": 141,
+        "heart": 318700,
+        "heartCount": 318700,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6806375449388991494",
+        "shortId": "",
+        "uniqueId": "eurowill",
+        "nickname": "Will O'Malley",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ea5e1f4a888cacac8ab0997575317984~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=OAuRyVSJvhU6QQfjc0CK23MpK6I%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ea5e1f4a888cacac8ab0997575317984~c5_720x720.jpeg?x-expires=1647111600&x-signature=JdVkal%2Fd8slsdys5vKG5OLiXhkg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ea5e1f4a888cacac8ab0997575317984~c5_100x100.jpeg?x-expires=1647111600&x-signature=Udo8BC8CQdILtbBS3IzueVktals%3D",
+        "signature": "",
+        "createTime": 1592857340,
+        "verified": false,
+        "secUid": "MS4wLjABAAAALLs7aYbrCbP61Fv3rPfDzq1e0Uck6TbHJIv3peKtLk2F0_caXdfU7sqCRTLzK4hW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 182,
+        "followingCount": 450,
+        "heart": 6484,
+        "heartCount": 6484,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

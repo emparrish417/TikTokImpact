@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6864470021458199554",
+        "shortId": "",
+        "uniqueId": "seyhaxlin1",
+        "nickname": "\ud83c\uddfa\ud83c\udde6Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/afafe16024365af902f9052e2bd33fd9~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=TqCfFBFFEeu%2BFOC1iEZIAgRMOdU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/afafe16024365af902f9052e2bd33fd9~c5_720x720.jpeg?x-expires=1647111600&x-signature=reRPzJGrOfqLOl05cl7MzWJ7cN4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/afafe16024365af902f9052e2bd33fd9~c5_100x100.jpeg?x-expires=1647111600&x-signature=ahDjTcSPL1bzQD60AlU3rRlgQPA%3D",
+        "signature": "seyha",
+        "createTime": 1598230281,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAL25tdGGSk8gkRUv4BgxbHIygfoxRh87P0d4b2PkpeUob4FDKwXEWCwGds2wTI8BT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1285,
+        "followingCount": 27,
+        "heart": 14300,
+        "heartCount": 14300,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6963797044889863169",
+        "shortId": "",
+        "uniqueId": "rustygaming12",
+        "nickname": "R U S T Y P L A Y S",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/968e697392f8d0a42f889208b420c54e~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=%2FmbDXFjWDr3KOfvRrAge%2Fa8%2FrzY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/968e697392f8d0a42f889208b420c54e~c5_720x720.jpeg?x-expires=1647111600&x-signature=O%2Fy8V7ffxEUa7BEs1AkLl7v8DmE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/968e697392f8d0a42f889208b420c54e~c5_100x100.jpeg?x-expires=1647111600&x-signature=ddfO7grhx3o1SBtKY4XzfE2ylrQ%3D",
+        "signature": "FB: RUSTY SAGANA",
+        "createTime": 1621385654,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA9zEPrd1ourVlLE0MsY-ax3J54-z6JxLJBnQl6kw3VFI_tVYoqtRIHz5eGVqDjWng",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCMbfN4YzJybdpxq8dhNrVjQ",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 148800,
+        "followingCount": 438,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 71,
+        "diggCount": 0
+    },
+    "itemList": []
+}

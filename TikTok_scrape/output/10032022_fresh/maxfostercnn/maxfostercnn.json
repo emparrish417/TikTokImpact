@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6749951519867028486",
+        "shortId": "",
+        "uniqueId": "maxfostercnn",
+        "nickname": "Max Foster - news journalist",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/9129feb589e802f3200c947213b72563~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=BhpPtGL5fX9EHVtLQ6lUv8iPvbU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/9129feb589e802f3200c947213b72563~c5_720x720.jpeg?x-expires=1647050400&x-signature=gd2Vz7tQBnlor1%2B4mnyqVVcmqT0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/9129feb589e802f3200c947213b72563~c5_100x100.jpeg?x-expires=1647050400&x-signature=X4WJqeBvHcfcV92RFRgjOpRTl7E%3D",
+        "signature": "CNN London Anchor\nReal stories in real time",
+        "createTime": 1572526904,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAomeClkfXwFnO9zEerOwQHd0CnIrPFX1hO0EZkIasflZ4Uu41aX7qiejsVBvW83e7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.cnn.com/profiles/max-foster",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 685800,
+        "followingCount": 64,
+        "heart": 32200000,
+        "heartCount": 32200000,
+        "videoCount": 534,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6838693945460163590",
+        "shortId": "",
+        "uniqueId": "artbypacoway",
+        "nickname": "Paco",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d4d004c0698ac4f9828d2931efd95a0~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=bYxzM7ISepw52VhTLwLBGCeeY1g%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d4d004c0698ac4f9828d2931efd95a0~c5_720x720.jpeg?x-expires=1647111600&x-signature=ucp6Uc1FTofMphc%2F7c7ahGJbd3s%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d4d004c0698ac4f9828d2931efd95a0~c5_100x100.jpeg?x-expires=1647111600&x-signature=d6XAMEPbDYAqUHaQSNxZECKqDsc%3D",
+        "signature": "\ud83d\udc41\ufe0f \u274c\nI just want to make art!\n\ud83d\udc47Prints & originals for sale\ud83d\udc47\nwww.pacoway.com",
+        "createTime": 1606456929,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV89ATuvQBt-7f4s-1msqM0TT6JR0nljB4tXqxuXLHheiwCSt5HEhyCubAbZ2U2yf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "http://beacons.page/pacoway",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 301600,
+        "followingCount": 2356,
+        "heart": 6800000,
+        "heartCount": 6800000,
+        "videoCount": 309,
+        "diggCount": 0
+    },
+    "itemList": []
+}

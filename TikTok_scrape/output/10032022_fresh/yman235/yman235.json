@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6805648199542686725",
+        "shortId": "",
+        "uniqueId": "yman235",
+        "nickname": "Yman",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfcd317c1ea7d27eec9fded188fdefec~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=owu%2BKkB%2F2xZWUEk1LKR6AodBQnA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfcd317c1ea7d27eec9fded188fdefec~c5_720x720.jpeg?x-expires=1647050400&x-signature=L2nkL2L3XLbNPDPo%2BK5w8Oed0Tw%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfcd317c1ea7d27eec9fded188fdefec~c5_100x100.jpeg?x-expires=1647050400&x-signature=U1Hm5RTTkYB73VYrWHwjNAA4YT8%3D",
+        "signature": "Just making y\u2019all smile",
+        "createTime": 1627700099,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPdm-tU11J6HdlTfFpp-vdtxuKTdTPCARnJPf6-J6aybN0yFD7NM-ZPbhDoHR3pMD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 21200,
+        "followingCount": 165,
+        "heart": 789600,
+        "heartCount": 789600,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

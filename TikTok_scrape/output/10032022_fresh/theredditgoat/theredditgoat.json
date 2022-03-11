@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6907321180933030918",
+        "shortId": "",
+        "uniqueId": "theredditgoat",
+        "nickname": "Daily Dose of Reddit \ud83c\udf7f",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4c148d41e89f1c1bf5accf047e2d3561~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=8uoMOJCQcYYsvaFI%2FCDW4psoRto%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4c148d41e89f1c1bf5accf047e2d3561~c5_720x720.jpeg?x-expires=1647050400&x-signature=vNPi6jc7CU5Nm%2FFIgqbpL7COa38%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4c148d41e89f1c1bf5accf047e2d3561~c5_100x100.jpeg?x-expires=1647050400&x-signature=1dkOI9CwxGHGA8J8w2kzWUV6W7Q%3D",
+        "signature": "Formerly RedditMeister\n\ud83c\udf7f\n\ud83d\udc47PUBLIC DATA CHECK\ud83d\udc47",
+        "createTime": 1642986048,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3dgB2enMaVnre9NcTovVZZD0Fmh8ZNN-09610QwwNnKGCIlYHboTpxurUg_FLFfJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://bit.ly/3MuWCtq",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 229600,
+        "followingCount": 0,
+        "heart": 13200000,
+        "heartCount": 13200000,
+        "videoCount": 107,
+        "diggCount": 0
+    },
+    "itemList": []
+}

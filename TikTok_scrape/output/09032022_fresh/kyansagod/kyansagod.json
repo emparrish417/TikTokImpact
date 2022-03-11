@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6767959718528353285",
+        "shortId": "",
+        "uniqueId": "kyansagod",
+        "nickname": "Kyan",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/7ed774f9ac8fb506fac6c28796252790.jpeg?x-expires=1646956800&x-signature=l0IaAI7aReVa2V3sLgRepaXbEGA%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/7ed774f9ac8fb506fac6c28796252790.jpeg?x-expires=1646956800&x-signature=y07EYivYRPzfG3yPo10TWgQfCfU%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7ed774f9ac8fb506fac6c28796252790.jpeg?x-expires=1646956800&x-signature=qT2ETZTLcsgCjBINT3DSDEJlWSI%3D",
+        "signature": "Follow my twitch below",
+        "createTime": 1589943984,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsCUrG8RqGZzuhtD_3qq77Z48_Hr7NeVjKp-5SUsDE4SMuIibuQym6jqweYCpHiIA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://twitch.tv/kyansagod",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4370,
+        "followingCount": 292,
+        "heart": 258300,
+        "heartCount": 258300,
+        "videoCount": 56,
+        "diggCount": 0
+    },
+    "itemList": []
+}

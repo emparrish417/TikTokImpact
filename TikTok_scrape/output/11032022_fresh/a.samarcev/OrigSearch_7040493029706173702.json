@@ -1,0 +1,98 @@
+{
+    "id": "7040493029706173702",
+    "desc": "",
+    "createTime": 1639242524,
+    "video": {
+        "id": "7040493029706173702",
+        "height": 1024,
+        "width": 576,
+        "duration": 26,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0204aa22e78845f2b0065e9c1116e439_1639242529?x-expires=1647046800&x-signature=z7iTZeIpo61LE%2BG8LkC6KHLVUOc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6620dea7eaeb4946bb82ac2d5fd511b9_1639242526?x-expires=1647046800&x-signature=CI9fzmim9sUYCzhc43A8IZ1GBEg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/001f3603b1bc411aa6100c5b6a25f244_1639242527?x-expires=1647046800&x-signature=T4mw8vMxGMhpEgG5k97FEaydXz8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9163a55b20974fff029ed92b6cd9f3ce/622bfe3b/video/tos/useast2a/tos-useast2a-ve-0068c001/bdbfccfd2a9841bdb52a5222523a7a18/?a=1988&br=3360&bt=1680&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl.cVDXq&l=202203111957530101130061010DB73337&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2s5czo6ZjZnOTMzNzczM0ApaGczOjloZ2Q5N2lmPDo2OmdfYmFqcjRvam5gLS1kMTZzczI0MDQuMF4yNTE1MV5fMDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9163a55b20974fff029ed92b6cd9f3ce/622bfe3b/video/tos/useast2a/tos-useast2a-ve-0068c001/bdbfccfd2a9841bdb52a5222523a7a18/?a=1988&br=3360&bt=1680&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl.cVDXq&l=202203111957530101130061010DB73337&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2s5czo6ZjZnOTMzNzczM0ApaGczOjloZ2Q5N2lmPDo2OmdfYmFqcjRvam5gLS1kMTZzczI0MDQuMF4yNTE1MV5fMDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6620dea7eaeb4946bb82ac2d5fd511b9_1639242526~tplv-tiktok-play.jpeg?x-expires=1647630000&x-signature=Xl9e6aIaomI9Iaux4ybD3Q%2Btrys%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6620dea7eaeb4946bb82ac2d5fd511b9_1639242526~tplv-tiktokx-share-play.jpeg?x-expires=1647630000&x-signature=G%2B2HkcQKnv76ipG5%2FjL9TyH%2Fxec%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/607b38ec37106398788b996f29e3477f?x-expires=1647046800&x-signature=Vepp6NVAQpTEzRMUyzbGGjSO60Q%3D",
+        "bitrate": 1720555,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6757027750852887557",
+        "uniqueId": "a.samarcev",
+        "nickname": "a.samarcev",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652256751840262~c5_100x100.jpeg?x-expires=1647111600&x-signature=FhlMzhUGYUTyjcyqmYzmdf7GD7k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652256751840262~c5_720x720.jpeg?x-expires=1647111600&x-signature=coXc6xFccOvX5eTu9SySLV2x%2FCs%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652256751840262~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=CAVgusa3lshZtSXgxJ9QOcJL2Iw%3D",
+        "signature": "Andrey Samarcev\nTattoo Artist\ud83d\udda4\nKyiv, Ukraine\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAO3t6xjPR6bOoy3DhKZP75M4wa7_MAImcGdHlWABCYgDzqPw99lH68ojM-Mk7Wpo8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7040493009871424262",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7040493007438678789.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652256751840262~c5_100x100.jpeg?x-expires=1647111600&x-signature=FhlMzhUGYUTyjcyqmYzmdf7GD7k%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652256751840262~c5_720x720.jpeg?x-expires=1647111600&x-signature=coXc6xFccOvX5eTu9SySLV2x%2FCs%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652256751840262~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=CAVgusa3lshZtSXgxJ9QOcJL2Iw%3D",
+        "authorName": "a.samarcev",
+        "original": true,
+        "duration": 26,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 910000,
+        "shareCount": 4384,
+        "commentCount": 1640,
+        "playCount": 16800000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 11,
+        "followerCount": 812100,
+        "heartCount": 20600000,
+        "videoCount": 172,
+        "diggCount": 1641,
+        "heart": 20600000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Kiev, Ukraine \ud83c\uddfa\ud83c\udde6"
+            ]
+        }
+    ],
+    "isAd": false
+}

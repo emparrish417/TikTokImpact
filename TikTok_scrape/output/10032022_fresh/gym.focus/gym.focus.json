@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7064939496895087621",
+        "shortId": "",
+        "uniqueId": "gym.focus",
+        "nickname": "gym.focus",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a24ebebd6579151d2e69c700905aca10~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=jO4Rtx4Kn5qPtxGujeIKBzcrkwM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a24ebebd6579151d2e69c700905aca10~c5_720x720.jpeg?x-expires=1647050400&x-signature=8ulNzxf8Im79j87enQzTCBT8H%2Bg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a24ebebd6579151d2e69c700905aca10~c5_100x100.jpeg?x-expires=1647050400&x-signature=bK%2Bl%2BnI%2BcXtEpw9I12atvQHknOs%3D",
+        "signature": "Let\u2018s grind till summer \ud83d\udcab\nSpotify:   84len",
+        "createTime": 1644934572,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-Ie3eB7m58qsbOk2Q9TYIa3B20ndMc0QgF08D9WyrGEFqYNozpC8kW9E2FHZo9Fm",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://open.spotify.com/user/31cy7pmkntntepr6oooxcxzb6sjm?si=LcYQFCceS62ptn5JjHLQpQ",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Sports, Fitness & Outdoors",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 62400,
+        "followingCount": 10,
+        "heart": 686600,
+        "heartCount": 686600,
+        "videoCount": 12,
+        "diggCount": 0
+    },
+    "itemList": []
+}

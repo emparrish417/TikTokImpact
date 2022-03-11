@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6998259008445826054",
+        "shortId": "",
+        "uniqueId": "artcamira",
+        "nickname": "ArtCamira",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a04ab912a994acfa4dd31bf330c56af7~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=c9kUjzIdIPtKn4XBUXaYpMW4LUE%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a04ab912a994acfa4dd31bf330c56af7~c5_720x720.jpeg?x-expires=1647050400&x-signature=fjJImy0iWNv8vn47FcvTX3H5%2FHE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a04ab912a994acfa4dd31bf330c56af7~c5_100x100.jpeg?x-expires=1647050400&x-signature=f4uk4rza6XDumS9YBkF6shAJgS8%3D",
+        "signature": "Fine Artist",
+        "createTime": 1629557623,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAeQPchW3yyChXXe-N_HWF5vAhH1SM6CXROI6ytFuWcXIRI7njlvguxxxLwS_nxIXE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 129,
+        "followingCount": 55,
+        "heart": 1431,
+        "heartCount": 1431,
+        "videoCount": 61,
+        "diggCount": 5069
+    },
+    "itemList": []
+}

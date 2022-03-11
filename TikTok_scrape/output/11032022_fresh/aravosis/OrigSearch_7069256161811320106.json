@@ -1,0 +1,158 @@
+{
+    "id": "7069256161811320106",
+    "desc": "The Anonymous hacker collective has just hacked #Russian TV to show Russians what\u2019s actually happening in #Ukraine.",
+    "createTime": 1645939463,
+    "video": {
+        "id": "7069256161811320106",
+        "height": 1024,
+        "width": 576,
+        "duration": 81,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f5edcb6781cf4fb99ac12ebf946f449f_1645939469~tplv-dmt-logom:tos-useast5-p-0000-tx/161aef5b47584ef1a467056736e4c485.image?x-expires=1647046800&x-signature=RlOYfGlXCFsI1RHwHl%2BkodGL36o%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/dda761c5efed4eb0ac32c8e1def13b35_1645939464?x-expires=1647046800&x-signature=O7r599v6Zhc3EbpKSv%2FXWK344%2Bo%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a547e6743cec44bea91fc37f12daf792_1645939464?x-expires=1647046800&x-signature=VVTYiL82%2FwiXsa1YAMISbx5z4Hs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/bd2957a861dabdcaad6f181deb6acee6/622bfe0b/video/tos/useast5/tos-useast5-pve-0068-tx/58efa1d96912483fb62cf52464043b32/?a=1988&br=1140&bt=570&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThxqcVDXq&l=202203111956100101131350241C83F2BD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amlpdjw6ZnZqOzMzZzczNEApZWU8aDQ4ZWUzN2Y8aGk2PGdjX2JvcjRnaGFgLS1kMS9zczYwXjVjXl9iXjJiNTYvX146Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/bd2957a861dabdcaad6f181deb6acee6/622bfe0b/video/tos/useast5/tos-useast5-pve-0068-tx/58efa1d96912483fb62cf52464043b32/?a=1988&br=1140&bt=570&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThxqcVDXq&l=202203111956100101131350241C83F2BD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amlpdjw6ZnZqOzMzZzczNEApZWU8aDQ4ZWUzN2Y8aGk2PGdjX2JvcjRnaGFgLS1kMS9zczYwXjVjXl9iXjJiNTYvX146Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dda761c5efed4eb0ac32c8e1def13b35_1645939464~tplv-tiktok-play.jpeg?x-expires=1647630000&x-signature=jccWaGDwPcwpJhdVoYJD6IZ6Kv4%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dda761c5efed4eb0ac32c8e1def13b35_1645939464~tplv-tiktokx-share-play.jpeg?x-expires=1647630000&x-signature=wcQ89LtikkAc8zuv3uHMlzdVYAo%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f5edcb6781cf4fb99ac12ebf946f449f_1645939469?x-expires=1647046800&x-signature=pZO4dOsWV5Vis9BifdsBDgOh63k%3D",
+        "bitrate": 584558,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6887370430266737669",
+        "uniqueId": "aravosis",
+        "nickname": "John Aravosis",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_100x100.jpeg?x-expires=1647111600&x-signature=3l1g28KBazR1pF1EkGFytijqDig%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_720x720.jpeg?x-expires=1647111600&x-signature=MHoUJEYkyQQ6%2BTax9SzguQoKTww%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=Nspd%2B8bWXgia8YOtYdwtO9Xo3mk%3D",
+        "signature": "Lawyer\nJournalist\nAdvocate\nAmerican\nI follow politics so you don\u2019t have to.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAggOIu6D8NPtN_ebORmkNYr3MNsvhWLzT3Tx9Rde6Rt5qHuUeiC7Nnn4vwBW1dxpk",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069256140281891627",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7069256167213583150.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_100x100.jpeg?x-expires=1647111600&x-signature=3l1g28KBazR1pF1EkGFytijqDig%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_720x720.jpeg?x-expires=1647111600&x-signature=MHoUJEYkyQQ6%2BTax9SzguQoKTww%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_1080x1080.jpeg?x-expires=1647111600&x-signature=Nspd%2B8bWXgia8YOtYdwtO9Xo3mk%3D",
+        "authorName": "John Aravosis",
+        "original": true,
+        "duration": 81,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "111199",
+            "title": "russian",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 339700,
+        "shareCount": 13900,
+        "commentCount": 3694,
+        "playCount": 2100000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 48,
+            "end": 56,
+            "hashtagName": "russian",
+            "hashtagId": "111199",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 106,
+            "end": 114,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Video",
+            "ID": "454747"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 70,
+        "followerCount": 353100,
+        "heartCount": 14100000,
+        "videoCount": 1243,
+        "diggCount": 586,
+        "heart": 14100000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "Anonymous hacks Russian state TV"
+            ]
+        }
+    ],
+    "isAd": false
+}

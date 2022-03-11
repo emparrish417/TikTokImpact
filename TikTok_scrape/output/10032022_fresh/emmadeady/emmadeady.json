@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6782722178674623494",
+        "shortId": "",
+        "uniqueId": "emmadeady",
+        "nickname": "Emma Deady",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80a9c00e0d7e1b77be0d5750f2ab70b5~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=JpH4eaq73MjSDo5xrjHhwqTP4ZI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80a9c00e0d7e1b77be0d5750f2ab70b5~c5_720x720.jpeg?x-expires=1647050400&x-signature=dgWMgVXgFnIka7S83BTx4y1WtNE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80a9c00e0d7e1b77be0d5750f2ab70b5~c5_100x100.jpeg?x-expires=1647050400&x-signature=vP91%2FI9m6OJupV71LlVcPPLj8zM%3D",
+        "signature": "\ud83d\uddfdNYC & YYC\ud83c\udfd4",
+        "createTime": 1579357832,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsTgUIm2dPSIqJF6KC70Orj_PS4Aoqj6dBla7HkhjGbd1FUliKCkYP_N-UCOMQEg4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Emmadeady",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24400,
+        "followingCount": 933,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 215,
+        "diggCount": 0
+    },
+    "itemList": []
+}

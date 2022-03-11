@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6788420708919231493",
+        "shortId": "",
+        "uniqueId": "thegoodnow",
+        "nickname": "The GOOD Now",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4b3f6a42009ea79d1abf474647faba84~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=mrwmeQq6tF%2BnhxOyNjKBqdtKzOQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4b3f6a42009ea79d1abf474647faba84~c5_720x720.jpeg?x-expires=1646870400&x-signature=o8JlmZlYIvbAofzGEkLFXngrJlw%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4b3f6a42009ea79d1abf474647faba84~c5_100x100.jpeg?x-expires=1646870400&x-signature=W3TSBcEPPlJ1IvYhLkE7wF8GCYU%3D",
+        "signature": "Your daily dose of what\u2019s \nGOOD in the world!",
+        "createTime": 1580552535,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAn3ulQOBQF6SCg2S18b2FoLyCt339-hKcEK6CniaBxF3jj76barWUQR9L4xogT6Zb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/thegoodnow",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 201000,
+        "followingCount": 1911,
+        "heart": 19500000,
+        "heartCount": 19500000,
+        "videoCount": 1110,
+        "diggCount": 0
+    },
+    "itemList": []
+}

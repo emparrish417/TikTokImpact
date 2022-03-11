@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7068816760812176430",
+        "shortId": "",
+        "uniqueId": "wigoitw",
+        "nickname": "whatis goingonintheworld",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7068831382071427118~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=VTBR%2BMsuNIPKEIdsmwX8PEf2ElY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7068831382071427118~c5_720x720.jpeg?x-expires=1647050400&x-signature=8605jDeRNBhExXs5q8OsKcuCPks%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7068831382071427118~c5_100x100.jpeg?x-expires=1647050400&x-signature=nEEHYl980jzj4ZX3gniYc1XyDik%3D",
+        "signature": "",
+        "createTime": 1645840560,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5KKqfiAk-TaeyniRFxLirEi6JHAXannwRWXpjvt_Sj708K0PkTre-Gg9k-R02rLe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 38,
+        "followingCount": 0,
+        "heart": 350,
+        "heartCount": 350,
+        "videoCount": 33,
+        "diggCount": 0
+    },
+    "itemList": []
+}

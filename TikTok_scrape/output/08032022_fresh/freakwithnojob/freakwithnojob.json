@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7052015979010294790",
+        "shortId": "",
+        "uniqueId": "freakwithnojob",
+        "nickname": ".",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6402bb755d4a817340adc8d93cf0265b~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=KF9NeeXT%2Bhu7lPoRmTH%2B0cPCMTM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6402bb755d4a817340adc8d93cf0265b~c5_720x720.jpeg?x-expires=1646870400&x-signature=uLhnbKj1pS8jP3JllrMVnZrDAkA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6402bb755d4a817340adc8d93cf0265b~c5_100x100.jpeg?x-expires=1646870400&x-signature=mjUWTX9BH016afj8UhASy4cGqZo%3D",
+        "signature": "i\u2019m just trying to rest in peace while I am still alive",
+        "createTime": 1641925554,
+        "verified": false,
+        "secUid": "MS4wLjABAAAANanvZfQGL-IZ-bqwJiGBd-CLk2MDoBP8XccOP0q16DG01GSWXfJQUnj8AtDAGnSF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6976,
+        "followingCount": 0,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 34,
+        "diggCount": 0
+    },
+    "itemList": []
+}

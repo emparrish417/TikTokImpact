@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7043558100200457222",
+        "shortId": "",
+        "uniqueId": "albalb777",
+        "nickname": "london london",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d149e95b010e4af736a2f842ecdf3bc~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=F48Av1CtGp4NWFJqnpzrOQ3sBzI%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/0d149e95b010e4af736a2f842ecdf3bc~c5_720x720.jpeg?x-expires=1646870400&x-signature=Z3z7Y3AMP4lxHwG619WTpbXhtoI%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d149e95b010e4af736a2f842ecdf3bc~c5_100x100.jpeg?x-expires=1646870400&x-signature=MihAkOjSl%2Ftcf%2FW6P6aSx7WkAhw%3D",
+        "signature": "",
+        "createTime": 1639956236,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1SDFrNvKNdUHf6NLQgLlp57qBwcsoRwrUhYbCJaXG5Byd84dajOhTybtpA6JzWtw",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 30900,
+        "followingCount": 11,
+        "heart": 302800,
+        "heartCount": 302800,
+        "videoCount": 35,
+        "diggCount": 349
+    },
+    "itemList": []
+}

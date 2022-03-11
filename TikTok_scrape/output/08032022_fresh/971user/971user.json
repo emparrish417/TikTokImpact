@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7062990076427813893",
+        "shortId": "",
+        "uniqueId": "971user",
+        "nickname": "971user",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b539dd1b92e6c1ffdff4c216f8c1c949~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=zghACy%2FZz3shlWcIeaRSQcyPPKY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b539dd1b92e6c1ffdff4c216f8c1c949~c5_720x720.jpeg?x-expires=1646870400&x-signature=jOsbAM4Y2TXnVAIffFcGIRg0ZBs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b539dd1b92e6c1ffdff4c216f8c1c949~c5_100x100.jpeg?x-expires=1646870400&x-signature=WD%2B1blRAl8ufi9PbD4AImYkO564%3D",
+        "signature": "\ud83d\udc99Ambassador of UKRAINE in Dubai\ud83d\udc9b\n\ud83d\udc47\ud83c\udffcDonate to Ukrainian military\ud83d\udc47\ud83c\udffc",
+        "createTime": 1644480767,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIskqhLS6dT4awwvfEf1yisURwZzkfm8jUoVVkxX6ejbMUJqxF2LXkFOK0PF3rwzn",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://savelife.in.ua/en/",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 126400,
+        "followingCount": 30,
+        "heart": 238300,
+        "heartCount": 238300,
+        "videoCount": 8,
+        "diggCount": 0
+    },
+    "itemList": []
+}

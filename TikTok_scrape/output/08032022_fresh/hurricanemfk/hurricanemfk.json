@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6775525805252609030",
+        "shortId": "",
+        "uniqueId": "hurricanemfk",
+        "nickname": "Hurricane",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e1271299ed06c39e423478504ac258b5~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=Vd79ZWlO%2FPZUEKnB21xAThuST90%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e1271299ed06c39e423478504ac258b5~c5_720x720.jpeg?x-expires=1646870400&x-signature=IqnWLntcjErUFg7KhOs5ZxD8PNU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e1271299ed06c39e423478504ac258b5~c5_100x100.jpeg?x-expires=1646870400&x-signature=%2Bb0G0zYnQSKBW9mUBn4t5%2BzqwQ0%3D",
+        "signature": "Hi",
+        "createTime": 1577521389,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMcBT9NZIe4qo1Cd5KCAQ9OYz3DcOMhobloOEQi4Lm8ju5yuF218rNbQeZRjlHurn",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1946,
+        "followingCount": 173,
+        "heart": 305900,
+        "heartCount": 305900,
+        "videoCount": 2,
+        "diggCount": 5755
+    },
+    "itemList": []
+}

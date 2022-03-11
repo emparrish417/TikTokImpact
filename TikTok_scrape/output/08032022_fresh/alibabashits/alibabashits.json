@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6740801401103860742",
+        "shortId": "",
+        "uniqueId": "alibabashits",
+        "nickname": "ali baba",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/9c0f3ddd8cefb12ab1424a50383ae186.jpeg?x-expires=1646870400&x-signature=wJWB26WCN6Fj4E%2B4vGAlrQNxigQ%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/9c0f3ddd8cefb12ab1424a50383ae186.jpeg?x-expires=1646870400&x-signature=FdlAiZmdSD1TgxzoHP7Emo2hMVA%3D",
+        "avatarThumb": "https://p77-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/9c0f3ddd8cefb12ab1424a50383ae186.jpeg?x-expires=1646870400&x-signature=1M%2Br2neyjlytANrxPFJQP%2BugGGU%3D",
+        "signature": "nuked at 420k\nnerd, photog, big on ig",
+        "createTime": 1569467704,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAA5qYLKewZ4ER4YSy12NT4BFrdVwB6Bk_26hgL5tVFcBuDE2FFEEbsyD7CLZKkde8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "instagram.com/alibabashits?liveupdatesukraine",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7168,
+        "followingCount": 690,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 126,
+        "diggCount": 9340
+    },
+    "itemList": []
+}

@@ -65,17 +65,17 @@ def query_keyword_fresh(keyword):
             ou.close()
 
             # search most recent 100 videos for each user
-            user_api = api.user(username= video.author.username)
+            # user_api = api.user(username= video.author.username)
 
-            for user_video in user_api.videos():
+            # for user_video in user_api.videos():
 
-                # save video information to JSON file
-                user_vid_path = os.path.join(subdir_path, (str(user_video.id) + ".json"))
+            #     # save video information to JSON file
+            #     user_vid_path = os.path.join(subdir_path, (str(user_video.id) + ".json"))
 
-                json_obj_uservid = json.dumps(user_video.as_dict, indent = 4)
-                with open(user_vid_path, 'w') as ouv:
-                    ouv.write(json_obj_uservid)
-                ouv.close()
+            #     json_obj_uservid = json.dumps(user_video.as_dict, indent = 4)
+            #     with open(user_vid_path, 'w') as ouv:
+            #         ouv.write(json_obj_uservid)
+            #     ouv.close()
                 
 
     # write list of users to file
@@ -134,14 +134,23 @@ def query_past_users(user_path):
             ouv.close()
 
 
-#query_keyword_fresh("Ukraine")
+query_keyword_fresh("Ukraine")
 
-verify_fp = "7C66fa6af63ea9408e735663146791fe394c8ae88aef0898735b3a35662d4dbe3f"
-verify_fp = "verify_l0h968tt_tJaLyZVQ_zzlh_4FLw_AGr2_GWMXn8c8XmRv"
-did = ''.join(random.choice(string.digits) for num in range(19))
-api = TikTokApi(custom_verifyfp= verify_fp, use_test_endpoints=True)
+# verify_fp = "7C66fa6af63ea9408e735663146791fe394c8ae88aef0898735b3a35662d4dbe3f"
+# verify_fp = "verify_l0h968tt_tJaLyZVQ_zzlh_4FLw_AGr2_GWMXn8c8XmRv"
+# did = ''.join(random.choice(string.digits) for num in range(19))
+# api = TikTokApi(custom_verifyfp= verify_fp, use_test_endpoints=True, proxy="34.134.60.185")
             
-user = api.user(username="philipdefranco")
+#user = api.user(username="philipdefranco")
 
-for video in user.videos():
-    print(video.id)
+# for video in user.videos():
+#     print(video.id)
+
+# for user in api.search.users("philipdefranco"):
+#     if user.username == "philipdefranco":
+#         vids = user.videos()
+#         for vid in vids:
+#             print(vid)
+#         break
+#     else:
+#         pass

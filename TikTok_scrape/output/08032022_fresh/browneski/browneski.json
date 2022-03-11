@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6605745740331401222",
+        "shortId": "",
+        "uniqueId": "browneski",
+        "nickname": "Sean",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/fd1446ce3bd68847ee3a2fe6984bfee1~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=kAFWD1YfSNNCj0%2FI4Qk4nVXtacU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/fd1446ce3bd68847ee3a2fe6984bfee1~c5_720x720.jpeg?x-expires=1646870400&x-signature=GoSZmwn2YSnS5xt79Tuce1kuEfc%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/fd1446ce3bd68847ee3a2fe6984bfee1~c5_100x100.jpeg?x-expires=1646870400&x-signature=bjc6AMrJTFKZ8A0CnwzPICvEgik%3D",
+        "signature": "21\nColorado",
+        "createTime": 1538021355,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAquBxSjVu4hmLB69dbZ5AEywlwub0mt_j6-YP171p6yJYa6v08O1shMpEWC-7PrTE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1965,
+        "followingCount": 1077,
+        "heart": 311800,
+        "heartCount": 311800,
+        "videoCount": 73,
+        "diggCount": 0
+    },
+    "itemList": []
+}

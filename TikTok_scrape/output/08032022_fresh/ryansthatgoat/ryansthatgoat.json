@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6597925841828003845",
+        "shortId": "",
+        "uniqueId": "ryansthatgoat",
+        "nickname": "Ryan Jensen",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8eeed49b2756b6c08e54212887e8d73f~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=dJfolhuTIbC6UXJ6g%2BFMT9zRBzE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8eeed49b2756b6c08e54212887e8d73f~c5_720x720.jpeg?x-expires=1646870400&x-signature=9u1iAgCmEqd6srdvPc2iLCIcac4%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8eeed49b2756b6c08e54212887e8d73f~c5_100x100.jpeg?x-expires=1646870400&x-signature=njnmGJnE0kFEyQ7rA6dNH2OkJTc%3D",
+        "signature": "Just your neighborhood cracker",
+        "createTime": 1536201085,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0JlQhemdRsVU5moVBfoR8py2qi9EN69tkCW1rFtYNfcyXHsj8DnOyyEMhKw1UeVI",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2011,
+        "followingCount": 639,
+        "heart": 786500,
+        "heartCount": 786500,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

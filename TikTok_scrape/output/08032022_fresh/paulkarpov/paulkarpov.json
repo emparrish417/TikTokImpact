@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6729924025861047302",
+        "shortId": "",
+        "uniqueId": "paulkarpov",
+        "nickname": "Paul Karpov",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/067fca244b08fbacd31d89ee54c456d5~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=%2BrLejKpyRLQOjzHsxvzS3clLMUg%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/067fca244b08fbacd31d89ee54c456d5~c5_720x720.jpeg?x-expires=1646870400&x-signature=la5%2FSwc0c%2Foc4FTegqCtjIRPm%2Fc%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/067fca244b08fbacd31d89ee54c456d5~c5_100x100.jpeg?x-expires=1646870400&x-signature=2HAP0jXnl5lnrg8Rh%2F9QwlI1PY8%3D",
+        "signature": "I\u2019m a 6\u20194 Russian",
+        "createTime": 1566932647,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAj3S55WuEwaGzO5kkWW0UJvxxyKMGvwlQQ4DU3H8aqOJly5Df9jZ5ZQt-xxMMsoOh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 43500,
+        "followingCount": 21,
+        "heart": 5700000,
+        "heartCount": 5700000,
+        "videoCount": 50,
+        "diggCount": 0
+    },
+    "itemList": []
+}

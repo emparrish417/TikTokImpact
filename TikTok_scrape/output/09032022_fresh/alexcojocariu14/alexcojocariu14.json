@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6661176983089332230",
+        "shortId": "",
+        "uniqueId": "alexcojocariu14",
+        "nickname": "Alex Cojocariu",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4f89953ca56a9fc2d13a16a72045a61e~c5_1080x1080.jpeg?x-expires=1646956800&x-signature=lm3HmoaPoGtM5BSNA3ngrbBhILo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4f89953ca56a9fc2d13a16a72045a61e~c5_720x720.jpeg?x-expires=1646956800&x-signature=6a5249OimNWBJ2hozLrzQsCvCYU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4f89953ca56a9fc2d13a16a72045a61e~c5_100x100.jpeg?x-expires=1646956800&x-signature=pDLa6xwOm0ILerHZxpUci3PyNLg%3D",
+        "signature": "Alex Cojocariu pe fb \ud83d\udc8b",
+        "createTime": 1550904854,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtvyS9ADjAO4K3LWkU-1UdeEya8yvczGPtmSeTLiu75JHBUk1Q4gWw6uadwBuU6j6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 3,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 40200,
+        "followingCount": 110,
+        "heart": 227100,
+        "heartCount": 227100,
+        "videoCount": 147,
+        "diggCount": 0
+    },
+    "itemList": []
+}

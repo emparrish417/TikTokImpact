@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6612031022095122438",
+        "shortId": "",
+        "uniqueId": "joeburden12",
+        "nickname": "joe",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa3df7cd8c2282b5fba11c9e14ddb81c~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=3Y2bBqfrgqMTOjwASk8ZNld%2F3Vk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa3df7cd8c2282b5fba11c9e14ddb81c~c5_720x720.jpeg?x-expires=1647050400&x-signature=ICWntiAbxTk%2F3W82tFOmfSlaOVc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa3df7cd8c2282b5fba11c9e14ddb81c~c5_100x100.jpeg?x-expires=1647050400&x-signature=bZcVvM84VLBGaSpzECJ8oTfH2fc%3D",
+        "signature": "",
+        "createTime": 1539747105,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_yfHgxiEx43R9ShWJtJbuiagrJnErI4R4ThRlZMi-R1ofAUDAU4EqYri8LdIat2_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1679,
+        "followingCount": 595,
+        "heart": 278600,
+        "heartCount": 278600,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

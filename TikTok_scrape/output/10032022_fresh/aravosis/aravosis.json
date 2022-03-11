@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6887370430266737669",
+        "shortId": "",
+        "uniqueId": "aravosis",
+        "nickname": "John Aravosis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=amF7XAQSShrYHC9eHRf6OwU%2BWS4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_720x720.jpeg?x-expires=1647050400&x-signature=G7%2BWyk5RjNbhJmlS7bBXnjs9UpU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_100x100.jpeg?x-expires=1647050400&x-signature=srME4ZfS6%2FfteFkvZPIckGxIPc8%3D",
+        "signature": "Lawyer\nJournalist\nAdvocate\nAmerican\nI follow politics so you don\u2019t have to.",
+        "createTime": 1604788878,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAggOIu6D8NPtN_ebORmkNYr3MNsvhWLzT3Tx9Rde6Rt5qHuUeiC7Nnn4vwBW1dxpk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "HTTPS://beacons.ai/aravosis",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 350300,
+        "followingCount": 70,
+        "heart": 14000000,
+        "heartCount": 14000000,
+        "videoCount": 1237,
+        "diggCount": 586
+    },
+    "itemList": []
+}

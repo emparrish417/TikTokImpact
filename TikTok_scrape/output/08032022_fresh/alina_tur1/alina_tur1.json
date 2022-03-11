@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7068861986922349594",
+        "shortId": "",
+        "uniqueId": "alina_tur1",
+        "nickname": "\u0430\u043b\u0438\u043d\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/87258e3f66f8064307636585332fe39e~c5_1080x1080.jpeg?x-expires=1646870400&x-signature=jm4yItfgJTNywtjyWjkonfuySyM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/87258e3f66f8064307636585332fe39e~c5_720x720.jpeg?x-expires=1646870400&x-signature=gcaTLesCuehhN5FRMoKWJ3DJNzg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/87258e3f66f8064307636585332fe39e~c5_100x100.jpeg?x-expires=1646870400&x-signature=K%2BtbLaGGAZnharInz%2FTlVFfgUy8%3D",
+        "signature": "\u262a\ufe0f\nSt.Petersburg",
+        "createTime": 1645847808,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAr6ECiZyqIASSTiTnTb_44leCIeBXWTq2TQgYt9o6WxdvZU2Ipdrj4IKGswnSzt01",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 272,
+        "followingCount": 8,
+        "heart": 1523,
+        "heartCount": 1523,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

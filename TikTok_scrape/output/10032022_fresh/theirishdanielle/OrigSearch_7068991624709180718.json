@@ -1,0 +1,250 @@
+{
+    "id": "7068991624709180718",
+    "desc": "Reply to @lucybkbk #news #learnontiktok #ireland #russia #ukraine",
+    "createTime": 1645877875,
+    "video": {
+        "id": "7068991624709180718",
+        "height": 1024,
+        "width": 576,
+        "duration": 47,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cad49f2f2fd242308777acc1d4649f73_1645877876~tplv-dmt-logom:tos-useast5-p-0000-tx/eb2b01cbee8b4d559225706311f048f4.image?x-expires=1646985600&x-signature=9x%2FzJbuNneOr2PtDGEskoKuWdV4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3edd51123e8245068236020540790801_1645877876?x-expires=1646985600&x-signature=pgD5HhOLMODLikXy8wMAvfRIKLc%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4a42630703e74a7dbc7aa7a9bcdc4c67_1645877876?x-expires=1646985600&x-signature=tEYBVaSs6YhPjnG7Y5CWCw5HLx0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a19d000cb15237e70ae2f8fb311c0986/622b0459/video/tos/useast5/tos-useast5-ve-0068c001-tx/e62a8981954c49bcb5c6980dfb0bc85f/?a=1988&br=2102&bt=1051&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThNwXVDXq&l=202203110211220101131350470A1FB747&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M280Nmc6ZnI0OzMzZzczNEApO2U0PDY1NmU8NzxlZDU7N2dia2VxcjRfaGFgLS1kMS9zczAwYy4tNTFhYTEuLjQtXjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a19d000cb15237e70ae2f8fb311c0986/622b0459/video/tos/useast5/tos-useast5-ve-0068c001-tx/e62a8981954c49bcb5c6980dfb0bc85f/?a=1988&br=2102&bt=1051&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThNwXVDXq&l=202203110211220101131350470A1FB747&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M280Nmc6ZnI0OzMzZzczNEApO2U0PDY1NmU8NzxlZDU7N2dia2VxcjRfaGFgLS1kMS9zczAwYy4tNTFhYTEuLjQtXjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3edd51123e8245068236020540790801_1645877876~tplv-tiktok-play.jpeg?x-expires=1647568800&x-signature=SALL26xCgVVc0wpNCUrVs8d2jCw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3edd51123e8245068236020540790801_1645877876~tplv-tiktokx-share-play.jpeg?x-expires=1647568800&x-signature=eoDlv77ihl0Oo1k02UT1FkCSUQQ%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cad49f2f2fd242308777acc1d4649f73_1645877876?x-expires=1646985600&x-signature=okxOe4Qo%2BY9FP0lskAZ74bjSoJ8%3D",
+        "bitrate": 1076355,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6759265642341647366",
+        "uniqueId": "theirishdanielle",
+        "nickname": "Danielle",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad7f83809ae194c58fcbdd7ad23cb1ce~c5_100x100.jpeg?x-expires=1647050400&x-signature=didIdY%2BkbagWkwyNwJHKw4xktS0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad7f83809ae194c58fcbdd7ad23cb1ce~c5_720x720.jpeg?x-expires=1647050400&x-signature=80Iyh1589w9jAOrfyW7dpWBAY3Y%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad7f83809ae194c58fcbdd7ad23cb1ce~c5_1080x1080.jpeg?x-expires=1647050400&x-signature=4gqAYai5Cz8QWH6L6TVs2uxt8gU%3D",
+        "signature": "Trust me, I'm Irish. \u2618\ufe0f\nSupport my page \u263a\ufe0f\n   | \n  \\/",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZmFKvzTZhXbWNnW667Zg7lhfZ2RQV753Ouis3fvBS-U976NzCXjMM1dEk0NeAh9D",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6839324086548563969",
+        "title": "Blade Runner 2049",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/0c6424fc0d0e4b339a2397dfcf461556",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/40d3513cce1941de844987c2450233fa.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/40d3513cce1941de844987c2450233fa.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/40d3513cce1941de844987c2450233fa.jpeg",
+        "authorName": "Synthwave Goose",
+        "original": false,
+        "duration": 60,
+        "album": "Blade Runner 2049"
+    },
+    "challenges": [
+        {
+            "id": "76414",
+            "title": "news",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1636483010861062",
+            "title": "LearnOnTikTok",
+            "desc": "Discover something new with #LearnOnTikTok.",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/2238be95c6c6013e506c39a4cdc63703.png",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/2238be95c6c6013e506c39a4cdc63703.png",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/2238be95c6c6013e506c39a4cdc63703.png",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/76ea9a78f4426bbe2e4652484462acc4.png",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/76ea9a78f4426bbe2e4652484462acc4.png",
+            "coverLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/76ea9a78f4426bbe2e4652484462acc4.png",
+            "isCommerce": false
+        },
+        {
+            "id": "85278",
+            "title": "ireland",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 14100,
+        "shareCount": 162,
+        "commentCount": 185,
+        "playCount": 129100
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 9,
+            "end": 18,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6627147114952916997",
+            "isCommerce": false,
+            "userUniqueId": "lucybkbk",
+            "secUid": "MS4wLjABAAAAGeFHtmmfSlf-oHXel6AcJtis4USo1bKyEEAeAT1YRniyNIlDrVZsrs46wboJ_OQL",
+            "subType": 2
+        },
+        {
+            "awemeId": "",
+            "start": 19,
+            "end": 24,
+            "hashtagName": "news",
+            "hashtagId": "76414",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 25,
+            "end": 39,
+            "hashtagName": "learnontiktok",
+            "hashtagId": "1636483010861062",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 40,
+            "end": 48,
+            "hashtagName": "ireland",
+            "hashtagId": "85278",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 49,
+            "end": 56,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 57,
+            "end": 65,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 279,
+        "followerCount": 216200,
+        "heartCount": 4300000,
+        "videoCount": 813,
+        "diggCount": 40300,
+        "heart": 4300000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "in a bizarre turn of events, Russia has tried to use Ireland to justify what is happening to Ukraine. Let me explain. ",
+                "In a statement today Feb 25th, Russian foreign minister Larov said \"For example if in Ireland they prohibited the use of English the language what would the UK think of it?\"",
+                "What he is referring to is a statement from the Ukrainian president Zelensky who said those who speak Russian should \"go away from Ukraine.\"",
+                "Simon Coveney has hit back at these claims and accused Larov of using Ireland to justify an unjustifiable war.",
+                "He pointed to the fact that the UK and ireland are two countries with a difficult past that have found a way to sustain peace without violence. "
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "RUSSIA: \nLIKE IRELAND \nAND UK"
+            ]
+        }
+    ],
+    "isAd": false
+}
