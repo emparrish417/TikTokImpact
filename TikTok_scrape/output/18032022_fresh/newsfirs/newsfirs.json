@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7024432444243018758",
+        "shortId": "",
+        "uniqueId": "newsfirs",
+        "nickname": "NewsFirst",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dfbcbf5f030f66c950dee74b96a5b5fe~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=HXI4AwmXt%2FHqGd1QQ1Wsxn1sHvU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dfbcbf5f030f66c950dee74b96a5b5fe~c5_720x720.jpeg?x-expires=1647734400&x-signature=JDwkeV2mggjZ6UQ1H8jEDgttoo4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dfbcbf5f030f66c950dee74b96a5b5fe~c5_100x100.jpeg?x-expires=1647734400&x-signature=W9CIAFlsu3o95gQ%2BEQTy8C0hRus%3D",
+        "signature": "\u0423\u0437\u043d\u0430\u0432\u0430\u0439\u0442\u0435 \u0432\u0441\u0435 \u0433\u043e\u0440\u044f\u0447\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0432 \u043c\u0438\u0440\u0435 \u0438 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u043f\u0435\u0440\u0432\u044b\u043c\u0438",
+        "createTime": 1635510093,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAa4YAWBvNqTkuIpiz-gNBkFDs3IVPBmmEaUaIQjIcXB-iIshncX5koepC9pBzM7OI",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1327,
+        "followingCount": 87,
+        "heart": 7518,
+        "heartCount": 7518,
+        "videoCount": 126,
+        "diggCount": 0
+    },
+    "itemList": []
+}

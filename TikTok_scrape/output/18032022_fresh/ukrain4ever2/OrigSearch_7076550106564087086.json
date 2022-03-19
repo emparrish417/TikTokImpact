@@ -1,0 +1,113 @@
+{
+    "id": "7076550106564087086",
+    "desc": "@Slim Jim",
+    "createTime": 1647637718,
+    "video": {
+        "id": "7076550106564087086",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9737bfc2ff6e4e7bad0d5402501bce72?x-expires=1647669600&x-signature=3lQlN2MVoh3yiCG0uffu0MlfHbY%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2ee4b8d99fc1434a9fbb3d40ea375730_1647637719?x-expires=1647669600&x-signature=CR0dWpEpBhjaU13ygneJSzdmtLM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9a52af3a47f540d1bceda88012ba9d8f_1647637719?x-expires=1647669600&x-signature=qTaq%2BSuqOA4qXC1gMh0VuigzYCs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b3de5aeff1453e68af1e1d420e4a1fbd/6235793f/video/tos/useast5/tos-useast5-pve-0068-tx/80b2c9979d714f4483823738c6ff02d6/?a=1988&br=3360&bt=1680&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am1yZGc6ZmhpOzMzZzczNEApZDdnOTNnZDs8NzhpNTplNmcyanNvcjRnNm5gLS1kMS9zczJfM14uMS8uL18wY19eLi06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b3de5aeff1453e68af1e1d420e4a1fbd/6235793f/video/tos/useast5/tos-useast5-pve-0068-tx/80b2c9979d714f4483823738c6ff02d6/?a=1988&br=3360&bt=1680&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am1yZGc6ZmhpOzMzZzczNEApZDdnOTNnZDs8NzhpNTplNmcyanNvcjRnNm5gLS1kMS9zczJfM14uMS8uL18wY19eLi06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2ee4b8d99fc1434a9fbb3d40ea375730_1647637719~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=bNWmJ6BUGOH5k93zUqzqI46G2vE%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2ee4b8d99fc1434a9fbb3d40ea375730_1647637719~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=DcdZMckAsWpCg3kx2isyziW%2BXr8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9737bfc2ff6e4e7bad0d5402501bce72?x-expires=1647669600&x-signature=3lQlN2MVoh3yiCG0uffu0MlfHbY%3D",
+        "bitrate": 1720700,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6862450366714250245",
+        "uniqueId": "ukrain4ever2",
+        "nickname": "FREE ACRELLO",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/24096feb16068ad2546db7b9a501ec5d~c5_100x100.jpeg?x-expires=1647734400&x-signature=YIPInG9zB0%2B7w6%2FEviwTo8%2FZVJ4%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/24096feb16068ad2546db7b9a501ec5d~c5_720x720.jpeg?x-expires=1647734400&x-signature=JaLBBzCC%2BQlXmdj8U3HBlhwMYx8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/24096feb16068ad2546db7b9a501ec5d~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=PhDp2jC4X6BmLyKZXOTT9siid%2Fw%3D",
+        "signature": "Not posting or going in private until reack 49.0K I LOVE RYAN TROUT\ud83d\udc09\ud83e\udeba\ud83e\udeb8",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkS_Rs4JeTr9uM5NP7wQVNvm8Xa3qgTTYxy9W7WKAjhrRN3K33k096ID1qr_9vrdM",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7072016908307991342",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7072016930185513770.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ade46e1dc285dff67fc60a0a8ba75406~c5_100x100.jpeg?x-expires=1647734400&x-signature=b19IK2AQ6V2mLW8ofxQC6JGxz6c%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ade46e1dc285dff67fc60a0a8ba75406~c5_720x720.jpeg?x-expires=1647734400&x-signature=i2XOZd79XH5BtftStfM%2BCuj8JQI%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ade46e1dc285dff67fc60a0a8ba75406~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=zztGO0t2Of957kcpYjQlFpMsf8g%3D",
+        "authorName": "Jakes.Edits",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 11,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 151
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 9,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7053191765201355822",
+            "isCommerce": false,
+            "userUniqueId": "slimjim",
+            "secUid": "MS4wLjABAAAAfnTaPTwxHiA6YMLCG3F31Os2f0FVYnwwZYNAWT3QJPIJ6BVq_caP7E-PwAYjbKQB",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 253,
+        "followerCount": 48800,
+        "heartCount": 794300,
+        "videoCount": 236,
+        "diggCount": 35800,
+        "heart": 794300
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I bet the king won\u2019t reply "
+            ]
+        }
+    ],
+    "isAd": false
+}

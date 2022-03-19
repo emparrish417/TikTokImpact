@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7041785533824353285",
+        "shortId": "",
+        "uniqueId": "maryanka.n",
+        "nickname": "maryanka",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/01d72690c78ca55f2cacee0f1301baf1~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=BrmSVmJu%2FWz%2BVvvltlpDjgBsqq0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/01d72690c78ca55f2cacee0f1301baf1~c5_720x720.jpeg?x-expires=1647651600&x-signature=6xJSslAoaTed65QU1rxcVqTLCmE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/01d72690c78ca55f2cacee0f1301baf1~c5_100x100.jpeg?x-expires=1647651600&x-signature=Je0wLe5mLK1q89DFJKmwb0i7Qyw%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6 \ud83c\uddf8\ud83c\uddea",
+        "createTime": 1639543672,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkbmtWZAZtrbsvIBpXZgbCOUrNjgv-Ht6AJ9BExbuimLcJYdOHv5PsYT1Byrf9pCZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 120300,
+        "followingCount": 51,
+        "heart": 2600000,
+        "heartCount": 2600000,
+        "videoCount": 54,
+        "diggCount": 0
+    },
+    "itemList": []
+}

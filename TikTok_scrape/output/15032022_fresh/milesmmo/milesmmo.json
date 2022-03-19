@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6558125857663352834",
+        "shortId": "",
+        "uniqueId": "milesmmo",
+        "nickname": "M",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=I3E7xVI1%2FcxB9CUzuTzeRW1Ivsk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_720x720.jpeg?x-expires=1647475200&x-signature=Oakp%2FpYZhnCS%2BylFzcY7inrIQ8g%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_100x100.jpeg?x-expires=1647475200&x-signature=Kyp3IYB5C54Cmo1WOeT5z02JGBk%3D",
+        "signature": "Not posting till i get my creator fund\ud83d\udcaf",
+        "createTime": 1553564362,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWaBvB7HTQrSugj_BvS0ZAWVXPIgY5U8uhg86sZ-gSBY2DsHmIZMSlxZpPreD1DjQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 39000,
+        "followingCount": 300,
+        "heart": 5600000,
+        "heartCount": 5600000,
+        "videoCount": 129,
+        "diggCount": 35800
+    },
+    "itemList": []
+}

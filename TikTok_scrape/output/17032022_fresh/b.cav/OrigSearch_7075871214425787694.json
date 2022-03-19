@@ -1,0 +1,90 @@
+{
+    "id": "7075871214425787694",
+    "desc": "",
+    "createTime": 1647479649,
+    "video": {
+        "id": "7075871214425787694",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/be998378765e4b0d8cddd63017d29526?x-expires=1647583200&x-signature=CwT6QYjlHQO7xt27eIs3FzPQYTs%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d9d18f7805f44b88a83387014e044e9e_1647479650?x-expires=1647583200&x-signature=%2BXuGcXmoP9e5OYjWhNkfadUKMuo%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ded06298fc1b4196ad91a2470919f17e_1647479651?x-expires=1647583200&x-signature=rRjhxbkG6KFUwL%2B7Z7znMkpYd5A%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/90706c6c88e6189f2d85b2b256d6d3b1/62342b08/video/tos/useast5/tos-useast5-ve-0068c003-tx/ec34f119f67f44308043c790367c2985/?a=1988&br=916&bt=458&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVRgiDXq&l=202203180047260101131350202080BFC6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am48cTM6ZnE7OzMzZzczNEApZTY7Ozw5OWQ8N2Q7aDdkZGdvbjItcjQwam1gLS1kMS9zczAtYTRiNGFeXzMvNDUwNDI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/90706c6c88e6189f2d85b2b256d6d3b1/62342b08/video/tos/useast5/tos-useast5-ve-0068c003-tx/ec34f119f67f44308043c790367c2985/?a=1988&br=916&bt=458&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVRgiDXq&l=202203180047260101131350202080BFC6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am48cTM6ZnE7OzMzZzczNEApZTY7Ozw5OWQ8N2Q7aDdkZGdvbjItcjQwam1gLS1kMS9zczAtYTRiNGFeXzMvNDUwNDI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d9d18f7805f44b88a83387014e044e9e_1647479650~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=qADBJ%2BxAfvf02ou4mEk7YuXu3Hw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d9d18f7805f44b88a83387014e044e9e_1647479650~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=ULdeIhnyVucKqcB4xYfHCLsm6wM%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/be998378765e4b0d8cddd63017d29526?x-expires=1647583200&x-signature=CwT6QYjlHQO7xt27eIs3FzPQYTs%3D",
+        "bitrate": 469934,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6813366005927445509",
+        "uniqueId": "b.cav",
+        "nickname": "Brian Cavallaro",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fbc1f31ff237cb43e2f33c3f15c84d2~c5_100x100.jpeg?x-expires=1647648000&x-signature=p4vgCDmY46eIoR4pR3ZcVrv%2BVl4%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fbc1f31ff237cb43e2f33c3f15c84d2~c5_720x720.jpeg?x-expires=1647648000&x-signature=lZhW%2FbMu4q8K%2FXk2sP5ETCER1pw%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fbc1f31ff237cb43e2f33c3f15c84d2~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=4HTRnAAM25kFWZOmZH9Ii1SXE9Q%3D",
+        "signature": "Single living the dream in Connecticut",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAujxJjpmEyPRiaBRuovm9RxHWkTQ_ikJkpg3Q-VVzkj4L7zcUrUfO1chPF_J0J_-3",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6805307876903487489",
+        "title": "Ukraine - Shche ne Vmerly Ukrainy ni Slava ni Volya - Ukrainian National Anthem (Ukraine\u2019s Glory Hasn\u2019t Perished) [Sung]",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/51d3f5ac61994d15a2e7e61bf7fceaaf",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "authorName": "Glocal Orchestra",
+        "original": false,
+        "duration": 60,
+        "album": "Ukraine - Shche ne Vmerly Ukrainy ni Slava ni Volya - Ukrainian National Anthem (Ukraine\u2019s Glory Hasn\u2019t Perished)"
+    },
+    "stats": {
+        "diggCount": 38,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 241
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1351,
+        "followerCount": 298,
+        "heartCount": 117,
+        "videoCount": 11,
+        "diggCount": 61200,
+        "heart": 117
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

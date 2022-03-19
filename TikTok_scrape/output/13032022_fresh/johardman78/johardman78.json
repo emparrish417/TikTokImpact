@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6836862914848457734",
+        "shortId": "",
+        "uniqueId": "johardman78",
+        "nickname": "Jo Hardman official",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be8710f62eebe30dcbc185c6c595a5a2~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=AkcuCeLfPl70mHvva4fNiAlQ5JE%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be8710f62eebe30dcbc185c6c595a5a2~c5_720x720.jpeg?x-expires=1647280800&x-signature=RpAciaMGqETiqbKQen2oqAkXJtk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be8710f62eebe30dcbc185c6c595a5a2~c5_100x100.jpeg?x-expires=1647280800&x-signature=V4MYrW4xLJs%2F%2FmycwRgI%2FvjCck0%3D",
+        "signature": "\ud83d\ude07\ud83d\ude07\ud83d\ude07",
+        "createTime": 1591802746,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsGCjmOPj1FidG1-D2GerYomM1Boim5D7BVCsCLsppAq1g5_cqU123bVDBMTSNyLe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://instagram.com/johardman78?r=nametagtwitchaccounthttps://twitch.tv/johardman",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 101600,
+        "followingCount": 1102,
+        "heart": 4900000,
+        "heartCount": 4900000,
+        "videoCount": 261,
+        "diggCount": 0
+    },
+    "itemList": []
+}

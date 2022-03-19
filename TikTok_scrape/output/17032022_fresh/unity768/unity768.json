@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7037409705857385473",
+        "shortId": "",
+        "uniqueId": "unity768",
+        "nickname": "WesupportUnity",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/fbe087884193a9ee3f8676bdadf89ce4.jpeg?x-expires=1647648000&x-signature=aSFJ3JpTtVZ2MsJpaAYaX83U%2Fys%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/fbe087884193a9ee3f8676bdadf89ce4.jpeg?x-expires=1647648000&x-signature=fZW07xlBT3EPvHr4SYmh0mrBI9w%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/fbe087884193a9ee3f8676bdadf89ce4.jpeg?x-expires=1647648000&x-signature=fSxH3w4sCh%2FVfARk%2BszxjcmsyuI%3D",
+        "signature": "Politics",
+        "createTime": 1638524916,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjiEIv0TsnRTw2ePm55Inj8w_Q6IAmLTvKGeMpsMmb2adl6vIaeNoqNun2XaWAsY3",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 702,
+        "followingCount": 67,
+        "heart": 12300,
+        "heartCount": 12300,
+        "videoCount": 19,
+        "diggCount": 0
+    },
+    "itemList": []
+}

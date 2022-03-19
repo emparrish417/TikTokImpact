@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6823081930314662917",
+        "shortId": "",
+        "uniqueId": "lordeedge",
+        "nickname": "Jeff",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/979b170caf8eeaa6e87df541c49079fe~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=%2FnyBZQEdd6rzPN2rnwSvnubnOas%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/979b170caf8eeaa6e87df541c49079fe~c5_720x720.jpeg?x-expires=1647280800&x-signature=olaQJ6p1xnQAU0Y6nPsfcqLT628%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/979b170caf8eeaa6e87df541c49079fe~c5_100x100.jpeg?x-expires=1647280800&x-signature=K8NADstCtiU%2BM7g7Tn%2BpnPzdYiw%3D",
+        "signature": ".",
+        "createTime": 1588622696,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6D9eTBAxlkM11M0Wmk6bEf2T5vQ4eT8cc9FPSJmI4LJ11foHEhdmC5oYKhaZq9pp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 128900,
+        "followingCount": 10000,
+        "heart": 5000000,
+        "heartCount": 5000000,
+        "videoCount": 1321,
+        "diggCount": 0
+    },
+    "itemList": []
+}

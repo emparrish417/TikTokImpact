@@ -1,0 +1,101 @@
+{
+    "id": "7076470566391188778",
+    "desc": "Ukraine",
+    "createTime": 1647619198,
+    "video": {
+        "id": "7076470566391188778",
+        "height": 1024,
+        "width": 576,
+        "duration": 3,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/242ea8a33ec04c21809b098c744ec197?x-expires=1647669600&x-signature=62%2B8sRIWBf8IGt3PiALx3%2BdIaoI%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6a249ba2c5924445b1e09bb8c8c37909_1647619199?x-expires=1647669600&x-signature=HdXbHztchR8mrzPUcrDu8Ow6fgI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e672e81ee85f4f5786ab5237a3f8abca_1647619199?x-expires=1647669600&x-signature=c0b%2BTMuQa1arymY6HLPeRxND41Y%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/89cae880c971fcdc3e22f357bc04dd02/623578d1/video/tos/useast5/tos-useast5-pve-0068-tx/6a313244bda04d3f927575fd302ae2f7/?a=1988&br=310&bt=155&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThnIy_DXq&l=2022031900314101011313516722936B4A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anV2cWc6ZnNkOzMzZzczNEApNzpnZzw7aGU0N2Q8MzM0NmdtbGFlcjRvaW5gLS1kMS9zcy8wMS40My4zL2ExNTYzMjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/89cae880c971fcdc3e22f357bc04dd02/623578d1/video/tos/useast5/tos-useast5-pve-0068-tx/6a313244bda04d3f927575fd302ae2f7/?a=1988&br=310&bt=155&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThnIy_DXq&l=2022031900314101011313516722936B4A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anV2cWc6ZnNkOzMzZzczNEApNzpnZzw7aGU0N2Q8MzM0NmdtbGFlcjRvaW5gLS1kMS9zcy8wMS40My4zL2ExNTYzMjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6a249ba2c5924445b1e09bb8c8c37909_1647619199~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=NzGg0pmhCV%2FQD7r0GBUbuFBWeeM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6a249ba2c5924445b1e09bb8c8c37909_1647619199~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=XSc%2BG3wl%2FD3uZvZtCfS3pvhpM5c%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/242ea8a33ec04c21809b098c744ec197?x-expires=1647669600&x-signature=62%2B8sRIWBf8IGt3PiALx3%2BdIaoI%3D",
+        "bitrate": 159499,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6952931575228023813",
+        "uniqueId": "kadaija5",
+        "nickname": "kadaija5",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_100x100.jpeg?x-expires=1647734400&x-signature=WiSy6Z%2FBxg5KcRvfA4oV1mjltEE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_720x720.jpeg?x-expires=1647734400&x-signature=KArlw5kRRk5CD7o5X2C5lQ8Vp6Y%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=q7w3sFt8cERnyCUTeMQrM6eAuck%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUJWZv_KpSWJyoo53eviYcNfzBR7ebmnaGJMUifnQ-_7rW5c3EqlXEC8qgwM0ECQp",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076470519444327211",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076470555096042286.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_100x100.jpeg?x-expires=1647734400&x-signature=WiSy6Z%2FBxg5KcRvfA4oV1mjltEE%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_720x720.jpeg?x-expires=1647734400&x-signature=KArlw5kRRk5CD7o5X2C5lQ8Vp6Y%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=q7w3sFt8cERnyCUTeMQrM6eAuck%3D",
+        "authorName": "kadaija5",
+        "original": true,
+        "duration": 3,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 879
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1574,
+        "followerCount": 411,
+        "heartCount": 845,
+        "videoCount": 293,
+        "diggCount": 4213,
+        "heart": 845
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99",
+                "..                      ",
+                "\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b",
+                " .                    "
+            ]
+        }
+    ],
+    "isAd": false
+}

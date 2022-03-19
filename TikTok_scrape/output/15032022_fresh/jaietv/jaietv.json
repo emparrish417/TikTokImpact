@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6752789287764395014",
+        "shortId": "",
+        "uniqueId": "jaietv",
+        "nickname": "Jaietv",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3a0f10cb5c4cd3930f2e3e286c95d02~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=kuXglW%2B285UwBENRCkOx5%2Bbt09g%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3a0f10cb5c4cd3930f2e3e286c95d02~c5_720x720.jpeg?x-expires=1647475200&x-signature=EN%2BL%2Bh4m9oYiWE5XerNDE6UYuVQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3a0f10cb5c4cd3930f2e3e286c95d02~c5_100x100.jpeg?x-expires=1647475200&x-signature=%2B6FZ6BcOFtUEfGAjY91AnkvwCFM%3D",
+        "signature": "UNDERDOG STORIES",
+        "createTime": 1572256401,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfmJefrT9jUOh-hjNpmS80twTRhbxCk_201sqczDUDh20USLmL2DBPfSKlaK4qGZa",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3336,
+        "followingCount": 36,
+        "heart": 54300,
+        "heartCount": 54300,
+        "videoCount": 380,
+        "diggCount": 0
+    },
+    "itemList": []
+}

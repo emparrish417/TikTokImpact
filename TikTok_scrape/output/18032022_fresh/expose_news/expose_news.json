@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7042704976782590981",
+        "shortId": "",
+        "uniqueId": "expose_news",
+        "nickname": "A :)",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4d585fec281d15d09caaac79f4593680~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=sBHC4zVE2i06aAU1OQwo2KX0VtM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4d585fec281d15d09caaac79f4593680~c5_720x720.jpeg?x-expires=1647734400&x-signature=vx4hV71g%2BucWZ9YoDdK6f%2BFqaSU%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4d585fec281d15d09caaac79f4593680~c5_100x100.jpeg?x-expires=1647734400&x-signature=ffDMlghy9y1O1ig1keWdeq0My8w%3D",
+        "signature": "a safe place with peace and support",
+        "createTime": 1639757668,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtjAJtVrZukMnfkHMPwy4ztPW96mSvP4X0eNkMSRXHgoUEO70bEYzpa1W-Bmlr-8P",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://donate.unhcr.org/int/en/ukraine-emergency?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF54lr6ye0S2wrSiVtThDucEa-g55pBMdB5KEuwzHy6rfuQFo2UHz8kaAghnEALw_wcB&gclsrc=aw.ds",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 278800,
+        "followingCount": 118,
+        "heart": 17200000,
+        "heartCount": 17200000,
+        "videoCount": 70,
+        "diggCount": 0
+    },
+    "itemList": []
+}

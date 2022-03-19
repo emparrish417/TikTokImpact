@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6540815990175236102",
+        "shortId": "",
+        "uniqueId": "ethanjaeda",
+        "nickname": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08ETHAN_J\u00c6DA\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c3dd73c620791a5bc63e0aa00cd14b80~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=0Zv3KXzBXDXY4bf6kSSTksvza%2Fg%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c3dd73c620791a5bc63e0aa00cd14b80~c5_720x720.jpeg?x-expires=1647475200&x-signature=pvlq8oVOkyPVltqeU5jTK8ekmb4%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c3dd73c620791a5bc63e0aa00cd14b80~c5_100x100.jpeg?x-expires=1647475200&x-signature=ogNTwQdtz0g09lv7mqPkcvzlLqM%3D",
+        "signature": "They/Them\ntwitch.tv/ethanjaeda",
+        "createTime": 1543969359,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg619zrc-VrWeuA3eaOViOTyQH7oHjxtrFL0nAuy8GnVirPtC7Py88W-m_wMsaIgO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3304,
+        "followingCount": 8487,
+        "heart": 342600,
+        "heartCount": 342600,
+        "videoCount": 1908,
+        "diggCount": 121200
+    },
+    "itemList": []
+}

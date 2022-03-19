@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6962654920777532422",
+        "shortId": "",
+        "uniqueId": "_onalo",
+        "nickname": "OJ",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4474b5862449038e383c1c6a5005cf55~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=iaHaYg52ZjSw%2BZmma02M%2F42X91Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4474b5862449038e383c1c6a5005cf55~c5_720x720.jpeg?x-expires=1647734400&x-signature=JBkKfB68N7FSjnZCsD%2Fm0qH6s48%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4474b5862449038e383c1c6a5005cf55~c5_100x100.jpeg?x-expires=1647734400&x-signature=o7qil7QagIpi43RwBCiUmYpqmaw%3D",
+        "signature": "10k \ud83c\udfaf\nUsed to be cheekychappy_26",
+        "createTime": 1626214049,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQnnHO7FybrU1RkiWzrylEqq-VYmsCUZfBcHXEzmldWz80DzRB8DXrgpV0rASl-yl",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://send.cloutzap.com/OJ_A",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1322,
+        "followingCount": 944,
+        "heart": 40800,
+        "heartCount": 40800,
+        "videoCount": 28,
+        "diggCount": 0
+    },
+    "itemList": []
+}

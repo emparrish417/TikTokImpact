@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6760712969866429445",
+        "shortId": "",
+        "uniqueId": "ken",
+        "nickname": "Ken Waks!",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/411b9312191b249e4edd271ca60cec7b~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=IQNVUZf1cszEQoeEXwbjaDttQQ8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/411b9312191b249e4edd271ca60cec7b~c5_720x720.jpeg?x-expires=1647280800&x-signature=9mawULtTdgKL35gJ2E%2BB8G9Pa5Y%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/411b9312191b249e4edd271ca60cec7b~c5_100x100.jpeg?x-expires=1647280800&x-signature=h62rhOxIUfFaTe3yKKGJE2LL0zk%3D",
+        "signature": "Fun Facts\ud83e\udde0 Crazy Stories\ud83e\udd2f\nHop on, we\u2019re going to the moon\ud83d\ude80\nHit me up \u263a\ufe0f\u2b07\ufe0f",
+        "createTime": 1574101315,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0KckuDv7Ivo1I8_Mm8S2UWhlyLarX2zBxAVkg02Na8bRs7t--jkbVkpggNTOjJwf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://hoo.be/ken",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 375500,
+        "followingCount": 1134,
+        "heart": 12600000,
+        "heartCount": 12600000,
+        "videoCount": 560,
+        "diggCount": 0
+    },
+    "itemList": []
+}

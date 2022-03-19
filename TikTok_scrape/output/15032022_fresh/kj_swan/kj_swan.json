@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6719457156272423942",
+        "shortId": "",
+        "uniqueId": "kj_swan",
+        "nickname": "Kj",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/db4f6215da70bd285d9901c9dbf0535f~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=ZLsBWug7AxapmB%2B6uvD2XZhaKok%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/db4f6215da70bd285d9901c9dbf0535f~c5_720x720.jpeg?x-expires=1647475200&x-signature=G9R2bhV8WM%2B5ijqZbhVdMNJr3F8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/db4f6215da70bd285d9901c9dbf0535f~c5_100x100.jpeg?x-expires=1647475200&x-signature=90Gj798UTaRdWvFwNVjNLy5tpPI%3D",
+        "signature": "",
+        "createTime": 1564495723,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7SsJn_TYaLCwZa-AU9zElOcS6t-SIVKzkPnu6h3QLexqYIPZSozjVMLDr3dvr5EC",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 87,
+        "followingCount": 367,
+        "heart": 202,
+        "heartCount": 202,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

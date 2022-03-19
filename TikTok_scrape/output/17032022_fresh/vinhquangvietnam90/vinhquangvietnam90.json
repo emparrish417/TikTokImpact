@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6993008177941054465",
+        "shortId": "",
+        "uniqueId": "vinhquangvietnam90",
+        "nickname": "\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc04\ud835\udc1a\ud835\udc2c\ud835\udc2d \ud835\udc28\ud835\udc1f \ud835\udc0b\ud835\udc1a\ud835\udc28\ud835\udc2c",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/8991e5612e39274e0470290991132d6b~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=4GYiwwNnyOK5ZdxCxJheB%2BshLow%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/8991e5612e39274e0470290991132d6b~c5_720x720.jpeg?x-expires=1647648000&x-signature=ahwf5mzL62qjrViYHa1Mjxz0CHI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/8991e5612e39274e0470290991132d6b~c5_100x100.jpeg?x-expires=1647648000&x-signature=Ps98Gb334fHG3KA7fZFFgtrK3NU%3D",
+        "signature": "",
+        "createTime": 1628826039,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg8b8E7QhBpTLtkeu5dTJw-bPO4sf79sEF9fPQBS358blavD2LpieCz6ee16MQSGy",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11500,
+        "followingCount": 1,
+        "heart": 448500,
+        "heartCount": 448500,
+        "videoCount": 137,
+        "diggCount": 0
+    },
+    "itemList": []
+}

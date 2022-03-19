@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6750304271219246086",
+        "shortId": "",
+        "uniqueId": "djp6_",
+        "nickname": "Devin",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7005b317e401016f0662f563816c554b~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=PffrSHDhtw8CZGzSQECA4jw%2FdR0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7005b317e401016f0662f563816c554b~c5_720x720.jpeg?x-expires=1647475200&x-signature=wdJYWLjxAfjtS6TeEoEZ8AG%2BMm8%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7005b317e401016f0662f563816c554b~c5_100x100.jpeg?x-expires=1647475200&x-signature=cQPCQhs58mjGOThlR9kSWjd83Ms%3D",
+        "signature": "",
+        "createTime": 1571677723,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJmcwEkb90XfdRiCyFKFCVXknoOxRVHwHQzy6tmM7CxiPEs3krGuOpZ5AKUiyGAL9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14600,
+        "followingCount": 0,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 121,
+        "diggCount": 40
+    },
+    "itemList": []
+}

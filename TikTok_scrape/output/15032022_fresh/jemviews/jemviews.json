@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6886632799262278657",
+        "shortId": "",
+        "uniqueId": "jemviews",
+        "nickname": "JEM Views",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/e50f98224f69b3d4fc450bd9ea6cf8ee~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=3%2Bn2bIIra8KCuuAlEx4YA2UVA%2Fg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/e50f98224f69b3d4fc450bd9ea6cf8ee~c5_720x720.jpeg?x-expires=1647475200&x-signature=Sd%2BTIO1yOvpndxKtuOBEO7wxmpY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/e50f98224f69b3d4fc450bd9ea6cf8ee~c5_100x100.jpeg?x-expires=1647475200&x-signature=HyVpBq2wGXr8JP%2BT4hTCuv%2B0oQo%3D",
+        "signature": "Please subscribe to my YouTube channel",
+        "createTime": 1603419395,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAO5pP7bWSAvygWPVo9Z3wcIorPV0XEKZuSKbl2ADP8F6ICn-TTHQoiUZyvGGygr_e",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCLwI3csweuHK-3PCT1RRbrA",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11700,
+        "followingCount": 3017,
+        "heart": 188000,
+        "heartCount": 188000,
+        "videoCount": 733,
+        "diggCount": 17400
+    },
+    "itemList": []
+}

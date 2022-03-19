@@ -1,0 +1,90 @@
+{
+    "id": "7075890100298714410",
+    "desc": "",
+    "createTime": 1647484047,
+    "video": {
+        "id": "7075890100298714410",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cf830fffcd744041b0e4b8ea274a0eec?x-expires=1647583200&x-signature=W%2FdazFHpIjun6Lynp%2F6jZeIvaIU%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b9f367325473417fbc3ac0d90420a8a2_1647484048?x-expires=1647583200&x-signature=2KGm1lwqXUUlI0ZIZLWQJyWE7ho%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7bb60b971ae84e70aed2b8b394112216_1647484048?x-expires=1647583200&x-signature=1OUmRdT4ceFosAW%2B1DxDiOYoA7Y%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/446229770d0a07b10a9fba82209e3e17/62342ad9/video/tos/useast5/tos-useast5-pve-0068-tx/357f3a2e344b400396208c910de4845f/?a=1988&br=1744&bt=872&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThntgiDXq&l=2022031800463801011300624413A42FCD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdnaTw6ZnU8OzMzZzczNEApZDg0M2U2aWVnNzpnZWk5NGc0NW80cjRfbG1gLS1kMS9zc2MwMzQxNS1hMS4zMDQ0Yi46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/446229770d0a07b10a9fba82209e3e17/62342ad9/video/tos/useast5/tos-useast5-pve-0068-tx/357f3a2e344b400396208c910de4845f/?a=1988&br=1744&bt=872&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThntgiDXq&l=2022031800463801011300624413A42FCD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdnaTw6ZnU8OzMzZzczNEApZDg0M2U2aWVnNzpnZWk5NGc0NW80cjRfbG1gLS1kMS9zc2MwMzQxNS1hMS4zMDQ0Yi46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b9f367325473417fbc3ac0d90420a8a2_1647484048~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=%2FGXbliYFPLLxbe5KkTjdubGCnPc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b9f367325473417fbc3ac0d90420a8a2_1647484048~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=mG1TdQHfnurNW78gT9cSeloOWjQ%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cf830fffcd744041b0e4b8ea274a0eec?x-expires=1647583200&x-signature=CTvVOueOubaqIqyM23XniG0mXio%3D",
+        "bitrate": 893947,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7043818719060837423",
+        "uniqueId": "cayceeireland546",
+        "nickname": "caycee Ireland",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21dd7eead120a5d7b08a7994e1e0e404~c5_100x100.jpeg?x-expires=1647648000&x-signature=Fk9r8Ui6ZHHf2IOF6Q6h7MmUjfM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21dd7eead120a5d7b08a7994e1e0e404~c5_720x720.jpeg?x-expires=1647648000&x-signature=a9BT%2BRCqdtrYpHe8G%2Bkz1FgSQ0U%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21dd7eead120a5d7b08a7994e1e0e404~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=ctH%2FJKNBNsuJNorU6kIZeX6atpM%3D",
+        "signature": "my account got banned killerqueencaycee",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGHqZjwAElS2-1iK4GwS12GKufrP56-N4Br_2C2U-FUDmK6RrS834bbBT7zzgxL-A",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075890109291203374",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7075890109253471019.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21dd7eead120a5d7b08a7994e1e0e404~c5_100x100.jpeg?x-expires=1647648000&x-signature=Fk9r8Ui6ZHHf2IOF6Q6h7MmUjfM%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21dd7eead120a5d7b08a7994e1e0e404~c5_720x720.jpeg?x-expires=1647648000&x-signature=a9BT%2BRCqdtrYpHe8G%2Bkz1FgSQ0U%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21dd7eead120a5d7b08a7994e1e0e404~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=ctH%2FJKNBNsuJNorU6kIZeX6atpM%3D",
+        "authorName": "caycee Ireland",
+        "original": true,
+        "duration": 11,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 67
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 200,
+        "followerCount": 55,
+        "heartCount": 96,
+        "videoCount": 36,
+        "diggCount": 188,
+        "heart": 96
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

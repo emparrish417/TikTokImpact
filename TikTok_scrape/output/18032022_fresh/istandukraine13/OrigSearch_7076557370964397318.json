@@ -1,0 +1,104 @@
+{
+    "id": "7076557370964397318",
+    "desc": "",
+    "createTime": 1647639408,
+    "video": {
+        "id": "7076557370964397318",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d1e6db5bf329435a9d72142c5706b3d0?x-expires=1647669600&x-signature=zsCFxzNzINWGUmgmd3wZH%2BTKWmQ%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2d526576f7cf438d89ab6518521e015c_1647639409?x-expires=1647669600&x-signature=MxOj%2Ba%2BxE1eCv2UcPHCvtAt1Ohs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/30becea5a8d0429da259fd370a17e7a5_1647639410?x-expires=1647669600&x-signature=MUIhK4jTmUECm1M0By8b2SNGy%2FI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/04cb4d9b9dc914d3c88ae71ad76d2280/62357940/video/tos/useast2a/tos-useast2a-ve-0068c001/1f4577fa0fce4885bbfc12e4d7f9ccad/?a=1988&br=2398&bt=1199&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI4Ojc6ZnVpOzMzNzczM0ApOTs5M2hkZjxmNzNlMzU8O2drMnI1cjRfaW5gLS1kMTZzcy8xYmA2LmJgMC1eXzIuLWI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/04cb4d9b9dc914d3c88ae71ad76d2280/62357940/video/tos/useast2a/tos-useast2a-ve-0068c001/1f4577fa0fce4885bbfc12e4d7f9ccad/?a=1988&br=2398&bt=1199&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI4Ojc6ZnVpOzMzNzczM0ApOTs5M2hkZjxmNzNlMzU8O2drMnI1cjRfaW5gLS1kMTZzcy8xYmA2LmJgMC1eXzIuLWI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2d526576f7cf438d89ab6518521e015c_1647639409~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=WcC3CTc2NlcPBH8SNwCpxZlBAkQ%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2d526576f7cf438d89ab6518521e015c_1647639409~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=jG2ss4rLJj8UvjhK4kZ1YcDup0s%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d1e6db5bf329435a9d72142c5706b3d0?x-expires=1647669600&x-signature=zsCFxzNzINWGUmgmd3wZH%2BTKWmQ%3D",
+        "bitrate": 1227789,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7034528988362785798",
+        "uniqueId": "istandukraine13",
+        "nickname": "Morgan Ashbrook (:",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd273432abf576d907fa3d404592d50b~c5_100x100.jpeg?x-expires=1647734400&x-signature=XSb4%2B2NMRNeqSpjPukoZjJ38NKg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd273432abf576d907fa3d404592d50b~c5_720x720.jpeg?x-expires=1647734400&x-signature=g%2BVKSzIVfJeTwlq5z1m2eVDm%2BlM%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd273432abf576d907fa3d404592d50b~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=dZI2MX0%2B2J%2Bo0iO9kCklqg2gQVU%3D",
+        "signature": "Platform-ps4 User-Clean_Renagade12 Let's Play Sometime I have Apex Minecraft ect",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvlcuQqMDA5UlrrKGKZkk0MPLgsLEZxHJKbvXmI7OSwbELetrRyj6Vk68BnDh2ieO",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7026112070261164806",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7026112111134722821.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74e97f071b6fdec7df24126facfd8288~c5_100x100.jpeg?x-expires=1647734400&x-signature=d1QcAON7UTSDzX9TWiNTU1kk2wI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74e97f071b6fdec7df24126facfd8288~c5_720x720.jpeg?x-expires=1647734400&x-signature=UGKMeboWw571tE1wUTcV2GnrmTY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74e97f071b6fdec7df24126facfd8288~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=LPVlqXP4R4yFYjBsCD7Uuui3l%2FE%3D",
+        "authorName": "Nick_Hokage",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 31
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "BAHAMAS BY BRYANT",
+            "ID": "1183736"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 890,
+        "followerCount": 168,
+        "heartCount": 300,
+        "videoCount": 38,
+        "diggCount": 230,
+        "heart": 300
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Just walked out of my room \ud83d\ude14"
+            ]
+        }
+    ],
+    "isAd": false
+}

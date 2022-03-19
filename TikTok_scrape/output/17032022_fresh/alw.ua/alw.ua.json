@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6982191747430859777",
+        "shortId": "",
+        "uniqueId": "alw.ua",
+        "nickname": "1.alw.1",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/68df7f49489fb45671500a901f09c3d7~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=Ef3Xf9GLBFm6lukXmBc%2BmBWFOgY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/68df7f49489fb45671500a901f09c3d7~c5_720x720.jpeg?x-expires=1647648000&x-signature=FNs2rPuKLDATz6hyepR4SE7eqBU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/68df7f49489fb45671500a901f09c3d7~c5_100x100.jpeg?x-expires=1647648000&x-signature=kYOjdgatFGw6wd6rdRS6Zs9diKk%3D",
+        "signature": "\u041f\u043e\u0434\u043f\u0438\u0441\u044b\u0432\u0430\u0439\u0442\u0435\u0441\u044c \u043d\u0430 \u0438\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c\u043c, \u043f\u043e \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c \u0442\u043e\u0436\u0435 \u0438\u043d\u0441\u0442",
+        "createTime": 1625668676,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAr3vjD0MCYdbCKyw5GVolxWRH41aTXVQG1Do3KFAWBsppQXzBa8zZbrCp6I8RmNbH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "\u041f\u043e\u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c\u043f\u0438\u0448\u0438\u0442\u0435\u0432\u0438\u043d\u0441\u0442\u0443",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3336,
+        "followingCount": 38,
+        "heart": 198300,
+        "heartCount": 198300,
+        "videoCount": 97,
+        "diggCount": 0
+    },
+    "itemList": []
+}

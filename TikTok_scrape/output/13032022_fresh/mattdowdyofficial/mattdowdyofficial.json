@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6753356758112240646",
+        "shortId": "",
+        "uniqueId": "mattdowdyofficial",
+        "nickname": "Matthew Dowdy",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d317184c8baae84172470c08ed93db01~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=Ax%2FFNtzZExpD7DkO7P5OBdW0wBg%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d317184c8baae84172470c08ed93db01~c5_720x720.jpeg?x-expires=1647280800&x-signature=QptmODKts0PL3D63%2BiOD6fVPoio%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d317184c8baae84172470c08ed93db01~c5_100x100.jpeg?x-expires=1647280800&x-signature=1FcEMWzqx%2BzPC9XSvA3xg85u8%2BM%3D",
+        "signature": "MS\nBackup account: @notmattdowdy\nEverything is a joke if you want it to be",
+        "createTime": 1572388534,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADZ43j7g8Pbu6l_F4806gZwUx9IcOA4plCIML6aAjpYkvMrCOVXQhUriWCode20Dq",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtu.be/dQw4w9WgXcQ",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 213900,
+        "followingCount": 555,
+        "heart": 6900000,
+        "heartCount": 6900000,
+        "videoCount": 610,
+        "diggCount": 0
+    },
+    "itemList": []
+}

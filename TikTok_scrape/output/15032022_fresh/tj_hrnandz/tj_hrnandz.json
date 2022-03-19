@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6789636101403395073",
+        "shortId": "",
+        "uniqueId": "tj_hrnandz",
+        "nickname": "TJ\u30fe",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/264b5a0274b2b15d445fbb14b274cb85~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=pJ0W9690wmkfkcAP9M4miUMVXqA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/264b5a0274b2b15d445fbb14b274cb85~c5_720x720.jpeg?x-expires=1647475200&x-signature=hwLlaf5mbonhsl6IcsaU6Sim6eU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/264b5a0274b2b15d445fbb14b274cb85~c5_100x100.jpeg?x-expires=1647475200&x-signature=8iJF0Q4ldv4J524Ii%2BYtsU8pCKE%3D",
+        "signature": "Ottots",
+        "createTime": 1580806777,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGHjcJBLL2dpPbAnf_GdkhKOhRrqMrmHhAGOa6l1B8oFoz5QdiKVXTy_p2cOe7dfc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 77400,
+        "followingCount": 11,
+        "heart": 3200000,
+        "heartCount": 3200000,
+        "videoCount": 8,
+        "diggCount": 0
+    },
+    "itemList": []
+}

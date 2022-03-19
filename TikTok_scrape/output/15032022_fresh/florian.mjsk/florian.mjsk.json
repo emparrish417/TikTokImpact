@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6817365289531343877",
+        "shortId": "",
+        "uniqueId": "florian.mjsk",
+        "nickname": "Florian",
+        "avatarLarger": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/cc8f47df2210ce875c123f4a64fd62cf~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=LAZcvg2ar%2BYm89CY%2BaNRbbPHXaA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc8f47df2210ce875c123f4a64fd62cf~c5_720x720.jpeg?x-expires=1647475200&x-signature=%2BvEMC0YNRhkCWJclHjxV57cIzxA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc8f47df2210ce875c123f4a64fd62cf~c5_100x100.jpeg?x-expires=1647475200&x-signature=npId7vGhVzbkAP8Av51wbO93LuU%3D",
+        "signature": "lille | 17 \nig - florian.mjsk\n\ud83d\udc47\ud83c\udffbpour faire un don \u00e0 l\u2019Ukraine \ud83d\udc47\ud83c\udffb",
+        "createTime": 1587292921,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWbiL0bYMj0kqTvR9e3Q83L-sWpBzsrPxQhjDYuUT5e0CKBQrFAVkvoONU64KheKV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://dons.fondationdefrance.org/~share?cid=935&lang=fr_FR",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 119100,
+        "followingCount": 53,
+        "heart": 4700000,
+        "heartCount": 4700000,
+        "videoCount": 520,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6953999998213587973",
+        "shortId": "",
+        "uniqueId": "bandy940",
+        "nickname": "Ben",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d69c76dad327facf08e87dedd1d76a44~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=BeC78OsZCfZCbSk%2FP1ShcWu%2FseA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d69c76dad327facf08e87dedd1d76a44~c5_720x720.jpeg?x-expires=1647475200&x-signature=BKyB3RybBnQHswr%2BsKRqGw8lSx0%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d69c76dad327facf08e87dedd1d76a44~c5_100x100.jpeg?x-expires=1647475200&x-signature=52DhZngIrsOBZiaFXqQ89DUdAhU%3D",
+        "signature": "No bio yet",
+        "createTime": 1619104459,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAphFdRPRy5ndEifadG9k4TOi6ffbE3xSXgN9ZkIfd-0DFUVPSuUTzb1bXqblx857p",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5706,
+        "followingCount": 307,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

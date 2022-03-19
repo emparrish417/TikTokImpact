@@ -1,0 +1,90 @@
+{
+    "id": "7073278107288866090",
+    "desc": "Do you care about Ukraine?",
+    "createTime": 1646875895,
+    "video": {
+        "id": "7073278107288866090",
+        "height": 1024,
+        "width": 576,
+        "duration": 26,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ed988ffdba18474e858c567c06687545_1646875899?x-expires=1647216000&x-signature=LNOvuGRrpqSIhD5MRPKLai8ubPc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1f02bbd3799946a2b52bf3874ba8cd1a_1646875897?x-expires=1647216000&x-signature=MnJPUobQK3fbrP43IWX7DQQKQa8%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/967b06bb46cd4086bd296cb77595a4ba_1646875897?x-expires=1647216000&x-signature=F5lA1IOzKwP6NZkfFBkhYTaVRb8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5d2b7f933ca94285c2441fb407f6521c/622e8e78/video/tos/useast5/tos-useast5-ve-0068c001-tx/b4d94a7286164ba1bfb40bb3788b8408/?a=1988&br=1844&bt=922&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.4vDXq&l=202203131837500101130060100E338E7C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVtaTw6ZnJvOzMzZzczNEApODs3OmY8NTxnNzk7ZTM2Z2cxcXA0cjQwNmhgLS1kMS9zczJiNi8zMTNhYjA0YDNiLS06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5d2b7f933ca94285c2441fb407f6521c/622e8e78/video/tos/useast5/tos-useast5-ve-0068c001-tx/b4d94a7286164ba1bfb40bb3788b8408/?a=1988&br=1844&bt=922&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.4vDXq&l=202203131837500101130060100E338E7C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVtaTw6ZnJvOzMzZzczNEApODs3OmY8NTxnNzk7ZTM2Z2cxcXA0cjQwNmhgLS1kMS9zczJiNi8zMTNhYjA0YDNiLS06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1f02bbd3799946a2b52bf3874ba8cd1a_1646875897~tplv-tiktok-play.jpeg?x-expires=1647799200&x-signature=ncijlYU6s9ir1lNIb28l8Tu5QtU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1f02bbd3799946a2b52bf3874ba8cd1a_1646875897~tplv-tiktokx-share-play.jpeg?x-expires=1647799200&x-signature=k82ZhNNaoxTFEU%2BhVKaQAg6inqQ%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ed988ffdba18474e858c567c06687545_1646875899?x-expires=1647216000&x-signature=LNOvuGRrpqSIhD5MRPKLai8ubPc%3D",
+        "bitrate": 945100,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6694345641851913221",
+        "uniqueId": "thesneako",
+        "nickname": "SNEAKO",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_100x100.jpeg?x-expires=1647280800&x-signature=zr6mMlX%2F1F5Q2VQaFmqBqoCteRM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_720x720.jpeg?x-expires=1647280800&x-signature=yz3hItL1smfusxvl7e4pVVZH%2Fkg%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=Cud56r1c79BMj7s5S5CeztJuRp8%3D",
+        "signature": "I download tik tok once a month to post a clip from yt and then uninstall app",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZvy1MkJl7xeNE5bIknk1r9-Y45t3bNTlJYx5jalber7vwc8told7MzNrgsQEqgW9",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7073278079782669099",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7073278109881043758.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_100x100.jpeg?x-expires=1647280800&x-signature=zr6mMlX%2F1F5Q2VQaFmqBqoCteRM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_720x720.jpeg?x-expires=1647280800&x-signature=yz3hItL1smfusxvl7e4pVVZH%2Fkg%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=Cud56r1c79BMj7s5S5CeztJuRp8%3D",
+        "authorName": "SNEAKO",
+        "original": true,
+        "duration": 26,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 590100,
+        "shareCount": 2289,
+        "commentCount": 24400,
+        "playCount": 6000000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1,
+        "followerCount": 268700,
+        "heartCount": 6900000,
+        "videoCount": 60,
+        "diggCount": 106,
+        "heart": 6900000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7068676052268125482",
+    "desc": "FEB 25 \u2014 Ukraine latest",
+    "createTime": 1645804397,
+    "video": {
+        "id": "7068676052268125482",
+        "height": 1024,
+        "width": 576,
+        "duration": 18,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3522fc0504b4425ab95b97c9dd463d55?x-expires=1647669600&x-signature=KGt7taexz%2FDxG%2BjSHNJGjLEraoE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b4cdbe39a0d74c9485584d32635dc2ad_1645804397?x-expires=1647669600&x-signature=zJujxH1CcG7N7UEyjh3HWJXNsZc%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6dd94b9b4fb642f0bd77cacc4a63d238_1645804398?x-expires=1647669600&x-signature=5qhF3Cc9UmZ455ps%2FtR%2BXxiTgTA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d595d49fc6124c348ce2b524027a3b26/62357a89/video/tos/useast5/tos-useast5-pve-0068-tx/3841388fae4b41f3a047b1de4431398d/?a=1988&br=1588&bt=794&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thoyy_DXq&l=20220319003846010113135136196DDF55&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhkdTg6ZjppOzMzZzgzNEApMzQ4ZzQ2PDszN2c3ZTQ4OmdfczNzcjRnamBgLS1kLy9zczI0YTMxNi8tYDReMzUuNS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d595d49fc6124c348ce2b524027a3b26/62357a89/video/tos/useast5/tos-useast5-pve-0068-tx/3841388fae4b41f3a047b1de4431398d/?a=1988&br=1588&bt=794&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thoyy_DXq&l=20220319003846010113135136196DDF55&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhkdTg6ZjppOzMzZzgzNEApMzQ4ZzQ2PDszN2c3ZTQ4OmdfczNzcjRnamBgLS1kLy9zczI0YTMxNi8tYDReMzUuNS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b4cdbe39a0d74c9485584d32635dc2ad_1645804397~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=eJal1om1LF%2BKQISU7YUWml9mGu0%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b4cdbe39a0d74c9485584d32635dc2ad_1645804397~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=COtJ9WAzUAhR%2FzuJEIOt1V7i1Q8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3522fc0504b4425ab95b97c9dd463d55?x-expires=1647669600&x-signature=O3SKgc%2BLB%2Bj4Flm5%2FfOTEINfMt8%3D",
+        "bitrate": 813064,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6725464211156403205",
+        "uniqueId": "marcus.dipaola",
+        "nickname": "Marcus DiPaola",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_100x100.jpeg?x-expires=1647734400&x-signature=NCGrUeEycqg3sBigSUWgZApRawE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_720x720.jpeg?x-expires=1647734400&x-signature=xs2bz3pI%2BRI2WPtuD6XJqCpHus8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=KCCNLV0J4Ib42XhwtOSIrrF%2F8Rw%3D",
+        "signature": "Host of News 101 on Snapchat, anchoring news as it breaks here on TikTok.",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAt_iVPv2xFHOnKgw70t5YNDVrDMzV-V71959z98rV441muJW6ozh0SGIIxrq5cHIS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068682980667050794",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7068683007091100459.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_100x100.jpeg?x-expires=1647734400&x-signature=NCGrUeEycqg3sBigSUWgZApRawE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_720x720.jpeg?x-expires=1647734400&x-signature=xs2bz3pI%2BRI2WPtuD6XJqCpHus8%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=KCCNLV0J4Ib42XhwtOSIrrF%2F8Rw%3D",
+        "authorName": "Marcus DiPaola",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 922300,
+        "shareCount": 13900,
+        "commentCount": 14600,
+        "playCount": 8000000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 0,
+        "heartCount": 278400000,
+        "videoCount": 3094,
+        "diggCount": 3514,
+        "heart": 278400000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

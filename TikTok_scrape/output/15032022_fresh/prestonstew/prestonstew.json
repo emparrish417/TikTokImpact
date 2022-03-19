@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6811981217556087813",
+        "shortId": "",
+        "uniqueId": "prestonstew",
+        "nickname": "Preston Stewart",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/872423c324572d1ad420a908a81a9daa~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=aFu9SpimsisXVe169j5zuKfogBU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/872423c324572d1ad420a908a81a9daa~c5_720x720.jpeg?x-expires=1647475200&x-signature=KWcIsgcxd8ZPg6aI2VhVC%2BFE8%2Bc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/872423c324572d1ad420a908a81a9daa~c5_100x100.jpeg?x-expires=1647475200&x-signature=Ayrvohp9Z%2B38K7LUPv8yeH8v0O4%3D",
+        "signature": "\ud83c\udfa7War Stories podcast\n\ud83d\udc47 Listen here",
+        "createTime": 1586038120,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOy9Pz6mgROS5mY_6jM06acCFEeKJyQBBiYiin0UyHAcm_m4k3uyp3dGhR3As8dWM",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/prestonstew",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 618300,
+        "followingCount": 1026,
+        "heart": 27100000,
+        "heartCount": 27100000,
+        "videoCount": 1983,
+        "diggCount": 0
+    },
+    "itemList": []
+}

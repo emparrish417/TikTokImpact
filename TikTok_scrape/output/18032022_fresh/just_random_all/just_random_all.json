@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6994736009443525638",
+        "shortId": "",
+        "uniqueId": "just_random_all",
+        "nickname": "just random",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0f59be60f3e79cb6f8d4f34be5de0337~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=DMpci9iolTWlasfUhFF6zQfDgf8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0f59be60f3e79cb6f8d4f34be5de0337~c5_720x720.jpeg?x-expires=1647734400&x-signature=vInDT0pkjsOZGgyn0qIjsjWsgbc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0f59be60f3e79cb6f8d4f34be5de0337~c5_100x100.jpeg?x-expires=1647734400&x-signature=JZgjk1RbRpCYgViIoIMURMQGWNQ%3D",
+        "signature": "random\nich glaube ich mache coole Videos",
+        "createTime": 1628589043,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZ_7bjWGmVYUT7IzhB0LCTeeJGJj3YXwdDVJ_sGyql-yxlTEvuqqBcDPTHyJi2O4z",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6794,
+        "followingCount": 162,
+        "heart": 58000,
+        "heartCount": 58000,
+        "videoCount": 28,
+        "diggCount": 0
+    },
+    "itemList": []
+}

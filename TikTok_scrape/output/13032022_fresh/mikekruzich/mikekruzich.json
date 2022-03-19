@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6798699522093761542",
+        "shortId": "",
+        "uniqueId": "mikekruzich",
+        "nickname": "Mike Kruzich",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=QtlHyeNXUKCQI0h8WBiyJK2FlFs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_720x720.jpeg?x-expires=1647280800&x-signature=eBgV9J%2BLhdBu3iGxIXZY0dgNdZs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_100x100.jpeg?x-expires=1647280800&x-signature=ZR8Ubt4yyeyS4cWHF6UcI9bxcsA%3D",
+        "signature": "Follow For Daily Crazy News Stories \ud83e\udd2f\nActs 2:38 \ud83d\udd4a\nBiz: support@mikekruzich.com",
+        "createTime": 1595016675,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAP9gB-cfjK14GMhjetJ1TO38JKpibG16W6-GK0vQlrZ7b9hGpusAOilFTkCopHsJe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://winkapp.onelink.me/7CFK/92283d0c",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3600000,
+        "followingCount": 1111,
+        "heart": 68900000,
+        "heartCount": 68900000,
+        "videoCount": 779,
+        "diggCount": 0
+    },
+    "itemList": []
+}

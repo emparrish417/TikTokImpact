@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6863454447193752581",
+        "shortId": "",
+        "uniqueId": "marina_and_lucky",
+        "nickname": "\u041c\u0430\u0440\u0438\u043d\u0430 \u041b\u0430\u043a\u0438",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/080e83683b493c4722e9ee3b5212ace2~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=PH7oLeWfgcUIA8N3pfrgmWMnt2E%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/080e83683b493c4722e9ee3b5212ace2~c5_720x720.jpeg?x-expires=1647561600&x-signature=kn%2B9EuVIypVOf1Zad10A8nysw0g%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/080e83683b493c4722e9ee3b5212ace2~c5_100x100.jpeg?x-expires=1647561600&x-signature=XNcp7u6YwJcTtoJKdprHdwTTTXo%3D",
+        "signature": "\u041d\u0410\u0428 \u0418\u041d\u0421\u0422\u0410\u0413\u0420\u0410\u041c\u2b06\ufe0f\n\u041d\u0410\u0428 \u0422\u0415\u041b\u0415\u0413\u0420\u0410\u041c \u041a\u0410\u041d\u0410\u041b: @MarinaAndLucky\n\n\u041d\u0410\u0428 \u042e\u0422\u0423\u0411 \u041a\u0410\u041d\u0410\u041b\u2b07\ufe0f",
+        "createTime": 1598335799,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6wmbOSwL3CkDIQRUc8bsi2LrnzF37PzhxoaPTqAj_isVoD_eMIyzkVDO4mtiC8ld",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCnXmhJldQJliUWhvYmYxm_g",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 107300,
+        "followingCount": 70,
+        "heart": 3100000,
+        "heartCount": 3100000,
+        "videoCount": 538,
+        "diggCount": 0
+    },
+    "itemList": []
+}

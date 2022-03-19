@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "11033478",
+        "shortId": "",
+        "uniqueId": "jenmarxuach",
+        "nickname": "Jen Marxuach",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4968acc3b80f8e19ef8762b153ab501b~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=FEZ98M%2FpZetrw76w0BR1pDkeMHc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4968acc3b80f8e19ef8762b153ab501b~c5_720x720.jpeg?x-expires=1647734400&x-signature=I9%2BRMAaB3BQirXLoJ%2BN1IcKuoBM%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4968acc3b80f8e19ef8762b153ab501b~c5_100x100.jpeg?x-expires=1647734400&x-signature=IuoKPuKaWh9e5iXYZCDMvc8%2BGC8%3D",
+        "signature": "BEAUTY - MOMMY - LIFESTYLE - HUMOR\nFrom Puerto Rico \ud83c\uddf5\ud83c\uddf7 to you \u2764",
+        "createTime": 1443533478,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPhvpFKUs-um6ti4CP-mdqnDt_2g1ZXQCrJMSurWiW1w",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/jenmarxuach",
+            "risk": 5
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 30900,
+        "followingCount": 1861,
+        "heart": 1400000,
+        "heartCount": 1400000,
+        "videoCount": 1069,
+        "diggCount": 0
+    },
+    "itemList": []
+}

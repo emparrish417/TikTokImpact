@@ -1,0 +1,134 @@
+{
+    "id": "7068769022564896046",
+    "desc": "In a video published the evening of Feb. 25th, Ukrainian Pres. Volodymyr Zelenskyy shut down rumors that he had fled the country. #fyp",
+    "createTime": 1645826042,
+    "video": {
+        "id": "7068769022564896046",
+        "height": 1024,
+        "width": 576,
+        "duration": 32,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/de8293c0416b4e988e563d048474431d_1645826044~tplv-dmt-logom:tos-useast5-p-0000-tx/a3ac2a1af51b442d85020b4c7736cc4d.image?x-expires=1647586800&x-signature=mZwIeYlvx81sXB6VVkN%2FuSMd7Ho%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5b0caae1f15f47eab191e55c09a2b476_1645826043?x-expires=1647586800&x-signature=zQq4GyxbnymH2OYxH1xywrh1TX8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6e8eb2ba4d384658bafae2c1fba77547_1645826043?x-expires=1647586800&x-signature=QKTO1fxz9kiLshcKkeQFfG3TWSY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/39ae1337b8c49443c08e7c9f211d9870/623435e7/video/tos/useast5/tos-useast5-ve-0068c001-tx/0b3910cdc0944135ad331305687ae25f/?a=1988&br=1022&bt=511&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thd9diDXq&l=2022031801332601011313518923AA493A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amllOjk6ZnNuOzMzZzczNEApNDU3NDdoZzs1NzdnZWQ8ZGcxL2xucjQwbGBgLS1kMS9zczNjNF9iYS4vXi42YjI0MTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/39ae1337b8c49443c08e7c9f211d9870/623435e7/video/tos/useast5/tos-useast5-ve-0068c001-tx/0b3910cdc0944135ad331305687ae25f/?a=1988&br=1022&bt=511&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thd9diDXq&l=2022031801332601011313518923AA493A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amllOjk6ZnNuOzMzZzczNEApNDU3NDdoZzs1NzdnZWQ8ZGcxL2xucjQwbGBgLS1kMS9zczNjNF9iYS4vXi42YjI0MTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/5b0caae1f15f47eab191e55c09a2b476_1645826043~tplv-tiktok-play.jpeg?x-expires=1648170000&x-signature=mI9MtrwRsB0FjGq5VXDfF1sYlVA%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/5b0caae1f15f47eab191e55c09a2b476_1645826043~tplv-tiktokx-share-play.jpeg?x-expires=1648170000&x-signature=hbee4t8VdHv5fyNdFPUuDGInXac%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/de8293c0416b4e988e563d048474431d_1645826044?x-expires=1647586800&x-signature=%2B72qV2fjGKWLTGOWscqXypS2Mgw%3D",
+        "bitrate": 523832,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6781531515165033477",
+        "uniqueId": "brutamerica",
+        "nickname": "Brut",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655647981903878~c5_100x100.jpeg?x-expires=1647651600&x-signature=attRjUS9QDE7g9h3f%2FdPzKT1saE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655647981903878~c5_720x720.jpeg?x-expires=1647651600&x-signature=DApcSp3w71vEwHpxdKmE3%2FnZ1Gc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655647981903878~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=WPGZUEztZWAM9w3q6M0RBjvtW40%3D",
+        "signature": "Stories, unfiltered. \nWant more? Click below.\n\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAap8Y3V2Z-f1gwCLM30hElBhj81g7YpkD2xA2XYGnteRxz8aYfgfEmR-UyWnc2c-l",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068769007121238826",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7068769023458134826.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655647981903878~c5_100x100.jpeg?x-expires=1647651600&x-signature=attRjUS9QDE7g9h3f%2FdPzKT1saE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655647981903878~c5_720x720.jpeg?x-expires=1647651600&x-signature=DApcSp3w71vEwHpxdKmE3%2FnZ1Gc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655647981903878~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=WPGZUEztZWAM9w3q6M0RBjvtW40%3D",
+        "authorName": "Brut",
+        "original": true,
+        "duration": 32,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 205500,
+        "shareCount": 5400,
+        "commentCount": 5460,
+        "playCount": 2300000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 130,
+            "end": 134,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 64,
+        "followerCount": 937400,
+        "heartCount": 30900000,
+        "videoCount": 975,
+        "diggCount": 143,
+        "heart": 30900000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Volodymyr Zelenskyy",
+                "Ukrainian Pres."
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "\u201cWe are all here\u201d"
+            ]
+        }
+    ],
+    "isAd": false
+}

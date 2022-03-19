@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7068527208998044673",
+        "shortId": "",
+        "uniqueId": "world_trending_news",
+        "nickname": "WORLD_TRENDING_NEWS",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/ee851de99301d0ab5a7c47410df89f8d.jpeg?x-expires=1647561600&x-signature=r7gN3Sb96RSgCF8LSTvyrYV19Gk%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/ee851de99301d0ab5a7c47410df89f8d.jpeg?x-expires=1647561600&x-signature=hVsYGZ%2Bjrq3EmZLi6E%2BvO2pzfmA%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ee851de99301d0ab5a7c47410df89f8d.jpeg?x-expires=1647561600&x-signature=jymqVXsm6gRezMt4ThYpAqf2Hs8%3D",
+        "signature": "",
+        "createTime": 1645769756,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsrdfESjQKcWTq3djy0KtGrOWOs8X8tBuBBueskzZLlYXaZBxEz_k-5GFHNusu0f9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Professional Services",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 21900,
+        "followingCount": 2,
+        "heart": 132300,
+        "heartCount": 132300,
+        "videoCount": 67,
+        "diggCount": 0
+    },
+    "itemList": []
+}

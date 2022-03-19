@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "89609894642728960",
+        "shortId": "",
+        "uniqueId": "adoriandeck",
+        "nickname": "Adorian Deck",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d90e7f6d8153b46d0f17b77e9696aebe~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=wIybcytnXbuTny49K%2BKvtK59Fkc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d90e7f6d8153b46d0f17b77e9696aebe~c5_720x720.jpeg?x-expires=1647561600&x-signature=T%2Buh98VQknoAl8SEk6CHraOWDoY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d90e7f6d8153b46d0f17b77e9696aebe~c5_100x100.jpeg?x-expires=1647561600&x-signature=k73uZaT53zYS0ua01aNJIHuutAk%3D",
+        "signature": "The facts guy \ud83e\udde0\n\ud83d\udce9 adorian@deckedmedia.com",
+        "createTime": 1461707379,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAs5TTcrPKz7jxHqHBkXNGK3-yIEBcQR8X1WThGrAcT7_h8HpQia52t9f2fezCpDMp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/adorian",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2900000,
+        "followingCount": 1674,
+        "heart": 34700000,
+        "heartCount": 34700000,
+        "videoCount": 130,
+        "diggCount": 0
+    },
+    "itemList": []
+}

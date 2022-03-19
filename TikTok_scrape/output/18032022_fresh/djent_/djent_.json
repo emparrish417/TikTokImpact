@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6805575090592547845",
+        "shortId": "",
+        "uniqueId": "djent_",
+        "nickname": "Djent",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1661517999893510~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=rw6wFwPGUp%2B7kT2PmaYRxAtXkE8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1661517999893510~c5_720x720.jpeg?x-expires=1647734400&x-signature=x9K1603VuxcZfwbxHpefzHIB928%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1661517999893510~c5_100x100.jpeg?x-expires=1647734400&x-signature=53jM%2Bk13Q0v%2BqQPv8S6lyAGWowI%3D",
+        "signature": "",
+        "createTime": 1584518183,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAF-fR-1lOrH6UqbMXQQjcvg8i5pp-8e3NXy-ZnuXpB0FDQliA-08x6tvyu5mhlP_s",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11,
+        "followingCount": 21,
+        "heart": 14,
+        "heartCount": 14,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

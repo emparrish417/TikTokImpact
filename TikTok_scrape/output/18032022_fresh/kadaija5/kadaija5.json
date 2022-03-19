@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6952931575228023813",
+        "shortId": "",
+        "uniqueId": "kadaija5",
+        "nickname": "kadaija5",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=q7w3sFt8cERnyCUTeMQrM6eAuck%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_720x720.jpeg?x-expires=1647734400&x-signature=KArlw5kRRk5CD7o5X2C5lQ8Vp6Y%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f91fd0412c3768f342ddc1b645774b23~c5_100x100.jpeg?x-expires=1647734400&x-signature=KZDA4J9DNMXvwPLbpjH5bk5SB3c%3D",
+        "signature": "",
+        "createTime": 1619896592,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUJWZv_KpSWJyoo53eviYcNfzBR7ebmnaGJMUifnQ-_7rW5c3EqlXEC8qgwM0ECQp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 411,
+        "followingCount": 1574,
+        "heart": 845,
+        "heartCount": 845,
+        "videoCount": 293,
+        "diggCount": 0
+    },
+    "itemList": []
+}

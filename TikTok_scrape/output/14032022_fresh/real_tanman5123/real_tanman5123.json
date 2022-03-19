@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6830473279905088517",
+        "shortId": "",
+        "uniqueId": "real_tanman5123",
+        "nickname": "tanman5123",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/84f41e051dd4f834b6165cd1a3e0791d~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=QXzgDBQrzj6nI5yQEZcdW31UGfk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/84f41e051dd4f834b6165cd1a3e0791d~c5_720x720.jpeg?x-expires=1647378000&x-signature=hgaBJ8hjGdOVeahJE8YwYSJCl6E%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/84f41e051dd4f834b6165cd1a3e0791d~c5_100x100.jpeg?x-expires=1647378000&x-signature=OQB5YM4nksDjQP%2BseGNFIKmseiI%3D",
+        "signature": "I stream on Twitch",
+        "createTime": 1590346075,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQHx4vr68X7CkedkvHCIlpP6rgxaUabXrvt2_tBQeiJzbuKvmQXo6C2Tlj8H8Agsw",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/tanman5123",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 205500,
+        "followingCount": 193,
+        "heart": 10000000,
+        "heartCount": 10000000,
+        "videoCount": 284,
+        "diggCount": 0
+    },
+    "itemList": []
+}

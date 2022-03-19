@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7071670013464642603",
+        "shortId": "",
+        "uniqueId": "orangatang.soup",
+        "nickname": "orangatang.soup",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1e74c22cdc8817de0f23eb9ebfab6d48~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=fpqBkzZY4Lt%2BXUADQpY%2FnlQvAXE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1e74c22cdc8817de0f23eb9ebfab6d48~c5_720x720.jpeg?x-expires=1647734400&x-signature=CLX23Le7MN7lVVUyJUiG2gbUTJY%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1e74c22cdc8817de0f23eb9ebfab6d48~c5_100x100.jpeg?x-expires=1647734400&x-signature=UNqh9NsWUyw1GXIO54sZvfduedk%3D",
+        "signature": "",
+        "createTime": 1646501515,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADp4x5aa2iTAe37OMIoNDvnFzoxGNNta3LSFsV3-VcRJ2sJUqM0pndOeuyGo1S_iG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 853,
+        "followingCount": 0,
+        "heart": 430000,
+        "heartCount": 430000,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

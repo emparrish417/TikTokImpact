@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6757713690513130501",
+        "shortId": "",
+        "uniqueId": "kittenzylka",
+        "nickname": "Tik Toker",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=3ppdwIsILdGnOuVCE88%2F5njV4%2BI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1647651600&x-signature=Q6cgVNe2QTqZC%2Fm4YJyFc0ET3Ko%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1647651600&x-signature=t2lrwALZOz7%2FzWorSamHk6dxtr4%3D",
+        "signature": "No bio yet",
+        "createTime": 1573374566,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0QL5a77Tfv9COoqGcd4kq35N8kUUOUKhx4QNNFnryJA-_K_49bZTEumW9oJ2gHJZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 79500,
+        "followingCount": 37,
+        "heart": 4400000,
+        "heartCount": 4400000,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

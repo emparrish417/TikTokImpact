@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6750767388385707014",
+        "shortId": "",
+        "uniqueId": "barvanov_7",
+        "nickname": "BARVANOV_7",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/71b374eef6701cc7f9876edbe7ee17f0~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=FEjcKHdUfpILEmGQrSyYtByUx0E%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/71b374eef6701cc7f9876edbe7ee17f0~c5_720x720.jpeg?x-expires=1647648000&x-signature=ddk4yRREddk12JV2dNy4Om8gXPo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/71b374eef6701cc7f9876edbe7ee17f0~c5_100x100.jpeg?x-expires=1647648000&x-signature=AlszLGKdquVmqSP7AXve4Bpht8A%3D",
+        "signature": "https://t.me/barvanov7",
+        "createTime": 1571756925,
+        "verified": false,
+        "secUid": "MS4wLjABAAAArP-HDmPSjLbAD15pbAtFyRzlCIVg4krklCpLOhx_Rxl6FZT_up775T63iMpnBigD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15400,
+        "followingCount": 425,
+        "heart": 498400,
+        "heartCount": 498400,
+        "videoCount": 656,
+        "diggCount": 0
+    },
+    "itemList": []
+}

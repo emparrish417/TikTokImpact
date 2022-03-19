@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tiktok-captcha-solver": "^0.0.8",
+    "tiktok-scraper": "^1.4.36"
+  }
+}

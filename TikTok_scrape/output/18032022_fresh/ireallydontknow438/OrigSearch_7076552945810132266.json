@@ -1,0 +1,96 @@
+{
+    "id": "7076552945810132266",
+    "desc": "Me wit black hair",
+    "createTime": 1647638378,
+    "video": {
+        "id": "7076552945810132266",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c553b7b8682e40f8885ffa55d258a3a7?x-expires=1647669600&x-signature=%2BrN%2F6eXbUbCOTq2FgNyKFmIZYIc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f0f8dc7e468a4b73acc6b83f9e39d900_1647638379?x-expires=1647669600&x-signature=q77Vu6D%2FburCTU8n9j9rUUi4kTg%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/469004af6d264edf995f6128d436df8d_1647638379?x-expires=1647669600&x-signature=UCQ3ks7lhAEnp8d8bNJe8OEA4jo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/167feae762e78142624cf6371ac96fe8/62357924/video/tos/useast5/tos-useast5-ve-0068c001-tx/c5e76964ddb940fc9c878b1ea3dfdd33/?a=1988&br=2538&bt=1269&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThkMy_DXq&l=20220319003301010113006010097A98D4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3dueTs6ZmlpOzMzZzczNEApZWU2ZjNmNGQzNzY7N2ZkOGcwamA2cjRfYW5gLS1kMS9zczAzMTY2Mi4uLV4wXzEyYDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/167feae762e78142624cf6371ac96fe8/62357924/video/tos/useast5/tos-useast5-ve-0068c001-tx/c5e76964ddb940fc9c878b1ea3dfdd33/?a=1988&br=2538&bt=1269&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThkMy_DXq&l=20220319003301010113006010097A98D4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3dueTs6ZmlpOzMzZzczNEApZWU2ZjNmNGQzNzY7N2ZkOGcwamA2cjRfYW5gLS1kMS9zczAzMTY2Mi4uLV4wXzEyYDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f0f8dc7e468a4b73acc6b83f9e39d900_1647638379~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=0p0wFxuT1P2bsll2UXRLjFr1XO0%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f0f8dc7e468a4b73acc6b83f9e39d900_1647638379~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=2AqXDRCSOHqBksCVX09soc0wJEc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c553b7b8682e40f8885ffa55d258a3a7?x-expires=1647669600&x-signature=%2BrN%2F6eXbUbCOTq2FgNyKFmIZYIc%3D",
+        "bitrate": 1300275,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7020940116697957382",
+        "uniqueId": "ireallydontknow438",
+        "nickname": "Ukraine deserves respect",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1339573df5d2252da408b15679b4579f~c5_100x100.jpeg?x-expires=1647734400&x-signature=2ebQfS5w7bTpQ46J4JB1t%2FsaIVc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1339573df5d2252da408b15679b4579f~c5_720x720.jpeg?x-expires=1647734400&x-signature=oG5mV0iJvTYXB%2F%2FJ0aoWOQNyOAM%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1339573df5d2252da408b15679b4579f~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=iFOQs5fEv%2BSppFJJg0GsC2laJac%3D",
+        "signature": "Save Ukraine from this deadly war \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARUvjvx87D2j_TymUDIhNoVQsK461vmf9ea3OHL5qtoiBbJJp64VXLaWgvQGBOePN",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7050925335956769537",
+        "title": "I was down but whatever",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7058264288368069377.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/25ffba98bc46bbd02f7fdfcf27fc6cce.jpeg?x-expires=1647734400&x-signature=4N%2Bu%2F6z1rAg46B2h7Sc9tgalwA0%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/25ffba98bc46bbd02f7fdfcf27fc6cce.jpeg?x-expires=1647734400&x-signature=4GEcZJQOTymVPmJiBPvRFluRdB8%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/25ffba98bc46bbd02f7fdfcf27fc6cce.jpeg?x-expires=1647734400&x-signature=XNjonvrE3LOQCObM1V6e7Kf%2B4W8%3D",
+        "authorName": "<3",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 27
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Brown Hair",
+            "ID": "1534110"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1764,
+        "followerCount": 177,
+        "heartCount": 2354,
+        "videoCount": 327,
+        "diggCount": 7399,
+        "heart": 2354
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

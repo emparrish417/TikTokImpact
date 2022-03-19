@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7053213793724040197",
+        "shortId": "",
+        "uniqueId": "xxxwokexxx",
+        "nickname": "Jackson Hartness557",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b1cae61aff0b69edeead18dcdb2af08e~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=ybgEcJTt8xXsqW3HZXpYfurUKis%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b1cae61aff0b69edeead18dcdb2af08e~c5_720x720.jpeg?x-expires=1647648000&x-signature=Jw8z660EggbSr9A%2FFjMKqhxn2%2F0%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b1cae61aff0b69edeead18dcdb2af08e~c5_100x100.jpeg?x-expires=1647648000&x-signature=q1p07LKMn3vrqt%2FAp4BVb0ByTkQ%3D",
+        "signature": "",
+        "createTime": 1642204423,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlqOjCsni9NuOjpDn48c6108QM0CuoPn2VYA_ORkb07sbKEax-AWMsERIXJhpyIhe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 31,
+        "followingCount": 10,
+        "heart": 33,
+        "heartCount": 33,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

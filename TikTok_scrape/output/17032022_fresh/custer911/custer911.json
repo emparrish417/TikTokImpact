@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7041014931733054510",
+        "shortId": "",
+        "uniqueId": "custer911",
+        "nickname": "unknown",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f1fd0bb1a2afa1e9400982670598e0a1~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=lsshfesssrWZJab30%2Fwtd7n3w1g%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f1fd0bb1a2afa1e9400982670598e0a1~c5_720x720.jpeg?x-expires=1647648000&x-signature=kzKKjTsEBSb4B13YVCjmB4100Hc%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f1fd0bb1a2afa1e9400982670598e0a1~c5_100x100.jpeg?x-expires=1647648000&x-signature=LcRKcO1%2FAi3yoVWVCkB1ET%2BdS2Q%3D",
+        "signature": "?",
+        "createTime": 1646699288,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxmKGwzYkqZnf7J3Y2eGS-12w_N9uRXvZUG7iOZiw4gw02D0n12DhrdYWNxfv5qvb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 36,
+        "followingCount": 2,
+        "heart": 207,
+        "heartCount": 207,
+        "videoCount": 60,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6706544025628345349",
+        "shortId": "",
+        "uniqueId": "lilgnar_1",
+        "nickname": "LIL GNAR",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb0e151d4bd7d610df11d5e633562ed1~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=4Jl%2BH3M38s4n54gWwffymWrs2G4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb0e151d4bd7d610df11d5e633562ed1~c5_720x720.jpeg?x-expires=1647651600&x-signature=20oxVfczxhxuzacBr29E9tsFxkA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb0e151d4bd7d610df11d5e633562ed1~c5_100x100.jpeg?x-expires=1647651600&x-signature=egWX1A0N%2FjQiSPqy%2BhCGXH6V6zk%3D",
+        "signature": "\u0262\u057c\u01df\u0280\u0188\u0585\u0236\u0268\u0188 \u0262\u01df\u057c\u0262",
+        "createTime": 1579572540,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaUb_syPuJY3vpo1wZrCUwa3fJTgtSmMYWoUKf8w_Kls5aScuhwwwrBULW52taKNr",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "hoo.be/LILGNAR",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 129200,
+        "followingCount": 21,
+        "heart": 2300000,
+        "heartCount": 2300000,
+        "videoCount": 21,
+        "diggCount": 0
+    },
+    "itemList": []
+}

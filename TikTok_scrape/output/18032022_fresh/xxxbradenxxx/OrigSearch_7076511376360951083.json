@@ -1,0 +1,128 @@
+{
+    "id": "7076511376360951083",
+    "desc": "#ukraine",
+    "createTime": 1647628699,
+    "video": {
+        "id": "7076511376360951083",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bbd85ec043664af9ac9b77717507d67d?x-expires=1647669600&x-signature=WU2HfZMcrSnQSPTKW%2BCeK13Anfg%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4100622109a44f2e8a215057b1b9f287_1647628700?x-expires=1647669600&x-signature=JyU8DiHB%2FO0LUqcV0RcqhHfn%2BQs%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2aa41bc7104d4ceaa8fd50aac012720a_1647628700?x-expires=1647669600&x-signature=QckdF4WKYTP8Se%2BAJA0P3N5WkxY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d3252ec022a072596dc33ee0422ffeed/623578f1/video/tos/useast5/tos-useast5-pve-0068-tx/9513d7cbc14f41888ce5bb53c5245392/?a=1988&br=1438&bt=719&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThsMy_DXq&l=202203190032080101131352071792C8B4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBpeTs6ZmxnOzMzZzczNEApaGZnOjU8aTtnN2Y0M2k1OmdjaGA2cjRfLm5gLS1kMS9zczFjMV9eNGNhXjUzYS0xMzQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d3252ec022a072596dc33ee0422ffeed/623578f1/video/tos/useast5/tos-useast5-pve-0068-tx/9513d7cbc14f41888ce5bb53c5245392/?a=1988&br=1438&bt=719&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThsMy_DXq&l=202203190032080101131352071792C8B4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBpeTs6ZmxnOzMzZzczNEApaGZnOjU8aTtnN2Y0M2k1OmdjaGA2cjRfLm5gLS1kMS9zczFjMV9eNGNhXjUzYS0xMzQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4100622109a44f2e8a215057b1b9f287_1647628700~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=OGHedaqNBtcBEJFCRlegOOxnG8c%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4100622109a44f2e8a215057b1b9f287_1647628700~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=hOMlAzvUVpFnOlz2%2FIS748wg%2F%2F8%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bbd85ec043664af9ac9b77717507d67d?x-expires=1647669600&x-signature=7MWTyx8YrO5%2FtrsK3gHHRux9hyQ%3D",
+        "bitrate": 736525,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7069559797173716014",
+        "uniqueId": "xxxbradenxxx",
+        "nickname": "X-Braden-X",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b7c57d9d22f629594343eb52c22cfe9~c5_100x100.jpeg?x-expires=1647734400&x-signature=bjubU8KTqumoA7f%2BTCv58G5wrFE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b7c57d9d22f629594343eb52c22cfe9~c5_720x720.jpeg?x-expires=1647734400&x-signature=ohP3F4gP3UNkFICEIpe2aKE%2FJ1E%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b7c57d9d22f629594343eb52c22cfe9~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=ydfA%2BaHcu7rX9eGhBkGCyxoBwt8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4x9L3N89FmsEcNkXlej28jPgqSsGoKkKuRgZ3d-X0Q8pdbo4j0PRVBR9VGewgcbY",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076511339316841258",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076511366999247662.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b7c57d9d22f629594343eb52c22cfe9~c5_100x100.jpeg?x-expires=1647734400&x-signature=bjubU8KTqumoA7f%2BTCv58G5wrFE%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b7c57d9d22f629594343eb52c22cfe9~c5_720x720.jpeg?x-expires=1647734400&x-signature=ohP3F4gP3UNkFICEIpe2aKE%2FJ1E%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b7c57d9d22f629594343eb52c22cfe9~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=ydfA%2BaHcu7rX9eGhBkGCyxoBwt8%3D",
+        "authorName": "X-Braden-X",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 176
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 28,
+        "followerCount": 921,
+        "heartCount": 5386,
+        "videoCount": 31,
+        "diggCount": 27,
+        "heart": 5386
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "...........",
+                "..............."
+            ]
+        }
+    ],
+    "isAd": false
+}

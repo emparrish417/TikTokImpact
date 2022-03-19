@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6846303287840310278",
+        "shortId": "",
+        "uniqueId": "hellotherejasmin",
+        "nickname": "Hi there :)",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dcdaa0dcf03b789a3ba91835b06f274c~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=d8zRtKEdARrVL5f7SwRBCmmh2k4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dcdaa0dcf03b789a3ba91835b06f274c~c5_720x720.jpeg?x-expires=1647475200&x-signature=uk1QE1wowXHr6qzz%2FtVqjU6dlHw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dcdaa0dcf03b789a3ba91835b06f274c~c5_100x100.jpeg?x-expires=1647475200&x-signature=YLqmqzO1NiqAb%2FBiqEh8BTqNuOY%3D",
+        "signature": "Follow me if u want",
+        "createTime": 1594000657,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxmoNAMPxAIE7dz_0ZD--Iferayqng-cFXIHpfgHDE8qHeG1cpFxM2QCc06SWfVx0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12400,
+        "followingCount": 14,
+        "heart": 1400000,
+        "heartCount": 1400000,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

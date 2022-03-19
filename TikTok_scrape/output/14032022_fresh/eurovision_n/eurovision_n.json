@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7042748930337801217",
+        "shortId": "",
+        "uniqueId": "eurovision_n",
+        "nickname": "\u0415\u0432\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/93bb2dfdf4ab78f407aeee06529eb367.jpeg?x-expires=1647378000&x-signature=8biFc3xsj2cwLUv%2B8nQGtmxtOpA%3D",
+        "avatarMedium": "https://p58-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/93bb2dfdf4ab78f407aeee06529eb367.jpeg?x-expires=1647378000&x-signature=QuINhnasRS6S0Y8NAOBarqtSSiw%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/93bb2dfdf4ab78f407aeee06529eb367.jpeg?x-expires=1647378000&x-signature=XlnSnTRQvCw9rjQqW5s%2BfY4F4Fk%3D",
+        "signature": "\u0417\u0434\u0435\u0441\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u0415\u0432\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+        "createTime": 1639768397,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3-q5_6rrN25RUnEyOFNBFwkVTd-MDvfhwX6yxbS8cBWZlFf7DEZNOJF9BDAmO3Yh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/eurovision_n",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 18800,
+        "followingCount": 7,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 28,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6821987502195508230",
+        "shortId": "",
+        "uniqueId": "jmichaelt01",
+        "nickname": "J. Michael Thompson",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60937375a6a697a64f2ba9b3c9635cb3~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=67NFFqO4JEZOesjyN9%2BHAk08kLM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60937375a6a697a64f2ba9b3c9635cb3~c5_720x720.jpeg?x-expires=1647561600&x-signature=NuNcawCVW84cXv2wuR8D2C%2FB9bo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60937375a6a697a64f2ba9b3c9635cb3~c5_100x100.jpeg?x-expires=1647561600&x-signature=1DiYZ5PimEDFWMuYwQ%2FLNXBxy3M%3D",
+        "signature": "",
+        "createTime": 1588368194,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADEoy8tF3fIGUOBUuytLsa56_9F63x-ylSpwpRIUKL25JtwQEQjiGwwJVHV4OH0Hi",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 87,
+        "followingCount": 234,
+        "heart": 214,
+        "heartCount": 214,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

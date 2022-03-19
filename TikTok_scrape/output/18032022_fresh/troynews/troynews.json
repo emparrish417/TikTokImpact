@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6800894542750630918",
+        "shortId": "",
+        "uniqueId": "troynews",
+        "nickname": "Troy News",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e04ed649b32fdcc9abb16c85c0acbdfe~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=aoWxMl4PVYz7M8SI494Y6PJ2oFU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e04ed649b32fdcc9abb16c85c0acbdfe~c5_720x720.jpeg?x-expires=1647734400&x-signature=Tv1qvUsdpsJq6VJDLNQm8JpKmqc%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e04ed649b32fdcc9abb16c85c0acbdfe~c5_100x100.jpeg?x-expires=1647734400&x-signature=t5TMyfa5sUniDTQlJh1Bkq3%2Foco%3D",
+        "signature": "www.honeydirt.com",
+        "createTime": 1584649318,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG0ZVUGXlmlQp2cucUTgwlFyu1HC2yHvAxAnzyqTq2V2a2pU6ahJ8Gn4BxbMfWEWG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "www.honeydirt.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24000,
+        "followingCount": 468,
+        "heart": 178100,
+        "heartCount": 178100,
+        "videoCount": 379,
+        "diggCount": 4163
+    },
+    "itemList": []
+}

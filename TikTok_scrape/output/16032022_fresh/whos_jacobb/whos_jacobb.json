@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6833900023395255301",
+        "shortId": "",
+        "uniqueId": "whos_jacobb",
+        "nickname": "Add your name",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/029c05ab8feb43adf8495f70fdbd177b~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=zomdh6r65RPLj%2Fa1nlAJZKSosrM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/029c05ab8feb43adf8495f70fdbd177b~c5_720x720.jpeg?x-expires=1647561600&x-signature=11s4EBbZ%2FOi4bJCJwk5TTu4pheY%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/029c05ab8feb43adf8495f70fdbd177b~c5_100x100.jpeg?x-expires=1647561600&x-signature=996gq3eF2SDGASOhzbzblgzj9lM%3D",
+        "signature": "hi\u2026",
+        "createTime": 1591142496,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqXXzluEk_NdEAuiL0t8r7L0iAFU9qbpn4f7rw-aYVisJ9sd3BR43Rsg4tFsCuff1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1721,
+        "followingCount": 206,
+        "heart": 14800,
+        "heartCount": 14800,
+        "videoCount": 35,
+        "diggCount": 0
+    },
+    "itemList": []
+}

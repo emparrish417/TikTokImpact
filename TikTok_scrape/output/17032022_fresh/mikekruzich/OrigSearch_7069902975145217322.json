@@ -1,0 +1,98 @@
+{
+    "id": "7069902975145217322",
+    "desc": "Ukraine VS Russia | Part 4",
+    "createTime": 1646090061,
+    "video": {
+        "id": "7069902975145217322",
+        "height": 1024,
+        "width": 576,
+        "duration": 17,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fd35a29c76024b88b4644dfe14f42155~tplv-dmt-logom:tos-useast5-p-0000-tx/41b2bc8f65dd41139cbf1a8a3d47a30f.image?x-expires=1647586800&x-signature=wkWEkVjPUcP2wsTRtN%2FKmf9FgLc%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fba7aa2072444475b55f2a812ac36849_1646090062?x-expires=1647586800&x-signature=U2%2BTkMEMDJ5h06OulsMr4rJFjuw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ce89536d6c6e42d496a72e4d945005d0_1646090062?x-expires=1647586800&x-signature=rJNFfj3l4VZ8XIfuEjTSRx7WOBI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/37901f5fb8bf9c1cdebe727175a9eb29/623434e3/video/tos/useast5/tos-useast5-pve-0068-tx/d4cbaf941d0e4b94b5824f7b80ae7589/?a=1988&br=1992&bt=996&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThAcdiDXq&l=2022031801292201011313514920BEA65D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhxbGU6ZnNvOzMzZzczNEApOWllZmY1ZTs4N2k7NDc0OGdoc2RzcjRvYWJgLS1kMS9zc2NgYjIzNDEuLy1gMTYyXzE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/37901f5fb8bf9c1cdebe727175a9eb29/623434e3/video/tos/useast5/tos-useast5-pve-0068-tx/d4cbaf941d0e4b94b5824f7b80ae7589/?a=1988&br=1992&bt=996&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThAcdiDXq&l=2022031801292201011313514920BEA65D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhxbGU6ZnNvOzMzZzczNEApOWllZmY1ZTs4N2k7NDc0OGdoc2RzcjRvYWJgLS1kMS9zc2NgYjIzNDEuLy1gMTYyXzE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fba7aa2072444475b55f2a812ac36849_1646090062~tplv-tiktok-play.jpeg?x-expires=1648170000&x-signature=4VYDd6BdRi%2F1%2FBltf9xto4FZ20c%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fba7aa2072444475b55f2a812ac36849_1646090062~tplv-tiktokx-share-play.jpeg?x-expires=1648170000&x-signature=hsFWPmYti3iZmLr0AVO2KQUDHQo%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fd35a29c76024b88b4644dfe14f42155?x-expires=1647586800&x-signature=TWVduDmCwjFjWjXo4KuXSDVpxZw%3D",
+        "bitrate": 1020745,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6798699522093761542",
+        "uniqueId": "mikekruzich",
+        "nickname": "Mike Kruzich",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_100x100.jpeg?x-expires=1647651600&x-signature=C33wEneKcc1UM6wnlXi%2FDEPWu4Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_720x720.jpeg?x-expires=1647651600&x-signature=LS2huJNH%2FoNJzM%2FBpDgziw%2BDo68%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e08cef392737651bf98159ea077983ef~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=7Bax9Td4niKB9SK3FQOlTTSAgsA%3D",
+        "signature": "Follow For Daily Crazy News Stories \ud83e\udd2f\nActs 2:38 \ud83d\udd4a\nsupport@mikekruzich.com",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAP9gB-cfjK14GMhjetJ1TO38JKpibG16W6-GK0vQlrZ7b9hGpusAOilFTkCopHsJe",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6764101991971948546",
+        "title": "Emotional Piano Instrumental In E Minor",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9b0ebcc0a72f4ae59dd3929ac1de2fec",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c439e4d7ab2c48b1aaff52e0151d000c.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/c439e4d7ab2c48b1aaff52e0151d000c.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c439e4d7ab2c48b1aaff52e0151d000c.jpeg",
+        "authorName": "Tom Bailey Backing Tracks",
+        "original": false,
+        "duration": 60,
+        "album": "Backing Tracks Collection Vol. 4"
+    },
+    "stats": {
+        "diggCount": 816000,
+        "shareCount": 6688,
+        "commentCount": 5937,
+        "playCount": 7800000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1112,
+        "followerCount": 3600000,
+        "heartCount": 69000000,
+        "videoCount": 781,
+        "diggCount": 3461,
+        "heart": 69000000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "\u201cWe Were Lied To By Putin\u201d \ud83d\ude31"
+            ]
+        }
+    ],
+    "isAd": false
+}

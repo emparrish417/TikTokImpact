@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6902789884076278790",
+        "shortId": "",
+        "uniqueId": "szalony.reporter",
+        "nickname": "SZALONY REPORTER",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e38d62162bf50459f02852b8d25d3986~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=KSXBHN3bSHW8jjXhDzq6%2Fwbrzyc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e38d62162bf50459f02852b8d25d3986~c5_720x720.jpeg?x-expires=1647378000&x-signature=mF4NJzPqHL3wrYLmw%2BvUFXbN0hk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e38d62162bf50459f02852b8d25d3986~c5_100x100.jpeg?x-expires=1647378000&x-signature=rShWsJqV2ElojGAV7AnGRB%2FODfE%3D",
+        "signature": "Nie ma teraz wa\u017cniejszej sprawy, ni\u017c wspieranie Ukrainy \ud83c\uddfa\ud83c\udde6",
+        "createTime": 1609284218,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXDgkVAdX_uogkD_OrYL_k_7LukqHllH7_zqxnttxum8gP06gcq94do9hTT2x9-mx",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtu.be/OY4d-t5ocz8",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 246200,
+        "followingCount": 1575,
+        "heart": 5700000,
+        "heartCount": 5700000,
+        "videoCount": 773,
+        "diggCount": 0
+    },
+    "itemList": []
+}

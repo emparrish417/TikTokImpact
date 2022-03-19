@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7024242806009840645",
+        "shortId": "",
+        "uniqueId": "90degreestotheleft",
+        "nickname": "90degreesToTheLeft",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8208ea63accf15e0168019231c9dd34a~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=rEVDuQcL7oOyX10biarsHfoLl4U%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8208ea63accf15e0168019231c9dd34a~c5_720x720.jpeg?x-expires=1647561600&x-signature=O7ucS%2FFeMdrctRdxgGeQfzAMC%2Bk%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8208ea63accf15e0168019231c9dd34a~c5_100x100.jpeg?x-expires=1647561600&x-signature=jZL2ksjGLr0%2BmmDK9LFeOP5ofVs%3D",
+        "signature": "",
+        "createTime": 1635459190,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAH7xAznEJQhVMQDqOs2ChTYgRDa1WHwimrLUem0a8fspbZ0D1NsZNUakhEarC76D5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 26,
+        "followingCount": 128,
+        "heart": 20,
+        "heartCount": 20,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

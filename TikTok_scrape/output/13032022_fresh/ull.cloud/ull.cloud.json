@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6762114755915891718",
+        "shortId": "",
+        "uniqueId": "ull.cloud",
+        "nickname": "ULL",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1650907405899781~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=A856i9xSf3101fIBo8AMwqdKEA4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1650907405899781~c5_720x720.jpeg?x-expires=1647280800&x-signature=26oKcLKZGulLkl4nLtEXEMHHPtw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1650907405899781~c5_100x100.jpeg?x-expires=1647280800&x-signature=Jnt8tJpFbT%2FHtnG87cF%2Bm%2FyWMb4%3D",
+        "signature": "Manufacture of e-liquids from Ukraine\n\ud83d\udc47 \u0421\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f \u0441 \u043d\u0430\u043c\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0442\u0443\u0442 \ud83d\udc47",
+        "createTime": 1574427805,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmA6rZL8fPISq2ZoJYp6E-XiWiE8KM55y_rsW9DDZDsHXF0k9UmJZ0pRFnc5iJ_7_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/ullcloudtt_bot",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 146000,
+        "followingCount": 38,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 153,
+        "diggCount": 0
+    },
+    "itemList": []
+}

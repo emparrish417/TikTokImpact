@@ -1,0 +1,90 @@
+{
+    "id": "7076448305802185990",
+    "desc": "",
+    "createTime": 1647614015,
+    "video": {
+        "id": "7076448305802185990",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c6d92084fc674407a3913e0a19aedea3?x-expires=1647669600&x-signature=EDTniSStGxnyYqmkYA2BWO0x5F4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4103e10529ac450d9774048a0d002962_1647614016?x-expires=1647669600&x-signature=4opou2lxVatGocvzgWauAk4XPM0%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/96e09cbdd2a7474684b65ee6f6303265_1647614017?x-expires=1647669600&x-signature=H%2Bdz7rrY2L0AjdBfXZo8uFptxdI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fbf6387039f75042e0e5e75d12fb259d/62357935/video/tos/useast2a/tos-useast2a-ve-0068c001/3edc6929b5144f68ba970183a516b337/?a=1988&br=2156&bt=1078&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1Oy_DXq&l=2022031900331501011313513923614EDA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Yzczg6Zm88OzMzNzczM0ApOzs0OGhnNDtpNzU8NjVkZWdgbmJkcjRfY25gLS1kMTZzczM1YTYvLzBjLTM0XjNjLjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fbf6387039f75042e0e5e75d12fb259d/62357935/video/tos/useast2a/tos-useast2a-ve-0068c001/3edc6929b5144f68ba970183a516b337/?a=1988&br=2156&bt=1078&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1Oy_DXq&l=2022031900331501011313513923614EDA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Yzczg6Zm88OzMzNzczM0ApOzs0OGhnNDtpNzU8NjVkZWdgbmJkcjRfY25gLS1kMTZzczM1YTYvLzBjLTM0XjNjLjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4103e10529ac450d9774048a0d002962_1647614016~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=9oqalzQvXQiY2mpSm0OjCQSUvgo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4103e10529ac450d9774048a0d002962_1647614016~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=JUEPWbC%2FyBChlQRZcACbG7oFwYw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c6d92084fc674407a3913e0a19aedea3?x-expires=1647669600&x-signature=EDTniSStGxnyYqmkYA2BWO0x5F4%3D",
+        "bitrate": 1104602,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7024887552503235590",
+        "uniqueId": "ukraineti1",
+        "nickname": "pablo",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eb26eb66c28ecdd6e3f5b443946075ee~c5_100x100.jpeg?x-expires=1647734400&x-signature=FYwM%2Fete%2FeSJoenXpbD%2FlR59afo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eb26eb66c28ecdd6e3f5b443946075ee~c5_720x720.jpeg?x-expires=1647734400&x-signature=ZlCw5t4KS4sXRW1SjmGhuSM22s0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eb26eb66c28ecdd6e3f5b443946075ee~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=lZu836jOpsccsDs%2BGut6NswYYVU%3D",
+        "signature": "1209\u2705",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADMIIh3mEcvDibhw-fHV8DzrgtQhl7MvUYem8O2J2Ou1fSmuM-JzzfHGOYDukCrVC",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6757376020359170049",
+        "title": "Gangnam Style",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3fdff0daee7140edb8e0bb9939a85b2b",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/415135db9fc941d7b4d39acaebd0fdb1.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/415135db9fc941d7b4d39acaebd0fdb1.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/415135db9fc941d7b4d39acaebd0fdb1.jpeg",
+        "authorName": "Gangnam Style",
+        "original": false,
+        "duration": 30,
+        "album": "Gangnam Style (In The Style Of PSY feat. Mc Hammer) - Single"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 48
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 5798,
+        "followerCount": 2157,
+        "heartCount": 4028,
+        "videoCount": 240,
+        "diggCount": 5425,
+        "heart": 4028
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

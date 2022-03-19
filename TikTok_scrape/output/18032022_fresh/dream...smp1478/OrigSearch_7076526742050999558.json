@@ -1,0 +1,90 @@
+{
+    "id": "7076526742050999558",
+    "desc": "",
+    "createTime": 1647632277,
+    "video": {
+        "id": "7076526742050999558",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e563885d1d4847cab63b9424967da56e?x-expires=1647669600&x-signature=7q8JnaZvmal2sJxiK8Hy8O25wOA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/013594d16b6048c2a7888f7075a28222_1647632288?x-expires=1647669600&x-signature=R7vVxpdhWxKSo3KswAbI9fYgfVM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b2d1a96c514b421fa0c4a648713af2e3_1647632288?x-expires=1647669600&x-signature=9PNiFRgXK6GHj7ZbEJKclHZ0r%2FE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fbcf05914f3ef38c7f50651197c47efd/62357904/video/tos/useast2a/tos-useast2a-ve-0068c002/c1697b128118412d9924abf7e8d2e8e2/?a=1988&br=920&bt=460&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5My_DXq&l=202203190032220101130062441780EB1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzY1OTY6ZndnOzMzNzczM0ApZWU6NTVpMzwzNzw1ODQ1OWdvZGZxcjRvcm5gLS1kMTZzczI0NDJeXmIwMGNjXy9hXzE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fbcf05914f3ef38c7f50651197c47efd/62357904/video/tos/useast2a/tos-useast2a-ve-0068c002/c1697b128118412d9924abf7e8d2e8e2/?a=1988&br=920&bt=460&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5My_DXq&l=202203190032220101130062441780EB1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzY1OTY6ZndnOzMzNzczM0ApZWU6NTVpMzwzNzw1ODQ1OWdvZGZxcjRvcm5gLS1kMTZzczI0NDJeXmIwMGNjXy9hXzE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/013594d16b6048c2a7888f7075a28222_1647632288~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=1i6WK37V3u82NLYg68XHhu4YqYk%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/013594d16b6048c2a7888f7075a28222_1647632288~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=1TSzB38eVLjnLczU76dMs82xbGE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e563885d1d4847cab63b9424967da56e?x-expires=1647669600&x-signature=7q8JnaZvmal2sJxiK8Hy8O25wOA%3D",
+        "bitrate": 471807,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7026031346750882821",
+        "uniqueId": "dream...smp1478",
+        "nickname": "team Ukraine",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c0d8a1240c1f848ee56a109791ee8b26~c5_100x100.jpeg?x-expires=1647734400&x-signature=Any2S2wp3y3TexK%2Bf2kx7QMj794%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c0d8a1240c1f848ee56a109791ee8b26~c5_720x720.jpeg?x-expires=1647734400&x-signature=ax0az6Pgw0uGI%2FCNP51wP0F0s04%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c0d8a1240c1f848ee56a109791ee8b26~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=blsHrGRnswYawAoEwmTWxZYCEpM%3D",
+        "signature": "giftvbucks13500.com",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXjzylcK9HBhs8ivBfSM6TGJtVmr9YazlTvatmNj7ujrwWQoEzNkD4HOBJNOzdkcx",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6728562975734515713",
+        "title": "Love You So",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6a790bec1bf640c185753440ca131a7e",
+        "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_100x100.jpeg",
+        "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_200x200.jpeg",
+        "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_720x720.jpeg",
+        "authorName": "The King Khan & BBQ Show",
+        "original": false,
+        "duration": 60,
+        "album": "The King Khan & BBQ Show"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 61
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 181,
+        "followerCount": 103,
+        "heartCount": 21,
+        "videoCount": 8,
+        "diggCount": 124,
+        "heart": 21
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

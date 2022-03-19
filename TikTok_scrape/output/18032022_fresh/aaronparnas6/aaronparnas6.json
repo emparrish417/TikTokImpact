@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6695151177221014533",
+        "shortId": "",
+        "uniqueId": "aaronparnas6",
+        "nickname": "Aaron Parnas",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a7586daa6c9c5c52f17f0cbbaa519c67~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=TxLWkJ3OnWaspDO2wrzv8It3UB8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a7586daa6c9c5c52f17f0cbbaa519c67~c5_720x720.jpeg?x-expires=1647734400&x-signature=Dv2Z5kKGZ8Xa2yQQpiCX4TTniTk%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a7586daa6c9c5c52f17f0cbbaa519c67~c5_100x100.jpeg?x-expires=1647734400&x-signature=kqQ9JWnT0WbkRTahHJltMQR1CpU%3D",
+        "signature": "Freelance Journalist | Backup @aaronparnas1\n\u2709\ufe0f agparnas@gmail.com",
+        "createTime": 1592870472,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADWJDScU520b9xqfLBFeLrDwdNKtYv9UXgbIFLHr8H9EqdjgywCNnNc4E3eZMwmrF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/aaronparnas",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": "7076598268653767467"
+    },
+    "stats": {
+        "followerCount": 1200000,
+        "followingCount": 107,
+        "heart": 28100000,
+        "heartCount": 28100000,
+        "videoCount": 986,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6620411477349089285",
+        "shortId": "",
+        "uniqueId": "vikaveremchuk",
+        "nickname": "Viki_ver",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658846689353733~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=EW5W%2BVBAsdwEO346WAlopw3zoRE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658846689353733~c5_720x720.jpeg?x-expires=1647475200&x-signature=W4sZn%2BSYTte3XahbA1lF81jdZXQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658846689353733~c5_100x100.jpeg?x-expires=1647475200&x-signature=leoIkxcAEvnhPrAyugYcCe%2BYBS0%3D",
+        "signature": "",
+        "createTime": 1541435400,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGMmDVUtMbyFze45BuW4ep-nJxMBHI2dQgnRiooVGoJ0DrWmArEPiTL0lhQjd5Y0J",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 666,
+        "followingCount": 103,
+        "heart": 60800,
+        "heartCount": 60800,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6951447086107362310",
+        "shortId": "",
+        "uniqueId": "hazel_und_thomas",
+        "nickname": "Hazel & Thomas",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/88d1ca4ffecb327af315a3f0a1d9bcce~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=Cbj%2Fayqpd9tB2XHw5QwrUQfVexY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/88d1ca4ffecb327af315a3f0a1d9bcce~c5_720x720.jpeg?x-expires=1647280800&x-signature=jEw9B2G7uw2SR0p5Ud%2BQocfhIQk%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/88d1ca4ffecb327af315a3f0a1d9bcce~c5_100x100.jpeg?x-expires=1647280800&x-signature=XhmVGp5UP9CoQiWmYnO5Id7TN4g%3D",
+        "signature": "\ud83d\udc70\ud83c\udffb\u200d\u2640\ufe0f Podcast \u201eNur verheiratet\u201c jeden Montag auf Spotify",
+        "createTime": 1618510164,
+        "verified": true,
+        "secUid": "MS4wLjABAAAA7ELYWIAT0CuOoY2MVzEV9uf5pnggxzO6BQahYejpQenUsbUxI2sFW4w-CQtKf9M-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://vielspass.gmbh/products",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 94800,
+        "followingCount": 0,
+        "heart": 2300000,
+        "heartCount": 2300000,
+        "videoCount": 59,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6995358113117799425",
+        "shortId": "",
+        "uniqueId": "cjiiee",
+        "nickname": "cjiiee",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/4a50ec22eb0c4c8875f6e348a80d3937~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=LecF9gCDFq2YkH9gcaXix8Lhg2Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/4a50ec22eb0c4c8875f6e348a80d3937~c5_720x720.jpeg?x-expires=1647561600&x-signature=Iqzm8GUYS%2FFQA%2F%2Bb8gTV8pjYGpg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/4a50ec22eb0c4c8875f6e348a80d3937~c5_100x100.jpeg?x-expires=1647561600&x-signature=zFDRE2diuBkkfSQ8Ho4Ma4U%2FKJA%3D",
+        "signature": "",
+        "createTime": 1628765654,
+        "verified": false,
+        "secUid": "MS4wLjABAAAABZ8LQG9JwGHDTKbj1faQ9tmCv-51Ag5qWAzHzX25chxFs22YwKI9AyI_P5l-xFRa",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 255,
+        "followingCount": 39,
+        "heart": 1000,
+        "heartCount": 1000,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

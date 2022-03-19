@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7017160108090852357",
+        "shortId": "",
+        "uniqueId": "amil.025",
+        "nickname": "Amil",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/453bde0b36e209650ba42aa5e218d977.jpeg?x-expires=1647378000&x-signature=d3n%2F2PBiuqgqtWNVoiR%2BenIjDFE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/453bde0b36e209650ba42aa5e218d977.jpeg?x-expires=1647378000&x-signature=%2F6jTjb1IB0S2IboC4zeG4fxXiMc%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/453bde0b36e209650ba42aa5e218d977.jpeg?x-expires=1647378000&x-signature=fQ5%2FaXgFQJ%2BEq8jDHrW4%2FkbUp8w%3D",
+        "signature": "",
+        "createTime": 1633810057,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGQ9M6vPuzsm-gTkcEyrdtMdV05pCqy8AzDWeOKS0OUo2bXy9kPopgYgitU0jHAHd",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 118,
+        "followingCount": 58,
+        "heart": 531,
+        "heartCount": 531,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

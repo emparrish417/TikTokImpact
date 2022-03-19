@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7069820832739001349",
+        "shortId": "",
+        "uniqueId": "warcentral",
+        "nickname": "WarCentral",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c88f60016737dd9a831d4834c7662040~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=HvcNoI1m2Cemggb9Fn6%2F1xg5TF4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c88f60016737dd9a831d4834c7662040~c5_720x720.jpeg?x-expires=1647475200&x-signature=wHtE%2FRjEDJqz1JwH0KEzPGynLFI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c88f60016737dd9a831d4834c7662040~c5_100x100.jpeg?x-expires=1647475200&x-signature=Py7xSillrETjtpBBVhKBG5r%2FP4Q%3D",
+        "signature": "",
+        "createTime": 1646079980,
+        "verified": false,
+        "secUid": "MS4wLjABAAAArZRy8EOAIG1tlu8rNWiaeJEkL7RjmedZjdLtDaLWMGMHaOqtc9OzFG41OhqQq_Qi",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 231,
+        "followingCount": 0,
+        "heart": 2168,
+        "heartCount": 2168,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

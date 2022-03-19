@@ -1,0 +1,90 @@
+{
+    "id": "7075954520689298689",
+    "desc": "",
+    "createTime": 1647499047,
+    "video": {
+        "id": "7075954520689298689",
+        "height": 576,
+        "width": 1024,
+        "duration": 7,
+        "ratio": "540p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cd3766bbebf74e29a03b710c52996f67?x-expires=1647583200&x-signature=uh2IhI9XlGjFNHX%2BjzgIXfXABJs%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/77fd1bbcd3394409b988af172b009385_1647499048?x-expires=1647583200&x-signature=%2BB%2BRk5j7RqzvY5KICEFKmwYdCwA%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/3ed2569e53e74784b4067b38b21a18e7_1647499049?x-expires=1647583200&x-signature=WEtjfHJtY%2B%2BwOwzHGR9AlCtm5qs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0ad0699a359e69a7dcbc0fa8fdc9f29a/62342af6/video/tos/alisg/tos-alisg-pv-0037c001/ecbbc385adc9403d8a652ece6a4f198f/?a=1988&br=5064&bt=2532&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=6&er=&ft=XY53A3E7nz7ThLRgiDXq&l=202203180047100101131350242397225A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=13&rc=anl2Zjg6ZjtnOzMzODczNEApaDlzZ3g6NmhzZjMzajczeWdiM21hcjQwYm1gLS1kMS1zc2RzcGAyNGA1YTUtLTIxLS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0ad0699a359e69a7dcbc0fa8fdc9f29a/62342af6/video/tos/alisg/tos-alisg-pv-0037c001/ecbbc385adc9403d8a652ece6a4f198f/?a=1988&br=5064&bt=2532&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=6&er=&ft=XY53A3E7nz7ThLRgiDXq&l=202203180047100101131350242397225A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=13&rc=anl2Zjg6ZjtnOzMzODczNEApaDlzZ3g6NmhzZjMzajczeWdiM21hcjQwYm1gLS1kMS1zc2RzcGAyNGA1YTUtLTIxLS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/77fd1bbcd3394409b988af172b009385_1647499048~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=0WdhHepeLWf9G2Sr7bLuSNcLbGM%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/77fd1bbcd3394409b988af172b009385_1647499048~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=xaa1Z%2Fvp4DYLZkOYi9C2hS0r%2F1s%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cd3766bbebf74e29a03b710c52996f67?x-expires=1647583200&x-signature=uh2IhI9XlGjFNHX%2BjzgIXfXABJs%3D",
+        "bitrate": 2592862,
+        "encodedType": "original",
+        "format": "mp4",
+        "videoQuality": "original",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910896420925064194",
+        "uniqueId": "myrz1k_13",
+        "nickname": "I stay with Ukraine\ud83c\uddfa\ud83c\udde6\u261d\ufe0f",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/8acdc1e6cf12cc18473d802363576ff1.jpeg?x-expires=1647648000&x-signature=0CIKSMvyFm500Q6owuAlThJbfbo%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/8acdc1e6cf12cc18473d802363576ff1.jpeg?x-expires=1647648000&x-signature=jtuv1fY28RiAQiCIZRlvEQ8pipk%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/8acdc1e6cf12cc18473d802363576ff1.jpeg?x-expires=1647648000&x-signature=v%2BKyePCm9eo4reL2KiPB1faCYus%3D",
+        "signature": "Videos will be released:never\ud83d\udc93\nlanguages: Eng,Geo,Rus)\ud83e\uddda\u200d\u2640\ufe0f\ud83e\uddfa",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4rUe1mDLCWnewFkYl5BEWInTchWRhwA4gknubnu-qtRQsmNGk_NvyoAdthiwYYEQ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075954496496552706",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7075950314171501313.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/8acdc1e6cf12cc18473d802363576ff1.jpeg?x-expires=1647648000&x-signature=0CIKSMvyFm500Q6owuAlThJbfbo%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/8acdc1e6cf12cc18473d802363576ff1.jpeg?x-expires=1647648000&x-signature=jtuv1fY28RiAQiCIZRlvEQ8pipk%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/8acdc1e6cf12cc18473d802363576ff1.jpeg?x-expires=1647648000&x-signature=v%2BKyePCm9eo4reL2KiPB1faCYus%3D",
+        "authorName": "I stay with Ukraine\ud83c\uddfa\ud83c\udde6\u261d\ufe0f",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 253
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 20,
+        "followerCount": 16,
+        "heartCount": 2,
+        "videoCount": 1,
+        "diggCount": 179,
+        "heart": 2
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

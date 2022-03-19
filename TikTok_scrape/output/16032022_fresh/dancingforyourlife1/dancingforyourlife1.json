@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7065967850653762565",
+        "shortId": "",
+        "uniqueId": "dancingforyourlife1",
+        "nickname": "dancing",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f87f1b71e3d7ca29ae130a6e8a5335f2~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=ZIwY1ZzCAz7FbHJ4fggary3jssA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f87f1b71e3d7ca29ae130a6e8a5335f2~c5_720x720.jpeg?x-expires=1647561600&x-signature=Fpg8Ip9UG5%2FXUc3PqeoiJojMoGE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f87f1b71e3d7ca29ae130a6e8a5335f2~c5_100x100.jpeg?x-expires=1647561600&x-signature=EMa93YOH7IXSWOQXpXEantijl2w%3D",
+        "signature": "Dance with me ya bestay",
+        "createTime": 1645174093,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAj7kWXnicRyi5OnNuRFE9KTTZUzUA8_p7C7LYbzWnI0X27G6b2SOm8O_O1SL6KxKT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 31,
+        "followingCount": 22,
+        "heart": 191,
+        "heartCount": 191,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

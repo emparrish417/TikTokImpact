@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7044892164702438406",
+        "shortId": "",
+        "uniqueId": "chefdeluxe",
+        "nickname": "ChefDeluxe",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8575af696be0e9b6054b3738d5907f0d~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=MGX16Jkq7wjzGIJ2Xr4e5bvTUpQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8575af696be0e9b6054b3738d5907f0d~c5_720x720.jpeg?x-expires=1647561600&x-signature=WcO7C3bKGKzj1BJKZbZKDK1nteo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8575af696be0e9b6054b3738d5907f0d~c5_100x100.jpeg?x-expires=1647561600&x-signature=RKt%2FazYu5VpEGZxZ1m9awJ5XCsI%3D",
+        "signature": "C H E F",
+        "createTime": 1645214548,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPAiNz9vguOswdk8SnH0-p6qJH0bLzveVDbb_prWlRBd_Rfr_IyiAABHYgT37kl8h",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 39500,
+        "followingCount": 7,
+        "heart": 554200,
+        "heartCount": 554200,
+        "videoCount": 12,
+        "diggCount": 0
+    },
+    "itemList": []
+}

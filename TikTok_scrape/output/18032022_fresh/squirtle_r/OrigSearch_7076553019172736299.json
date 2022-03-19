@@ -1,0 +1,133 @@
+{
+    "id": "7076553019172736299",
+    "desc": "#Ukraine \ud83d\udc99\ud83d\udc9b\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1647638395,
+    "video": {
+        "id": "7076553019172736299",
+        "height": 1024,
+        "width": 576,
+        "duration": 51,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5bb5da0352b443789d2a08dca685eb6a?x-expires=1647669600&x-signature=WNHaSeagQdxun5KKXQs7qbifKv4%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d68f24d0eb514380aa0c2c66167ffaa7_1647638396?x-expires=1647669600&x-signature=EnQL9YM3VW4xTm4cPlqKhxcvxjY%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/11f26bc2e2b946cc97680ca9def23403_1647638396?x-expires=1647669600&x-signature=bLJjrQcuo%2FVu4CEBQ3lxyGQ%2FcoM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2be050a1c271a6b05bfe5bc079dae619/623578e6/video/tos/useast5/tos-useast5-ve-0068c004-tx/e9ce5c29dd914464b3ec0fe09e4b998e/?a=1988&br=1976&bt=988&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th~Iy_DXq&l=202203190031150101130060100472B255&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amozdmY6ZndpOzMzZzczNEApNmk5NTY5O2Q5Nzo4Mzg6Zmdqa2otcjRvYm5gLS1kMS9zczRhLjM1NC8uMy81X2JgYDM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2be050a1c271a6b05bfe5bc079dae619/623578e6/video/tos/useast5/tos-useast5-ve-0068c004-tx/e9ce5c29dd914464b3ec0fe09e4b998e/?a=1988&br=1976&bt=988&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th~Iy_DXq&l=202203190031150101130060100472B255&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amozdmY6ZndpOzMzZzczNEApNmk5NTY5O2Q5Nzo4Mzg6Zmdqa2otcjRvYm5gLS1kMS9zczRhLjM1NC8uMy81X2JgYDM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d68f24d0eb514380aa0c2c66167ffaa7_1647638396~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=maX1cP%2BXIDI0At0XoOZlIsKrjhY%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d68f24d0eb514380aa0c2c66167ffaa7_1647638396~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=gcJ8L20rLYVUy2OKgi1cBVgh%2BHg%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5bb5da0352b443789d2a08dca685eb6a?x-expires=1647669600&x-signature=grNJwuQMYgRjXYKPG40AwgBqB%2BI%3D",
+        "bitrate": 1012322,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6875054525779231749",
+        "uniqueId": "squirtle_r",
+        "nickname": "Adrian",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_100x100.jpeg?x-expires=1647734400&x-signature=yQEydzLL3Euyf7yAzsnIBdLYPFk%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_720x720.jpeg?x-expires=1647734400&x-signature=%2BAAcLhd%2FRHvgqF0Jl0XFv8PW3go%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=6HQUzIL9Jp9MKZpHXvGBmPeP%2B3U%3D",
+        "signature": "\ud83d\udc99\ud83d\udc9b, seriousness and Comedy",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsV8EZU4b4J9mTOE8GpX_c9IZBs7Bhf6JeVRjp-gGq6TFTMvsAEZz4Nuw9r_IWwKj",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069144887010282286",
+        "title": "Please stop ww3",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7069144927241915182.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_100x100.jpeg?x-expires=1647734400&x-signature=yQEydzLL3Euyf7yAzsnIBdLYPFk%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_720x720.jpeg?x-expires=1647734400&x-signature=%2BAAcLhd%2FRHvgqF0Jl0XFv8PW3go%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=6HQUzIL9Jp9MKZpHXvGBmPeP%2B3U%3D",
+        "authorName": "Adrian",
+        "original": true,
+        "duration": 63,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 210
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Stand For Ukraine",
+            "ID": "1683082"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 535,
+        "followerCount": 96,
+        "heartCount": 1392,
+        "videoCount": 600,
+        "diggCount": 12500,
+        "heart": 1392
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Guess what this\ufffc Rainbow is supposed to be\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

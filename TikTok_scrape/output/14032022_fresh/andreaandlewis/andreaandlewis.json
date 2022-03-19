@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6588038589333094406",
+        "shortId": "",
+        "uniqueId": "andreaandlewis",
+        "nickname": "Andrea & Lewis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fa32cbbae1a7f1de2b7a7984244d37fc~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=FKsF6%2BIe0qQOx4GX0AfHueAbCS4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fa32cbbae1a7f1de2b7a7984244d37fc~c5_720x720.jpeg?x-expires=1647378000&x-signature=Ht3D6nudFfQsm3EnsIgZ0mcEpyA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fa32cbbae1a7f1de2b7a7984244d37fc~c5_100x100.jpeg?x-expires=1647378000&x-signature=LnJVMUyFCrMVfMy7msK38DhS9xI%3D",
+        "signature": "\ud83d\udce7: lewisandreaofficial@gmail.com",
+        "createTime": 1566769885,
+        "verified": true,
+        "secUid": "MS4wLjABAAAA6Iw9ODv2PMt5R1NUDwfhBgnIqoixZXrSEObeF-uNEZ4mUdHzrSezHEVgzLTnGcJk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/andreaandlewis",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6900000,
+        "followingCount": 1384,
+        "heart": 461200000,
+        "heartCount": 461200000,
+        "videoCount": 1188,
+        "diggCount": 0
+    },
+    "itemList": []
+}

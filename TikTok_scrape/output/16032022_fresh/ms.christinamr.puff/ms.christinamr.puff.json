@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6852001515080320005",
+        "shortId": "",
+        "uniqueId": "ms.christinamr.puff",
+        "nickname": "Kristin Li",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d5f88b35a18058c7a098b2334d73746~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=Kh4aQFfRzcpgrA3hVZYS5VHNVyg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d5f88b35a18058c7a098b2334d73746~c5_720x720.jpeg?x-expires=1647561600&x-signature=NUX86mlMcoAz963gWciJtltRt2I%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d5f88b35a18058c7a098b2334d73746~c5_100x100.jpeg?x-expires=1647561600&x-signature=pZ9k%2FYGKpEGFTScFM0etd6D%2Fias%3D",
+        "signature": "",
+        "createTime": 1595340712,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAY1OBY6APxf9onll7Le752LWT7b2s19L4cGdHat6dpa9GcQMmY-_BGR4117PndTfg",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8,
+        "followingCount": 10,
+        "heart": 29,
+        "heartCount": 29,
+        "videoCount": 8,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6831614171832321029",
+        "shortId": "",
+        "uniqueId": "cbsnews",
+        "nickname": "cbsnews",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2edad91b487092022dcad53483d6f19~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=ewctqSSa6pXscUNemiScfbubMoQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2edad91b487092022dcad53483d6f19~c5_720x720.jpeg?x-expires=1647378000&x-signature=WtpBGaBR4DosSApOdGy298Ey94U%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2edad91b487092022dcad53483d6f19~c5_100x100.jpeg?x-expires=1647378000&x-signature=9fOLZRt9xhMnRco9vgq8WKB2160%3D",
+        "signature": "Your source for original reporting and trusted news.",
+        "createTime": 1590609219,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAsP-2iHKBHxFdlRz4wWNCcC6xDPFr7VCRqCUdPirqKg3b4WKwFkL5hvTF0hLS8n-f",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "http://www.cbsnews.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2300000,
+        "followingCount": 20,
+        "heart": 138300000,
+        "heartCount": 138300000,
+        "videoCount": 3342,
+        "diggCount": 0
+    },
+    "itemList": []
+}

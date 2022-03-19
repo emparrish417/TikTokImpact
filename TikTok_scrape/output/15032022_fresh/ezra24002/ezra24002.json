@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6972654036110918662",
+        "shortId": "",
+        "uniqueId": "ezra24002",
+        "nickname": "EZRA",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/aa5ee3c47c1219c55159e9638b41c42f~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=rpaD7qzwIDXJwi%2B0zYIuw2Q0IK4%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/aa5ee3c47c1219c55159e9638b41c42f~c5_720x720.jpeg?x-expires=1647475200&x-signature=LdSG7PYA8WW%2FLd3IEORJcWSaV7s%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/aa5ee3c47c1219c55159e9638b41c42f~c5_100x100.jpeg?x-expires=1647475200&x-signature=mO27tqdDeLylhFujNjQw8czLCdY%3D",
+        "signature": "18\nWashington state",
+        "createTime": 1623447615,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZ2XniI_hnKQ-vDDMmbm5xVaDHKVQ1PsLzkU85SGGD2A4rRmipCMC_t71N93yvkkT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 207,
+        "followingCount": 1125,
+        "heart": 4525,
+        "heartCount": 4525,
+        "videoCount": 81,
+        "diggCount": 0
+    },
+    "itemList": []
+}

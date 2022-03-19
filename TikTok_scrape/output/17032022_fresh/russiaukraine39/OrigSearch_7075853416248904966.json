@@ -1,0 +1,96 @@
+{
+    "id": "7075853416248904966",
+    "desc": "",
+    "createTime": 1647475506,
+    "video": {
+        "id": "7075853416248904966",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b055fc43d2d44f9d89034f7f8c4880d7?x-expires=1647583200&x-signature=194GwzrnjltHmb%2BZdH7R%2FttXrFw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/413478ead0334207a9417612fa3fc896_1647475507?x-expires=1647583200&x-signature=YEHIO5cDChJQoowZIz2%2FL5Ud3n0%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3bee17c2ff334b878d350f871dd4f1a1_1647475507?x-expires=1647583200&x-signature=nNGacilOL75aMzdQVhC2jflgQ%2FA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4427e344e037c5175367a8496c966d79/62342b12/video/tos/useast2a/tos-useast2a-ve-0068c003/48ac1c940e184877be9e26ce9462a0e3/?a=1988&br=2544&bt=1272&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThnRgiDXq&l=2022031800474201011300602906BCB224&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amR4OWk6Zjw6OzMzNzczM0ApM2VpODplNGVnN2g1ODY8OGc1Z2FlcjRvam1gLS1kMTZzcy02Y2BgNjJeLTJjLV80MjE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4427e344e037c5175367a8496c966d79/62342b12/video/tos/useast2a/tos-useast2a-ve-0068c003/48ac1c940e184877be9e26ce9462a0e3/?a=1988&br=2544&bt=1272&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThnRgiDXq&l=2022031800474201011300602906BCB224&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amR4OWk6Zjw6OzMzNzczM0ApM2VpODplNGVnN2g1ODY8OGc1Z2FlcjRvam1gLS1kMTZzcy02Y2BgNjJeLTJjLV80MjE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/413478ead0334207a9417612fa3fc896_1647475507~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=tMvByGSzaLMpAg1XUVPf5EU23W8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/413478ead0334207a9417612fa3fc896_1647475507~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=rCWKadpc%2BaSoRY8NP%2Filkci7A1M%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b055fc43d2d44f9d89034f7f8c4880d7?x-expires=1647583200&x-signature=194GwzrnjltHmb%2BZdH7R%2FttXrFw%3D",
+        "bitrate": 1302585,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6980748495834612742",
+        "uniqueId": "russiaukraine39",
+        "nickname": "Hey\ud83c\udf38",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/16a404c98305fef561d09c2ebf1dc02d~c5_100x100.jpeg?x-expires=1647648000&x-signature=ZsAWnDrEIRsWjEaksnevYrU1%2BKQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/16a404c98305fef561d09c2ebf1dc02d~c5_720x720.jpeg?x-expires=1647648000&x-signature=tN2L%2Fep%2FaSfD89RY4KwAdKKnr54%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/16a404c98305fef561d09c2ebf1dc02d~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=ZEQ5r9xuuMcyzHyU3je%2Bxjn53Go%3D",
+        "signature": "1 m",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3_qFerqeBIFqZUOSwl2mvlzepbc-pTcJh07tg-vq5N1nidc9WTzF7Djw7snp2Blr",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6889276191019108353",
+        "title": "just like magic",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/1ddc895391494be08ad11320257de8ba",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/062d675e40e5484496437ebc34be6cd1.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/062d675e40e5484496437ebc34be6cd1.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/062d675e40e5484496437ebc34be6cd1.jpeg",
+        "authorName": "Ariana Grande",
+        "original": false,
+        "duration": 60,
+        "album": "Positions"
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 31
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "SOFECITO",
+            "ID": "1366668"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 29,
+        "followerCount": 45,
+        "heartCount": 35,
+        "videoCount": 1,
+        "diggCount": 1833,
+        "heart": 35
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

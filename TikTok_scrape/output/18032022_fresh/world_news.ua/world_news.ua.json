@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6843449676965970949",
+        "shortId": "",
+        "uniqueId": "world_news.ua",
+        "nickname": "World_News UA",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a4359c50d04d3b0e6f363ac6cd283151~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=DFohPlGJHGa%2FIWm8AgrTzpZGliU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a4359c50d04d3b0e6f363ac6cd283151~c5_720x720.jpeg?x-expires=1647734400&x-signature=ftTCIfg4Qqaw9My%2FgjykUMR5wvw%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a4359c50d04d3b0e6f363ac6cd283151~c5_100x100.jpeg?x-expires=1647734400&x-signature=NpH%2F%2B6tswZn0iIwz2hhmccQXEcs%3D",
+        "signature": "\u041f\u0456\u0434\u043f\u0438\u0441\u0443\u0439\u0442\u0435\u0441\u044c \u043d\u0430 \u043a\u0430\u043d\u0430\u043b \u0442\u0430 \u0441\u0442\u0430\u0432\u0442\u0435\u2764\ufe0f\n \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1593336253,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAv9EUs-aeRGr1w8vLao1meMqGHfPvgseXAcr25Ei-HEVZ_U-g-ig1JEHIQYDFum0L",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6650,
+        "followingCount": 3,
+        "heart": 111100,
+        "heartCount": 111100,
+        "videoCount": 179,
+        "diggCount": 0
+    },
+    "itemList": []
+}

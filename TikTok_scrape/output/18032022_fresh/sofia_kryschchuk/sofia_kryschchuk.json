@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6745828247496623110",
+        "shortId": "",
+        "uniqueId": "sofia_kryschchuk",
+        "nickname": "\u0421\u043e\u0444\u0456\u044f \u041a\u0440\u0438\u0449\u0443\u043a",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f113fccaedaf62eb376473aa8a7783c7~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=HDSgHuOwivixF4aD2ShJrk4mLcw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f113fccaedaf62eb376473aa8a7783c7~c5_720x720.jpeg?x-expires=1647734400&x-signature=%2Fh2th3LxYp0T6WbcRMNjBUUjUDI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f113fccaedaf62eb376473aa8a7783c7~c5_100x100.jpeg?x-expires=1647734400&x-signature=EjytKwTiTREUK3y4QiXrZlb%2BsY8%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1570703197,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoOHiU1gSwJCaKY6QhsfenVe0WyIv4vnl5h0DiPVchsec2q8tXBbMNo8Gjr4jzXmZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 101,
+        "followingCount": 69,
+        "heart": 1051,
+        "heartCount": 1051,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

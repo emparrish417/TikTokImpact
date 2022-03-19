@@ -1,0 +1,157 @@
+{
+    "id": "7068149394515758382",
+    "desc": "This morning #Russia launched its war on #Ukraine @viceworldnews",
+    "createTime": 1645681774,
+    "video": {
+        "id": "7068149394515758382",
+        "height": 1024,
+        "width": 576,
+        "duration": 58,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/19e9eb35f6f14afb9ac5fd99e06a6aeb_1645681779?x-expires=1647313200&x-signature=94qFfi5hJ7lrVY%2BgzqM%2FYzj%2FGko%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1422bc958e5542f2ac6238684445fc1d_1645681775?x-expires=1647313200&x-signature=8UhSVEjqQlRuuLrEumHEkhnz4%2BE%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ed69f607f21f4922a4254e4963ff282c_1645681775?x-expires=1647313200&x-signature=mIUTK%2BmMoTo36f4UhdfWaYmjX2c%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/860c37c9c7b8b3a602ec4c30a06d1fee/62300995/video/tos/useast5/tos-useast5-ve-0068c002-tx/ce8a7efaafe843aa96123fcb8660c0e0/?a=1988&br=3420&bt=1710&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThCOOvDXq&l=202203142134500101131350200750AE6B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anh2djw6Zm1rOzMzZzczNEApN2ZlOzM0Z2U5N2Q0NTQ5NWctZl9vcjRnZl9gLS1kMS9zcy0xXi0tYDYyLTA0LjI1MF86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/860c37c9c7b8b3a602ec4c30a06d1fee/62300995/video/tos/useast5/tos-useast5-ve-0068c002-tx/ce8a7efaafe843aa96123fcb8660c0e0/?a=1988&br=3420&bt=1710&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThCOOvDXq&l=202203142134500101131350200750AE6B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anh2djw6Zm1rOzMzZzczNEApN2ZlOzM0Z2U5N2Q0NTQ5NWctZl9vcjRnZl9gLS1kMS9zcy0xXi0tYDYyLTA0LjI1MF86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1422bc958e5542f2ac6238684445fc1d_1645681775~tplv-tiktok-play.jpeg?x-expires=1647896400&x-signature=Wa%2BDwJuqGOgeBK7%2Bdm3kZ26QkzQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1422bc958e5542f2ac6238684445fc1d_1645681775~tplv-tiktokx-share-play.jpeg?x-expires=1647896400&x-signature=9hL8q7n7ArYx1d5U94Msq2H7NDM%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/19e9eb35f6f14afb9ac5fd99e06a6aeb_1645681779?x-expires=1647313200&x-signature=XnkS1BADeHFtX4BLog1nbI9dECE%3D",
+        "bitrate": 1751653,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6744206405044126726",
+        "uniqueId": "matthewcassel",
+        "nickname": "matthewcassel",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_100x100.jpeg?x-expires=1647378000&x-signature=0b6YynXHjqM042tbuOR%2BozlbVto%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_720x720.jpeg?x-expires=1647378000&x-signature=Itnlm%2F7%2FzazYD2vR72AatLo2zfA%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=JDEOCq2ELiyy%2FIm1tn5uqhJLdIc%3D",
+        "signature": "VICE News correspondent",
+        "verified": false,
+        "secUid": "MS4wLjABAAAACSxXQDf4ZzvpDfUBEwJoZxfM4KFriZjaJFHqYUt7axlTPzegapeQMaIzYVf1PiYv",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068149353218886447",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7068149392892529455.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_100x100.jpeg?x-expires=1647378000&x-signature=0b6YynXHjqM042tbuOR%2BozlbVto%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_720x720.jpeg?x-expires=1647378000&x-signature=Itnlm%2F7%2FzazYD2vR72AatLo2zfA%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=JDEOCq2ELiyy%2FIm1tn5uqhJLdIc%3D",
+        "authorName": "matthewcassel",
+        "original": true,
+        "duration": 58,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1800000,
+        "shareCount": 44100,
+        "commentCount": 14800,
+        "playCount": 11200000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 50,
+            "end": 64,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6886828060440937477",
+            "isCommerce": false,
+            "userUniqueId": "viceworldnews",
+            "secUid": "MS4wLjABAAAAzfZva6oX4AzL5hQVHS72tcUCstZTv-Tk0s4-A2Gp7aR2-J8NilayROuktItlzr76",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 13,
+            "end": 20,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 41,
+            "end": 49,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 17,
+        "followerCount": 283000,
+        "heartCount": 3700000,
+        "videoCount": 16,
+        "diggCount": 92,
+        "heart": 3700000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

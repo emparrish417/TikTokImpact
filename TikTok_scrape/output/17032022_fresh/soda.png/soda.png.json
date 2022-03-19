@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7075123295817024558",
+        "shortId": "",
+        "uniqueId": "soda.png",
+        "nickname": "Sorbet",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7792ca22fa4cdad2341dbe1970aeabdf~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=VVtUWDhGLovqFU659xr8843qYt8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7792ca22fa4cdad2341dbe1970aeabdf~c5_720x720.jpeg?x-expires=1647648000&x-signature=dUQclod5I9FPkxuesy1yOWipYxY%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7792ca22fa4cdad2341dbe1970aeabdf~c5_100x100.jpeg?x-expires=1647648000&x-signature=tn2U%2BO3LewIRonjfBHv7ADiM4K4%3D",
+        "signature": "CALL ME UH SORBET?",
+        "createTime": 1647305610,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMxazazTQ-ba3kTalwiMxCq9BTPUsfFxscAn-yjKWLWZXLXmxax82kHTIgm8eg9J-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8,
+        "followingCount": 4,
+        "heart": 393,
+        "heartCount": 393,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

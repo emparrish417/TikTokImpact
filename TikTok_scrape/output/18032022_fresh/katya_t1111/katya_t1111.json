@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6799362849141736454",
+        "shortId": "",
+        "uniqueId": "katya_t1111",
+        "nickname": "Catherine T",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/188a37a4d616d79cbb144da023b80874~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=csmaEf6ve%2FJ%2FzjQupfKezisF1fQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/188a37a4d616d79cbb144da023b80874~c5_720x720.jpeg?x-expires=1647734400&x-signature=UagCfJAD1lWGMoetxI2rIMk5PeY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/188a37a4d616d79cbb144da023b80874~c5_100x100.jpeg?x-expires=1647734400&x-signature=Vp4QBF7oLj0w8Y3bIJpyWh8eh64%3D",
+        "signature": "",
+        "createTime": 1583071551,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtwJ61E_lsuLz4es93TwebRAGb_if5qw3o0FHWLxIA_CK1d54I8TfjalVllgpLDfh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 33,
+        "followingCount": 54,
+        "heart": 225,
+        "heartCount": 225,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

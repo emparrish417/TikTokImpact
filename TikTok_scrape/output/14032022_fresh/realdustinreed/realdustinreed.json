@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6964220633299960838",
+        "shortId": "",
+        "uniqueId": "realdustinreed",
+        "nickname": "Dustin",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c3cccf016ff981bf2219996cb12b0435~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=unt3DrgrJDGzqM1TkNCtnJ6sn%2Bs%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c3cccf016ff981bf2219996cb12b0435~c5_720x720.jpeg?x-expires=1647378000&x-signature=5%2BBEO8iljWyra6PiIMMq82zgePo%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c3cccf016ff981bf2219996cb12b0435~c5_100x100.jpeg?x-expires=1647378000&x-signature=WPpKWcv6rjcWSVS1huYAV2g6G2s%3D",
+        "signature": "- CAV SCOUT -\n- UNITED STATES ARMY -\n- OR -\n- CHANGING THINGS UP -",
+        "createTime": 1621484105,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcUrxAc5nN5_Ewot1dnEwEat0b0gUR8sJVcz4aqWFFZVHA4sQapqKCqEZPk1yNL9o",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/DustinPNW",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 160300,
+        "followingCount": 59,
+        "heart": 1700000,
+        "heartCount": 1700000,
+        "videoCount": 92,
+        "diggCount": 0
+    },
+    "itemList": []
+}

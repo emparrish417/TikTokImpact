@@ -1,0 +1,90 @@
+{
+    "id": "7075879923264605483",
+    "desc": "I am new :)",
+    "createTime": 1647481677,
+    "video": {
+        "id": "7075879923264605483",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6edda0b6b29d4685a459ace0a242fa19?x-expires=1647583200&x-signature=qBFuApPBXoDZsMsZTnWwXXJqXLc%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d0de8c36546c4c6aa7a0df2e32b8eb56_1647481678?x-expires=1647583200&x-signature=Gy4Cd6VsuT1CSbC8Gd728782%2FUA%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2dba0ee7cc7d4bc3954725198a07a76d_1647481678?x-expires=1647583200&x-signature=uEjBHjvmYkMh8tBCmGoWkF5Zh8g%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2623b7f4d2e35806efcbe62a73f398c0/62342b17/video/tos/useast5/tos-useast5-ve-0068c001-tx/415698a8e177400892af842d2cff0aa4/?a=1988&br=1590&bt=795&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThnRgiDXq&l=2022031800474201011300602906BCB224&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anIzbGU6Zms8OzMzZzczNEApNjk8aDw4OmQ4NzdkPGRnaGc1bF9scjRfM21gLS1kMS9zc2NfYDReYTYtMF4yYDY0MDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2623b7f4d2e35806efcbe62a73f398c0/62342b17/video/tos/useast5/tos-useast5-ve-0068c001-tx/415698a8e177400892af842d2cff0aa4/?a=1988&br=1590&bt=795&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThnRgiDXq&l=2022031800474201011300602906BCB224&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anIzbGU6Zms8OzMzZzczNEApNjk8aDw4OmQ4NzdkPGRnaGc1bF9scjRfM21gLS1kMS9zc2NfYDReYTYtMF4yYDY0MDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d0de8c36546c4c6aa7a0df2e32b8eb56_1647481678~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=gzB3j5WxTPNfNtvQIYZWM6JByOA%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d0de8c36546c4c6aa7a0df2e32b8eb56_1647481678~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=pSB5J5C9aQghX3jLOptEUZgeX7A%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6edda0b6b29d4685a459ace0a242fa19?x-expires=1647583200&x-signature=qBFuApPBXoDZsMsZTnWwXXJqXLc%3D",
+        "bitrate": 814596,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7024289696621134853",
+        "uniqueId": "istandwithukraine059",
+        "nickname": "I am here to get TikTok famous",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d31dcd284c1128d664c509130b6d58d~c5_100x100.jpeg?x-expires=1647648000&x-signature=kJXJjuOxNdc17JTqxvxf5YF44wA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d31dcd284c1128d664c509130b6d58d~c5_720x720.jpeg?x-expires=1647648000&x-signature=YPuQi5k7pkZOd4HgfoAxpSbjh4g%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d31dcd284c1128d664c509130b6d58d~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=wrBK9wNJfOZui5aW9EkanCSIpRY%3D",
+        "signature": "hi am new to TikTok and I am trying to get famous",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_T3-qjUPSnz9ZgI_LsHwuRreuS4pMvq_kQgNZ7OYIZx-JpTug44U6-mFpD-31GOX",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6703427142346083074",
+        "title": "death bed (coffee for your head)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3efc93a675e44831a990fdb021483103",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/64c25ac7e5c94110ab0fb9dc0fcc00d1.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/64c25ac7e5c94110ab0fb9dc0fcc00d1.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/64c25ac7e5c94110ab0fb9dc0fcc00d1.jpeg",
+        "authorName": "Powfu & beabadoobee",
+        "original": false,
+        "duration": 52,
+        "album": "death bed (coffee for your head)"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 86
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 418,
+        "followerCount": 100,
+        "heartCount": 16,
+        "videoCount": 8,
+        "diggCount": 988,
+        "heart": 16
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

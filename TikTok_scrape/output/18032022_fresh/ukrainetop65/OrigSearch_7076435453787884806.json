@@ -1,0 +1,144 @@
+{
+    "id": "7076435453787884806",
+    "desc": "#CapCut \u0414\u044f\u043a\u0443\u044e \u0437\u0430 \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434 #fup",
+    "createTime": 1647611022,
+    "video": {
+        "id": "7076435453787884806",
+        "height": 576,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/03da69b8481e4c8a9111e1e754910899?x-expires=1647669600&x-signature=fyI1f8efFhM8A%2BZ1UfHd18ldpCk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f0af532600334ac1908464f82e6ac841_1647611024?x-expires=1647669600&x-signature=Npj0WzChqvKStLsUKEY4Z1cDbdA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b351edd6208b4f1989fe0c2f1922f23c_1647611024?x-expires=1647669600&x-signature=tfz0mk%2Fo8tSXrLTr00ufClWvvlY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/264adeb2f8216fb2d66786df23eb38b8/62357945/video/tos/useast2a/tos-useast2a-pve-0068/0467e9e766674d578a6cc5e547890b9c/?a=1988&br=1150&bt=575&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2s6dDc6Zng7OzMzNzczM0ApZTloM2g6Zzs3Nzs6Njg7NWdvNjZxcjRna25gLS1kMTZzczY2YjNhYmBhMy8vYi8zYV86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/264adeb2f8216fb2d66786df23eb38b8/62357945/video/tos/useast2a/tos-useast2a-pve-0068/0467e9e766674d578a6cc5e547890b9c/?a=1988&br=1150&bt=575&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2s6dDc6Zng7OzMzNzczM0ApZTloM2g6Zzs3Nzs6Njg7NWdvNjZxcjRna25gLS1kMTZzczY2YjNhYmBhMy8vYi8zYV86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f0af532600334ac1908464f82e6ac841_1647611024~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=zkjiAk%2FYNtEvetAyt6uQr5A%2BrO8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f0af532600334ac1908464f82e6ac841_1647611024~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=0ZvGNIWixXqtPiZL1BvJxiLbSYY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/03da69b8481e4c8a9111e1e754910899?x-expires=1647669600&x-signature=fyI1f8efFhM8A%2BZ1UfHd18ldpCk%3D",
+        "bitrate": 589050,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7037459093925659653",
+        "uniqueId": "ukrainetop65",
+        "nickname": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5c664f23f786fd1f9ba8838f7d56ad5~c5_100x100.jpeg?x-expires=1647734400&x-signature=9t71Bat90MI65YgA602OBTq22OU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5c664f23f786fd1f9ba8838f7d56ad5~c5_720x720.jpeg?x-expires=1647734400&x-signature=lfJo1p8aUn0ek%2BnaZtK1OKK2e7I%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5c664f23f786fd1f9ba8838f7d56ad5~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=CCYLBxqyOZX3stswEmkLH8wPG%2Fk%3D",
+        "signature": "\u043f\u0440\u0438\u0432\u0456\u0442",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfxAiGavfD9RtHwGzV7fEiZU3auzUocbyR262h5ko5CIbeBqQkLJrBc2vIwTdH4Li",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076435429460822789",
+        "title": "\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7076435433428732678.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5c664f23f786fd1f9ba8838f7d56ad5~c5_100x100.jpeg?x-expires=1647734400&x-signature=9t71Bat90MI65YgA602OBTq22OU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5c664f23f786fd1f9ba8838f7d56ad5~c5_720x720.jpeg?x-expires=1647734400&x-signature=lfJo1p8aUn0ek%2BnaZtK1OKK2e7I%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5c664f23f786fd1f9ba8838f7d56ad5~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=CCYLBxqyOZX3stswEmkLH8wPG%2Fk%3D",
+        "authorName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1663935709411330",
+            "title": "capcut",
+            "desc": "CapCut is a new, easy-to-use video editing tool designed for mobile platforms. CapCut provides users with a wide range of video editing functions, filters, audio &amp; visual effects, video templates, while keeping it free of charge and ads-free. Everyone can be a creator by using CapCut.  \n\nStart creating your cool videos today: \nhttps://capcut.onelink.me/XKqI/228cad85",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "34736",
+            "title": "fup",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 24,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 286
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "capcut",
+            "hashtagId": "1663935709411330",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 26,
+            "end": 30,
+            "hashtagName": "fup",
+            "hashtagId": "34736",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 27,
+        "followerCount": 1062,
+        "heartCount": 3650,
+        "videoCount": 23,
+        "diggCount": 652,
+        "heart": 3650
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

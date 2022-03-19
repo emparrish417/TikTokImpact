@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6989850970911065094",
+        "shortId": "",
+        "uniqueId": "tytbyttaty",
+        "nickname": "\u0442\u0443\u0442 \u0431'\u044e\u0442\u044c \u0442\u0430\u0442\u0443",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e333486cb0d9ac5da74dbf6daeca05f~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=TDGmlgY4tKlzNYz9HepBh3KEpeo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e333486cb0d9ac5da74dbf6daeca05f~c5_720x720.jpeg?x-expires=1647561600&x-signature=9Hi70zJIcqnO45rCmitwfPQucJk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e333486cb0d9ac5da74dbf6daeca05f~c5_100x100.jpeg?x-expires=1647561600&x-signature=J0GlLXgek8%2FXCWgJImkglo0FNrM%3D",
+        "signature": "",
+        "createTime": 1627451840,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvYmABXY-htKfJRKfmNVx8GYZxPCfK_NzFcgsfEAiNlsc7_w0UcRCfkkpl-05dUOY",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://tatokyiv.business.site?utm_source=gmb&utm_medium=referral",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 568,
+        "followingCount": 159,
+        "heart": 8315,
+        "heartCount": 8315,
+        "videoCount": 206,
+        "diggCount": 0
+    },
+    "itemList": []
+}

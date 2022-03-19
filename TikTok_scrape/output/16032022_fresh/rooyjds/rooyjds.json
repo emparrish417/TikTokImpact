@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6800340889597690882",
+        "shortId": "",
+        "uniqueId": "rooyjds",
+        "nickname": "world",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/43acad40463ce8d2264922da2af95d7e~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=kjD4999bOTDEtAO6BI38%2BsSI62o%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/43acad40463ce8d2264922da2af95d7e~c5_720x720.jpeg?x-expires=1647561600&x-signature=CE%2BD9aYlxlEfX%2Bs%2F0BZR406mHDs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/43acad40463ce8d2264922da2af95d7e~c5_100x100.jpeg?x-expires=1647561600&x-signature=zJmYC45MXhpfAgLVTIHk%2FeR%2BNNk%3D",
+        "signature": "now",
+        "createTime": 1583299661,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhSxL22w3XkKVlvNXD3xzdpLZJqzHBEHS-7Wy1DW86koKE1NjQ-KhMqswO80kfZGN",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3697,
+        "followingCount": 0,
+        "heart": 572700,
+        "heartCount": 572700,
+        "videoCount": 51,
+        "diggCount": 0
+    },
+    "itemList": []
+}

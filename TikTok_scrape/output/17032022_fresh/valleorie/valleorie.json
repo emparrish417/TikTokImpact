@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6746887210539303941",
+        "shortId": "",
+        "uniqueId": "valleorie",
+        "nickname": "Valerie",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a116258d1673f94d30b4fd18c11b7752~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=u%2Fga13ANLhPbGUkQk5gy7z9Fzdw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a116258d1673f94d30b4fd18c11b7752~c5_720x720.jpeg?x-expires=1647648000&x-signature=5mhG3yRIc5b0FeT1x8ZjP8Kodzw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a116258d1673f94d30b4fd18c11b7752~c5_100x100.jpeg?x-expires=1647648000&x-signature=ooIgQ%2FjgMA0%2FePu1uj%2Fb1v7rrJQ%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\ud83e\uddff",
+        "createTime": 1580037597,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlE6YAZGFjIGJmqXo4Eq1JW3wGcBl5FJGKLiQP_2eJ3oiVfkMn4t3lhhwH8_AOOs7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 33500,
+        "followingCount": 98,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 57,
+        "diggCount": 0
+    },
+    "itemList": []
+}

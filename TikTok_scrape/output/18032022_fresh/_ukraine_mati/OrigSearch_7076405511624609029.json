@@ -1,0 +1,133 @@
+{
+    "id": "7076405511624609029",
+    "desc": "#\u0441\u0442\u0440\u0438\u043c",
+    "createTime": 1647604051,
+    "video": {
+        "id": "7076405511624609029",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4d9bbbc6f994d419309cc96b1f0300e~tplv-dmt-logom:tos-useast2a-v-0068/43e6789b40a64635aa5ab6e2be9ffa6c.image?x-expires=1647669600&x-signature=9eVftzW3rsbKqAocsOpa4eMvCDA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fcb780c8710444e5af651cb9c2facd5b_1647604052?x-expires=1647669600&x-signature=CrnPzTPZe1TYrGrzXhTHVRjcOLs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/40b89cd7f49543fa9869336f5d153c09_1647604052?x-expires=1647669600&x-signature=%2BUf7Flm%2B4%2FdBrYLfj6WVaQo2ufI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e398560b6b706a565fdef19653e38596/62357952/video/tos/useast2a/tos-useast2a-ve-0068c003/e3215d79875f429ca36029a264c538db/?a=1988&br=470&bt=235&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdOy_DXq&l=2022031900334301011300601112785461&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3I5NmY6Zm06OzMzNzczM0ApZ2dmM2VlNWU3N2U5PGU8OWcvMi1mcjRvL25gLS1kMTZzczFgMjE0Yi82Ll8uY2E1MjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e398560b6b706a565fdef19653e38596/62357952/video/tos/useast2a/tos-useast2a-ve-0068c003/e3215d79875f429ca36029a264c538db/?a=1988&br=470&bt=235&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdOy_DXq&l=2022031900334301011300601112785461&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3I5NmY6Zm06OzMzNzczM0ApZ2dmM2VlNWU3N2U5PGU8OWcvMi1mcjRvL25gLS1kMTZzczFgMjE0Yi82Ll8uY2E1MjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fcb780c8710444e5af651cb9c2facd5b_1647604052~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=LHP%2BRpq98JOzwGuayNT42BSisnc%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fcb780c8710444e5af651cb9c2facd5b_1647604052~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=EgYW79%2Fu0YIl%2FiuE5nqU%2FwwkpI4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c4d9bbbc6f994d419309cc96b1f0300e?x-expires=1647669600&x-signature=dpCmKfSQPDjnLViyVXEa2tXSK7A%3D",
+        "bitrate": 241589,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7027474691104703494",
+        "uniqueId": "_ukraine_mati",
+        "nickname": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430! \u043c\u0438 \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438!\u2764",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0703663c3eeacce28ab1d38ad0c6239f~c5_100x100.jpeg?x-expires=1647734400&x-signature=0Oi2OrwPaxYCSmn1CttK8ci%2Fbrg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0703663c3eeacce28ab1d38ad0c6239f~c5_720x720.jpeg?x-expires=1647734400&x-signature=i0yD1dFqlSymO%2BLwajQQyf5eGUY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0703663c3eeacce28ab1d38ad0c6239f~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=pW47NoyxrzeAklWSMqgKBdVfspg%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADGIzs3BpLpKIt73hL01MQbs5yUjL2T2CLDCCN7-v-QvsgPQ_JVODewXExJkSQwQw",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7060154433442859010",
+        "title": "Stefania (Kalush Orchestra)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/32d14dc5e74b432ea17ee515141f32b5",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/765e2ca87a514aa0b5d44bc4a0b2bfb4.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/765e2ca87a514aa0b5d44bc4a0b2bfb4.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/765e2ca87a514aa0b5d44bc4a0b2bfb4.jpeg",
+        "authorName": "KALUSH",
+        "original": false,
+        "duration": 60,
+        "album": "Stefania (Kalush Orchestra)"
+    },
+    "challenges": [
+        {
+            "id": "82845361",
+            "title": "\u0441\u0442\u0440\u0438\u043c",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 64
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 6,
+            "hashtagName": "\u0441\u0442\u0440\u0438\u043c",
+            "hashtagId": "82845361",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1630,
+        "followerCount": 1222,
+        "heartCount": 1700,
+        "videoCount": 63,
+        "diggCount": 1465,
+        "heart": 1700
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0421\u042c\u041e\u0413\u041e\u0414\u041d\u0406 \u0412 16.40 \u0411\u0423\u0414\u0415 \u0421\u0422\u0420\u0406\u041c!!"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "\u0441\u0442\u0440\u0456\u043c"
+            ]
+        }
+    ],
+    "isAd": false
+}

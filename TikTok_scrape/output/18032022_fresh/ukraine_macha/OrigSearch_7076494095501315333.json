@@ -1,0 +1,90 @@
+{
+    "id": "7076494095501315333",
+    "desc": "\u0447\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0440\u0438\u0441\u043e\u0432\u0430\u0442\u044c",
+    "createTime": 1647624676,
+    "video": {
+        "id": "7076494095501315333",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/141cd85f3b934c1dbee213ac5d4dbc3c?x-expires=1647669600&x-signature=eUeGKR4HlJx0S%2FeEdV1fkJJZejA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c8224caaf3f5455fa691708039cec5d0_1647624677?x-expires=1647669600&x-signature=kwk%2FO3nGAs3l%2FDvNOzTtPVDYQ8k%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8047f3267e4148c6b0be821349c96a02_1647624677?x-expires=1647669600&x-signature=yLf4yWOiBi%2F%2BZ5rxwyO2foOD%2F1E%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d4fdc12eb36709e5b65b7cf80736f475/62357945/video/tos/useast2a/tos-useast2a-pve-0068/921bc89432954af99845f47c99222a1c/?a=1988&br=580&bt=290&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JnNDo6Zm9mOzMzNzczM0ApaDY5Njg7aTw6NzMzZTg6NGcwLS5fcjQwMG5gLS1kMTZzczM2NjIwNWFiYV5gLmAuNTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d4fdc12eb36709e5b65b7cf80736f475/62357945/video/tos/useast2a/tos-useast2a-pve-0068/921bc89432954af99845f47c99222a1c/?a=1988&br=580&bt=290&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXOy_DXq&l=20220319003328010113006164198E5012&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JnNDo6Zm9mOzMzNzczM0ApaDY5Njg7aTw6NzMzZTg6NGcwLS5fcjQwMG5gLS1kMTZzczM2NjIwNWFiYV5gLmAuNTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c8224caaf3f5455fa691708039cec5d0_1647624677~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=goBtXfP3440hmRCeqJ2fT2P8qKk%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c8224caaf3f5455fa691708039cec5d0_1647624677~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=o74QuXg76052NZtZtQo03HZKOWA%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/141cd85f3b934c1dbee213ac5d4dbc3c?x-expires=1647669600&x-signature=eUeGKR4HlJx0S%2FeEdV1fkJJZejA%3D",
+        "bitrate": 297775,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6913140857441256449",
+        "uniqueId": "ukraine_macha",
+        "nickname": "\u0421\u0442\u0440\u0435\u0442\u043e\u0432\u0438\u0447 \u041c\u0430\u0440\u0456\u044f",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/444781950c105a7d51fdf8df82d68ab5~c5_100x100.jpeg?x-expires=1647734400&x-signature=0Kh0gMeDREVDrkLU2aZufzl%2Bros%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/444781950c105a7d51fdf8df82d68ab5~c5_720x720.jpeg?x-expires=1647734400&x-signature=OSSdih2KAgW%2FR7rKDJo%2FWAQ8bg8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/444781950c105a7d51fdf8df82d68ab5~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=11O6jX%2BaJ3qChPJfVzq9qVaY9XM%3D",
+        "signature": "\u0421\u043d\u0438\u043c\u0430\u044e \u0433\u0430\u0447\u0443 \u0438 \u0442\u043e\u043a\u0443\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAN-KWQ34Btcmeqe_YdrfIEn9vnDjdLbpFTWpHiu0ENdIibT9RJkw4PR5p4iNDux0a",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6636400059004553990",
+        "title": "Suffer With Me",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c5c72491eb204d18ba68162a23631775",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a851c0ad802347c5b3272bea4bee8713.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a851c0ad802347c5b3272bea4bee8713.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a851c0ad802347c5b3272bea4bee8713.jpeg",
+        "authorName": "l\u00edue",
+        "original": false,
+        "duration": 9,
+        "album": "Suffer With Me"
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 1,
+        "commentCount": 0,
+        "playCount": 84
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 6,
+        "followerCount": 225,
+        "heartCount": 670,
+        "videoCount": 9,
+        "diggCount": 41,
+        "heart": 670
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

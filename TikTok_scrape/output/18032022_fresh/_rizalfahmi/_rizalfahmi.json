@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6828679227862483969",
+        "shortId": "",
+        "uniqueId": "_rizalfahmi",
+        "nickname": "fahmi",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/c518e96d2c636722bb6ba2aa75e9a134.jpeg?x-expires=1647734400&x-signature=ej6%2BYmPvBheVDbtcbRZ%2FFcKMJ30%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/c518e96d2c636722bb6ba2aa75e9a134.jpeg?x-expires=1647734400&x-signature=wbg8PhfWHCYT%2B8BE5jPe4nMJd0g%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/c518e96d2c636722bb6ba2aa75e9a134.jpeg?x-expires=1647734400&x-signature=BqTQvUlt3fy%2BR7ZokH2e%2FtQLz7Y%3D",
+        "signature": "",
+        "createTime": 1591264464,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADodNpxZP9LswISAgpl9yTfe40qoH_GixXD5_b6ILv65fLHK1wtAf30gxR9vX6s-x",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 87,
+        "followingCount": 410,
+        "heart": 663,
+        "heartCount": 663,
+        "videoCount": 87,
+        "diggCount": 0
+    },
+    "itemList": []
+}

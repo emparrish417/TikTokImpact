@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6553061803768250369",
+        "shortId": "",
+        "uniqueId": "quansuchuyensau",
+        "nickname": "Qu\u00e2n S\u1ef1 Chuy\u00ean S\u00e2u",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6cc8bbf44f79c15b5b9d7738dc0d6da8~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=i%2FZnDJiqvV6fpi08Zoj580yveHg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6cc8bbf44f79c15b5b9d7738dc0d6da8~c5_720x720.jpeg?x-expires=1647648000&x-signature=2NTDnrOvMHM9%2FzHjb91YNyFt%2Fe8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6cc8bbf44f79c15b5b9d7738dc0d6da8~c5_100x100.jpeg?x-expires=1647648000&x-signature=A8lFJN7r5FZhJ3Ws9e2u5GJBT%2Bw%3D",
+        "signature": "C\u1eadp nh\u1eadt tin t\u1ee9c th\u1eddi s\u1ef1 m\u1edbi nh\u1ea5t",
+        "createTime": 1525726053,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOK9iH-dfyDvA8VdgnrnfjwipXpyDRkyIvMvQq8vggbIL9FRqPPthZgx_AHTgEO8B",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7369,
+        "followingCount": 25,
+        "heart": 60500,
+        "heartCount": 60500,
+        "videoCount": 94,
+        "diggCount": 0
+    },
+    "itemList": []
+}

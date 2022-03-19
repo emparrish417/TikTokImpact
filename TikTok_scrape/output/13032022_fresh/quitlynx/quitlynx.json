@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6761941189345412102",
+        "shortId": "",
+        "uniqueId": "quitlynx",
+        "nickname": "Quitlynx",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fa99b9e9c3fd1e810c454e75bc84c7f~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=JJNct3MLQXygFI4%2FL2OXd6YXsxc%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fa99b9e9c3fd1e810c454e75bc84c7f~c5_720x720.jpeg?x-expires=1647280800&x-signature=ACyY9u9JXeVkSriB0r5ExBjfbEA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fa99b9e9c3fd1e810c454e75bc84c7f~c5_100x100.jpeg?x-expires=1647280800&x-signature=TCl9uMJf4J1v%2FA1lx%2FbULBEb8hg%3D",
+        "signature": "Quotes 4dayz",
+        "createTime": 1574387435,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1g6uhoi7LRhjS2ohKDpRSMPpHNBmkDgLsY5vAPI5xj-ZSHwDdPX3haZM7cfHo8bZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22800,
+        "followingCount": 4877,
+        "heart": 696200,
+        "heartCount": 696200,
+        "videoCount": 208,
+        "diggCount": 0
+    },
+    "itemList": []
+}

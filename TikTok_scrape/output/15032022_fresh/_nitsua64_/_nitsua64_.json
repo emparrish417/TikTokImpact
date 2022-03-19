@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6747000165964055558",
+        "shortId": "",
+        "uniqueId": "_nitsua64_",
+        "nickname": "Austin",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/9684865290394f8829184c2a66d6584d.jpeg?x-expires=1647475200&x-signature=MwGbovpWZJXjhk8UpAn6Itcuv6U%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/9684865290394f8829184c2a66d6584d.jpeg?x-expires=1647475200&x-signature=dGl%2FvCsUWAaz2zez6suQ2lF%2Bk44%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/9684865290394f8829184c2a66d6584d.jpeg?x-expires=1647475200&x-signature=7nrvSZ7KHpd8Pen3eF4anS%2B6Luw%3D",
+        "signature": "",
+        "createTime": 1570883604,
+        "verified": false,
+        "secUid": "MS4wLjABAAAABxArBis1wSyMkCXkLLDgpVYk0DUXha-fIuMHOimZwgyqTxNPfrXI9dV8-PIv72o6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/c/Nitsua64",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1628,
+        "followingCount": 3565,
+        "heart": 5039,
+        "heartCount": 5039,
+        "videoCount": 47,
+        "diggCount": 0
+    },
+    "itemList": []
+}

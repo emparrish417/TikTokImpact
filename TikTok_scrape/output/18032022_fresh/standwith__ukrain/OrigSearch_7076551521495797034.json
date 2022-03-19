@@ -1,0 +1,100 @@
+{
+    "id": "7076551521495797034",
+    "desc": "",
+    "createTime": 1647638046,
+    "video": {
+        "id": "7076551521495797034",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/45998976991c49e59ee7948bce414571?x-expires=1647669600&x-signature=S7b7z%2FGSXx8cKdp8DdneqZTGFhA%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0b134b438f8840d099a07a646ab4a5ea_1647638047?x-expires=1647669600&x-signature=4s4%2FBZygwZtsdNpO22qgWVPjStQ%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f9e31578f44d4245894de22f02f2c094_1647638047?x-expires=1647669600&x-signature=BNEOTXUaHt7yAWKS8jK5iLvb%2FhU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c69eb6c80a8115af73604a1cdf3b99cf/623578f7/video/tos/useast5/tos-useast5-ve-0068c001-tx/301e9043265242c7ab401ab2dc7f6f82/?a=1988&br=370&bt=185&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThsMy_DXq&l=202203190032080101131352071792C8B4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w4cWc6ZjlpOzMzZzczNEApPDxpOmc1aGQzNztnNWQ7PGcwYWJlcjRnX25gLS1kMS9zc2NjNTRiLjM1Y19gYTJhNF86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c69eb6c80a8115af73604a1cdf3b99cf/623578f7/video/tos/useast5/tos-useast5-ve-0068c001-tx/301e9043265242c7ab401ab2dc7f6f82/?a=1988&br=370&bt=185&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThsMy_DXq&l=202203190032080101131352071792C8B4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w4cWc6ZjlpOzMzZzczNEApPDxpOmc1aGQzNztnNWQ7PGcwYWJlcjRnX25gLS1kMS9zc2NjNTRiLjM1Y19gYTJhNF86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b134b438f8840d099a07a646ab4a5ea_1647638047~tplv-tiktok-play.jpeg?x-expires=1648252800&x-signature=FamLCIyY3GbR%2FlSU1atKzv1Y%2BAM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b134b438f8840d099a07a646ab4a5ea_1647638047~tplv-tiktokx-share-play.jpeg?x-expires=1648252800&x-signature=viZUKxq81R6YkQl5JQykszAZRM0%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/45998976991c49e59ee7948bce414571?x-expires=1647669600&x-signature=S7b7z%2FGSXx8cKdp8DdneqZTGFhA%3D",
+        "bitrate": 190017,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7076549806789067822",
+        "uniqueId": "standwith__ukrain",
+        "nickname": "Standwith__UKRAIN",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/898ab1addf0116e286ab41b91eaa6ee5~c5_100x100.jpeg?x-expires=1647734400&x-signature=DsxiLTYHmdgjXCHvqVCdEkUdEVA%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/898ab1addf0116e286ab41b91eaa6ee5~c5_720x720.jpeg?x-expires=1647734400&x-signature=xyXJ%2F2lSmof0kLi1HgMW4OJBsCw%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/898ab1addf0116e286ab41b91eaa6ee5~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=vKtOxY2PWIdvj1UaH0xvlAfjsdI%3D",
+        "signature": "I stand with Ukrain \nI hate Putin aka \ud83e\udd2e\ud83e\udd2e\ud83e\udd2e",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqgdKJU08YpedcUikKPBeTyjN7RLa8-ZJJdGj1ShosLZlGsrMNj6aqRsEcYD9RaA_",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6884926322238294017",
+        "title": "Fed Up",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/26baef3192814b80b3bad9e507ad8377",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/3715079078fd4edca2c41be61b7006bf.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/3715079078fd4edca2c41be61b7006bf.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/3715079078fd4edca2c41be61b7006bf.jpeg",
+        "authorName": "Ghostemane",
+        "original": false,
+        "duration": 60,
+        "album": "ANTI-ICON"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 81
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 0,
+        "heartCount": 1,
+        "videoCount": 1,
+        "diggCount": 0,
+        "heart": 1
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83e\udd2e",
+                "   ",
+                "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83e\udd70"
+            ]
+        }
+    ],
+    "isAd": false
+}

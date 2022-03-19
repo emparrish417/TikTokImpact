@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6777593631172838406",
+        "shortId": "",
+        "uniqueId": "goodmorningbadnews",
+        "nickname": "Good Morning, Bad News",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/340702da7988e2626f32d9e6fd63e02f~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=3CA%2FC9I3l6js2Fmmuwy8OC0L36c%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/340702da7988e2626f32d9e6fd63e02f~c5_720x720.jpeg?x-expires=1647475200&x-signature=mlxtPVENvjZ7KfFlCUZndi5xNkA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/340702da7988e2626f32d9e6fd63e02f~c5_100x100.jpeg?x-expires=1647475200&x-signature=OLl10NF82D8XQvaNv5ovuXKV0AE%3D",
+        "signature": "\u2b07\ufe0f MUGS & SOURCES \u2b07\ufe0f",
+        "createTime": 1578031620,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAm-KiRyErVsyJ_GQ-rXzKz0YfaKSS5uUd9zQpHlMMAYeIo3VMwNjwJQtQVOSjuf3o",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/goodmorningbadnews",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1100000,
+        "followingCount": 116,
+        "heart": 24400000,
+        "heartCount": 24400000,
+        "videoCount": 195,
+        "diggCount": 0
+    },
+    "itemList": []
+}

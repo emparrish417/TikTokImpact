@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6770513470736565253",
+        "shortId": "",
+        "uniqueId": "madyock",
+        "nickname": "madyock",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664769634388997~c5_1080x1080.jpeg?x-expires=1647378000&x-signature=e1if9DuzaAhl1An7UWxlrON61Hk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664769634388997~c5_720x720.jpeg?x-expires=1647378000&x-signature=cw5oJCLhDD7K1BVS1kkZMfYdvgA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664769634388997~c5_100x100.jpeg?x-expires=1647378000&x-signature=WBpByabctXHcIQug2URiZhWev0M%3D",
+        "signature": "Saying Tiocfaidh \u00e1r l\u00e1 50,000 times\n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83c\uddee\ud83c\uddea\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+        "createTime": 1587647679,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaCIvVynLRLJmGwdpW7yI4NLRuFRMYaaMwOOOJpyjqTPnUeMhI5MqaD4nolM9lSv8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.youtube.com/watch?v=lqyCmOmg2yA",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 61100,
+        "followingCount": 46,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 313,
+        "diggCount": 0
+    },
+    "itemList": []
+}

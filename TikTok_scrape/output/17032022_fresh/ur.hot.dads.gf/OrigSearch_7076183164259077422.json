@@ -1,0 +1,90 @@
+{
+    "id": "7076183164259077422",
+    "desc": "Brrrr \ud83e\udd76\ud83e\udd76",
+    "createTime": 1647552281,
+    "video": {
+        "id": "7076183164259077422",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1643788a5472401fa2ae4c6600fb43b2?x-expires=1647583200&x-signature=7o53svzSrDXVUY78ZcU4jMRaSZo%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d4c8c19ef0994d89b9d74b88c454f3e7_1647552282?x-expires=1647583200&x-signature=bZ8GbWM6p%2Bw9ffBvy%2Bdt65BVlf4%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/aeff806a0bbf485fb1c10738aba3a730_1647552282?x-expires=1647583200&x-signature=c8APxV7tg7uazf5ImBtiLs5uQCs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/3151ccf5d5369b6468044f7703f0e2db/62342ac6/video/tos/useast5/tos-useast5-ve-0068c004-tx/468814006fe24abaa920c28ae42c0e15/?a=1988&br=2952&bt=1476&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThItgiDXq&l=2022031800462301011313513203A5F0A8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzpzbTM6ZmR0OzMzZzczNEApZjs8ODg7NWVpN2c5PGZoZWczM2picjRvYG1gLS1kMS9zczFhMy41Y2AuMDUuMDRiYy46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/3151ccf5d5369b6468044f7703f0e2db/62342ac6/video/tos/useast5/tos-useast5-ve-0068c004-tx/468814006fe24abaa920c28ae42c0e15/?a=1988&br=2952&bt=1476&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThItgiDXq&l=2022031800462301011313513203A5F0A8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzpzbTM6ZmR0OzMzZzczNEApZjs8ODg7NWVpN2c5PGZoZWczM2picjRvYG1gLS1kMS9zczFhMy41Y2AuMDUuMDRiYy46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d4c8c19ef0994d89b9d74b88c454f3e7_1647552282~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=B2pyh%2BnO41D91IEDuEObA0Hz1vg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d4c8c19ef0994d89b9d74b88c454f3e7_1647552282~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=FVAfxMRUn6X0xLsh%2BKCNcGb8Ki0%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1643788a5472401fa2ae4c6600fb43b2?x-expires=1647583200&x-signature=7o53svzSrDXVUY78ZcU4jMRaSZo%3D",
+        "bitrate": 1512008,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6554006013107798021",
+        "uniqueId": "ur.hot.dads.gf",
+        "nickname": "\u2728Ireland\u2728",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/332b358f06cd05dc15af406ab72509b7~c5_100x100.jpeg?x-expires=1647648000&x-signature=mSoBMkkWdBcqeh6k06hbrY%2F2Rm4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/332b358f06cd05dc15af406ab72509b7~c5_720x720.jpeg?x-expires=1647648000&x-signature=YpwYMHI0Ias8Wdu3WNLzlZ3E4PI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/332b358f06cd05dc15af406ab72509b7~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=sl6JEG1FqX%2BNMO4U7gCVBs27Dt8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2UQAnzm6jWYiLzRnIV0YfaKWm4wrMNoe1f1tcF1Xzq7C1TZ3rL7bzwkkCYc53lJ_",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069556573701475118",
+        "title": "Fancy Drake kristineqfit",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7069556593876028206.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9a79ccd0b303e657583322b5ce9c4054~c5_100x100.jpeg?x-expires=1647648000&x-signature=0in%2FA5UjUebLZfy3fZ862KAei3Q%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9a79ccd0b303e657583322b5ce9c4054~c5_720x720.jpeg?x-expires=1647648000&x-signature=RM5%2FPJg38n8T9blSIkvVb7ftetI%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9a79ccd0b303e657583322b5ce9c4054~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=ZumZL7M4kLrnyZVuF5MdHmcW15Y%3D",
+        "authorName": "Kristine",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 95,
+        "shareCount": 43,
+        "commentCount": 5,
+        "playCount": 630
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 322,
+        "followerCount": 845,
+        "heartCount": 3915,
+        "videoCount": 16,
+        "diggCount": 80400,
+        "heart": 3915
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

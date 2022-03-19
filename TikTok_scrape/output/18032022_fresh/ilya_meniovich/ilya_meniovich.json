@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6967088121674679301",
+        "shortId": "",
+        "uniqueId": "ilya_meniovich",
+        "nickname": "Ilya",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6967105546633609221~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=Wnui3RPmKV56NN7Rpo5gi4vtVEo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6967105546633609221~c5_720x720.jpeg?x-expires=1647734400&x-signature=gc6oOsy6%2B3WZvlPmpIaOjvQddLI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6967105546633609221~c5_100x100.jpeg?x-expires=1647734400&x-signature=8Dk56k%2F9GeOkhr5iqxiIEwlpKQA%3D",
+        "signature": "\u041e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c Meni Auto -\u0430\u0432\u0442\u043e \u0438\u0437 \u0421\u0428\u0410\nwww.meniauto.com\n@meniauto.inst",
+        "createTime": 1622155668,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAed0cgM4NyMwTMvkVferJJ5RWk50lw53c94L0IkgtJLoGLC7QcxygWfT5Wi_GZ0EO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "meniauto.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Automotive & Transportation",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 41,
+        "followingCount": 29,
+        "heart": 148,
+        "heartCount": 148,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

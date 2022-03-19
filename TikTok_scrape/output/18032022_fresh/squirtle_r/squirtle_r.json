@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6875054525779231749",
+        "shortId": "",
+        "uniqueId": "squirtle_r",
+        "nickname": "Adrian",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=6HQUzIL9Jp9MKZpHXvGBmPeP%2B3U%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_720x720.jpeg?x-expires=1647734400&x-signature=%2BAAcLhd%2FRHvgqF0Jl0XFv8PW3go%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29053387a715357167204f90e30acf3f~c5_100x100.jpeg?x-expires=1647734400&x-signature=yQEydzLL3Euyf7yAzsnIBdLYPFk%3D",
+        "signature": "\ud83d\udc99\ud83d\udc9b, seriousness and Comedy",
+        "createTime": 1603595819,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsV8EZU4b4J9mTOE8GpX_c9IZBs7Bhf6JeVRjp-gGq6TFTMvsAEZz4Nuw9r_IWwKj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 96,
+        "followingCount": 535,
+        "heart": 1392,
+        "heartCount": 1392,
+        "videoCount": 600,
+        "diggCount": 0
+    },
+    "itemList": []
+}

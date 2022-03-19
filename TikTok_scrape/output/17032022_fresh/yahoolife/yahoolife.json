@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6664248602842710022",
+        "shortId": "",
+        "uniqueId": "yahoolife",
+        "nickname": "Yahoo Life",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663975704219653~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=CsPV9CFHN6bo957HRZ63CBocpIU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663975704219653~c5_720x720.jpeg?x-expires=1647651600&x-signature=lv0bd1cYXY2TSDWPUmf0eaMqqzg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663975704219653~c5_100x100.jpeg?x-expires=1647651600&x-signature=Tc3PRHxD%2F4OfOAsV7oCN3IaKG5M%3D",
+        "signature": "The OGs of the internet. \ud83d\udc7e\nPop culture, happy moments, and social things.",
+        "createTime": 1568116830,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAXzf4nxZ1FwIMBEbcNNruqMEPTCZosVWoJw6X7KkG0Gu2YTiFWqsbLR42Dp9_WV0P",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linkin.bio/yahoolifestyle/tiktok",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 421200,
+        "followingCount": 284,
+        "heart": 14600000,
+        "heartCount": 14600000,
+        "videoCount": 931,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6745888777754067974",
+        "shortId": "",
+        "uniqueId": "allblacks",
+        "nickname": "AllBlacks",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/7b99038352c963e5f53bb0b6ca783ee0.jpeg?x-expires=1647378000&x-signature=u332b8cc8w2Jy0wPigZ9GXi9Pds%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/7b99038352c963e5f53bb0b6ca783ee0.jpeg?x-expires=1647378000&x-signature=5jw3Zmc6KZtCweneL6XczslJzXc%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7b99038352c963e5f53bb0b6ca783ee0.jpeg?x-expires=1647378000&x-signature=8MpYebwKBkaFFn%2FDPaCxF%2FH05XQ%3D",
+        "signature": "The offical TikTok page of the All Blacks rugby team",
+        "createTime": 1571256866,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAld67a1KFDWWqA84bo8ewICsENDn_MPF5gbN4sIGWPSH0e-67A6vTfJ5mkP8r_U42",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.allblacks.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Sports/Fitness",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 625500,
+        "followingCount": 83,
+        "heart": 10600000,
+        "heartCount": 10600000,
+        "videoCount": 207,
+        "diggCount": 0
+    },
+    "itemList": []
+}

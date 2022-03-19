@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6817792888748917765",
+        "shortId": "",
+        "uniqueId": "chris.kan_",
+        "nickname": "Christos Kanellis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b48cdc8630d1fd09a4bcf7858d5b8d95~c5_1080x1080.jpeg?x-expires=1647734400&x-signature=qGWEK9zLxuh5xyLZ2lHolTOJtD0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b48cdc8630d1fd09a4bcf7858d5b8d95~c5_720x720.jpeg?x-expires=1647734400&x-signature=fzpP72buddi%2FmEB%2BJth%2F%2BpiQHrI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b48cdc8630d1fd09a4bcf7858d5b8d95~c5_100x100.jpeg?x-expires=1647734400&x-signature=sURACj6kr8hpAy5xkkkj3ICSca8%3D",
+        "signature": "",
+        "createTime": 1589144969,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAs217H3pYd3PjyipHyepBU7K4ZG8RwPR4QGjtX0FuYkCjTpSeZl8v5xpGhoM0adON",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 29,
+        "followingCount": 65,
+        "heart": 251,
+        "heartCount": 251,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

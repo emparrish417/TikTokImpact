@@ -1,0 +1,96 @@
+{
+    "id": "7075856896950848811",
+    "desc": "",
+    "createTime": 1647476316,
+    "video": {
+        "id": "7075856896950848811",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/28f037b0845b45e4a0ec97eca9ca15ce?x-expires=1647583200&x-signature=n5mFL4FlYwoaycDNz5uiIi7bmS4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/231b129fbe7942d897fb9cb5c31d749e_1647476317?x-expires=1647583200&x-signature=Pyo%2B%2F0qLhSC43DZV0nW5c6aZi14%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4ff845abc09843ec875a0edf3d63e9ff_1647476318?x-expires=1647583200&x-signature=c73KhZBPSEnU3KtSfDfIHi1NKDE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e2227f53d681bec29318fbbe4c63c4db/62342b0d/video/tos/useast5/tos-useast5-pve-0068-tx/3e581909efb54c2a9ca0eaa58c57feb2/?a=1988&br=2518&bt=1259&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVRgiDXq&l=202203180047260101131350202080BFC6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M208djk6Zm86OzMzZzczNEApNDpnOmhkNWUzN2g1ZjU1PGdzazFucjRncG1gLS1kMS9zc2IwNF42MzBjMGJjNWMzXzM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e2227f53d681bec29318fbbe4c63c4db/62342b0d/video/tos/useast5/tos-useast5-pve-0068-tx/3e581909efb54c2a9ca0eaa58c57feb2/?a=1988&br=2518&bt=1259&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVRgiDXq&l=202203180047260101131350202080BFC6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M208djk6Zm86OzMzZzczNEApNDpnOmhkNWUzN2g1ZjU1PGdzazFucjRncG1gLS1kMS9zc2IwNF42MzBjMGJjNWMzXzM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/231b129fbe7942d897fb9cb5c31d749e_1647476317~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=WMLynshMl87bzmT68jTL7XKGBnw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/231b129fbe7942d897fb9cb5c31d749e_1647476317~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=kVT%2FudnGq7%2FXhNOdIiZEn%2BwI4Eo%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/28f037b0845b45e4a0ec97eca9ca15ce?x-expires=1647583200&x-signature=EJFCu3H4ZSZvLqrGOiwF%2FmCzOMI%3D",
+        "bitrate": 1289564,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6908169894765020166",
+        "uniqueId": "kcchristensen09",
+        "nickname": "KC <3 I STAND WITH UKRAINE",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57327128f68e0080138be2ddf9f30df2~c5_100x100.jpeg?x-expires=1647648000&x-signature=XiAw0Zp6Qy2Fcx7R8fwaUjRrpJc%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57327128f68e0080138be2ddf9f30df2~c5_720x720.jpeg?x-expires=1647648000&x-signature=mPPPuOiZyj%2FQCYZYqm%2BXumUYCk0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57327128f68e0080138be2ddf9f30df2~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=FphB0KEjfvdX%2BuuK%2FDCu8%2BJytG0%3D",
+        "signature": "You look lost leave <3",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAuTBtQ52fTjFT7ud00uMNRJynGjHw1AQxBnILGsbxcofzEsnOT_Z25-SWKGIDe3uQ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6862920280533256965",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6862920265744124677.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/63208ad747a0017e4836f5ed6f27f1a8~c5_100x100.jpeg?x-expires=1647648000&x-signature=tvxISH7aU6PxNoVJ2BTNV%2FsIK0I%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/63208ad747a0017e4836f5ed6f27f1a8~c5_720x720.jpeg?x-expires=1647648000&x-signature=Y2K8OK%2FPSusttIODDKNVK1gRiTo%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/63208ad747a0017e4836f5ed6f27f1a8~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=JYvaydekEVUXvCMkq9SD3hlhETU%3D",
+        "authorName": "AntiNightcore",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 73
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "grey aesthetic",
+            "ID": "1199634"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9357,
+        "followerCount": 450,
+        "heartCount": 469,
+        "videoCount": 111,
+        "diggCount": 40800,
+        "heart": 469
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

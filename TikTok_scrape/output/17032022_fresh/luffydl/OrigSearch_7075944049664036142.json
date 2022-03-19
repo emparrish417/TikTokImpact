@@ -1,0 +1,98 @@
+{
+    "id": "7075944049664036142",
+    "desc": "Think about it",
+    "createTime": 1647496609,
+    "video": {
+        "id": "7075944049664036142",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0364051b9fc54d1c88ce6f8a7be02c3a?x-expires=1647583200&x-signature=ON6edDYSdCgJSfKBzaGCvPJKSrQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f84953c603c64142b560b1a854e274ee_1647496609?x-expires=1647583200&x-signature=7BZRjnIaxSE7lVMGmM2eRtGgSKY%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cbdb7ef0cb3c47f6995cc72580ec7489_1647496610?x-expires=1647583200&x-signature=qOT3DQh3dA2hXH7zrKsY%2Bxx2bJc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ede0e25e717a6226401c586ee0269f7d/62342af3/video/tos/useast5/tos-useast5-ve-0068c001-tx/41c211f2535c44ec877b06a1593589d0/?a=1988&br=386&bt=193&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThLRgiDXq&l=202203180047100101131350242397225A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRweTg6ZmxmOzMzZzczNEApZTRmZjk8aTtkNzk6ZTRkOmc1YjBscjQwbm1gLS1kMS9zcy8tYjMvY2E0Xl40YF4tLjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ede0e25e717a6226401c586ee0269f7d/62342af3/video/tos/useast5/tos-useast5-ve-0068c001-tx/41c211f2535c44ec877b06a1593589d0/?a=1988&br=386&bt=193&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThLRgiDXq&l=202203180047100101131350242397225A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRweTg6ZmxmOzMzZzczNEApZTRmZjk8aTtkNzk6ZTRkOmc1YjBscjQwbm1gLS1kMS9zcy8tYjMvY2E0Xl40YF4tLjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f84953c603c64142b560b1a854e274ee_1647496609~tplv-tiktok-play.jpeg?x-expires=1648166400&x-signature=vHt6niEHQ9TI01OiyEZ6TFj0u78%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f84953c603c64142b560b1a854e274ee_1647496609~tplv-tiktokx-share-play.jpeg?x-expires=1648166400&x-signature=Q4GfEmPpPXQ6WGSiy2OhmZTSikU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0364051b9fc54d1c88ce6f8a7be02c3a?x-expires=1647583200&x-signature=NGdslrVKUgFr%2BYB%2FNryTblzlQjU%3D",
+        "bitrate": 198164,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6976110310575653893",
+        "uniqueId": "luffydl",
+        "nickname": "SaveUkrain",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/560921545229aeb764f1e57fea07ce4c~c5_100x100.jpeg?x-expires=1647648000&x-signature=VdPN6TgXvv%2F%2B%2F5pTjA24%2FLdZ08c%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/560921545229aeb764f1e57fea07ce4c~c5_720x720.jpeg?x-expires=1647648000&x-signature=5OhCDzihkg8NSbhmF0dx5v5vNcg%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/560921545229aeb764f1e57fea07ce4c~c5_1080x1080.jpeg?x-expires=1647648000&x-signature=8K443lW%2FyVkHTbIAiJFiAbDiWLA%3D",
+        "signature": "I post random skits if you have ideas tell me",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyhls6mBbETG1zEJwxa1X3sZ71hQfB_F-Dqn9ac_kgtq1rQT-vRnK6s31FnEykLwZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7058463948324767746",
+        "title": "Rocking A Cardigan in Atlanta",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d9da0664319d4b24961dedcf2cdbbaf2",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c9379f35a05f49f489ae60d7ac7f7d19.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/c9379f35a05f49f489ae60d7ac7f7d19.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c9379f35a05f49f489ae60d7ac7f7d19.jpeg",
+        "authorName": "lil Shordie Scott",
+        "original": false,
+        "duration": 60,
+        "album": "Rocking A Cardigan in Atlanta"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 100
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 4642,
+        "followerCount": 223,
+        "heartCount": 116,
+        "videoCount": 27,
+        "diggCount": 74500,
+        "heart": 116
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Think about this: when you see stuff one day then go to sleep you remember seeing it yet can\u2019t remember my brain hurts"
+            ]
+        }
+    ],
+    "isAd": false
+}

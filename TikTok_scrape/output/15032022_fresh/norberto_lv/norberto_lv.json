@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6912476584411776006",
+        "shortId": "",
+        "uniqueId": "norberto_lv",
+        "nickname": "Norberto",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b91ca71a576bcdcc4be35a4824939cd~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=ZDkdgUXFsT8vTPOA%2BAb1BatrtCk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b91ca71a576bcdcc4be35a4824939cd~c5_720x720.jpeg?x-expires=1647475200&x-signature=v4%2F7hQ5%2BZt0fe7k3iLE5K2Addvo%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b91ca71a576bcdcc4be35a4824939cd~c5_100x100.jpeg?x-expires=1647475200&x-signature=UJUqEpcsG6%2F1u%2FCufPzYCJ2RfzE%3D",
+        "signature": "Simplemente Norberto.\nRoadToValhalla",
+        "createTime": 1609436551,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAeFHsXQMGnErrS4dWs2mCDT36Az5_V7rbXWFdeZiz-lQow3QIF7iwsEisxaJU4AZP",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4741,
+        "followingCount": 372,
+        "heart": 588500,
+        "heartCount": 588500,
+        "videoCount": 114,
+        "diggCount": 0
+    },
+    "itemList": []
+}

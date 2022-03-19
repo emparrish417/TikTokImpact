@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7068198735980921862",
+        "shortId": "",
+        "uniqueId": "flash_tendance",
+        "nickname": "dailyflix actu",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f08391b3ca9121fd2789dc5377932066~c5_1080x1080.jpeg?x-expires=1647280800&x-signature=%2FTBWGX7pT6%2BrPMBDZsomNRShNZs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f08391b3ca9121fd2789dc5377932066~c5_720x720.jpeg?x-expires=1647280800&x-signature=ICZOaWKM8s%2B9%2BFLJa8q4QqEh0bo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f08391b3ca9121fd2789dc5377932066~c5_100x100.jpeg?x-expires=1647280800&x-signature=miId4GbDmRv5cnjVYMrO73X6KtI%3D",
+        "signature": "vid\u00e9os actualit\u00e9s",
+        "createTime": 1645697343,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7eZpkd3iqhf-G9Ex5xEFej4RYzMMAATM3DQv8t6VTdHHure5XOeWE-3BHtnYVrpJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 69,
+        "followingCount": 7,
+        "heart": 996,
+        "heartCount": 996,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

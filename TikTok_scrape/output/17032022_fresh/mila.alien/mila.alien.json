@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6931034822446072838",
+        "shortId": "",
+        "uniqueId": "mila.alien",
+        "nickname": "Mila Alien",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c24dd4a28d2ed71b904475fcd74d0a57~c5_1080x1080.jpeg?x-expires=1647651600&x-signature=yohorsQsoVyRgpsxDo2btieqJyk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c24dd4a28d2ed71b904475fcd74d0a57~c5_720x720.jpeg?x-expires=1647651600&x-signature=FS1mUKEpdvgoXZcnaoJSmSs4OaI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c24dd4a28d2ed71b904475fcd74d0a57~c5_100x100.jpeg?x-expires=1647651600&x-signature=2G7f75jrk1l%2B5Lec6gF7ofzQEBY%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6Ukrainian in the \ud83c\uddfa\ud83c\uddf8 \nTrying to be your daily bridge with Ukraine",
+        "createTime": 1613757547,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxof2LgdH22O29FXzgLdH7cuQLUfke05yTC_cd7wFbXPXy-o7zkFbXOcSXqtZtD_i",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://msha.ke/mila.alien",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 302600,
+        "followingCount": 305,
+        "heart": 1900000,
+        "heartCount": 1900000,
+        "videoCount": 1122,
+        "diggCount": 0
+    },
+    "itemList": []
+}

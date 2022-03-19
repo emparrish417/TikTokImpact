@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7010835954492015622",
+        "shortId": "",
+        "uniqueId": "tkgeorgian1",
+        "nickname": "tkgeorgian1",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/557bd21906740369f8f1f2bb5dcde2a8~c5_1080x1080.jpeg?x-expires=1647561600&x-signature=EsL1bXOkLEbQtUBWZyRXdWBkiZE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/557bd21906740369f8f1f2bb5dcde2a8~c5_720x720.jpeg?x-expires=1647561600&x-signature=vAHIWU42X1xARDRY0RTM34y4hYU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/557bd21906740369f8f1f2bb5dcde2a8~c5_100x100.jpeg?x-expires=1647561600&x-signature=D7UE6ZKbd2tbEriD32IqICGP6JE%3D",
+        "signature": "\u10db\u10d0\u10d3\u10da\u10dd\u10d1\u10d0 \u10e7\u10e3\u10e0\u10d0\u10d3\u10e6\u10d4\u10d1\u10d8\u10e1\u10d7\u10d5\u10d8\u10e1 \u2764\ufe0f",
+        "createTime": 1639482124,
+        "verified": false,
+        "secUid": "MS4wLjABAAAApFFh_teZW_kUKKU6BsV_7Q0-Pz3cSL6wd0n3i2FNuEaQWrQ-1M-K3DFnwIeVQoee",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14100,
+        "followingCount": 12,
+        "heart": 189100,
+        "heartCount": 189100,
+        "videoCount": 20,
+        "diggCount": 1086
+    },
+    "itemList": []
+}

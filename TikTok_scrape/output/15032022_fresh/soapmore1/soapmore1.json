@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6926127977776382982",
+        "shortId": "",
+        "uniqueId": "soapmore1",
+        "nickname": "soapandmore",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b8ec9b484138ba799a0850f442741623~c5_1080x1080.jpeg?x-expires=1647475200&x-signature=uLeiA9zazJvLbLR7LDq02XTBqxk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b8ec9b484138ba799a0850f442741623~c5_720x720.jpeg?x-expires=1647475200&x-signature=vNbx3F1PiRN6H5rKVVywuS5nJbQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b8ec9b484138ba799a0850f442741623~c5_100x100.jpeg?x-expires=1647475200&x-signature=56GUHgWgfSnAnDE4dJ7Vl7gcI1s%3D",
+        "signature": "handmade Soap and selfcare products \nshop now",
+        "createTime": 1612615298,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAHwbvNdc0hao93ln11eKYNHbLx6fJIrvwv_JhyPKQuIae7C2LknU-HC8Pmd9ryL7K",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.soapandmore.ie",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 434,
+        "followingCount": 45,
+        "heart": 6609,
+        "heartCount": 6609,
+        "videoCount": 138,
+        "diggCount": 0
+    },
+    "itemList": []
+}
