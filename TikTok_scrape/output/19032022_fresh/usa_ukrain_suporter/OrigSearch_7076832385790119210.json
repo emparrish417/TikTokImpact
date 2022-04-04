@@ -1,0 +1,90 @@
+{
+    "id": "7076832385790119210",
+    "desc": "",
+    "createTime": 1647703440,
+    "video": {
+        "id": "7076832385790119210",
+        "height": 1024,
+        "width": 460,
+        "duration": 50,
+        "ratio": "480p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/807a70cca94348babab0f33033ea9d03?x-expires=1647752400&x-signature=MRog1rdNUBbI4HQlZaiddk2WY38%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/23e522708fc54950b53d53b883ccc379_1647703441?x-expires=1647752400&x-signature=iWo7b%2B2wthUlv5k9ufO6bb68OEQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1bf953ba5a6a41258576df3349e9cc87_1647703441?x-expires=1647752400&x-signature=ut1U9je9IqCNvCofiwdKFUTptug%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e78ace4e6df60665879299019b0e378a/6236bde7/video/tos/useast5/tos-useast5-ve-0068c001-tx/f6434492a9ff48f19593912fd40151f6/?a=1988&br=1982&bt=991&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=2&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampob2g6Znh5OzMzZzczNEApNDQ6NjQ2OWU7N2ZmOWhmNWdrYl9gcjQwNm5gLS1kMS9zczAyXmEtNDEyLWBiMV9iLjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e78ace4e6df60665879299019b0e378a/6236bde7/video/tos/useast5/tos-useast5-ve-0068c001-tx/f6434492a9ff48f19593912fd40151f6/?a=1988&br=1982&bt=991&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=2&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampob2g6Znh5OzMzZzczNEApNDQ6NjQ2OWU7N2ZmOWhmNWdrYl9gcjQwNm5gLS1kMS9zczAyXmEtNDEyLWBiMV9iLjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/23e522708fc54950b53d53b883ccc379_1647703441~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=QxlLMaUb6YCk8D8jl64byHL%2B6zM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/23e522708fc54950b53d53b883ccc379_1647703441~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=UVokxLqkMcvCR5IjtvWnI9ka2Nc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/807a70cca94348babab0f33033ea9d03?x-expires=1647752400&x-signature=MRog1rdNUBbI4HQlZaiddk2WY38%3D",
+        "bitrate": 1014970,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6778143466910401541",
+        "uniqueId": "usa_ukrain_suporter",
+        "nickname": "Tyler Andrew's",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/215e0f31772bb628b03bdcd545642e0a~c5_100x100.jpeg?x-expires=1647817200&x-signature=jppZ35x0yXLm321P0P6WLdZ6W3o%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/215e0f31772bb628b03bdcd545642e0a~c5_720x720.jpeg?x-expires=1647817200&x-signature=If0I63YaOBBC0b%2FgMipWeNdXWLI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/215e0f31772bb628b03bdcd545642e0a~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=KdQABZFDIopLzx0ZvxEWp60elWI%3D",
+        "signature": "@animeisgod1305 8s my brother",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArS67TegZfVuE2_6njdtttmXN3jl-wBXv6wV8sK27ovRb9LQj7YpWPhgXulKCkBHB",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076832367628782382",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076832387698576174.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/215e0f31772bb628b03bdcd545642e0a~c5_100x100.jpeg?x-expires=1647817200&x-signature=jppZ35x0yXLm321P0P6WLdZ6W3o%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/215e0f31772bb628b03bdcd545642e0a~c5_720x720.jpeg?x-expires=1647817200&x-signature=If0I63YaOBBC0b%2FgMipWeNdXWLI%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/215e0f31772bb628b03bdcd545642e0a~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=KdQABZFDIopLzx0ZvxEWp60elWI%3D",
+        "authorName": "Tyler Andrew's",
+        "original": true,
+        "duration": 50,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 38
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 9690,
+        "followerCount": 572,
+        "heartCount": 281,
+        "videoCount": 80,
+        "diggCount": 53900,
+        "heart": 281
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

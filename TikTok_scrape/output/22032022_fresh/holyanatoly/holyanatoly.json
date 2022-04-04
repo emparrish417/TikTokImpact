@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7070901326754530310",
+        "shortId": "",
+        "uniqueId": "holyanatoly",
+        "nickname": "HolyAnatoly",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f0ffe577f2d01e52551fac45699bbfeb~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=pJqTxpP00eRxrulMLFKnTKW2CFE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f0ffe577f2d01e52551fac45699bbfeb~c5_720x720.jpeg?x-expires=1648069200&x-signature=RBCqT1EHfV8GgzTEMzYs%2Bfneru4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f0ffe577f2d01e52551fac45699bbfeb~c5_100x100.jpeg?x-expires=1648069200&x-signature=10Dpr3%2BhB3r2O%2BT4sIHa%2BTm2Mf0%3D",
+        "signature": "\u042e\u043c\u043e\u0440, \u0444\u0435\u0439\u043a \u043d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "createTime": 1646322616,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_jcUZjHWyTkxpdT4v7AhVGi5Q--Jyb3BPxOVjurbI7XdNkAkfIGjo0_7RsTrpg7P",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1065,
+        "followingCount": 1,
+        "heart": 30000,
+        "heartCount": 30000,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

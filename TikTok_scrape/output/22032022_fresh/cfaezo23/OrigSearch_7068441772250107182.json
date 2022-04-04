@@ -1,0 +1,98 @@
+{
+    "id": "7068441772250107182",
+    "desc": "Don\u2019t believe the hype",
+    "createTime": 1645749848,
+    "video": {
+        "id": "7068441772250107182",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/db998336012a40e28ad403debd52b190?x-expires=1648004400&x-signature=X2WjGDykQ1xSlCisTNVjuGJAxH4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2ba5d6a666e149faaac3568b0d1bd2e2_1645749848?x-expires=1648004400&x-signature=h1jxLAzrxkli4Mu%2BS7f6W53Ihio%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/755f2102e2ea4f7988d129982477e51b_1645749849?x-expires=1648004400&x-signature=j6vHWGnuU%2FFINB07vFXPGNgRWv0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/1b25c790803f96985ca78e85d610cdcc/623a9623/video/tos/useast5/tos-useast5-ve-0068c003-tx/eb25df771cb248a29d365393fb9df40d/?a=1988&br=1882&bt=941&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwDRMDXq&l=20220322213800010113006135176A5376&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF1Nmc6Zm81OzMzZzczNEApOjM8OTU5N2RpN2g8Nzg4OGdmX2txcjQwYGBgLS1kMS9zc2M1LjVfYi4tNmI2LjUzNWI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/1b25c790803f96985ca78e85d610cdcc/623a9623/video/tos/useast5/tos-useast5-ve-0068c003-tx/eb25df771cb248a29d365393fb9df40d/?a=1988&br=1882&bt=941&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwDRMDXq&l=20220322213800010113006135176A5376&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF1Nmc6Zm81OzMzZzczNEApOjM8OTU5N2RpN2g8Nzg4OGdmX2txcjQwYGBgLS1kMS9zc2M1LjVfYi4tNmI2LjUzNWI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2ba5d6a666e149faaac3568b0d1bd2e2_1645749848~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=fD0uS2ejaeyXc53S3kSWEsG5b6E%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2ba5d6a666e149faaac3568b0d1bd2e2_1645749848~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=A75JKnyQYWn1CD%2BsLxrGYSO%2BK2E%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/db998336012a40e28ad403debd52b190?x-expires=1648004400&x-signature=X2WjGDykQ1xSlCisTNVjuGJAxH4%3D",
+        "bitrate": 964389,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6771562423780164614",
+        "uniqueId": "cfaezo23",
+        "nickname": "cfaezo23",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/89e9bbe6c751af3269704f01f1463256~c5_100x100.jpeg?x-expires=1648069200&x-signature=Bd5%2B9ymaWo3VVXTkF87oa7n4Pe4%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/89e9bbe6c751af3269704f01f1463256~c5_720x720.jpeg?x-expires=1648069200&x-signature=mFw83mXaT8Kf8Kwy2ccSJbHno4c%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/89e9bbe6c751af3269704f01f1463256~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=gAzY1DMGo6t%2BNpRvZaHivQMTDq8%3D",
+        "signature": "Don\u2019t believe the hype\u2026\nSnap: suppaspalding \nIG: cfaezo",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhm1AUAsdoXss8OPrCluRVffHdPmz3zbeYZ7UT_uI5FnRDmGnOQ-Wx6yfQiKILrSj",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7048810710775712559",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7048807118840941359.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/712bdd705bb5eb46967810ff2ae09e6e~c5_100x100.jpeg?x-expires=1648069200&x-signature=ngjSAi5d1WhkSOlOYgIHeYw6%2FTU%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/712bdd705bb5eb46967810ff2ae09e6e~c5_720x720.jpeg?x-expires=1648069200&x-signature=C5AvusyyJmVqYtCNDqsp7hOH7V4%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/712bdd705bb5eb46967810ff2ae09e6e~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=oKJgzmQEroIHU5jWjc8MeI986Do%3D",
+        "authorName": "RULA",
+        "original": true,
+        "duration": 28,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 27,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 395
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 10,
+        "followerCount": 512,
+        "heartCount": 10200,
+        "videoCount": 358,
+        "diggCount": 714,
+        "heart": 10200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Someone really just said \u201cI\u2019d love to see ukraine pull off the upset\u201d\ud83d\ude2d"
+            ]
+        }
+    ],
+    "isAd": false
+}

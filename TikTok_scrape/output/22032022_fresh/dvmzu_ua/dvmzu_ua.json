@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7016256953434014725",
+        "shortId": "",
+        "uniqueId": "dvmzu_ua",
+        "nickname": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430, \u043c\u0438 \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438\ud83d\udc4b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8f6a438650d7a583f51cd1d2ff610bc~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=cMSu%2BtY%2Fk7NWxmahU2szPI6%2BDxs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8f6a438650d7a583f51cd1d2ff610bc~c5_720x720.jpeg?x-expires=1648069200&x-signature=L2mVcYSogklb3JaSLf19rFTu%2Flk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8f6a438650d7a583f51cd1d2ff610bc~c5_100x100.jpeg?x-expires=1648069200&x-signature=996YM94pyNwmwPeJOmvQJW3p6oQ%3D",
+        "signature": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0456 \u0441\u0432\u0456\u0442\u0443, \u043d\u043e\u0432\u0438\u043d\u0438 \u043e\u043d\u043b\u0430\u0439\u043d. \u0421\u0438\u043b\u043a\u0430 \u043d\u0430 \u043d\u0430\u0448 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u043a\u0430\u043d\u0430\u043b\ud83d\udc47\ud83c\udffb",
+        "createTime": 1633599692,
+        "verified": false,
+        "secUid": "MS4wLjABAAAApVOfLZ4zereLR4zOR2aBguaXjynwx1oKqDylqldPcTaF2Dp9kVUK3wgeGZjD8Erb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/+J1Ey8wc5YWQxN2Y6",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 20500,
+        "followingCount": 0,
+        "heart": 8889,
+        "heartCount": 8889,
+        "videoCount": 74,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7030196589310280709",
+        "shortId": "",
+        "uniqueId": "made_in_ukrain",
+        "nickname": "made_in_Ukrain",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fce33169c311e8adefda8198a0ff0ab~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=g8pzODYuFfcqBugIzDwciJ3mogY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fce33169c311e8adefda8198a0ff0ab~c5_720x720.jpeg?x-expires=1649116800&x-signature=2YWrL0N%2FbNLoqWQZ6tpaxB6WqFs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fce33169c311e8adefda8198a0ff0ab~c5_100x100.jpeg?x-expires=1649116800&x-signature=I4zCip770%2F9BEsBXmIX%2FSCc9NCs%3D",
+        "signature": "",
+        "createTime": 1636845250,
+        "verified": false,
+        "secUid": "MS4wLjABAAAARJiqJg86JhvuBzgKgBOLgEaYKWhMsbZqpE9aANNn7LGryerxTC7mHQplBzwDBckV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 225,
+        "followingCount": 261,
+        "heart": 6128,
+        "heartCount": 6128,
+        "videoCount": 119,
+        "diggCount": 0
+    },
+    "itemList": []
+}

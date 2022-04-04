@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7075861335339287598",
+        "shortId": "",
+        "uniqueId": "the_red_dragon0",
+        "nickname": "\u2764\ufe0f???\u2764\ufe0f",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cd5151cbfc3bbcf55481cc8794475db1~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=DQ8H9fTihNRWF76%2F1fIVy1XXDps%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cd5151cbfc3bbcf55481cc8794475db1~c5_720x720.jpeg?x-expires=1649116800&x-signature=DstkoNZIXEmoFSwm4rFqn4WVZLI%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cd5151cbfc3bbcf55481cc8794475db1~c5_100x100.jpeg?x-expires=1649116800&x-signature=7hSzgxJp7GQRLQJIxmpuiF9beUc%3D",
+        "signature": "Hello\nI\u2019m a png \nI hope you have a good day !",
+        "createTime": 1647477647,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAdrnYGBASkV27dGOgGHkkxdWJtibcxmLPL-3VZ1XH5WJqUBkW-zBWmd4XG9PVQTaR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17,
+        "followingCount": 93,
+        "heart": 9,
+        "heartCount": 9,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

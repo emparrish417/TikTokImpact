@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7076070157295191046",
+        "shortId": "",
+        "uniqueId": "newsuntillnow",
+        "nickname": "Newsuntillnow",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bcaf479525f2958cc4e7da5832c0f33d~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=YclaWsjvYoTj8RIvQY0qa%2BpfrOQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bcaf479525f2958cc4e7da5832c0f33d~c5_720x720.jpeg?x-expires=1649116800&x-signature=5qWsNb8vhxQ8r79PLn08%2FVepPGk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bcaf479525f2958cc4e7da5832c0f33d~c5_100x100.jpeg?x-expires=1649116800&x-signature=21hMacDFZETUmSTTj9dD8ZJyEPU%3D",
+        "signature": "Follow me for News updates",
+        "createTime": 1647526031,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYCBtfTLh0kCUjzUR-QJFR-HJEhB4yRGLjFiyrJzQFjrxUlpL1M0HmpILD2v12D80",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2734,
+        "followingCount": 34,
+        "heart": 23400,
+        "heartCount": 23400,
+        "videoCount": 249,
+        "diggCount": 0
+    },
+    "itemList": []
+}

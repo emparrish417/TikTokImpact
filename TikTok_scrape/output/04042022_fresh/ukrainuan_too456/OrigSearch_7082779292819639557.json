@@ -1,0 +1,127 @@
+{
+    "id": "7082779292819639557",
+    "desc": "#BADLAND",
+    "createTime": 1649088065,
+    "video": {
+        "id": "7082779292819639557",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2b1b08fb0e5a45d480f08f49a157890e?x-expires=1649131200&x-signature=nfk%2FzLiqJCsLrlc8yEm4TuTY5oM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/08914df6a1f5462586bfcf691e117091_1649088066?x-expires=1649131200&x-signature=JNfF2cML%2B4K5NnuPqezvjYVfGlY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f80f785eafd14004ab3b13f622c145d4_1649088067?x-expires=1649131200&x-signature=AE2yiTW71VfnatOZLGKgBb0w1DQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/978e62a7cf68218646ef775f26caa280/624bc0ff/video/tos/useast2a/tos-useast2a-ve-0068c002/ed33323b130d444e80c698d82274f720/?a=1988&br=3844&bt=1922&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th4peqDXq&l=2022040422092001011313511702A60FEA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amd4Mzw6ZnZrPDMzNzczM0ApN2ZlPDtnOzs4Nzw8N2Y2aWdfbDVecjRnXzJgLS1kMTZzcy0xYC01Ly8wYmA0YWMtYzU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/978e62a7cf68218646ef775f26caa280/624bc0ff/video/tos/useast2a/tos-useast2a-ve-0068c002/ed33323b130d444e80c698d82274f720/?a=1988&br=3844&bt=1922&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th4peqDXq&l=2022040422092001011313511702A60FEA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amd4Mzw6ZnZrPDMzNzczM0ApN2ZlPDtnOzs4Nzw8N2Y2aWdfbDVecjRnXzJgLS1kMTZzcy0xYC01Ly8wYmA0YWMtYzU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/08914df6a1f5462586bfcf691e117091_1649088066~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=0DnRUWRyAji%2B9mk60UiCRdend2w%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/08914df6a1f5462586bfcf691e117091_1649088066~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=AVVda8cxa%2BKW7SsowYlM%2B%2BxD5vw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2b1b08fb0e5a45d480f08f49a157890e?x-expires=1649131200&x-signature=nfk%2FzLiqJCsLrlc8yEm4TuTY5oM%3D",
+        "bitrate": 1968482,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6860769956989453313",
+        "uniqueId": "ukrainuan_too456",
+        "nickname": "\u0422\u0438\u043c\u0443\u0440 \u041c\u0430\u0442\u0432\u0435\u0454\u0432",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082014039613636614~c5_100x100.jpeg?x-expires=1649196000&x-signature=XDIZQxYtIId0xvaZxgf1KLDeP60%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082014039613636614~c5_720x720.jpeg?x-expires=1649196000&x-signature=hjAmLXwiEiTN1r9fFLvo55JkGtE%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082014039613636614~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=L%2FMnQujFSF27mFlMEbugzXqApZo%3D",
+        "signature": "\u0430\u0431\u043e\u0431\u0430",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiPvaiQPelktHrT7xw02GoHlp419v9xYGClOaZ2PCGX-k_5Q2YjmN2_7ue4QpJNC7",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7060154433442859010",
+        "title": "Stefania (Kalush Orchestra)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/32d14dc5e74b432ea17ee515141f32b5",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7940b436c44e4a8ca645068a8e18fdc3.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/7940b436c44e4a8ca645068a8e18fdc3.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7940b436c44e4a8ca645068a8e18fdc3.jpeg",
+        "authorName": "KALUSH",
+        "original": false,
+        "duration": 60,
+        "album": "Stefania (Kalush Orchestra)"
+    },
+    "challenges": [
+        {
+            "id": "5390014",
+            "title": "badland",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 136
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "badland",
+            "hashtagId": "5390014",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 30,
+        "followerCount": 5,
+        "heartCount": 33,
+        "videoCount": 7,
+        "diggCount": 22,
+        "heart": 33
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0433\u0440\u0430\u044e \u043d\u0430 \u043f\u0443\u043b\u044c\u0442\u0456"
+            ]
+        }
+    ],
+    "isAd": false
+}

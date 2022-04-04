@@ -1,0 +1,129 @@
+{
+    "id": "7079920389731700010",
+    "desc": "#ukraine",
+    "createTime": 1648422423,
+    "video": {
+        "id": "7079920389731700010",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/83e84a6040864573a52793c9aae706fd?x-expires=1648515600&x-signature=djHh5wq96D2S4kVLuBbU0k9hSK8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2d7f4a75b979455c8a519cc743af4b56_1648422424?x-expires=1648515600&x-signature=Q61XXdn26aHmPmd8JSr7HCVdEas%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d15ed18b5f294515a074935344ba2720_1648422424?x-expires=1648515600&x-signature=7xbgnyWE3Mp4f%2BgOHXaj1yq4Ons%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/87afd26ae4a9751a59ce3ad30ba8a868/62425eaa/video/tos/useast5/tos-useast5-pve-0068-tx/7a9502b3a9fd43679e71aa3749182f27/?a=1988&br=398&bt=199&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8mugDXq&l=202203281919280101130061471834C03B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNlaGY6ZndoPDMzZzczNEApNDo3NzM5Ozw8Nzc3aDpoOWc1ZF5tcjQwbC1gLS1kMS9zcy1jMl5jXzMvLV82YTJfYV86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/87afd26ae4a9751a59ce3ad30ba8a868/62425eaa/video/tos/useast5/tos-useast5-pve-0068-tx/7a9502b3a9fd43679e71aa3749182f27/?a=1988&br=398&bt=199&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8mugDXq&l=202203281919280101130061471834C03B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNlaGY6ZndoPDMzZzczNEApNDo3NzM5Ozw8Nzc3aDpoOWc1ZF5tcjQwbC1gLS1kMS9zcy1jMl5jXzMvLV82YTJfYV86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2d7f4a75b979455c8a519cc743af4b56_1648422424~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=Zz9tNkRM%2FtKcj9dmhYubfQfGoOI%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2d7f4a75b979455c8a519cc743af4b56_1648422424~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=jjCdlLoloShhZEfA8skcgBLKdhA%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/83e84a6040864573a52793c9aae706fd?x-expires=1648515600&x-signature=2s%2FCsRjrAa%2B7KsCxbvSLnjVQuGI%3D",
+        "bitrate": 204762,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6852255841711326214",
+        "uniqueId": "amintiktok1919",
+        "nickname": "Amintiktok1919",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1af80e2bd77ef4a05c2dedcfd3a8b8fe~c5_100x100.jpeg?x-expires=1648580400&x-signature=Ya4%2Faf6fSsOqAAmuv3prJruD5%2F0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1af80e2bd77ef4a05c2dedcfd3a8b8fe~c5_720x720.jpeg?x-expires=1648580400&x-signature=q32tIr%2BbqLtSonNPa71xwvzqlmc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1af80e2bd77ef4a05c2dedcfd3a8b8fe~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=zum%2FuKvw39TmPWFrl7lvuf9TRWI%3D",
+        "signature": "Hi\n\ud83c\uddee\ud83c\uddf7&\ud83c\uddfa\ud83c\uddf8",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGLZIQn3DvLTp7Q5N-gy85RNbqWQTLUw1jPIbJUfx-HGNCwto-liBjZiAtaAvzp4R",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6642168923733101314",
+        "title": "Funny Laugh no no no",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c93f2e38c2d04b50be1e683d7c77a9be",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/0e69c700d0f74a41bcdafeadd42ce3bf.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/0e69c700d0f74a41bcdafeadd42ce3bf.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/0e69c700d0f74a41bcdafeadd42ce3bf.jpeg",
+        "authorName": "Sound Effect",
+        "original": false,
+        "duration": 10,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 19,
+        "shareCount": 2,
+        "commentCount": 0,
+        "playCount": 541
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 982,
+        "followerCount": 97,
+        "heartCount": 19,
+        "videoCount": 1,
+        "diggCount": 1248,
+        "heart": 19
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\ude09\ud83d\ude02\ud83d\ude02",
+                "Putin attacked Ukraine after seeing this picture \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+                "\u067e\u0648\u062a\u06cc\u0646 \u0628\u0639\u062f \u0627\u0632 \u062f\u06cc\u062f\u0646 \u0627\u06cc\u0646 \u0639\u06a9\u0633 \u0628\u0647 \u0627\u06a9\u0631\u0627\u06cc\u0646 \u062d\u0645\u0644\u0647 \u06a9\u0631\u062f\ud83d\ude09\ud83d\ude02\ud83d\ude02"
+            ]
+        }
+    ],
+    "isAd": false
+}

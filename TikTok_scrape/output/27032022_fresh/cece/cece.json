@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6555870999689461765",
+        "shortId": "",
+        "uniqueId": "cece",
+        "nickname": "CeCe Vu",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6fba42328cfe3ae6dcab43fec95d0817~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=Tpl5XFmx%2BD7KECIaEYEfFWl7%2FyU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6fba42328cfe3ae6dcab43fec95d0817~c5_720x720.jpeg?x-expires=1648515600&x-signature=aPBngMtc6j5xqjw%2BVl1AHBCoVt8%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6fba42328cfe3ae6dcab43fec95d0817~c5_100x100.jpeg?x-expires=1648515600&x-signature=r3Ve7h9PzgnOAEeF7y4ook%2FCt4c%3D",
+        "signature": "\u25aa\ufe0f Leading Fashion & Beauty at @tiktok \n\u25aa\ufe0f \ud83e\udde0 \ud83d\udcad \u270d\ufe0f Opinions are my own",
+        "createTime": 1526931793,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAehpwpXWH5mANrS1iYqGJI3mcVyZYXqJA2eQefbCxdxEMUzXd3ygPq2IvXghVcqxk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://bio.site/T9qFTn",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 145400,
+        "followingCount": 1573,
+        "heart": 2300000,
+        "heartCount": 2300000,
+        "videoCount": 129,
+        "diggCount": 0
+    },
+    "itemList": []
+}

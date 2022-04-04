@@ -1,0 +1,204 @@
+{
+    "id": "7070158111876861230",
+    "desc": "Videos show a massive #explosion at Kharkiv\u2019s administration building, and the aftermath as seen from inside the building. #Ukraine #Russia #news",
+    "createTime": 1646149466,
+    "video": {
+        "id": "7070158111876861230",
+        "height": 1024,
+        "width": 576,
+        "duration": 23,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7339a15ef043452eba6d353082d730b4_1646149467?x-expires=1648699200&x-signature=pzTB0vgFtiLMcPLurBdO7eSohTI%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a4487c7cba224e05bc3632d9784b1801_1646149466?x-expires=1648699200&x-signature=P5HX9t8r%2Bd3cOEq8EXBn2QEoyrQ%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e63d8b343fbd4b56ac9a4f98835cee5c_1646149467?x-expires=1648699200&x-signature=l6nuzwCK0F94kBQtTanK%2FkljrOo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/02b01a97e3b4e80beb983e5faf834d6c/62452a7c/video/tos/useast5/tos-useast5-ve-0068c003-tx/76a48bd04b194d3cb72516a2b56ba8f4/?a=1988&br=2848&bt=1424&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQyFzDXq&l=202203302213240101131350820342E401&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVnajo6ZjQ2OzMzZzczNEApNmY0Njk8NzszNzw5ZjM1Z2dyLzZrcjQwbmNgLS1kMS9zczAzMzViLTExNGBhNGNiYV86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/02b01a97e3b4e80beb983e5faf834d6c/62452a7c/video/tos/useast5/tos-useast5-ve-0068c003-tx/76a48bd04b194d3cb72516a2b56ba8f4/?a=1988&br=2848&bt=1424&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQyFzDXq&l=202203302213240101131350820342E401&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVnajo6ZjQ2OzMzZzczNEApNmY0Njk8NzszNzw5ZjM1Z2dyLzZrcjQwbmNgLS1kMS9zczAzMzViLTExNGBhNGNiYV86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a4487c7cba224e05bc3632d9784b1801_1646149466~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=Ykxu6y%2BVL7AgF%2BypnnJRZ3kpNNo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a4487c7cba224e05bc3632d9784b1801_1646149466~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=qGNFAa%2BHgKYsk%2F6e%2B5Zi84xBZQs%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7339a15ef043452eba6d353082d730b4_1646149467?x-expires=1648699200&x-signature=KLaM2TNHQ7SVi8Z4y8QgbhzydXQ%3D",
+        "bitrate": 1458448,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6652774777768427525",
+        "uniqueId": "nbcnews",
+        "nickname": "nbcnews",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_100x100.jpeg?x-expires=1648764000&x-signature=yg2cpvhrduJg53UZnXLhKYtMXxM%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_720x720.jpeg?x-expires=1648764000&x-signature=UlfEeqAMaRU031yUic4pEUb593E%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=GxbMXlwUbebH5ieSrdEeJNeY3s8%3D",
+        "signature": "Your trusted source for the top news around the \ud83c\udf0e",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAPKwfIjVxeU_QM21ur63vnT_eJtYyiIFDRAZO7PUpPaUwSfV0LNTa6mCczB108mUZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7070158044935785262",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7070158098014505774.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_100x100.jpeg?x-expires=1648764000&x-signature=yg2cpvhrduJg53UZnXLhKYtMXxM%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_720x720.jpeg?x-expires=1648764000&x-signature=UlfEeqAMaRU031yUic4pEUb593E%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=GxbMXlwUbebH5ieSrdEeJNeY3s8%3D",
+        "authorName": "nbcnews",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "75604",
+            "title": "explosion",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "76414",
+            "title": "news",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 197600,
+        "shareCount": 23600,
+        "commentCount": 6412,
+        "playCount": 6100000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 32,
+            "hashtagName": "explosion",
+            "hashtagId": "75604",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 123,
+            "end": 131,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 132,
+            "end": 139,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 140,
+            "end": 145,
+            "hashtagName": "news",
+            "hashtagId": "76414",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 11,
+        "followerCount": 2500000,
+        "heartCount": 70100000,
+        "videoCount": 765,
+        "diggCount": 112,
+        "heart": 70100000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\udcf9 State Emergency Services of Ukraine",
+                "Surveillance video \nshows explosion at Kharkiv\u2019s Regional Administration Building",
+                "Aftermath of the explosion inside \nthe building "
+            ]
+        }
+    ],
+    "isAd": false
+}

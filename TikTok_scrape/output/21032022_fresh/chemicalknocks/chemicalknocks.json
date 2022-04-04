@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7057602245764400134",
+        "shortId": "",
+        "uniqueId": "chemicalknocks",
+        "nickname": "Bastly",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3cc3dea2fbd5b4e4b2683effc3006e9c~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=qwdQFKWDVRX7C8mLn96bjlp6%2FE8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3cc3dea2fbd5b4e4b2683effc3006e9c~c5_720x720.jpeg?x-expires=1647986400&x-signature=EUl%2Fm6axYGeF8gz6ntE6VEkmqi8%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3cc3dea2fbd5b4e4b2683effc3006e9c~c5_100x100.jpeg?x-expires=1647986400&x-signature=z%2BOUmbZWHUJqorIIHA52KerwSQo%3D",
+        "signature": "",
+        "createTime": 1643247954,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAm2eb-ccDYPNZITcc2I610aY35EsQmkcMV5vQrtStJ1Up-poO6QsOOlQtQn_mjfSH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 0,
+        "heart": 9,
+        "heartCount": 9,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

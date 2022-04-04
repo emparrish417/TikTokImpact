@@ -1,0 +1,104 @@
+{
+    "id": "7080782804182650118",
+    "desc": "hahahaha I'd say I'm pretty gay",
+    "createTime": 1648623220,
+    "video": {
+        "id": "7080782804182650118",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a3ce4b8f38a94af68bb43fbd503e2ba0?x-expires=1648699200&x-signature=5bfKFD4NkkLniRr%2Fx8g%2BlsoLZMA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/592ffce2640046e2a44f5909ed9c5c50_1648623221?x-expires=1648699200&x-signature=P5f6%2B1sEhCAOEteL%2BJLvaUrB3uE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7ec01ad596bc44bb8cb86c2f5ee2b2ea_1648623222?x-expires=1648699200&x-signature=58t06%2BP73CERnONtho0p11sAzWo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/666a2ecd25ea081c005f976a76759eae/62452a6c/video/tos/useast2a/tos-useast2a-ve-0068c004/d3b75210f9b542ba93cb484e5d098b84/?a=1988&br=1038&bt=519&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQyFzDXq&l=202203302213240101131350820342E401&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amlldWk6Zmd5PDMzNzczM0ApPGhmNmlnNjs1NzQ0PDtoaGdfci0ycjRfby5gLS1kMTZzc2EwYDAtL2EwX18zXy1jXjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/666a2ecd25ea081c005f976a76759eae/62452a6c/video/tos/useast2a/tos-useast2a-ve-0068c004/d3b75210f9b542ba93cb484e5d098b84/?a=1988&br=1038&bt=519&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQyFzDXq&l=202203302213240101131350820342E401&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amlldWk6Zmd5PDMzNzczM0ApPGhmNmlnNjs1NzQ0PDtoaGdfci0ycjRfby5gLS1kMTZzc2EwYDAtL2EwX18zXy1jXjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/592ffce2640046e2a44f5909ed9c5c50_1648623221~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=T08ofHdFkhW6pu6rnT8%2BFD4a%2F0c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/592ffce2640046e2a44f5909ed9c5c50_1648623221~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=xeKUH1%2F%2BdolE2qOL%2BEycTJumUb0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a3ce4b8f38a94af68bb43fbd503e2ba0?x-expires=1648699200&x-signature=5bfKFD4NkkLniRr%2Fx8g%2BlsoLZMA%3D",
+        "bitrate": 531754,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7046775187371836421",
+        "uniqueId": "its_ukrainpllzzzzz",
+        "nickname": "@Dotty.._Asthetic\ud83d\udc90",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8a7dabda7d3b91ec14dcae69a27946c~c5_100x100.jpeg?x-expires=1648764000&x-signature=tboWeozEx1KLFtJ0WwlzNCsZ6Yg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8a7dabda7d3b91ec14dcae69a27946c~c5_720x720.jpeg?x-expires=1648764000&x-signature=lLGyHh4oRV%2FjoM8%2BOYkgh3H9ElE%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8a7dabda7d3b91ec14dcae69a27946c~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=eVlCbO%2Fdm2hUjusbbZZD%2Bs9oNkw%3D",
+        "signature": "dddotty_aSthEtiC",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQRo-oTtxMnU40K1xpv0Rq37Ulc4xjzo0nQHO_zSGqJT0UJBAIFKZCff0luFpav8H",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030332418334804763",
+        "title": "original sound - jowenski_",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7030332355852405531.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/f759fc48333a2c7f345aa87f5644930c~c5_100x100.jpeg?x-expires=1648764000&x-signature=ZfL7fg40O5FXQq8UZlymfSj9%2BwM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/f759fc48333a2c7f345aa87f5644930c~c5_720x720.jpeg?x-expires=1648764000&x-signature=sbmZ4LOMzUmHZElSSID4E0yU0F0%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/f759fc48333a2c7f345aa87f5644930c~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=8RnkXMaTpy4LK6t2dC%2Fe4a2AQWk%3D",
+        "authorName": "omanski_",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 17
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Midnight",
+            "ID": "1121448"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 114,
+        "followerCount": 127,
+        "heartCount": 441,
+        "videoCount": 107,
+        "diggCount": 7940,
+        "heart": 441
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "the closer you are the gayer you are \ud83d\udc4c"
+            ]
+        }
+    ],
+    "isAd": false
+}

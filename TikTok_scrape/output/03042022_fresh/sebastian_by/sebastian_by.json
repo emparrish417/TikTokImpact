@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6636280829952475142",
+        "shortId": "",
+        "uniqueId": "sebastian_by",
+        "nickname": "deh\u015fet63",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/c88c3d8ecbabe70dbe9ee2e179f96582.jpeg?x-expires=1649116800&x-signature=jKlNMpTvxqQIBgSCgVwxZ3RXjfE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/c88c3d8ecbabe70dbe9ee2e179f96582.jpeg?x-expires=1649116800&x-signature=hYNgk5lbvQzL5ojLJL7ME6FFNAs%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c88c3d8ecbabe70dbe9ee2e179f96582.jpeg?x-expires=1649116800&x-signature=FRe13Orlzn%2BlAZbvAubmyhh2bd4%3D",
+        "signature": "",
+        "createTime": 1545101693,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWuoffti5yODA3wO0-tgM9lVd379xy4iRAEjvVR_BGHN7cdUm1wrKoG6r4UxqYc_I",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1337,
+        "followingCount": 2866,
+        "heart": 7885,
+        "heartCount": 7885,
+        "videoCount": 229,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6716718540399117318",
+        "shortId": "",
+        "uniqueId": "jiubel_",
+        "nickname": "Jiubel",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ae14ebaa73c78a8665639f781a03f7b~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=54PHWXbZLb3%2BYnPdaxkZe%2BOHXQo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ae14ebaa73c78a8665639f781a03f7b~c5_720x720.jpeg?x-expires=1648069200&x-signature=iJlpcXwNhAJTh2EPMGql6FiAdeU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ae14ebaa73c78a8665639f781a03f7b~c5_100x100.jpeg?x-expires=1648069200&x-signature=U6VLhL6zlnpMm7WI2U8SqwrcxEk%3D",
+        "signature": "Pre save song below",
+        "createTime": 1563829226,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASPlao9oqAtnnafh8dZWi6NuN5E6YTcKEybANKl96ZukQj_9DlOqQZ16efzCGcfbj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://jiubel.fanlink.to/castaway",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1000000,
+        "followingCount": 123,
+        "heart": 26300000,
+        "heartCount": 26300000,
+        "videoCount": 168,
+        "diggCount": 0
+    },
+    "itemList": []
+}

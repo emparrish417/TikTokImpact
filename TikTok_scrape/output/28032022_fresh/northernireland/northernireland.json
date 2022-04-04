@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6736268461674218501",
+        "shortId": "",
+        "uniqueId": "northernireland",
+        "nickname": "Northern Ireland",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658979428196358~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=%2FqC1G10C4ksIHMDgE5J6m%2BCggjA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658979428196358~c5_720x720.jpeg?x-expires=1648580400&x-signature=OKJ0GMqtwM6PFbf8bvMN9wes%2BuA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658979428196358~c5_100x100.jpeg?x-expires=1648580400&x-signature=8b%2FSxzQbb9%2FQFjwmyuRUGS6bK1A%3D",
+        "signature": "\ud83d\udfe2\u26aa\ufe0f #GAWA",
+        "createTime": 1582096933,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAcQb5XIzna7T7FZidPZzTIr4_JbG0LPuHv2QfNok9coqAf_PlyHqops7dUR7W2n-H",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://m.youtube.com/c/NorthernIrelandYT?sub_confirmation=1",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Sports/Fitness",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 125500,
+        "followingCount": 127,
+        "heart": 1400000,
+        "heartCount": 1400000,
+        "videoCount": 258,
+        "diggCount": 0
+    },
+    "itemList": []
+}

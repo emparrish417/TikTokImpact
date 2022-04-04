@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7029983841398293510",
+        "shortId": "",
+        "uniqueId": "trendingfly",
+        "nickname": "TrendingFly",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/54ef2df3ec8f666e9cfc977dd052abb8~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=W18lVT6aphdTNpTOnG%2FRaGY4vI4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/54ef2df3ec8f666e9cfc977dd052abb8~c5_720x720.jpeg?x-expires=1648515600&x-signature=uk2K4bp7VnZ1NeEvvErMjZV6MPk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/54ef2df3ec8f666e9cfc977dd052abb8~c5_100x100.jpeg?x-expires=1648515600&x-signature=0P7G6zxAtpXWP%2Byjm1ZMTtsU8uE%3D",
+        "signature": "\ud83d\udcc8 Trending Video \ud83d\udcc8\n\u2665\ufe0f Follow For daily updates \u2665\ufe0f",
+        "createTime": 1636820387,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoYzX_BodgQhAjAQe3eZ6CTpBk0fYVQF4-TEVItk-LRwF8H7IUAdTyet1mZMLCOi-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 21,
+        "followingCount": 1,
+        "heart": 181,
+        "heartCount": 181,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

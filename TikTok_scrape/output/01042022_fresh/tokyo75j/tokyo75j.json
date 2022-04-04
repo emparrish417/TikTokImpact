@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7051917130967892997",
+        "shortId": "",
+        "uniqueId": "tokyo75j",
+        "nickname": "Tokyo",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c917041de0935b569298689ef59a110~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=EVR6IwbmyTSSEaAcIbFuITclm34%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c917041de0935b569298689ef59a110~c5_720x720.jpeg?x-expires=1648940400&x-signature=cAy6yU1ZQdU4DWXAUo2a3SQvbSA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c917041de0935b569298689ef59a110~c5_100x100.jpeg?x-expires=1648940400&x-signature=NO%2FbDQGYRlOOnCeISTnwil38Zd4%3D",
+        "signature": "Be kind to yourself and to the others",
+        "createTime": 1641902611,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA20xdkpwNOujNimXjxaCU5YtOAYI5BI9xV6KrEraJQh-7GFUF2A_4WVdzenH_jTxF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Health & Wellness",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 40,
+        "followingCount": 66,
+        "heart": 85,
+        "heartCount": 85,
+        "videoCount": 19,
+        "diggCount": 0
+    },
+    "itemList": []
+}

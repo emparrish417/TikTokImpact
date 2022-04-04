@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6789636101403395073",
+        "shortId": "",
+        "uniqueId": "tj_hrnandz",
+        "nickname": "TJ\u30fe",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/264b5a0274b2b15d445fbb14b274cb85~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=C57lbcJ26e%2BAs56SV8f1u12UZnI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/264b5a0274b2b15d445fbb14b274cb85~c5_720x720.jpeg?x-expires=1648069200&x-signature=nMGnIjwaa2Xc%2FY3Kgy8%2FAP3G%2F%2Fk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/264b5a0274b2b15d445fbb14b274cb85~c5_100x100.jpeg?x-expires=1648069200&x-signature=hSvPD6YGgGSZYdGR83hZ5uqBU%2Fk%3D",
+        "signature": "\u00a9ontent creator\u2122\nHi\ud83e\ude7a",
+        "createTime": 1580806777,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGHjcJBLL2dpPbAnf_GdkhKOhRrqMrmHhAGOa6l1B8oFoz5QdiKVXTy_p2cOe7dfc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 77100,
+        "followingCount": 11,
+        "heart": 3200000,
+        "heartCount": 3200000,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

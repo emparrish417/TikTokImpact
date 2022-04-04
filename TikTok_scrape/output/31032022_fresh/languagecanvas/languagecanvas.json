@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6997140829849551877",
+        "shortId": "",
+        "uniqueId": "languagecanvas",
+        "nickname": "Language Canvas",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65522de79c6aa319521e2add71a65464~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=qajaww5dJMWcbJ%2BVwCC5UGeeyCc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65522de79c6aa319521e2add71a65464~c5_720x720.jpeg?x-expires=1648850400&x-signature=v9i%2BftJDkJpFGCcvZ%2BKdzRRUSno%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65522de79c6aa319521e2add71a65464~c5_100x100.jpeg?x-expires=1648850400&x-signature=PrFU4SbVC0l81QRM%2BJ3NO4tbw6A%3D",
+        "signature": "Online language learning with original video stories, annotations, exercises",
+        "createTime": 1629149131,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcrm9rohz_ggjGOwMgLqEBXlN2AZN8LWKW9_4j1W9tPkO5-B2ErBiNLl4zVxmmdph",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Www.languagecanvas.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Education & Training",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13,
+        "followingCount": 1,
+        "heart": 78,
+        "heartCount": 78,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

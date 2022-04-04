@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6904736114286314502",
+        "shortId": "",
+        "uniqueId": "yahoofinance",
+        "nickname": "Yahoo Finance",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39bffaf50fc8aad4cfd2e2b0a28aebde~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=78OztsZTF%2FkH4GP6MPOguPIDhJg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39bffaf50fc8aad4cfd2e2b0a28aebde~c5_720x720.jpeg?x-expires=1648940400&x-signature=XTY8szUENvpT17%2FIjC9bWHZo6%2F0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39bffaf50fc8aad4cfd2e2b0a28aebde~c5_100x100.jpeg?x-expires=1648940400&x-signature=VmgJDZE6NglvxBsoGoLg%2FSd3ZhU%3D",
+        "signature": "Yes, we still exist \ud83d\ude02 & we\u2019re the biggest business platform on the planet. \ud83c\udf0e",
+        "createTime": 1607634265,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAtkCAmAOFxaYqCR8aoL7HI_CTDzE6F6wEFHzRXb1xK6XpXrA3T_5ljU6N93QXyeYH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://finance.yahoo.com/?ncid=tiktok_yfsocialti_izvydcczeky",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Finance",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 218000,
+        "followingCount": 23,
+        "heart": 4200000,
+        "heartCount": 4200000,
+        "videoCount": 1013,
+        "diggCount": 0
+    },
+    "itemList": []
+}

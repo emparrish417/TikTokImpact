@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7041167639021356038",
+        "shortId": "",
+        "uniqueId": "dailyworldnews",
+        "nickname": "dailyworldnews",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/494f445ae734ea2647f67e33d6e4c752~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=IS5GpDyVmsb5auMRVk6EaWr%2FDVA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/494f445ae734ea2647f67e33d6e4c752~c5_720x720.jpeg?x-expires=1648850400&x-signature=QlKWTCoXWLScJSFunIpwTzngGo8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/494f445ae734ea2647f67e33d6e4c752~c5_100x100.jpeg?x-expires=1648850400&x-signature=3GdXCn11ZS6h70VMvndDnemG2VY%3D",
+        "signature": "Join Discord for more news and events.",
+        "createTime": 1639399705,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqJZtlk7P-sHalUF5gYws33H34M6XCSzsU9bruM9a-aRiEYxDZlxzikSHB-QPYu-y",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://discord.gg/csUV4PRgmF",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14200,
+        "followingCount": 2,
+        "heart": 271200,
+        "heartCount": 271200,
+        "videoCount": 231,
+        "diggCount": 0
+    },
+    "itemList": []
+}

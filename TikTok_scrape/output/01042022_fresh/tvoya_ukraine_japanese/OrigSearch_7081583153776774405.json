@@ -1,0 +1,90 @@
+{
+    "id": "7081583153776774405",
+    "desc": "",
+    "createTime": 1648809565,
+    "video": {
+        "id": "7081583153776774405",
+        "height": 1024,
+        "width": 576,
+        "duration": 34,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f15ac73111b0443fb7de53d7c2590d82?x-expires=1648875600&x-signature=aVyEZ090KhzYQZ%2BiJK6lG%2BkY%2FOM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/01d55ae2343d45bfadfb35330f70dee6_1648809566?x-expires=1648875600&x-signature=W4SBypp4LF5YXBHQiF4YEJFDtZ8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/62367444d49b4199924e55c317a35a6d_1648809567?x-expires=1648875600&x-signature=jIfmFJzdGqq9GUELc8fFV30oFOQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f2048608a084a87681d5a191c97dc344/6247e3ce/video/tos/useast2a/tos-useast2a-ve-0068c004/7c69d94579294ff1862713f8f078bedb/?a=1988&br=3912&bt=1956&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcaxzDXq&l=20220401234828010113006233063ED9A9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzdsazc6ZjhnPDMzNzczM0ApOmU4ODtpOGU6N2lmZzc4M2dzcmpjcjRfXzBgLS1kMTZzc2AuYjAvYy4zX2NeYDQyYGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f2048608a084a87681d5a191c97dc344/6247e3ce/video/tos/useast2a/tos-useast2a-ve-0068c004/7c69d94579294ff1862713f8f078bedb/?a=1988&br=3912&bt=1956&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcaxzDXq&l=20220401234828010113006233063ED9A9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzdsazc6ZjhnPDMzNzczM0ApOmU4ODtpOGU6N2lmZzc4M2dzcmpjcjRfXzBgLS1kMTZzc2AuYjAvYy4zX2NeYDQyYGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/01d55ae2343d45bfadfb35330f70dee6_1648809566~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=%2FfDQiVNTQmSUCIS5BQ9B9keKgrE%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/01d55ae2343d45bfadfb35330f70dee6_1648809566~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=v8ybsiKn0LzYXWPGwv2bnS6KqMQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f15ac73111b0443fb7de53d7c2590d82?x-expires=1648875600&x-signature=aVyEZ090KhzYQZ%2BiJK6lG%2BkY%2FOM%3D",
+        "bitrate": 2003297,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7078294665207890950",
+        "uniqueId": "tvoya_ukraine_japanese",
+        "nickname": "Lesia Ukrainka",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7f3ce7516932c2d9998f4da04e03be01~c5_100x100.jpeg?x-expires=1648940400&x-signature=uyXlDXTwO7CMx8K6AGWzaf7ymh4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7f3ce7516932c2d9998f4da04e03be01~c5_720x720.jpeg?x-expires=1648940400&x-signature=YarjLuuwTg9SIa8aTIiJJq0tog0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7f3ce7516932c2d9998f4da04e03be01~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=HjxYDcnBkEM9teuqBZ%2BFr4C%2BOUc%3D",
+        "signature": "Information War Of Ukraine \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2Cb_wDq2S_whf8Di8-wZS0x8Q4MidK9obGrfwMvv9T24z9v6aSJojetxmqtqsM0L",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081583119802944261",
+        "title": "\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7081583148575771397.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7f3ce7516932c2d9998f4da04e03be01~c5_100x100.jpeg?x-expires=1648940400&x-signature=uyXlDXTwO7CMx8K6AGWzaf7ymh4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7f3ce7516932c2d9998f4da04e03be01~c5_720x720.jpeg?x-expires=1648940400&x-signature=YarjLuuwTg9SIa8aTIiJJq0tog0%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7f3ce7516932c2d9998f4da04e03be01~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=HjxYDcnBkEM9teuqBZ%2BFr4C%2BOUc%3D",
+        "authorName": "Lesia Ukrainka",
+        "original": true,
+        "duration": 34,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 21,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 126
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2056,
+        "followerCount": 2139,
+        "heartCount": 10700,
+        "videoCount": 210,
+        "diggCount": 3505,
+        "heart": 10700
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

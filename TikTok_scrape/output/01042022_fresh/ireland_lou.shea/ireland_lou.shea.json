@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6625331023142502406",
+        "shortId": "",
+        "uniqueId": "ireland_lou.shea",
+        "nickname": "Ireland",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/fccf0ff5e5d57b5de49da4764aecea4b~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=gNwxazPPyh%2B3PuRIeLCjUu0vLCQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/fccf0ff5e5d57b5de49da4764aecea4b~c5_720x720.jpeg?x-expires=1648940400&x-signature=OfHzYWjGtSaMv%2BMcc0FOoBZdlu0%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/fccf0ff5e5d57b5de49da4764aecea4b~c5_100x100.jpeg?x-expires=1648940400&x-signature=BQOu5hZ61cmcGODejMeSP7ONT%2FQ%3D",
+        "signature": "13",
+        "createTime": 1542552469,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaoQbI9HE2tL33q5sY1kAS7o5UjawHTKJuFgl-Y9A3p_sX9GMDZPu-RB6dnPMEEML",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 367,
+        "followingCount": 932,
+        "heart": 1841,
+        "heartCount": 1841,
+        "videoCount": 48,
+        "diggCount": 0
+    },
+    "itemList": []
+}

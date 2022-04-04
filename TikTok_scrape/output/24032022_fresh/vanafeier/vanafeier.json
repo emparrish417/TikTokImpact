@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7069699938376336389",
+        "shortId": "",
+        "uniqueId": "vanafeier",
+        "nickname": "Vana Feier",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6968dd20ee42b498a8cbd8eb69dda8e6~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=sGQ5ZpfntxuopQp67vj0IiU2OiE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6968dd20ee42b498a8cbd8eb69dda8e6~c5_720x720.jpeg?x-expires=1648234800&x-signature=xo47U6n%2BYmXcYkqXTfc6%2FVHc4LU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6968dd20ee42b498a8cbd8eb69dda8e6~c5_100x100.jpeg?x-expires=1648234800&x-signature=ggl431XIkywjsYDaYjaqUmgrxS0%3D",
+        "signature": "",
+        "createTime": 1646081383,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA77yQbQkB_EGtHsJOGdV5f-egxsY-smFqcBEYJA0InKK0jrUkokuW0B9CYckOXAyl",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 430,
+        "followingCount": 0,
+        "heart": 1444,
+        "heartCount": 1444,
+        "videoCount": 110,
+        "diggCount": 0
+    },
+    "itemList": []
+}

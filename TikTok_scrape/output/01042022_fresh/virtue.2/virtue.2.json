@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6965639185160291334",
+        "shortId": "",
+        "uniqueId": "virtue.2",
+        "nickname": "Tik Toker",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e24ee12dd9c0d9cf74dc050e58331b11~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=YvfoMBQDy2jt2BxCkKjLXGD4UaI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e24ee12dd9c0d9cf74dc050e58331b11~c5_720x720.jpeg?x-expires=1648940400&x-signature=XDyoujgcB0FRL%2F0VMLwS9O3q6Oc%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e24ee12dd9c0d9cf74dc050e58331b11~c5_100x100.jpeg?x-expires=1648940400&x-signature=8zzIxKot1hq0VM0cjgh56NLPUT8%3D",
+        "signature": "No bio yet",
+        "createTime": 1621919125,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAzlrLkN22tRnTws2ZSLnFqUwtlKIoPJp1CAnpB9AD33LAADMVf0mSyLini2RtsJVH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3304,
+        "followingCount": 1095,
+        "heart": 608100,
+        "heartCount": 608100,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

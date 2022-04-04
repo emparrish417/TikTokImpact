@@ -1,0 +1,90 @@
+{
+    "id": "7076815752220773637",
+    "desc": "",
+    "createTime": 1647699567,
+    "video": {
+        "id": "7076815752220773637",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1ede44e34734441fb14bbb8a2a988997?x-expires=1647752400&x-signature=9oftSTlpuh7U0xuYJByygzOQTOw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/86bfd895b30e4ce7b4b8930134a53317_1647699569?x-expires=1647752400&x-signature=Vg1kSRMNnv%2Bxl%2FGpOXxqVUeDlKA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/85b0e0eefaa146269675b4446a646b2c_1647699569?x-expires=1647752400&x-signature=%2BO4k8QBM2bxno809Bc04WK26Iuo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6a6c1677c354b2e5f94919401051f313/6236bdd0/video/tos/useast2a/tos-useast2a-ve-0068c001/04c862281128417fb1c8f3fc952108b6/?a=1988&br=354&bt=177&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtqb_DXq&l=202203192338140101131350410838185B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajloZWk6ZnV4OzMzNzczM0ApZDU0Z2c8ZTw8Nzc4aTRkZWcxa2NycjQwYG5gLS1kMTZzcy1hXjBeNDEuNjNjYS8uYDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6a6c1677c354b2e5f94919401051f313/6236bdd0/video/tos/useast2a/tos-useast2a-ve-0068c001/04c862281128417fb1c8f3fc952108b6/?a=1988&br=354&bt=177&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtqb_DXq&l=202203192338140101131350410838185B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajloZWk6ZnV4OzMzNzczM0ApZDU0Z2c8ZTw8Nzc4aTRkZWcxa2NycjQwYG5gLS1kMTZzcy1hXjBeNDEuNjNjYS8uYDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/86bfd895b30e4ce7b4b8930134a53317_1647699569~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=gFpy7ZX%2BvJ8D5aVQg25koz56i5c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/86bfd895b30e4ce7b4b8930134a53317_1647699569~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=PtgUAdS8tBVoLoLHFmtIK6nnK8Y%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1ede44e34734441fb14bbb8a2a988997?x-expires=1647752400&x-signature=9oftSTlpuh7U0xuYJByygzOQTOw%3D",
+        "bitrate": 182212,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7012182107247346693",
+        "uniqueId": "help_ukrain3_",
+        "nickname": "Rand_deez_nuts",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d851364c54502a001858ebc209699874~c5_100x100.jpeg?x-expires=1647817200&x-signature=CAEfi%2Fclk6v8TsWHtIxY8mSXGIU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d851364c54502a001858ebc209699874~c5_720x720.jpeg?x-expires=1647817200&x-signature=QenM6FhJy6Pvw5hSbBBibRdeYDo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d851364c54502a001858ebc209699874~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=Q0paaWLxZAZire%2F2BVu7mHmB9lE%3D",
+        "signature": "Help Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA23I_Dd3QXm7o9D8YAZmNfnz3OaRkCZ-X7J9psPRwI-hZqDJsiTaf1zzFCIs50aix",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069691129188321282",
+        "title": "Baby",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/491197d28bae49a18598f6b6a7f61b0c",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b3c4a338f8db457093f25bf845a608aa.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/b3c4a338f8db457093f25bf845a608aa.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b3c4a338f8db457093f25bf845a608aa.jpeg",
+        "authorName": "Aitch & Ashanti",
+        "original": false,
+        "duration": 44,
+        "album": "Baby"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 115
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 71,
+        "followerCount": 56,
+        "heartCount": 68,
+        "videoCount": 10,
+        "diggCount": 408,
+        "heart": 68
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

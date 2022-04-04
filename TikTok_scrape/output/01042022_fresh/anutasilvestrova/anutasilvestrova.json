@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7043010262596961286",
+        "shortId": "",
+        "uniqueId": "anutasilvestrova",
+        "nickname": "Anna Silvestrova",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3a215cb1f257a8d2d881b41e84acb0e4~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=7duJDFfItubVzS3kN01INmU%2Fzt8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3a215cb1f257a8d2d881b41e84acb0e4~c5_720x720.jpeg?x-expires=1648940400&x-signature=UpFKcVtcwkY16n0vJ2fJD7SEXSc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3a215cb1f257a8d2d881b41e84acb0e4~c5_100x100.jpeg?x-expires=1648940400&x-signature=hW9sMWcNVVFnzaVryNjcCwU%2FDcQ%3D",
+        "signature": "",
+        "createTime": 1639828822,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAp76EHwN_SS23RDUdlF19u9PSV_Vy6TwxCiJSVj8z24m_2HlLqtIp16SEtmuGqOm8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24,
+        "followingCount": 33,
+        "heart": 251,
+        "heartCount": 251,
+        "videoCount": 8,
+        "diggCount": 0
+    },
+    "itemList": []
+}

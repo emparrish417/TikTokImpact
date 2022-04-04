@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7050828061659333659",
+        "shortId": "",
+        "uniqueId": "aliodin479",
+        "nickname": "Ali Nido",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/0aa964076e2bb1d61d02ff81a7970fc1~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=AqVZdapOcT8XhBlxqcq07bFT5%2BM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/0aa964076e2bb1d61d02ff81a7970fc1~c5_720x720.jpeg?x-expires=1649120400&x-signature=qcdhew1LL9upEogGzzS5yRys5L4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/0aa964076e2bb1d61d02ff81a7970fc1~c5_100x100.jpeg?x-expires=1649120400&x-signature=w2udY7ZDeyY3ztFFXqJXYLTaV14%3D",
+        "signature": "ML ID: 681487655\nRAMDOM CONTENT",
+        "createTime": 1641650094,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVB4CUlbFOCq3nBEwloU8eWiQB63OdpmK0YaoGx9ykI4kbYZAjNNVk9bKAuNPYcKi",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 48100,
+        "followingCount": 142,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 28,
+        "diggCount": 0
+    },
+    "itemList": []
+}

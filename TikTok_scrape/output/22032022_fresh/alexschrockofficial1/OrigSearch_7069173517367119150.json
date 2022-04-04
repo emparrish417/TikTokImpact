@@ -1,0 +1,98 @@
+{
+    "id": "7069173517367119150",
+    "desc": "We stand with Ukraine",
+    "createTime": 1645920221,
+    "video": {
+        "id": "7069173517367119150",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/212508308a754d4791a820af5781f0ac?x-expires=1648004400&x-signature=c7MSAksjQAOmqc24w2yyZ0cAR6E%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/465692129e014ab8938bcf71de7acaff_1645920221?x-expires=1648004400&x-signature=Q63zbgbFclXf6y5OJZ2SWVEJA%2Bk%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8360b74e1ce44d73b77c38bba9b36842_1645920222?x-expires=1648004400&x-signature=Mh4JSNMDdM6R9rjIYjHB4q82Hw4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/afd320413c3569636c1a090441ed76ef/623a95c0/video/tos/useast5/tos-useast5-ve-0068c001-tx/f7abc112a1fc4a3bb6c43fccb2ec83dc/?a=1988&br=1868&bt=934&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThX9RMDXq&l=2022032221362501011300607226720391&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anU3bDM6ZjdlOzMzZzczNEApOmRmZjw1ZTw1N2g5ZTY5O2dlaTIzcjRvcWFgLS1kMS9zc2M2YzZfMjFjXl8yX2A0MS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/afd320413c3569636c1a090441ed76ef/623a95c0/video/tos/useast5/tos-useast5-ve-0068c001-tx/f7abc112a1fc4a3bb6c43fccb2ec83dc/?a=1988&br=1868&bt=934&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThX9RMDXq&l=2022032221362501011300607226720391&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anU3bDM6ZjdlOzMzZzczNEApOmRmZjw1ZTw1N2g5ZTY5O2dlaTIzcjRvcWFgLS1kMS9zc2M2YzZfMjFjXl8yX2A0MS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/465692129e014ab8938bcf71de7acaff_1645920221~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=SZEVpMu0iTu%2Bo1G3YSD2fdQSadA%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/465692129e014ab8938bcf71de7acaff_1645920221~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=EZwqZhg1ftadOp10G9tiAw1nyRM%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/212508308a754d4791a820af5781f0ac?x-expires=1648004400&x-signature=DzPyP3gAAf2lpk08fJqokb8BtF4%3D",
+        "bitrate": 956590,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6670951146415341573",
+        "uniqueId": "alexschrockofficial1",
+        "nickname": "Alex schrock",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ac336848823956835add3f23465ffb7~c5_100x100.jpeg?x-expires=1648069200&x-signature=RDWEchmFZT1gV6RkzHWgfC4faVI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ac336848823956835add3f23465ffb7~c5_720x720.jpeg?x-expires=1648069200&x-signature=u%2F8AVvTrFo%2BOwNuhZ1A6fUfbLLY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ac336848823956835add3f23465ffb7~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=einNelshH6PJyLeitQro6zqer4U%3D",
+        "signature": "Dm me on insta \nStand with Ukraine\nReporting the news",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_zS4s4Ut7t8_XwfhUDD4EZarKdV79BM29dEXzfupUEIg8hjAZUEbIIp48NxzIa0y",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7006740692303235841",
+        "title": "bringing the era back yall",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7006740677333715713.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a8f51c3c48f42bb91fc49975fc438e85.jpeg?x-expires=1648069200&x-signature=ZfBrQTHL0WOcXiGigVSo6A4cCDQ%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/a8f51c3c48f42bb91fc49975fc438e85.jpeg?x-expires=1648069200&x-signature=PPQFlqBpwgMJNaPQjOxu79Fk5sg%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/a8f51c3c48f42bb91fc49975fc438e85.jpeg?x-expires=1648069200&x-signature=l0CmAghA8GopgXrFA1xcU%2BfXY9A%3D",
+        "authorName": "chuuyas gf",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 119600,
+        "shareCount": 333,
+        "commentCount": 781,
+        "playCount": 909200
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1255,
+        "followerCount": 470400,
+        "heartCount": 15300000,
+        "videoCount": 689,
+        "diggCount": 17200,
+        "heart": 15300000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "You have 80 year olds picking up arms to battle russia. Citizens preparing Molotov bombs. Soldiers sacrificing their lives. The ex president coming out of retirement to fight. History will remember the hero\u2019s of Ukraine "
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6739867522710406149",
+        "shortId": "",
+        "uniqueId": "dailymail",
+        "nickname": "Daily Mail",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c068cbb58e935d94b58fd5f859e57d39~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=fYsoc%2B%2FIma12gdoAlABt6jMwE0o%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c068cbb58e935d94b58fd5f859e57d39~c5_720x720.jpeg?x-expires=1649008800&x-signature=Q3HXG3uacF5WrEKZHIEhVqF3Eq4%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c068cbb58e935d94b58fd5f859e57d39~c5_100x100.jpeg?x-expires=1649008800&x-signature=DJj%2Bxi2Q5eSm84U4y%2BzQthx5haE%3D",
+        "signature": "Seriously Popular",
+        "createTime": 1569948268,
+        "verified": true,
+        "secUid": "MS4wLjABAAAACKgdV63D7RwTniMlIs-n91rjLTLxXVO1qSztFuJDHn0sJKtVPtQycK1ZoEIK531Q",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "DailyMail.co.uk",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3700000,
+        "followingCount": 380,
+        "heart": 171200000,
+        "heartCount": 171200000,
+        "videoCount": 2294,
+        "diggCount": 0
+    },
+    "itemList": []
+}

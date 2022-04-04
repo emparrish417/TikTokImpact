@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6833914828093244421",
+        "shortId": "",
+        "uniqueId": "audioception",
+        "nickname": "audioception",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ad20ca1ca1b80dcf31f13e7568538b8~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=L4FycpqwBRF5KLsv6kZCzEdivG0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ad20ca1ca1b80dcf31f13e7568538b8~c5_720x720.jpeg?x-expires=1648940400&x-signature=GNUMtnWgCtuqvTJGpqX1AMq4YjQ%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ad20ca1ca1b80dcf31f13e7568538b8~c5_100x100.jpeg?x-expires=1648940400&x-signature=URGBmPQ8vANPxJree5w6oYpKJZU%3D",
+        "signature": "",
+        "createTime": 1591145110,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3UX3HI_EvpEJvv8q2FQ9QyuwRWoOJTDnV2agxo-08CRw13LdJ9EZrVhONGKfe1Hl",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1784,
+        "followingCount": 2544,
+        "heart": 638,
+        "heartCount": 638,
+        "videoCount": 59,
+        "diggCount": 0
+    },
+    "itemList": []
+}

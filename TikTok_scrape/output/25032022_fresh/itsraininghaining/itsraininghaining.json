@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6660736561150443526",
+        "shortId": "",
+        "uniqueId": "itsraininghaining",
+        "nickname": "Jennifer Haining",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc5b5c5df99bcc6bebf81b876930d17f~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=w9pOmBQ%2BMlZw6iioBBtiEP1xv0Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc5b5c5df99bcc6bebf81b876930d17f~c5_720x720.jpeg?x-expires=1648314000&x-signature=be%2Bib8xr1oNFFGuVcBlvrJXb2zY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc5b5c5df99bcc6bebf81b876930d17f~c5_100x100.jpeg?x-expires=1648314000&x-signature=ntpkTqQJEct36JmtCpMfRIDcVZA%3D",
+        "signature": "Fun at very specific parties.",
+        "createTime": 1550823734,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQCgKFEq264VW-KpyoErRXKXhiMGiaK7ErFtNABgKSq1VuZmsL3sksTwFJW8WHy17",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/itsraininghaining",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 19000,
+        "followingCount": 668,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 163,
+        "diggCount": 0
+    },
+    "itemList": []
+}

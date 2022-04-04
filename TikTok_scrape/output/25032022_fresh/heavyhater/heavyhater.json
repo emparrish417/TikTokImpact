@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6882314501137679362",
+        "shortId": "",
+        "uniqueId": "heavyhater",
+        "nickname": "Spanishlieader",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/ab89ec21572034e5e07f48c5e7a0c81c.jpeg?x-expires=1648314000&x-signature=MvozwaJp2r5M0Unl7EGk4gWP3ew%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/ab89ec21572034e5e07f48c5e7a0c81c.jpeg?x-expires=1648314000&x-signature=5DNYvVf1L19LqOplGCx6oOy6XrE%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ab89ec21572034e5e07f48c5e7a0c81c.jpeg?x-expires=1648314000&x-signature=cjGmVj8eHofFJesVoVintcYd7bc%3D",
+        "signature": "\u2735 \u0422\u043e\u0442 \u043a\u0442\u043e \u0432\u0435\u0434\u0435\u0442 \u0441\u0435\u0431\u044f \u0441\u043c\u0438\u0440\u0435\u043d\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d, \u043a\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u0435\u0431\u044f \u0431\u0443\u0434\u0435\u0442 \u0443\u043d\u0438\u0436\u0435\u043d.\u2735",
+        "createTime": 1602414264,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAq90gK1gMWrsRPKKDfW6fNEUER1msXw7bN4GHAVGKL0NIP9SJaQ8k547-VJ1_ihl_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Automotive & Transportation",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 446,
+        "followingCount": 497,
+        "heart": 15800,
+        "heartCount": 15800,
+        "videoCount": 30,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6696172485580637189",
+        "shortId": "",
+        "uniqueId": "yahoonews",
+        "nickname": "Yahoo News",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1660097985646597~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=5YumwKG8hEvf3mOCL2VMDNsuguk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1660097985646597~c5_720x720.jpeg?x-expires=1648173600&x-signature=v5kPFs46Z4koK5tHSUNWAzYKuac%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1660097985646597~c5_100x100.jpeg?x-expires=1648173600&x-signature=T%2ByQWLFAe3TNa7C4UiAQTKSK0bw%3D",
+        "signature": "\ud83e\udd26Yes, we still exist.\n\ud83d\udcf0 News & politics\n\ud83d\udc9cDMs open\n\ud83d\udc47NEWS UPDATES",
+        "createTime": 1583192303,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAFmuavuuZTe0r1x9SIWlCp8gNk68cb27ZJFNig0FGHQyb7CjQDFUWwRLbGo_V7GIF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.news.yahoo.com/?ncid=other_yahoonewst_gnforxtnhzs",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1700000,
+        "followingCount": 16,
+        "heart": 95100000,
+        "heartCount": 95100000,
+        "videoCount": 3251,
+        "diggCount": 0
+    },
+    "itemList": []
+}

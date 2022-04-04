@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6838251819169334277",
+        "shortId": "",
+        "uniqueId": "user018891710",
+        "nickname": "user8584355831079 lafargue",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1d810f9a80a9661f6b03d9b118d5ac69~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=Kug%2BzvTX4DmPMfMLVyYS9LsFLAc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1d810f9a80a9661f6b03d9b118d5ac69~c5_720x720.jpeg?x-expires=1647900000&x-signature=KlERbnr%2BRikhw8DGRD3NmCpy0IQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1d810f9a80a9661f6b03d9b118d5ac69~c5_100x100.jpeg?x-expires=1647900000&x-signature=cCEfgBUFmS5yBCbu4n2p71QXTVM%3D",
+        "signature": "",
+        "createTime": 1592155580,
+        "verified": false,
+        "secUid": "MS4wLjABAAAALsA72HM80wMilz7w9LCoXy8N6FFZcsuJpH4uk_Qdgot4BSl0-ha7Ml_BAT6cvZi6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 116,
+        "followingCount": 313,
+        "heart": 147,
+        "heartCount": 147,
+        "videoCount": 86,
+        "diggCount": 0
+    },
+    "itemList": []
+}

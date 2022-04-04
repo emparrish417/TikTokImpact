@@ -1,0 +1,160 @@
+{
+    "id": "7081470357902757166",
+    "desc": "\ud83c\uddfa\ud83c\udde6\ud83d\udc9b\ud83d\udc99#ukraine #saveukraine",
+    "createTime": 1648783302,
+    "video": {
+        "id": "7081470357902757166",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fafd076d27c74064b8d73f622dcad9f1_1648783304?x-expires=1648875600&x-signature=1lctuuov%2BnXNrVHj9Gj7DKFBvQ4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/267243c519be48aaa23479942a08ab1f_1648783303?x-expires=1648875600&x-signature=E7vX27CH6VPCFxRbz%2FUWGgQ4s5E%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/62ee8de287674e1f8e4fb58c287b4923_1648783303?x-expires=1648875600&x-signature=%2By4CtMWwE4lGY35FvFMqUYfD4XE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6b57eaac3a3e89d623d437558c9fdae5/6247e36c/video/tos/useast5/tos-useast5-pve-0068-tx/2008fdbaf2334d6faf653b453dfe16a3/?a=1988&br=1776&bt=888&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThPXxzDXq&l=202204012347180101130062080E8CCBE7&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajYzaTw6Zjk5PDMzZzczNEApOzQ2ZDs5NWU0N2RmM2Q0PGdubW00cjRfbzBgLS1kMS9zczM1MDZgYmBeMzE0XjRgXjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6b57eaac3a3e89d623d437558c9fdae5/6247e36c/video/tos/useast5/tos-useast5-pve-0068-tx/2008fdbaf2334d6faf653b453dfe16a3/?a=1988&br=1776&bt=888&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThPXxzDXq&l=202204012347180101130062080E8CCBE7&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajYzaTw6Zjk5PDMzZzczNEApOzQ2ZDs5NWU0N2RmM2Q0PGdubW00cjRfbzBgLS1kMS9zczM1MDZgYmBeMzE0XjRgXjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/267243c519be48aaa23479942a08ab1f_1648783303~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=I7LyNUr86e18uzkDYqraGXur64E%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/267243c519be48aaa23479942a08ab1f_1648783303~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=%2BmxHyEKZkRLyWoUTbkyQR5g6awI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fafd076d27c74064b8d73f622dcad9f1_1648783304?x-expires=1648875600&x-signature=1lctuuov%2BnXNrVHj9Gj7DKFBvQ4%3D",
+        "bitrate": 909859,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7081459938136507435",
+        "uniqueId": "save_ukraine2222",
+        "nickname": "Save_Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de515f83d83a58c1cec3eb777c9ed02c~c5_100x100.jpeg?x-expires=1648940400&x-signature=0igCe01zEgM2X5haeQW5Gbpw%2BgI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de515f83d83a58c1cec3eb777c9ed02c~c5_720x720.jpeg?x-expires=1648940400&x-signature=u%2BQfPR6ekxX%2FijkVwdXqsZKp0cY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de515f83d83a58c1cec3eb777c9ed02c~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=tnBPozTqXbhT7dgPygmlbpPHZuQ%3D",
+        "signature": "\ud83d\udc99Save \ud83c\uddfa\ud83c\udde6 Ukraine\ud83d\udc9b",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfdYwvHRpWyDgKTrT-eTLM5KCPZCE1eqtzpFwtro0MOuuLI5Em5daLuggObf3a1PI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6707827186759682821",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1637661412761653.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9511326c64655fc9651fb4cf2eb8167d~c5_100x100.jpeg?x-expires=1648940400&x-signature=LUzgOhBC%2BwZ10rVR6bcThKuL4w4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9511326c64655fc9651fb4cf2eb8167d~c5_720x720.jpeg?x-expires=1648940400&x-signature=cvC6bmLy27sE7qXbIyZz6NW9yHY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9511326c64655fc9651fb4cf2eb8167d~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=LHT%2FRE2XY4jTeZkOduHfxOTQ9Y8%3D",
+        "authorName": "favsoundds",
+        "original": true,
+        "duration": 17,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "72058718",
+            "title": "saveukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 182
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 8,
+            "end": 16,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 17,
+            "end": 29,
+            "hashtagName": "saveukraine",
+            "hashtagId": "72058718",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Video",
+            "ID": "454747"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1,
+        "followerCount": 1,
+        "heartCount": 6,
+        "videoCount": 1,
+        "diggCount": 16,
+        "heart": 6
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Pray",
+                "For",
+                "Ukraine "
+            ]
+        }
+    ],
+    "isAd": false
+}

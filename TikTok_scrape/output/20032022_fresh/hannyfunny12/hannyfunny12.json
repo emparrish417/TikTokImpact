@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6836497526658352133",
+        "shortId": "",
+        "uniqueId": "hannyfunny12",
+        "nickname": "\u2026",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e7a27d1f261658da4dc38eb81f0f28a~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=ew3D5Msyj98MjmYHK5TBje43m0A%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e7a27d1f261658da4dc38eb81f0f28a~c5_720x720.jpeg?x-expires=1647900000&x-signature=ocb7fawOj8%2BxljzsztDtjDfeUAE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e7a27d1f261658da4dc38eb81f0f28a~c5_100x100.jpeg?x-expires=1647900000&x-signature=CvCtY9NoEQDhjJfsxMkzJquidX8%3D",
+        "signature": "",
+        "createTime": 1593727527,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAI_9uchKjzsh0fM9W38_OuDKAwhyliLXl9HIqccfb16Vt5WFj1iw2Gh6KQ5nFnlun",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 16900,
+        "followingCount": 3695,
+        "heart": 587900,
+        "heartCount": 587900,
+        "videoCount": 47,
+        "diggCount": 0
+    },
+    "itemList": []
+}

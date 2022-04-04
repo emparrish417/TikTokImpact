@@ -1,0 +1,90 @@
+{
+    "id": "7077183008343624987",
+    "desc": "",
+    "createTime": 1647785075,
+    "video": {
+        "id": "7077183008343624987",
+        "height": 960,
+        "width": 540,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/acb3927b70ba4c36a66f8158adb80a99?x-expires=1647835200&x-signature=Qkdr5H6YAwM0AMcieFSSQU6OLoU%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1cd2c7f785ff43979a8020599180fb99_1647785077?x-expires=1647835200&x-signature=Gret3VL79yeu5bMz%2BLu3m4F4xE8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/729182ef41034e1080412a1284a9e167_1647785077?x-expires=1647835200&x-signature=RxwUjVgn%2FS3HznecbeROtG2wixE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/21f6e3a56ba96ef8f5c95d7053d49fa1/6237ff55/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/afcda6af47784fad87022e1b01802870/?a=1988&br=2962&bt=1481&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV2PGY6ZnVtOzMzZjgzM0ApNDhkNGc3NDxkNzg1ZjNlM2dvaDAucjRfNW9gLS1kL2Nzc2ExNmIuNTUxLzMtLzIzNTM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/21f6e3a56ba96ef8f5c95d7053d49fa1/6237ff55/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/afcda6af47784fad87022e1b01802870/?a=1988&br=2962&bt=1481&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV2PGY6ZnVtOzMzZjgzM0ApNDhkNGc3NDxkNzg1ZjNlM2dvaDAucjRfNW9gLS1kL2Nzc2ExNmIuNTUxLzMtLzIzNTM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/1cd2c7f785ff43979a8020599180fb99_1647785077~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=%2BnanjQenxIvnIbw2Yec%2FR1ZttsA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/1cd2c7f785ff43979a8020599180fb99_1647785077~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=Qczv0rP8Q7ULZp%2BEQwAvTMVesPQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/acb3927b70ba4c36a66f8158adb80a99?x-expires=1647835200&x-signature=Qkdr5H6YAwM0AMcieFSSQU6OLoU%3D",
+        "bitrate": 1516893,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6736804201319367682",
+        "uniqueId": "irishbutnotfromireland",
+        "nickname": "ur gf",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/7878a197ccbc228580da8308f8495ae7~c5_100x100.jpeg?x-expires=1647900000&x-signature=2NISt2MdMXYrKH0VexDGHymsPxA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/7878a197ccbc228580da8308f8495ae7~c5_720x720.jpeg?x-expires=1647900000&x-signature=SVYRe%2FiJghFaM1ygY6iyscvNF5g%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/7878a197ccbc228580da8308f8495ae7~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=VxHjLfGJndAg0Xz8gNQWkH4gTgo%3D",
+        "signature": "next month n aq mag tiktok",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAk4ckxkOTrBCj5aw5Xc5_m9WwUzdOX2UnBxYHCJd2htv8EaRj5X8gD2jXu-hII8cY",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067349256004406062",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7067349265072556847.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/041fe765754438dc865822d41e303cd6~c5_100x100.jpeg?x-expires=1647900000&x-signature=LMB0FrNeXYn78evyyUs8S7KpahM%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/041fe765754438dc865822d41e303cd6~c5_720x720.jpeg?x-expires=1647900000&x-signature=SChOPRPa1NcvdBvNGc90851z3yA%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/041fe765754438dc865822d41e303cd6~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=u2bnCIT5RYJNnbjx2IkbPp6u5JM%3D",
+        "authorName": "The Girl Was Dangerous",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 31,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 415
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 126,
+        "followerCount": 1999,
+        "heartCount": 28100,
+        "videoCount": 19,
+        "diggCount": 101400,
+        "heart": 28100
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

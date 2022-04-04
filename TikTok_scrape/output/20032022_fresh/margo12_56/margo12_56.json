@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6989670338514732037",
+        "shortId": "",
+        "uniqueId": "margo12_56",
+        "nickname": "Margo12_56",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b2368ec0b960edb69774de9f7594e3e~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=oHac%2FXU8fa%2BKwAo%2B4SxSlE4A%2BdM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b2368ec0b960edb69774de9f7594e3e~c5_720x720.jpeg?x-expires=1647900000&x-signature=V7FH0%2FZmNhc%2B5aI4YXFJNxTF%2B%2FM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b2368ec0b960edb69774de9f7594e3e~c5_100x100.jpeg?x-expires=1647900000&x-signature=ll%2BsOppyBbzFAmrY9yBCZ3QSZ%2Bc%3D",
+        "signature": "",
+        "createTime": 1629971712,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASsWBPIEK4jiqMw9byFWsyMw8Pz2KPFXdb8cq3gY_MuSXAacI_Ykin8xnDsJdZ85k",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1149,
+        "followingCount": 820,
+        "heart": 3820,
+        "heartCount": 3820,
+        "videoCount": 479,
+        "diggCount": 0
+    },
+    "itemList": []
+}

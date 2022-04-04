@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6633109002786045958",
+        "shortId": "",
+        "uniqueId": "pauldifference",
+        "nickname": "Paul Fark",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6891563014080692230~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=BVehZo7A3Pbxo8a53pbZtoEIyV8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6891563014080692230~c5_720x720.jpeg?x-expires=1648764000&x-signature=K5H3pyGASZQnPis%2FtyFosRHglmA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6891563014080692230~c5_100x100.jpeg?x-expires=1648764000&x-signature=vkhdYVgiTkvVjjo0Z8oJErOqpa0%3D",
+        "signature": "https://t.me/warukrainea",
+        "createTime": 1599797216,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAdeMyuF-ma5UqNz6v9QYtU6vRQ3dxOQd-UkysCyCqgzc9GXqYhjnMgaxXlRl6YUJP",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 379,
+        "followingCount": 144,
+        "heart": 2428,
+        "heartCount": 2428,
+        "videoCount": 123,
+        "diggCount": 0
+    },
+    "itemList": []
+}

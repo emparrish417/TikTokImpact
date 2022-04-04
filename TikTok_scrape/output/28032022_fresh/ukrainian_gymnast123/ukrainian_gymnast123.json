@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7071223055300854827",
+        "shortId": "",
+        "uniqueId": "ukrainian_gymnast123",
+        "nickname": "Ukrainian_gymnast123",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8a5a3980d2c225b9bae1d4069821517e~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=g%2BVDjHA9eSHWCXCdC%2F3kprIBHQ8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8a5a3980d2c225b9bae1d4069821517e~c5_720x720.jpeg?x-expires=1648580400&x-signature=ZWguXzMVVIRqID5e9688WPyzAcU%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8a5a3980d2c225b9bae1d4069821517e~c5_100x100.jpeg?x-expires=1648580400&x-signature=E3NBI3mJntjLkYx1j5TdfEzM1Oc%3D",
+        "signature": "Ukrainian gymnast!",
+        "createTime": 1646397678,
+        "verified": false,
+        "secUid": "MS4wLjABAAAArTm31h0GoftXZ-yM3P94vKWsj0Yuxkr1WItV0E08wK98I3n4FhCSQL9tUvqH5F0J",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1100,
+        "followingCount": 27,
+        "heart": 6219,
+        "heartCount": 6219,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

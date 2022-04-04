@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7067426323120391214",
+        "shortId": "",
+        "uniqueId": "just4thelol3",
+        "nickname": "Just4thelols",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7efe74fa329b46ed00e4898e73451afd~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=b%2FYf9vKYikjYZT7l9lfs4apHvkw%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7efe74fa329b46ed00e4898e73451afd~c5_720x720.jpeg?x-expires=1647817200&x-signature=7MfsgtGY8UxH7ZI3hPR8FWnkD1Q%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7efe74fa329b46ed00e4898e73451afd~c5_100x100.jpeg?x-expires=1647817200&x-signature=xVU82heWy2C1g%2FEwTwMyI4NiZYo%3D",
+        "signature": "",
+        "createTime": 1645513828,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtLSgbWZIPiH1Vq5CbvToJrQEqH-PQ14WfQgAoUllQYwxrp7Js190LQc2pitVRW6b",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 0,
+        "heart": 14,
+        "heartCount": 14,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

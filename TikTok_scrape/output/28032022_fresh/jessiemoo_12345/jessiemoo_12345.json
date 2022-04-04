@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6607913525065777157",
+        "shortId": "",
+        "uniqueId": "jessiemoo_12345",
+        "nickname": "Jessiemoo _12345",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6998afe70305afed8fbb12ab96702ef~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=7UIOMAz5IPI9eIzJ1vc1Qc44A5A%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6998afe70305afed8fbb12ab96702ef~c5_720x720.jpeg?x-expires=1648580400&x-signature=OAbuHfGogeiq2TzT1ads3Y8zzL4%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6998afe70305afed8fbb12ab96702ef~c5_100x100.jpeg?x-expires=1648580400&x-signature=B5WrVeLDFwhUMAzobkmBZDuuqIc%3D",
+        "signature": "Love appreciate",
+        "createTime": 1553379051,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAs5VH3OcFrnyOC-3FkHCJ5UmqDR9dsdHtvAmNbR0bkKx9IhGV5Blz9mhlbMktbO6V",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 18,
+        "followingCount": 36,
+        "heart": 44,
+        "heartCount": 44,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

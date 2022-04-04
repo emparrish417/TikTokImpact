@@ -1,0 +1,90 @@
+{
+    "id": "7081665472084708650",
+    "desc": "I am board \ud83e\udd28",
+    "createTime": 1648828731,
+    "video": {
+        "id": "7081665472084708650",
+        "height": 1024,
+        "width": 576,
+        "duration": 180,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/66d00dbf2847451f8ae8a2176e05eb14?x-expires=1648875600&x-signature=X8FcxxhEuujmkjv9OPI%2FePFnLhE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/554d87fe68f04a01b5f959b7bebcbb41_1648828733?x-expires=1648875600&x-signature=9T5w4m%2BMtXOm%2F0bgktPkFuXkRY4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e8204e41dc69449a9105549cbd85e194_1648828733?x-expires=1648875600&x-signature=hBjRvhvEpVVOB31t3XjkZoxSYAA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/3e5c42858b1702c56689c31cac981dd6/6247e453/video/tos/useast5/tos-useast5-pve-0068-tx/6d0e27d3dc7b4f96a2e9607954b7f7e3/?a=1988&br=2924&bt=1462&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9XxzDXq&l=20220401234814010113135050165A24AB&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NncWc6ZjNrPDMzZzczNEApOzZoOmczZztpN2c2Nzs2Omcvb15lcjRncjBgLS1kMS9zczIyL2NhLTNeMGM0YTM2MTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/3e5c42858b1702c56689c31cac981dd6/6247e453/video/tos/useast5/tos-useast5-pve-0068-tx/6d0e27d3dc7b4f96a2e9607954b7f7e3/?a=1988&br=2924&bt=1462&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9XxzDXq&l=20220401234814010113135050165A24AB&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NncWc6ZjNrPDMzZzczNEApOzZoOmczZztpN2c2Nzs2Omcvb15lcjRncjBgLS1kMS9zczIyL2NhLTNeMGM0YTM2MTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/554d87fe68f04a01b5f959b7bebcbb41_1648828733~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=4et61SiWydc6yWEsk0rLEctd8Dg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/554d87fe68f04a01b5f959b7bebcbb41_1648828733~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=MsfFTpIaFKC09UaA8D07NMM9h2o%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/66d00dbf2847451f8ae8a2176e05eb14?x-expires=1648875600&x-signature=X8FcxxhEuujmkjv9OPI%2FePFnLhE%3D",
+        "bitrate": 1497934,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6983034227882542086",
+        "uniqueId": "lets_go_ukraine_ww3",
+        "nickname": "clips_sheesh3445",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b7fb024845199da0c86f6bd56003590~c5_100x100.jpeg?x-expires=1648940400&x-signature=Kf10pF1N2K%2BMeIDQ6OIfTYZU1r0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b7fb024845199da0c86f6bd56003590~c5_720x720.jpeg?x-expires=1648940400&x-signature=0%2B0QJg3mB6V3bLJogsuFRlOPoXY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b7fb024845199da0c86f6bd56003590~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=bjRYL7XkcAMi9I10FoWhBhKGAYg%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAeAulGxS3MJPk-TLG6rUluxxeChqT6cVsyjfUmyGcoXv7SA70v5zAJFSmWDz99zKc",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081665429348928299",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7081665481589181230.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b7fb024845199da0c86f6bd56003590~c5_100x100.jpeg?x-expires=1648940400&x-signature=Kf10pF1N2K%2BMeIDQ6OIfTYZU1r0%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b7fb024845199da0c86f6bd56003590~c5_720x720.jpeg?x-expires=1648940400&x-signature=0%2B0QJg3mB6V3bLJogsuFRlOPoXY%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b7fb024845199da0c86f6bd56003590~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=bjRYL7XkcAMi9I10FoWhBhKGAYg%3D",
+        "authorName": "clips_sheesh3445",
+        "original": true,
+        "duration": 180,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 24
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1578,
+        "followerCount": 539,
+        "heartCount": 354,
+        "videoCount": 59,
+        "diggCount": 7986,
+        "heart": 354
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

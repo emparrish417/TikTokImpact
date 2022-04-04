@@ -1,0 +1,99 @@
+{
+    "id": "7079810345925102853",
+    "desc": "",
+    "createTime": 1648396800,
+    "video": {
+        "id": "7079810345925102853",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/503540a8dd184d73a84f10c200c39abf?x-expires=1648450800&x-signature=8u3%2FwAf0UBvSM3AztVAEhEb%2F3dk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c7c29dd23be748ba928a6e4a4fad5423_1648396802?x-expires=1648450800&x-signature=ajICJEy1s%2FHzo9z75b8PZnuFmig%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/108ab8b493a848e69940e63c6af51bab_1648396802?x-expires=1648450800&x-signature=o5BKc4RpRWt6JrgAI%2BsqXTiS0AA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/46154042a6a51fa1a483e9f80a238e0c/62415e22/video/tos/useast2a/tos-useast2a-pve-0068/a1fc80f81d3f496fb78088d49656edc4/?a=1988&br=2106&bt=1053&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbGagDXq&l=2022032801045201011313514321BEC590&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZreTY6Zng7PDMzNzczM0ApNDhoaWRlODw1Nzw3ZWc6PGdjLXJucjRvZy1gLS1kMTZzczFjYzAwMzY1NjAuNV8tMDA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/46154042a6a51fa1a483e9f80a238e0c/62415e22/video/tos/useast2a/tos-useast2a-pve-0068/a1fc80f81d3f496fb78088d49656edc4/?a=1988&br=2106&bt=1053&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbGagDXq&l=2022032801045201011313514321BEC590&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZreTY6Zng7PDMzNzczM0ApNDhoaWRlODw1Nzw3ZWc6PGdjLXJucjRvZy1gLS1kMTZzczFjYzAwMzY1NjAuNV8tMDA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c7c29dd23be748ba928a6e4a4fad5423_1648396802~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=25UDzZWEK7F8%2B%2BuxmlnOQDGplWs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c7c29dd23be748ba928a6e4a4fad5423_1648396802~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=hkMmoVUJpFPrMB2G5AOYM8VGB%2Fo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/503540a8dd184d73a84f10c200c39abf?x-expires=1648450800&x-signature=8u3%2FwAf0UBvSM3AztVAEhEb%2F3dk%3D",
+        "bitrate": 1078796,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6915867759884911621",
+        "uniqueId": "pray_for_ukraine1201",
+        "nickname": "Pray for Ukraine",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc85a73c05295879fd6d1bfbf5e4610d~c5_100x100.jpeg?x-expires=1648515600&x-signature=NRhceQgg8F%2FZrCXDUyHrdpb9NA4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc85a73c05295879fd6d1bfbf5e4610d~c5_720x720.jpeg?x-expires=1648515600&x-signature=pM%2FqIXJMzXXQbU49uLC4waS4wTc%3D",
+        "avatarLarger": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/cc85a73c05295879fd6d1bfbf5e4610d~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=2VNTCwkL0S4Qae5mCIbuHlS05Zg%3D",
+        "signature": "Here\u2019s no shit but I\u2019m trying to get 2k or 5k followers or likes, I\u2019m straight",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARvZclgQjrVWen6alK7s6LFi4kCxCN4LMrCHI46JernnaghlhyOdWDDrHtDGJ8fqR",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6950423437869419270",
+        "title": "sonido original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6950423579221560069.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e80c83466d581f10d22dead41f8ffe59~c5_100x100.jpeg?x-expires=1648515600&x-signature=yfJ%2BE6yPWKDzyF3qhX4mJrfOm6U%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e80c83466d581f10d22dead41f8ffe59~c5_720x720.jpeg?x-expires=1648515600&x-signature=CXhZa2HTfzhuPquNDw%2FCZ3QpTnI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e80c83466d581f10d22dead41f8ffe59~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=19X%2FM7GuHWTw%2BmW4cr9lq96xon8%3D",
+        "authorName": "Adri\u00e1n",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 47
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2599,
+        "followerCount": 1214,
+        "heartCount": 3420,
+        "videoCount": 89,
+        "diggCount": 16300,
+        "heart": 3420
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I made a German banner",
+                "Only  real gigachad boys know the song "
+            ]
+        }
+    ],
+    "isAd": false
+}

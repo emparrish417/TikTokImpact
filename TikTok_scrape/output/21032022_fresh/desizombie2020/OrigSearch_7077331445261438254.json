@@ -1,0 +1,96 @@
+{
+    "id": "7077331445261438254",
+    "desc": "Sketch ukraine",
+    "createTime": 1647819636,
+    "video": {
+        "id": "7077331445261438254",
+        "height": 960,
+        "width": 540,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/01f76a4576314b1fb55f8c115b9bb85d?x-expires=1647921600&x-signature=Toat%2F0d5DBJ2BQrR9F40SDVbOXc%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8778baadee144e138e76b8087a7e6ba5_1647819637?x-expires=1647921600&x-signature=3TqCGzjcxuhq%2B7GuLamPkxFN8uk%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2dfd5435238b44868daa3981d256c1cc_1647819637?x-expires=1647921600&x-signature=F%2B98z2hRaGu8xJH1Bt%2FpXgSelkY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4d8ed35f0a108e22423f5f22c1aaf1c4/62394fe0/video/tos/useast5/tos-useast5-ve-0068c001-tx/504b34be424d4d4782e5a0f41764eee5/?a=1988&br=8228&bt=4114&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbPKMDXq&l=2022032122255601011313504318E01946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajU0ZGc6ZnB1OzMzZzczNEApNjw2M2k7ZDs3NzY4NTM5aGcxYm5vcjRfam9gLS1kMS9zczMtLTFeMTZhNWI2YTQyMWM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4d8ed35f0a108e22423f5f22c1aaf1c4/62394fe0/video/tos/useast5/tos-useast5-ve-0068c001-tx/504b34be424d4d4782e5a0f41764eee5/?a=1988&br=8228&bt=4114&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbPKMDXq&l=2022032122255601011313504318E01946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajU0ZGc6ZnB1OzMzZzczNEApNjw2M2k7ZDs3NzY4NTM5aGcxYm5vcjRfam9gLS1kMS9zczMtLTFeMTZhNWI2YTQyMWM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8778baadee144e138e76b8087a7e6ba5_1647819637~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=8Wa2J4NPO9K2J6gKMJS6HO%2BPVXc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8778baadee144e138e76b8087a7e6ba5_1647819637~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=G03tQOVNnNHrV2tpMzcMCgVy2xY%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/01f76a4576314b1fb55f8c115b9bb85d?x-expires=1647921600&x-signature=Toat%2F0d5DBJ2BQrR9F40SDVbOXc%3D",
+        "bitrate": 4212877,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6897743100665250821",
+        "uniqueId": "desizombie2020",
+        "nickname": "user239220047155",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e4ab41b6091426feaf642900f581e536~c5_100x100.jpeg?x-expires=1647986400&x-signature=lalu%2FXfsqHaToXSM9IQUBvHQQno%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e4ab41b6091426feaf642900f581e536~c5_720x720.jpeg?x-expires=1647986400&x-signature=p6DayOflvUAyehyWX%2BMeKOS8SIU%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e4ab41b6091426feaf642900f581e536~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=CQZ7bRwjLDl%2Bbv8kWaFxoeZwCyI%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAI1yPyBraOmm6BdcqBXdSlwydhjAhUkGgTlGLgD5uJ_lfMlF3RyFlLddu9qUM8J3G",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7013021556209175297",
+        "title": "Frozen",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/cd48d3774426414ab98be6a9cea6440b",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/3a88b4a6d139485da549a4604e4495a4.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/3a88b4a6d139485da549a4604e4495a4.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/3a88b4a6d139485da549a4604e4495a4.jpeg",
+        "authorName": "Madonna & Sickick",
+        "original": false,
+        "duration": 12,
+        "album": "Frozen"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 627
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Fashion Sketchbook",
+            "ID": "1077766"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 7840,
+        "followerCount": 665,
+        "heartCount": 15,
+        "videoCount": 3,
+        "diggCount": 8933,
+        "heart": 15
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

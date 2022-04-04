@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6596287636682407941",
+        "shortId": "",
+        "uniqueId": "todayshow",
+        "nickname": "TODAY Show",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1610423137847302~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=U%2FD3D3BTS8IxkzmtgMZTWfc2zs0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1610423137847302~c5_720x720.jpeg?x-expires=1648234800&x-signature=kkmyUruTEwSYqLFctpPuBJe8SzI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1610423137847302~c5_100x100.jpeg?x-expires=1648234800&x-signature=Q1zkRK05u9uTSqzTclN9JXw8lXI%3D",
+        "signature": "America\u2019s favorite morning show",
+        "createTime": 1535818691,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAnpb2VteCrTIslrKbwknu3ymcOVIe1L5ZhSnZXRuNYRuIeKwPt4p0L-ogRW6m7tY0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "on.today.com/TikTok",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 371300,
+        "followingCount": 74,
+        "heart": 5800000,
+        "heartCount": 5800000,
+        "videoCount": 266,
+        "diggCount": 0
+    },
+    "itemList": []
+}

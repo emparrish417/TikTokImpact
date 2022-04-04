@@ -1,0 +1,98 @@
+{
+    "id": "7082501102347980078",
+    "desc": "Bro looked the other way",
+    "createTime": 1649023291,
+    "video": {
+        "id": "7082501102347980078",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f6f625b10696473794ddaec75d9e4a96?x-expires=1649052000&x-signature=nvH%2FgUtKvPeg6z0ozqgF%2BjrPQEY%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/00e5f16c7edb423ba5315a62fd1a1027_1649023292?x-expires=1649052000&x-signature=4RWUNSs4P2eve32Ldrsy%2BiUnDMY%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ebede88ae2d9408cb2f0ebc06f57f4f9_1649023292?x-expires=1649052000&x-signature=n3AW1LI7WG3fA%2Fdah6d04HQgUkE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/916d59aa92dbb50e92915921ba8faba4/624a96fc/video/tos/useast5/tos-useast5-pve-0068-tx/856003d0ebcc4adfbbd39a3e09498e1d/?a=1988&br=2010&bt=1005&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5vRqDXq&l=202204040057580101130062131DFDA3D2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzk1bGU6ZjQ0PDMzZzczNEApZzVpPDQ1aDxmN2hmOTg0ZGdwX19scjQwZjJgLS1kMS9zc2NhX2JeMS4tXzMyXzQxLS06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/916d59aa92dbb50e92915921ba8faba4/624a96fc/video/tos/useast5/tos-useast5-pve-0068-tx/856003d0ebcc4adfbbd39a3e09498e1d/?a=1988&br=2010&bt=1005&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5vRqDXq&l=202204040057580101130062131DFDA3D2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzk1bGU6ZjQ0PDMzZzczNEApZzVpPDQ1aDxmN2hmOTg0ZGdwX19scjQwZjJgLS1kMS9zc2NhX2JeMS4tXzMyXzQxLS06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/00e5f16c7edb423ba5315a62fd1a1027_1649023292~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=X314REp8sa4xcaaaeffepxTsVd4%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/00e5f16c7edb423ba5315a62fd1a1027_1649023292~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=3NyfjlSA%2BYV%2FlIzkJNmjcjonBf8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f6f625b10696473794ddaec75d9e4a96?x-expires=1649052000&x-signature=RsjxBUSctELGJYEarf9kZQP8xLY%3D",
+        "bitrate": 1029351,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6977410294264071173",
+        "uniqueId": "kmaday",
+        "nickname": "Ukrain\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/032df23e2b17ad085a55198616780139~c5_100x100.jpeg?x-expires=1649116800&x-signature=qCN7CgV%2BApcadx3wmoc1GUIGGtE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/032df23e2b17ad085a55198616780139~c5_720x720.jpeg?x-expires=1649116800&x-signature=%2Bs%2FbW%2BHI%2FnUMvzQtcmNcIClc4tI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/032df23e2b17ad085a55198616780139~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=fBUrFman%2FWOaMO%2B7qBbIlNqCZCY%3D",
+        "signature": "Thanks for the 200 followers:)",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5y8cHJHe67jMSIw9rnKAQPQf1ukIVM7-KQyzI1ytqB0AgXzgmJD1sPuLLv3MHcGj",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7038801749733477167",
+        "title": "kill john lennon.",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7038798758649301807.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e0428076130c540eaf9e0b8f02da137~c5_100x100.jpeg?x-expires=1649116800&x-signature=fqACO5Yh2I7wJCJIw8MgKtQQBLQ%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e0428076130c540eaf9e0b8f02da137~c5_720x720.jpeg?x-expires=1649116800&x-signature=bbjjL91u2uOWl6o0xT8PI9Eebs4%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e0428076130c540eaf9e0b8f02da137~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=nGoXFyHN91Ntm%2BH8DdLdAbdDfQ4%3D",
+        "authorName": "/e dance",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 25
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1487,
+        "followerCount": 283,
+        "heartCount": 1508,
+        "videoCount": 63,
+        "diggCount": 33000,
+        "heart": 1508
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "He dumb"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6894722816957547526",
+        "shortId": "",
+        "uniqueId": "hollan...0",
+        "nickname": "\ud835\ude77\ud835\ude98\ud835\ude95\ud835\ude95\ud835\ude8a\ud835\ude97\u2661\ufe0e",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/89bb59bb59351621deaa29ad07c7bb60~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=flP6st157EPJIOJTBPUmwuxVicQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/89bb59bb59351621deaa29ad07c7bb60~c5_720x720.jpeg?x-expires=1647900000&x-signature=nD%2Fp21Td1PXCfAwEkq4CYBEKWZs%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/89bb59bb59351621deaa29ad07c7bb60~c5_100x100.jpeg?x-expires=1647900000&x-signature=PZ1chU2VcJqlUaojnMLByukikPk%3D",
+        "signature": "No bio yet",
+        "createTime": 1605302873,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5nPrw4yTGt6szDlsQz7QmX5TDwwf-rGrQPaQU9kFeczf5NP_icSQQFuE-DfdGTV1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 124800,
+        "followingCount": 277,
+        "heart": 16700000,
+        "heartCount": 16700000,
+        "videoCount": 457,
+        "diggCount": 0
+    },
+    "itemList": []
+}

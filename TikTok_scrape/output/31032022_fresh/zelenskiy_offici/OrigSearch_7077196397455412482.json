@@ -1,0 +1,152 @@
+{
+    "id": "7077196397455412482",
+    "desc": "#ukraine\ud83c\uddfa\ud83c\udde6 #zelenitsky",
+    "createTime": 1647788193,
+    "video": {
+        "id": "7077196397455412482",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e165bd53c1f4439ab3ed31f6ae6e632f_1647788196?x-expires=1648785600&x-signature=wJKokjdBJSwn2q3gGp%2F1YoMZeXU%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2309a90b087c407781cd30e2d773e290_1647788195?x-expires=1648785600&x-signature=6GfWWxBdySDwwHJJT0dyD%2FdtDQs%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/1f99a10c0389450a9248a3167d8d9c48_1647788195?x-expires=1648785600&x-signature=U8Odnw%2Bxd%2BX4i7YkUl2XTlf3awk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/af5d27eb55fc9d9f18b548b2d7e64d9b/624685cb/video/tos/alisg/tos-alisg-pve-0037/bf6a64db57004ad7b8cdc13de3bf0079/?a=1988&br=1394&bt=697&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thm94zDXq&l=2022033122553001011313518710232668&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amw8bmU6ZjluOzMzODgzNEApPGc1ZzxoZzs3NzNpNzg2Omdpam9pcjQwLW9gLS1kLy1zc18yMTAwXjUtYC4vYzRjMzE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/af5d27eb55fc9d9f18b548b2d7e64d9b/624685cb/video/tos/alisg/tos-alisg-pve-0037/bf6a64db57004ad7b8cdc13de3bf0079/?a=1988&br=1394&bt=697&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thm94zDXq&l=2022033122553001011313518710232668&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amw8bmU6ZjluOzMzODgzNEApPGc1ZzxoZzs3NzNpNzg2Omdpam9pcjQwLW9gLS1kLy1zc18yMTAwXjUtYC4vYzRjMzE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/2309a90b087c407781cd30e2d773e290_1647788195~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=9eIn6KDJ%2FpBH1Gx8zeAdoQWOKzs%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/2309a90b087c407781cd30e2d773e290_1647788195~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=kE0y9Ga3kEw6SGOxM6HupbhqOUI%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e165bd53c1f4439ab3ed31f6ae6e632f_1647788196?x-expires=1648785600&x-signature=wJKokjdBJSwn2q3gGp%2F1YoMZeXU%3D",
+        "bitrate": 714237,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7072314075641103362",
+        "uniqueId": "zelenskiy_offici",
+        "nickname": "zelenskiy",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1648850400&x-signature=C2R%2BmGHqpfEc0u3Y7pgGeUqp5WY%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1648850400&x-signature=4xe9dehqvokbon6dZW1xn%2BEqYjk%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1648850400&x-signature=nMzGWTG%2BUPYbvM6XuNkWgWM0LJ4%3D",
+        "signature": "zelenskiy_offici",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXkyHOfwRZ00qOe6RFKnKbv-8FTq1HmRgu6mM8853OAzpdRySholHUbmVk88rrKal",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030270655232789253",
+        "title": "som original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7030270747608468229.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f7b104f90389ddf5b322b7b8fbe44c1c~c5_100x100.jpeg?x-expires=1648850400&x-signature=Ao3gBDmW4ZdofJTePZwQMxaPaeI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f7b104f90389ddf5b322b7b8fbe44c1c~c5_720x720.jpeg?x-expires=1648850400&x-signature=Uc5Iil5H98ROT96CeDgAyHjFn6M%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f7b104f90389ddf5b322b7b8fbe44c1c~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=4DiWVSm%2FmgoIfxOtxBRUrW2cUjQ%3D",
+        "authorName": "fbolv",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1592381310170118",
+            "title": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1681710180151297",
+            "title": "zelenitsky",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 357200,
+        "shareCount": 3951,
+        "commentCount": 12800,
+        "playCount": 12300000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "1592381310170118",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 13,
+            "end": 24,
+            "hashtagName": "zelenitsky",
+            "hashtagId": "1681710180151297",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 61,
+        "followerCount": 31100,
+        "heartCount": 468800,
+        "videoCount": 81,
+        "diggCount": 1151,
+        "heart": 468800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "ukraine \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6"
+            ]
+        }
+    ],
+    "isAd": false
+}

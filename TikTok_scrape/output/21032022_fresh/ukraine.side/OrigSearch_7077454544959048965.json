@@ -1,0 +1,133 @@
+{
+    "id": "7077454544959048965",
+    "desc": "#100000k",
+    "createTime": 1647848300,
+    "video": {
+        "id": "7077454544959048965",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/40821b417779451aa33041ed63f21baf?x-expires=1647921600&x-signature=TZE5cOgBUf9CIyTBZDW9PpDEJCk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e0190c02b6e14ba0bf62d775d66b498d_1647848300?x-expires=1647921600&x-signature=vOp5t7Mi%2B3b1JY94PPVLvtgiQwY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/02a02a0095cc4661b648802836db5e41_1647848301?x-expires=1647921600&x-signature=C7E9fkEc2jHSRTMjthEoElH%2B7Ko%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9203aee9b3784485b159491d65cad6a9/62395045/video/tos/useast2a/tos-useast2a-ve-0068c002/35ea6e5d6d784d6eb8ce9b20a3e10d88/?a=1988&br=1488&bt=744&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5FKMDXq&l=2022032122273401011300606907B482B9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lzPDk6Zjw1OzMzNzczM0ApOGlpZDppPGQ7N2lmN2Y4ZWdqMzFkcjQwanBgLS1kMTZzc2IuLmNjNTAyLjE1MV82YTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9203aee9b3784485b159491d65cad6a9/62395045/video/tos/useast2a/tos-useast2a-ve-0068c002/35ea6e5d6d784d6eb8ce9b20a3e10d88/?a=1988&br=1488&bt=744&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5FKMDXq&l=2022032122273401011300606907B482B9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lzPDk6Zjw1OzMzNzczM0ApOGlpZDppPGQ7N2lmN2Y4ZWdqMzFkcjQwanBgLS1kMTZzc2IuLmNjNTAyLjE1MV82YTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e0190c02b6e14ba0bf62d775d66b498d_1647848300~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=plYVCBlgp7K27R%2F93xAZUP%2BkmA0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e0190c02b6e14ba0bf62d775d66b498d_1647848300~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=anwZOjsOYLMx9UzzmvCAERvx0WQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/40821b417779451aa33041ed63f21baf?x-expires=1647921600&x-signature=TZE5cOgBUf9CIyTBZDW9PpDEJCk%3D",
+        "bitrate": 762715,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7027539297369834501",
+        "uniqueId": "ukraine.side",
+        "nickname": "Saint maximin",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/007c62adc757754dc04c6bc2cd59cdda~c5_100x100.jpeg?x-expires=1647986400&x-signature=UBFAjQB4H5XsIsz%2B4B3Au%2FpEcAY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/007c62adc757754dc04c6bc2cd59cdda~c5_720x720.jpeg?x-expires=1647986400&x-signature=y1IPaPs3nqFR252RhUF3Zq0m7k0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/007c62adc757754dc04c6bc2cd59cdda~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=7CAxCheL6UmwjvmE9nQGSWgmlCQ%3D",
+        "signature": "Like all my vids plz",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA76BEUEOLuv_KcfjlSvhiiaIOTh6OEFJRpoRIM8VqA47fK5BFuoVsPl0TIQ5gt_cq",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7028284230153112325",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7028284318392994565.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1675870535566341~c5_100x100.jpeg?x-expires=1647986400&x-signature=OEMrdBceF1p7Upq3m%2BwYWId0q%2FA%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1675870535566341~c5_720x720.jpeg?x-expires=1647986400&x-signature=12W5aJmu1fqChcm4cIpyloAUwhA%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1675870535566341~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=ClmGhijb3Ds%2B0bmNusRWvtPanAE%3D",
+        "authorName": "Davolaf",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "22935300",
+            "title": "100000k",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 18
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "100000k",
+            "hashtagId": "22935300",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "CAT SELFIE",
+            "ID": "1307452"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 937,
+        "followerCount": 7395,
+        "heartCount": 15600,
+        "videoCount": 10,
+        "diggCount": 285,
+        "heart": 15600
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Controller player "
+            ]
+        }
+    ],
+    "isAd": false
+}

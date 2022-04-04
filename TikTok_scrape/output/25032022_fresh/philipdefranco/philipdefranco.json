@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6738971592736572421",
+        "shortId": "",
+        "uniqueId": "philipdefranco",
+        "nickname": "Philip DeFranco",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=%2F4VCa01XTP9Zx38rkV7KKOunLrg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_720x720.jpeg?x-expires=1648314000&x-signature=g7gk2Cf1HxCT6GMSM20KG%2BNggfk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_100x100.jpeg?x-expires=1648314000&x-signature=aNYLV0GozHL4vqlx4KsX4yObQ%2Fw%3D",
+        "signature": "A dad who covers the news for you. Quickies here. Daily Deep Dives on YT.",
+        "createTime": 1588739187,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAYxh3-0i3xINKGzPTlpmkW_T6z9Dz6J1ZBGF0UTdjR1WshI2LheZ5Jswoe_tGpsoy",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "BeautifulBastard.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1900000,
+        "followingCount": 574,
+        "heart": 48400000,
+        "heartCount": 48400000,
+        "videoCount": 312,
+        "diggCount": 0
+    },
+    "itemList": []
+}

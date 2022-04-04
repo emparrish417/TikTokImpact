@@ -1,0 +1,113 @@
+{
+    "id": "7082667714807860486",
+    "desc": "\u041e\u0442\u0432\u0435\u0442 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044e @ilonaukraine4",
+    "createTime": 1649062085,
+    "video": {
+        "id": "7082667714807860486",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a806451f996e4d58877132eee153c159?x-expires=1649131200&x-signature=04iDIHSR5XCaqFnri%2BOWgTN9pZw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c371c13337994742b04e789fb6b6e28f_1649062086?x-expires=1649131200&x-signature=TF2lTU%2BPjgMFoDpSrHh8ovxG9bc%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f777dd60603140f59f18697595f4f367_1649062087?x-expires=1649131200&x-signature=BXp%2BdEQgsQ%2F1XN5zjwh6e8uQn4A%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5543371edd86618cfe37f3f532501d3c/624bc0d3/video/tos/useast2a/tos-useast2a-ve-0068c003/1de03b91cf2541d7ac9a97ae16688c57/?a=1988&br=340&bt=170&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ-eqDXq&l=202204042208400101130062071192DC2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am1yeWQ6ZnJlPDMzNzczM0ApZDlnZ2k2PGQ2NzdlPGc2aWduYi5lcjQwLTJgLS1kMTZzczMxLmJjXjBeX2I1NjFiYDI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5543371edd86618cfe37f3f532501d3c/624bc0d3/video/tos/useast2a/tos-useast2a-ve-0068c003/1de03b91cf2541d7ac9a97ae16688c57/?a=1988&br=340&bt=170&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ-eqDXq&l=202204042208400101130062071192DC2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am1yeWQ6ZnJlPDMzNzczM0ApZDlnZ2k2PGQ2NzdlPGc2aWduYi5lcjQwLTJgLS1kMTZzczMxLmJjXjBeX2I1NjFiYDI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c371c13337994742b04e789fb6b6e28f_1649062086~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=NLcH678hMI5k60Qz5qHOW3ParzQ%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c371c13337994742b04e789fb6b6e28f_1649062086~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=ZO8m%2BFv1lw4uOdd53ikCSmSW3no%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a806451f996e4d58877132eee153c159?x-expires=1649131200&x-signature=04iDIHSR5XCaqFnri%2BOWgTN9pZw%3D",
+        "bitrate": 174339,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6961746714358055942",
+        "uniqueId": "11kitik_kit1",
+        "nickname": "(\u00ac\uff64\u00ac)",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6180bab8b225909fef8d97988b551420~c5_100x100.jpeg?x-expires=1649196000&x-signature=ZTbOJ4FmQy%2FQvPTdMtjIc4dEJlk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6180bab8b225909fef8d97988b551420~c5_720x720.jpeg?x-expires=1649196000&x-signature=xtSNjOGlzLixl7rIJpahGgsRGVM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6180bab8b225909fef8d97988b551420~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=qPrHpw3dwMJWRfK%2BpV5o8Ajsgfg%3D",
+        "signature": "\ud83d\udc94_\ud83e\udd7a_....",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWYUIQF4t8WGg7t8GwMBBfAiYsazyayPztxn20IlyRKgPiVTGFZFJwU_YV2k-GuF0",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7065705246124247041",
+        "title": "Speed Dial (Demo)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4d89c7d38526495e936e1df5c6f28934",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d869d74d08ab431c830e9137f78d3d36.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/d869d74d08ab431c830e9137f78d3d36.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/d869d74d08ab431c830e9137f78d3d36.jpeg",
+        "authorName": "Kayla Grace",
+        "original": false,
+        "duration": 56,
+        "album": "Speed Dial (Demo)"
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 59
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 19,
+            "end": 33,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7051923541016478725",
+            "isCommerce": false,
+            "userUniqueId": "ilonaukraine4",
+            "secUid": "MS4wLjABAAAASTP367P8yzvjv0urK9PHORCyK8t-XVFuHCx0cJea8mjAf5taNUjIoBvZ9-C573OS",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 9520,
+        "followerCount": 2091,
+        "heartCount": 1445,
+        "videoCount": 59,
+        "diggCount": 30800,
+        "heart": 1445
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0430\u0432\u044b \u0440\u0438\u0441\u0443\u044e "
+            ]
+        }
+    ],
+    "isAd": false
+}

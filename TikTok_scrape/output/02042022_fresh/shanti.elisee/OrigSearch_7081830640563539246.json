@@ -1,0 +1,90 @@
+{
+    "id": "7081830640563539246",
+    "desc": "Not the Ukrainiannnn",
+    "createTime": 1648867187,
+    "video": {
+        "id": "7081830640563539246",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ecdd253077c44118bbd10601626bb183?x-expires=1648944000&x-signature=iSJTmUJeic%2BSwZKJGT9bKCKDRD4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ba51b1e41f4b48c3b5267155b95f52e9_1648867187?x-expires=1648944000&x-signature=A7vuG3%2BobNR6fy6KZ6kGFGIBhhk%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0d3983ead384495d99b60acbe2a3b56c_1648867188?x-expires=1648944000&x-signature=%2B0LC1V2%2BhWtLthS3IUEjtwSN5UI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/179c415bc2380ad7986af00a41bd75d8/6248ece5/video/tos/useast5/tos-useast5-ve-0068c001-tx/b9e95bed25784c80a9ed010f92ab50fa/?a=1988&br=2518&bt=1259&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi5VqDXq&l=2022040218395601011300622708EF5C46&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRoeTs6ZnV1PDMzZzczNEApOjwzaGY8NmRkNzNoaDtmO2dscDY2cjRfYjBgLS1kMS9zczBjNDIvM15fMGExMi00Ml46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/179c415bc2380ad7986af00a41bd75d8/6248ece5/video/tos/useast5/tos-useast5-ve-0068c001-tx/b9e95bed25784c80a9ed010f92ab50fa/?a=1988&br=2518&bt=1259&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi5VqDXq&l=2022040218395601011300622708EF5C46&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRoeTs6ZnV1PDMzZzczNEApOjwzaGY8NmRkNzNoaDtmO2dscDY2cjRfYjBgLS1kMS9zczBjNDIvM15fMGExMi00Ml46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ba51b1e41f4b48c3b5267155b95f52e9_1648867187~tplv-tiktok-play.jpeg?x-expires=1649527200&x-signature=D8W%2FkIXHJcK%2B1ltJ8meh%2FkbYIBA%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ba51b1e41f4b48c3b5267155b95f52e9_1648867187~tplv-tiktokx-share-play.jpeg?x-expires=1649527200&x-signature=sEeDj802XdsH4JbYQyhNFYO6ayg%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ecdd253077c44118bbd10601626bb183?x-expires=1648944000&x-signature=sXsVgGQUbJ0iuu6RUnTrL0NrrqQ%3D",
+        "bitrate": 1289880,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "4752312",
+        "uniqueId": "shanti.elisee",
+        "nickname": "Shanti.Elise",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3556c39911c971ea636f9c8843c7d2a4~c5_100x100.jpeg?x-expires=1649008800&x-signature=bcFye5bBvYLftY3%2FTfM0vg%2FFvjw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3556c39911c971ea636f9c8843c7d2a4~c5_720x720.jpeg?x-expires=1649008800&x-signature=PSK3PFfeCbpqrnJPjpwl2NKobL8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3556c39911c971ea636f9c8843c7d2a4~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=25ZJChKowXSuVwNZWQV%2BqOimjA8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAobicMuAlmz76tKFaY3lpRP3wCKW6s_SOnnJqonN1h7Y",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7047539134851943215",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7047539179139631918.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c7805d96dd366079b06322191295d952~c5_100x100.jpeg?x-expires=1649008800&x-signature=SqQ0PSB0Cz2e49z60Wz1IDavC%2BM%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c7805d96dd366079b06322191295d952~c5_720x720.jpeg?x-expires=1649008800&x-signature=hqSTgaSKkXqlUdlEJ229QOIjLG0%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c7805d96dd366079b06322191295d952~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=DL691tvR479hKeKGgnV2E22nHms%3D",
+        "authorName": "sammy (wanda\u2019s version)",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 113
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 157,
+        "followerCount": 163,
+        "heartCount": 916,
+        "videoCount": 7,
+        "diggCount": 102800,
+        "heart": 916
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

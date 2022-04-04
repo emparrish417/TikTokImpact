@@ -1,0 +1,47 @@
+{
+    "user": {
+        "id": "6805744108663194629",
+        "shortId": "",
+        "uniqueId": "yahooaustralia",
+        "nickname": "Yahoo Australia",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663901557492741~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=mHnp5p5mTVyZB%2B3F2YUf1rMFRi4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663901557492741~c5_720x720.jpeg?x-expires=1648940400&x-signature=n73fWmP88SrRrSIBPZ8jVb2OYZo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663901557492741~c5_100x100.jpeg?x-expires=1648940400&x-signature=MZnoZrOZFOjDZqi%2FZLAKEXXGZG8%3D",
+        "signature": "Yes, we still exist!\nBite-size Aussie news \ud83c\udde6\ud83c\uddfa\nAll things #Budget2022 \ud83d\udc47",
+        "createTime": 1584557777,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAMAi5eIsuVujKT1bX5cMmQv7WthnX8UwQIgfNfNM4m8gSxD-Jtf7Dr2BMqGwjror8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://yhoo.it/3LouiaG",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "android": "",
+                "ios": "https://apps.apple.com/au/app/yahoo-news/id439828000"
+            },
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 112900,
+        "followingCount": 123,
+        "heart": 4300000,
+        "heartCount": 4300000,
+        "videoCount": 1168,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7062708751355249669",
+        "shortId": "",
+        "uniqueId": "vsamomchernom",
+        "nickname": "vsamomchernom",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5fa7da4b15a8e56d79fe3c89f3ba069~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=x0E%2BTkAQi8WMwJ5JIERB%2BDhqOxw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5fa7da4b15a8e56d79fe3c89f3ba069~c5_720x720.jpeg?x-expires=1648580400&x-signature=E6ahtufI%2BuqMsmw8ixP3IGN9rm0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b5fa7da4b15a8e56d79fe3c89f3ba069~c5_100x100.jpeg?x-expires=1648580400&x-signature=lSJ5MaoOmswk%2FZb4pAkwnYaKPWk%3D",
+        "signature": "0629gang",
+        "createTime": 1644415197,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfxKcxMpikcUE7S8fk2Zicx7MduQ25ifEG5kZnQ5TBCtFcKUVPdlkqVTpWlhFt02Y",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 18,
+        "followingCount": 8,
+        "heart": 333,
+        "heartCount": 333,
+        "videoCount": 29,
+        "diggCount": 0
+    },
+    "itemList": []
+}

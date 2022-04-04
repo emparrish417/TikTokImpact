@@ -1,0 +1,103 @@
+{
+    "id": "7080658497813187845",
+    "desc": "",
+    "createTime": 1648594276,
+    "video": {
+        "id": "7080658497813187845",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/dcbb7f6ffdb74609808c440cd8745b26?x-expires=1648699200&x-signature=ghvJQJrmAbPvrKTKS%2BcP7tElICQ%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fc53dac0fb764e308d79033af465faee_1648594277?x-expires=1648699200&x-signature=lIFsTJlm%2BwSdgRLdq5%2BUXqdsaSU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5839da43f85c400a8a6b9a142bcc9f40_1648594278?x-expires=1648699200&x-signature=r2X1kzy8vGxevqYYss3T7LxUYcE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2ee62bc75e707db59f786e13fa0316fb/62452934/video/tos/useast2a/tos-useast2a-ve-0068c002/5fc5725ce13a4361a8c8c00977021ce0/?a=1988&br=1026&bt=513&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThEOFzDXq&l=202203302208130101131350040090C277&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amxkdGY6ZmxyPDMzNzczM0ApNjMzOzZmPDs7N2U1OjZmNmdoNmgvcjRvbS5gLS1kMTZzczZhLjFiMy5fYzQ2XzYzLy46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2ee62bc75e707db59f786e13fa0316fb/62452934/video/tos/useast2a/tos-useast2a-ve-0068c002/5fc5725ce13a4361a8c8c00977021ce0/?a=1988&br=1026&bt=513&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThEOFzDXq&l=202203302208130101131350040090C277&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amxkdGY6ZmxyPDMzNzczM0ApNjMzOzZmPDs7N2U1OjZmNmdoNmgvcjRvbS5gLS1kMTZzczZhLjFiMy5fYzQ2XzYzLy46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fc53dac0fb764e308d79033af465faee_1648594277~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=fRGxoDZCa3cQVl2UKvrGJDgtSDM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fc53dac0fb764e308d79033af465faee_1648594277~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=CjFYnfnnEpgStsqj%2FXEfoqN6xTg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/dcbb7f6ffdb74609808c440cd8745b26?x-expires=1648699200&x-signature=ghvJQJrmAbPvrKTKS%2BcP7tElICQ%3D",
+        "bitrate": 525704,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910052106251387909",
+        "uniqueId": "make_fun_stuff",
+        "nickname": "I stand whit Ukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3861088acb04a0d6936d6d92ffdc5ad7~c5_100x100.jpeg?x-expires=1648764000&x-signature=uobi2BRQlq%2F%2BGobUZetGJEQFYho%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3861088acb04a0d6936d6d92ffdc5ad7~c5_720x720.jpeg?x-expires=1648764000&x-signature=FQiTxtR9rK2O7M5zb7JwFksAft0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3861088acb04a0d6936d6d92ffdc5ad7~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=a8lNd6YsIHlNP8cRfJl%2Fx7%2FchhI%3D",
+        "signature": "I have YouTube and instgram",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAO-muOCThrb8GeTcQ5PTPdlPUBntlTcziKWMyXSYhUWWY2_bhTjhcN7Hk14iy4inW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6867389053612968710",
+        "title": "CaN yOu FiNd WhErE I gAvE a F",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6867388877074647813.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60bc8a20d9c31c34c08642ae7318ef11~c5_100x100.jpeg?x-expires=1648764000&x-signature=bI2TsR8mkyyLQIYK2kxygCWFi%2FE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60bc8a20d9c31c34c08642ae7318ef11~c5_720x720.jpeg?x-expires=1648764000&x-signature=p2FdGU2xn8FX%2BFhIRPH8eWosIXk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60bc8a20d9c31c34c08642ae7318ef11~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=phJa%2FlHYojxkgkzmcnIEVTK9CLc%3D",
+        "authorName": "oreo.charcharr",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 135
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 5254,
+        "followerCount": 1353,
+        "heartCount": 2788,
+        "videoCount": 449,
+        "diggCount": 7970,
+        "heart": 2788
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Leo",
+                "Aries",
+                "Aquarius",
+                "Cancer",
+                "Gemini",
+                "Taurus"
+            ]
+        }
+    ],
+    "isAd": false
+}

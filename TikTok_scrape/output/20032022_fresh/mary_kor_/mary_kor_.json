@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6735024803013297158",
+        "shortId": "",
+        "uniqueId": "mary_kor_",
+        "nickname": "\u041c\u0430\u0440\u0438\u044f \u041a\u043e\u0440\u043d\u0438\u043b\u043e\u0432\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9a679cae48e4d3ed097b2d7d81beff37~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=PZHC8sbDCfhlifcxqATfDr%2FQOgc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9a679cae48e4d3ed097b2d7d81beff37~c5_720x720.jpeg?x-expires=1647900000&x-signature=kgAcFC756WpqpXjgSVP8nC13jpM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9a679cae48e4d3ed097b2d7d81beff37~c5_100x100.jpeg?x-expires=1647900000&x-signature=4uRIqleCuZTZoDZcI3PnIswZS%2FU%3D",
+        "signature": "",
+        "createTime": 1568120212,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADIxOAp9h4SiaFNvxsibcq9iBN1zPi-XTRgWvWEZCTDDrHyAaUQsU2p9N07BSq-F_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 210,
+        "followingCount": 32,
+        "heart": 8817,
+        "heartCount": 8817,
+        "videoCount": 233,
+        "diggCount": 0
+    },
+    "itemList": []
+}

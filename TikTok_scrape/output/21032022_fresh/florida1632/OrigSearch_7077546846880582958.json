@@ -1,0 +1,119 @@
+{
+    "id": "7077546846880582958",
+    "desc": "#stopthewarinukraine",
+    "createTime": 1647869790,
+    "video": {
+        "id": "7077546846880582958",
+        "height": 1024,
+        "width": 576,
+        "duration": 57,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/89861553c018407e8e855f442a640b5b?x-expires=1647921600&x-signature=gBo4ZJW0rYPcTCqoNLBtlMh2QUE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/93e1b5c7928f444d8c6ce2e8f6086292_1647869790?x-expires=1647921600&x-signature=WsOjtmwrCW884JnlFfLLtQ%2BEfu8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4b335a28d9dd4faea91a0b667fe2fa18_1647869791?x-expires=1647921600&x-signature=08TkyINbrpzzGWggI9aJBWlCKw4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5a007d067765f32c77314ae20633493a/62394fe2/video/tos/useast5/tos-useast5-pve-0068-tx/61811490b32c48b4add9deb5cbca73ea/?a=1988&br=998&bt=499&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThvPKMDXq&l=202203212225130101130061320BCD5845&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzNoNTQ6Zjc6OzMzZzczNEApNGk1OTs8Mzs2N2hoOzY0aGdiai1jcjQwcnBgLS1kMS9zc2NgNl41YTZjYjBiNS0vXmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5a007d067765f32c77314ae20633493a/62394fe2/video/tos/useast5/tos-useast5-pve-0068-tx/61811490b32c48b4add9deb5cbca73ea/?a=1988&br=998&bt=499&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThvPKMDXq&l=202203212225130101130061320BCD5845&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzNoNTQ6Zjc6OzMzZzczNEApNGk1OTs8Mzs2N2hoOzY0aGdiai1jcjQwcnBgLS1kMS9zc2NgNl41YTZjYjBiNS0vXmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/93e1b5c7928f444d8c6ce2e8f6086292_1647869790~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=y2SBIRh6ub030kazxIwYQgw2JAI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/93e1b5c7928f444d8c6ce2e8f6086292_1647869790~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=RHS%2FP6dGTHaoKXF6lb2LP94u9mg%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/89861553c018407e8e855f442a640b5b?x-expires=1647921600&x-signature=gBo4ZJW0rYPcTCqoNLBtlMh2QUE%3D",
+        "bitrate": 511904,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6820422472136344581",
+        "uniqueId": "florida1632",
+        "nickname": "florida1632",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1c0d3fb28dc66f7655a45ba580db31c4~c5_100x100.jpeg?x-expires=1647986400&x-signature=%2BgeytSS5tw%2FNrnsxtFOk%2BqEWzyA%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1c0d3fb28dc66f7655a45ba580db31c4~c5_720x720.jpeg?x-expires=1647986400&x-signature=iRDH%2B2au2oiNkZRL6hNMd27g0ck%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1c0d3fb28dc66f7655a45ba580db31c4~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=YAfXbfUoqlD8B6nMHXd6l63thAo%3D",
+        "signature": "home of the manatees Homosassa, Crystal River, Florida..",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6SA43hQxfzmVrS8p8JbI7y7OVtLDSDyUPZ9kzFt_An4ZFeba0HJ4FKjP4YTlp-y7",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077546766991690539",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7077546820607560490.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1c0d3fb28dc66f7655a45ba580db31c4~c5_100x100.jpeg?x-expires=1647986400&x-signature=%2BgeytSS5tw%2FNrnsxtFOk%2BqEWzyA%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1c0d3fb28dc66f7655a45ba580db31c4~c5_720x720.jpeg?x-expires=1647986400&x-signature=iRDH%2B2au2oiNkZRL6hNMd27g0ck%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1c0d3fb28dc66f7655a45ba580db31c4~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=YAfXbfUoqlD8B6nMHXd6l63thAo%3D",
+        "authorName": "florida1632",
+        "original": true,
+        "duration": 57,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "7066035258860404742",
+            "title": "stopthewarinukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 42,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 806
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 20,
+            "hashtagName": "stopthewarinukraine",
+            "hashtagId": "7066035258860404742",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1225,
+        "followerCount": 688,
+        "heartCount": 1946,
+        "videoCount": 77,
+        "diggCount": 7848,
+        "heart": 1946
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

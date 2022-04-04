@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6879188622609433606",
+        "shortId": "",
+        "uniqueId": "bova.tv",
+        "nickname": "\u0434\u044f\u0434\u044f \u041c\u0438\u043a\u043e\u043b\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fd01c8c5812f0cae56125827b795a151~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=pzJ44KnMmSxqlqdqd2byrsu2Xlk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fd01c8c5812f0cae56125827b795a151~c5_720x720.jpeg?x-expires=1649120400&x-signature=dbbqE33indhh3ccg44AXBuiQlKM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fd01c8c5812f0cae56125827b795a151~c5_100x100.jpeg?x-expires=1649120400&x-signature=ir4uInZk2bgPRHvRNEfmAU7r7gU%3D",
+        "signature": "\u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456!\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1601686000,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhdyzFZRmgBi5agU01JnZpSFKWxA3BRn2HAJEOxg0kXzPH4PDBwW8xSq3CmniH17A",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "https://growth4u.blogspot.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12100,
+        "followingCount": 9990,
+        "heart": 110500,
+        "heartCount": 110500,
+        "videoCount": 2507,
+        "diggCount": 59200
+    },
+    "itemList": []
+}

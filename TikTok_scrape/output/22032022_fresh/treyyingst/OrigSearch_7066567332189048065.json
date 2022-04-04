@@ -1,0 +1,119 @@
+{
+    "id": "7066567332189048065",
+    "desc": "#Ukraine",
+    "createTime": 1645313423,
+    "video": {
+        "id": "7066567332189048065",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e180346ab87c4cfc9ea085e006b6f85a_1645313427?x-expires=1648004400&x-signature=4Ob3P9jZaWCLNYsBlNTrhOBf1t4%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a25e296037cb465ab462ee96a64f2e92_1645313426?x-expires=1648004400&x-signature=olx4oP3cL9YPzITPCAu6FgQcblQ%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/07c5eb194b00492fa500ccd7ce6b70a4_1645313427?x-expires=1648004400&x-signature=8jXUwZoWVdPRF1ufMD4BtK54rAk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/df5b6632860880cdc8914a1dea8ad8db/623a951a/video/tos/alisg/tos-alisg-pve-0037c001/976b0720a47544b18e5e2f1a4b4e3831/?a=1988&br=4472&bt=2236&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3WRMDXq&l=202203222133360101130060110EA323E9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzxpOzc6ZmtxOzMzODczNEApOWhmNDo4OGVmNzlkNmYzM2dpczQ1cjQwbjVgLS1kMS1zc19hYzNeL15gXi8zNV8xXzI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/df5b6632860880cdc8914a1dea8ad8db/623a951a/video/tos/alisg/tos-alisg-pve-0037c001/976b0720a47544b18e5e2f1a4b4e3831/?a=1988&br=4472&bt=2236&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3WRMDXq&l=202203222133360101130060110EA323E9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzxpOzc6ZmtxOzMzODczNEApOWhmNDo4OGVmNzlkNmYzM2dpczQ1cjQwbjVgLS1kMS1zc19hYzNeL15gXi8zNV8xXzI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/a25e296037cb465ab462ee96a64f2e92_1645313426~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=mAsAAHmWzkHZRuxEEyzczbL2b74%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/a25e296037cb465ab462ee96a64f2e92_1645313426~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=B0%2B6WNnVyh52ESrn1yq7HmrDWTk%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e180346ab87c4cfc9ea085e006b6f85a_1645313427?x-expires=1648004400&x-signature=4Ob3P9jZaWCLNYsBlNTrhOBf1t4%3D",
+        "bitrate": 2290621,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6744078155839620102",
+        "uniqueId": "treyyingst",
+        "nickname": "Trey",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652902052581381~c5_100x100.jpeg?x-expires=1648069200&x-signature=wll3O8lsj6XuOlu7OJchNXBg2yI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652902052581381~c5_720x720.jpeg?x-expires=1648069200&x-signature=%2F%2B9N96HH37t%2F1TS3soMfWbG0M94%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652902052581381~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=S90n34AXbb1Ez3KbTC9VFPoRVao%3D",
+        "signature": "\ud83c\udf0d Foreign Correspondent\n\ud83c\udfa5 Fox News\n\ud83d\udcf8 Add me on Instagram",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZ-Xw0vuU961ng5C2a42pc2rrKyQTWpuvc-MHEaZyK6fb5eri8iqiMhQoUPxlgetu",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7066570694935104258",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7066570681424579330.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652902052581381~c5_100x100.jpeg?x-expires=1648069200&x-signature=wll3O8lsj6XuOlu7OJchNXBg2yI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652902052581381~c5_720x720.jpeg?x-expires=1648069200&x-signature=%2F%2B9N96HH37t%2F1TS3soMfWbG0M94%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652902052581381~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=S90n34AXbb1Ez3KbTC9VFPoRVao%3D",
+        "authorName": "Trey",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 169000,
+        "shareCount": 1848,
+        "commentCount": 4900,
+        "playCount": 9700000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 97,
+        "followerCount": 574500,
+        "heartCount": 8400000,
+        "videoCount": 407,
+        "diggCount": 6630,
+        "heart": 8400000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6797376724142785542",
+        "shortId": "",
+        "uniqueId": "rtenews",
+        "nickname": "RT\u00c9 News",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=HILFNW1od8YNvPTyr5u0ahKUhkw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_720x720.jpeg?x-expires=1649116800&x-signature=%2FPVPXBtpTSeSAnLE9txFOtlwsw0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_100x100.jpeg?x-expires=1649116800&x-signature=4FWDyNVdj8fC54fQg7iVPplOKro%3D",
+        "signature": "Ireland\u2019s National Public Service Multimedia News",
+        "createTime": 1582637975,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAe2GXe03j1NDHsAyLlK0dmZEwmiWotZPTcmE1tqNQZi4W1nwFfvLR9rqxfRFMSMOX",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "rte.ie/news/TikTok",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 75000,
+        "followingCount": 12,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 189,
+        "diggCount": 0
+    },
+    "itemList": []
+}

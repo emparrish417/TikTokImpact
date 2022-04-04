@@ -1,0 +1,104 @@
+{
+    "id": "7078653321040366891",
+    "desc": "",
+    "createTime": 1648127410,
+    "video": {
+        "id": "7078653321040366891",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5505f8fae3b64af8baaff7795752a0e1?x-expires=1648249200&x-signature=oNzSZSxvV3FJW0g6AkO9%2FjrJvEo%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ed04601c696d47e4838b231279895e70_1648127411?x-expires=1648249200&x-signature=csIBRGnRG6t3%2FnLuCa0p6LufCdI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/450f92887ef242b39533b6dcadb3868a_1648127411?x-expires=1648249200&x-signature=LdaHgJTABPOaoeHvHt%2FqnibJgOM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/343b45e94728e07478914c83e583ea46/623e4f1d/video/tos/useast5/tos-useast5-pve-0068-tx/98c745e13442458e954ee3303364b9f8/?a=1988&br=3956&bt=1978&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJizJDXq&l=2022032517240601011300620700E3C417&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3l4NTU6Zjo5OzMzZzczNEApOjRoZTY0ZTxkNzRmOzg8PGdlLmk2cjRvb3JgLS1kMS9zc2E2Ly4zNTNeYjQ1NjY1YjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/343b45e94728e07478914c83e583ea46/623e4f1d/video/tos/useast5/tos-useast5-pve-0068-tx/98c745e13442458e954ee3303364b9f8/?a=1988&br=3956&bt=1978&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJizJDXq&l=2022032517240601011300620700E3C417&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3l4NTU6Zjo5OzMzZzczNEApOjRoZTY0ZTxkNzRmOzg8PGdlLmk2cjRvb3JgLS1kMS9zc2E2Ly4zNTNeYjQ1NjY1YjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ed04601c696d47e4838b231279895e70_1648127411~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=ugsW4WyLdlztV7zTccciZL%2BSERU%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ed04601c696d47e4838b231279895e70_1648127411~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=rpEk%2FNAllWR8KFS3DjZ0JSZTnw4%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5505f8fae3b64af8baaff7795752a0e1?x-expires=1648249200&x-signature=Nax%2FZ%2F36FICdpOOH7%2BFpnjytotI%3D",
+        "bitrate": 2026302,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6532072060993159170",
+        "uniqueId": "its_your_offical_dolores",
+        "nickname": "ukraine for life",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c4355588b101009f67be48c2ad00d442~c5_100x100.jpeg?x-expires=1648314000&x-signature=7fa%2BUuJNjXb%2F0Jk2q9EgoVu9AeM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c4355588b101009f67be48c2ad00d442~c5_720x720.jpeg?x-expires=1648314000&x-signature=2y5939Lho7Eo006ftcR293EuQLY%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c4355588b101009f67be48c2ad00d442~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=odH5FNLoukLEu0EI5ZnBVZZ6fe0%3D",
+        "signature": "\u26a0\ufe0f WARNING \u26a0\ufe0f SAVE UKRAINE AND RUSSIA TO RUSSIA IS TELLING THEIR PRESIDENT STOP!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_Fr_QxeEzXyg0RGdHdz_I7Mb7JrCMpMMZy7DtiBBbfldIb1xU9_7IBf8lo--tZfB",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069827780313205505",
+        "title": "old town road",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7069827786000567042.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/83802f469c06f01b6c0a516523036ff6.jpeg?x-expires=1648314000&x-signature=HUdbhz8r%2FamsE8VZvNQLYwrSQY0%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/83802f469c06f01b6c0a516523036ff6.jpeg?x-expires=1648314000&x-signature=UsO6ANynXEv5iwk6G0njt87cOds%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/83802f469c06f01b6c0a516523036ff6.jpeg?x-expires=1648314000&x-signature=Oli%2FY58GBZaxDPEVlgpFeMFG41k%3D",
+        "authorName": "\ud83c\udde7\ud83c\uddf7",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 371
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Your Name",
+            "ID": "1652042"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 5021,
+        "followerCount": 362,
+        "heartCount": 1304,
+        "videoCount": 424,
+        "diggCount": 20900,
+        "heart": 1304
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "what\u2019s my nickname "
+            ]
+        }
+    ],
+    "isAd": false
+}

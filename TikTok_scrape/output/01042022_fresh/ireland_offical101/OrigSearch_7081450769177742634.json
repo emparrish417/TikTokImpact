@@ -1,0 +1,90 @@
+{
+    "id": "7081450769177742634",
+    "desc": "",
+    "createTime": 1648778741,
+    "video": {
+        "id": "7081450769177742634",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4262876dfa084b02b7596a4d149d9e2b?x-expires=1648875600&x-signature=QKeqvngqFjonvR72wRbPWo9UONg%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5f18b7137d444d3cac9ee8f6207596b1_1648778742?x-expires=1648875600&x-signature=vHtBK059tsbp3FD7vMzRiXW8aV4%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ada2280082cb4e6d9b14a7e4888d4017_1648778743?x-expires=1648875600&x-signature=nLzfGKOvc%2FArtsSNTcbM1D6ejNg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/850cf8ad1d942f4b702fc44f68ef9406/6247e380/video/tos/useast5/tos-useast5-ve-0068c004-tx/5b28fa4625fa4e0bba362ed6bf90dbd8/?a=1988&br=3114&bt=1557&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgXxzDXq&l=202204012347310101130062411927388C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajpyZGc6ZnQ4PDMzZzczNEApOTg8NTw0aDw3NzQ1NWg5NGdyXm9vcjRvbzBgLS1kMS9zcy41NTNeYjMxYTY1YV5jYV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/850cf8ad1d942f4b702fc44f68ef9406/6247e380/video/tos/useast5/tos-useast5-ve-0068c004-tx/5b28fa4625fa4e0bba362ed6bf90dbd8/?a=1988&br=3114&bt=1557&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgXxzDXq&l=202204012347310101130062411927388C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajpyZGc6ZnQ4PDMzZzczNEApOTg8NTw0aDw3NzQ1NWg5NGdyXm9vcjRvbzBgLS1kMS9zcy41NTNeYjMxYTY1YV5jYV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/5f18b7137d444d3cac9ee8f6207596b1_1648778742~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=sEm%2Fu9eWwvYnCEcsDmD1uwpEIY4%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/5f18b7137d444d3cac9ee8f6207596b1_1648778742~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=xsA8Ihp9rsflNbwiK0nueoQrw70%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4262876dfa084b02b7596a4d149d9e2b?x-expires=1648875600&x-signature=uzKAgVnNG96Qpig4%2FASySY5TT80%3D",
+        "bitrate": 1595252,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7076206978167669806",
+        "uniqueId": "ireland_offical101",
+        "nickname": "IRELAND<3 (:",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d6a8060d04c4255eb48946935b5cb8a4~c5_100x100.jpeg?x-expires=1648940400&x-signature=MXKGqIEiam0iS7saTxCCewyctPM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d6a8060d04c4255eb48946935b5cb8a4~c5_720x720.jpeg?x-expires=1648940400&x-signature=8WfQbfF7hd%2BIuC97yKU0zlmC62Y%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d6a8060d04c4255eb48946935b5cb8a4~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=UBH5ZNIGoc0ofXpkiXjtu%2Brl9oM%3D",
+        "signature": "OG from the streets is a baddie",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATDmbqKQGZnVjGWkzsSZf2IA_6DmKcXjb2RFx7PdZlkqLSsddlqmiCn3gt_VF_Ia1",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7044302786657717038",
+        "title": "mj",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7044302798418185007.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/293110b8436fb0d0e4229a6698af88bf~c5_100x100.jpeg?x-expires=1648940400&x-signature=mc8fh4J65ZQk0ZE9UBnmVYDWPlo%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/293110b8436fb0d0e4229a6698af88bf~c5_720x720.jpeg?x-expires=1648940400&x-signature=GJ2vzyURUEWxFmDQs9TpfZgbg1Y%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/293110b8436fb0d0e4229a6698af88bf~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=fyFjFcKmaqCw7QHp0f7VI0GAw74%3D",
+        "authorName": "mj",
+        "original": true,
+        "duration": 27,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 133
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 164,
+        "followerCount": 16,
+        "heartCount": 340,
+        "videoCount": 129,
+        "diggCount": 2383,
+        "heart": 340
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

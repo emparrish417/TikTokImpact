@@ -1,0 +1,98 @@
+{
+    "id": "7077460367248608517",
+    "desc": "",
+    "createTime": 1647849657,
+    "video": {
+        "id": "7077460367248608517",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d94cd953ae4e4ea880b7ea5d4b7efd02?x-expires=1647921600&x-signature=CIA5xCaEDZSaVQKKfwzYGEF09aI%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/353e0ffbb69c493fa06fe07b56fb467a_1647849658?x-expires=1647921600&x-signature=HREqNeAVXnvKXW3GUcKzOV4QqkY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2f17fd77b8514ca485f70334a24a6b7a_1647849658?x-expires=1647921600&x-signature=z6XV7DQDZhZKssRdqW1G3s5MT44%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/675d418287b346de48201e8e37026262/62395045/video/tos/useast2a/tos-useast2a-ve-0068c002/f329accd772f4a6fbaf7019ca9f07405/?a=1988&br=1190&bt=595&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5FKMDXq&l=2022032122273401011300606907B482B9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV1bjY6Zm41OzMzNzczM0ApZzk2Zzs6OmU7NzpkM2Y6NmdoLi1qcjRnc3BgLS1kMTZzczY2NWNfNmM2MDAuMS5hYmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/675d418287b346de48201e8e37026262/62395045/video/tos/useast2a/tos-useast2a-ve-0068c002/f329accd772f4a6fbaf7019ca9f07405/?a=1988&br=1190&bt=595&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5FKMDXq&l=2022032122273401011300606907B482B9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV1bjY6Zm41OzMzNzczM0ApZzk2Zzs6OmU7NzpkM2Y6NmdoLi1qcjRnc3BgLS1kMTZzczY2NWNfNmM2MDAuMS5hYmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/353e0ffbb69c493fa06fe07b56fb467a_1647849658~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=VQ%2FIcGu2rr79SxdiM3aS2CGB07A%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/353e0ffbb69c493fa06fe07b56fb467a_1647849658~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=xkD38IIpR77jrFytKJnVPPNugi8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d94cd953ae4e4ea880b7ea5d4b7efd02?x-expires=1647921600&x-signature=CIA5xCaEDZSaVQKKfwzYGEF09aI%3D",
+        "bitrate": 609624,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6924342848028984325",
+        "uniqueId": "goukraine22",
+        "nickname": "Hi",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/024d06d59ab2b8ce6910ca78d8236fd3~c5_100x100.jpeg?x-expires=1647986400&x-signature=sPj4gxgiJYlwIvGwqV%2BRXBmkbL4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/024d06d59ab2b8ce6910ca78d8236fd3~c5_720x720.jpeg?x-expires=1647986400&x-signature=pyjQPqbrWfmjxZ29tq8UALCzPs0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/024d06d59ab2b8ce6910ca78d8236fd3~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=7SVhHNzv0QtlRJ%2FX%2BDcShylj%2FPw%3D",
+        "signature": "go Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3RPT5GtUSG8G2NVapH-MgiZD1hPeWyl0J4Gbfi7nvs5D3IvRD6CjWbeXqnv9RfmI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7060462681535236098",
+        "title": "im so lucky!",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d5ff3932b0944f54904cf0c54a448a51",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d7575f9d8a094809a60e12049c6ba39a.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/d7575f9d8a094809a60e12049c6ba39a.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/d7575f9d8a094809a60e12049c6ba39a.jpeg",
+        "authorName": "shivt",
+        "original": false,
+        "duration": 60,
+        "album": "im so lucky!"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 84
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 686,
+        "followerCount": 105,
+        "heartCount": 38,
+        "videoCount": 6,
+        "diggCount": 2710,
+        "heart": 38
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "People say if u use this sound something good happens"
+            ]
+        }
+    ],
+    "isAd": false
+}

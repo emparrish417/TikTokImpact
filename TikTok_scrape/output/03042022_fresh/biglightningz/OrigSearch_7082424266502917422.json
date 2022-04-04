@@ -1,0 +1,98 @@
+{
+    "id": "7082424266502917422",
+    "desc": "",
+    "createTime": 1649005401,
+    "video": {
+        "id": "7082424266502917422",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0173f626309f4edcb81d6167d923bde6?x-expires=1649052000&x-signature=gFSIyh%2BFSvXS4thQjNL0LV%2F2qYk%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b6cae3257bb54666a3940d0b156f4a60_1649005402?x-expires=1649052000&x-signature=gejwdnTdyH0NYXIKSuXaXlq807s%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3afbb8c5821f407cb90b628abe04abc9_1649005402?x-expires=1649052000&x-signature=f7guQFHIEJz66vakPdSgEItODyA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b547e2f22311ba320ff1b8aaf60dd5a0/624a9711/video/tos/useast5/tos-useast5-ve-0068c003-tx/f8123679cd4448fa9a980b219bcaabee/?a=1988&br=6262&bt=3131&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThpvRqDXq&l=20220404005818010113006254203EE60B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anV2aGg6Zmx3PDMzZzczNEApZDM5ZDk8NmUzN2ZoZ2dmO2cyYmo1cjRvMjFgLS1kMS9zczNjXmEvXjUwYjEwYTUxMjE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b547e2f22311ba320ff1b8aaf60dd5a0/624a9711/video/tos/useast5/tos-useast5-ve-0068c003-tx/f8123679cd4448fa9a980b219bcaabee/?a=1988&br=6262&bt=3131&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThpvRqDXq&l=20220404005818010113006254203EE60B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anV2aGg6Zmx3PDMzZzczNEApZDM5ZDk8NmUzN2ZoZ2dmO2cyYmo1cjRvMjFgLS1kMS9zczNjXmEvXjUwYjEwYTUxMjE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b6cae3257bb54666a3940d0b156f4a60_1649005402~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=Hh0hl%2F2rq2kIf2t9pmlNSPNErew%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b6cae3257bb54666a3940d0b156f4a60_1649005402~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=xtMlr2o1eWExHqwD2tiNatxevh4%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0173f626309f4edcb81d6167d923bde6?x-expires=1649052000&x-signature=Uw6bnhhy2uCjJM2ZPp6tlFRRZ7A%3D",
+        "bitrate": 3206150,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6807232378764166150",
+        "uniqueId": "biglightningz",
+        "nickname": "STAN FOR UKRAIN!\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/00f30d78334f3da02356aa9d11473cc9~c5_100x100.jpeg?x-expires=1649116800&x-signature=7eQb%2BxRx0d%2FAkepxXU%2FYHTH8P64%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/00f30d78334f3da02356aa9d11473cc9~c5_720x720.jpeg?x-expires=1649116800&x-signature=peKJaNAhqVqw6LdXqBTtx5FrEUM%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/00f30d78334f3da02356aa9d11473cc9~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=H4%2FTdZTCspMF9BwVbO4WxYhFFnU%3D",
+        "signature": "Idk what to put here",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7pLFg7MdOka3C3ExFLoqpe_RLJXlOmth8dRDHV7FC35cYgNLJEg7x9-vAo1RPgPS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082390041791630085",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082390051824470790.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9ec4d7f01192fad520633db22021cc47~c5_100x100.jpeg?x-expires=1649116800&x-signature=bODovjfNooqSM5QsBNX5QBCuufI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9ec4d7f01192fad520633db22021cc47~c5_720x720.jpeg?x-expires=1649116800&x-signature=QgVRWwcRh%2B8hQQLOH8fpT%2F7iBDo%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9ec4d7f01192fad520633db22021cc47~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=PDrPpthPr3K5317ozKHGbZRv4o0%3D",
+        "authorName": "leonie <3",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 100
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 6470,
+        "followerCount": 9250,
+        "heartCount": 67700,
+        "videoCount": 574,
+        "diggCount": 140100,
+        "heart": 67700
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "When they spent their day on a hammock \ud83d\ude3b\ud83e\udd1e"
+            ]
+        }
+    ],
+    "isAd": false
+}

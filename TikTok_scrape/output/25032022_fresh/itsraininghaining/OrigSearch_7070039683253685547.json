@@ -1,0 +1,235 @@
+{
+    "id": "7070039683253685547",
+    "desc": "#swissmiss #neutrality #bye #thankyou #standwithukraine\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1646121894,
+    "video": {
+        "id": "7070039683253685547",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c5a80d68b44f43f689313ff69202e18a_1646121896~tplv-dmt-logom:tos-useast5-p-0000-tx/4bd493e6b8d048408c8e43b8d0e92ad8.image?x-expires=1648249200&x-signature=bpVhGNn2vB7C1N5bJhmDtLlUQpI%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0ab20cc719ae429490c08933029c3e1c_1646121895?x-expires=1648249200&x-signature=lApkx%2FZ444cd5sTxd8UBKl9q5uk%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7c09979cd3ed424dabea924f2e48e894_1646121895?x-expires=1648249200&x-signature=ddEnj%2BYV2cavvsXHaxU4Wmd5nt0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e6684cc4025b8a41877feebf78012628/623e5089/video/tos/useast5/tos-useast5-ve-0068c001-tx/467d68e9834e441094e7e875f8f12c06/?a=1988&br=1786&bt=893&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThDgzJDXq&l=2022032517300301011300614714D1D51C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2hob2k6Zjt3OzMzZzczNEApNDU1MzNlNDwzNzY3NGk5ZWdiMDBocjRvLmJgLS1kMS9zc15eNDBgXl8zXjA0LmJjNjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e6684cc4025b8a41877feebf78012628/623e5089/video/tos/useast5/tos-useast5-ve-0068c001-tx/467d68e9834e441094e7e875f8f12c06/?a=1988&br=1786&bt=893&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThDgzJDXq&l=2022032517300301011300614714D1D51C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2hob2k6Zjt3OzMzZzczNEApNDU1MzNlNDwzNzY3NGk5ZWdiMDBocjRvLmJgLS1kMS9zc15eNDBgXl8zXjA0LmJjNjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0ab20cc719ae429490c08933029c3e1c_1646121895~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=hPbSUb%2BiYz7WXytbc4bJjq%2F5Uts%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0ab20cc719ae429490c08933029c3e1c_1646121895~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=DIb9EGecQc5bN6v%2F5vNozmAJaPA%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5a80d68b44f43f689313ff69202e18a_1646121896?x-expires=1648249200&x-signature=7NLlIjw%2BnI6atk16A%2B%2BxibvxAcY%3D",
+        "bitrate": 915244,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6660736561150443526",
+        "uniqueId": "itsraininghaining",
+        "nickname": "Jennifer Haining",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc5b5c5df99bcc6bebf81b876930d17f~c5_100x100.jpeg?x-expires=1648314000&x-signature=ntpkTqQJEct36JmtCpMfRIDcVZA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc5b5c5df99bcc6bebf81b876930d17f~c5_720x720.jpeg?x-expires=1648314000&x-signature=be%2Bib8xr1oNFFGuVcBlvrJXb2zY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc5b5c5df99bcc6bebf81b876930d17f~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=w9pOmBQ%2BMlZw6iioBBtiEP1xv0Q%3D",
+        "signature": "Fun at very specific parties.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQCgKFEq264VW-KpyoErRXKXhiMGiaK7ErFtNABgKSq1VuZmsL3sksTwFJW8WHy17",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030297984290114309",
+        "title": "Enemy",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7030577961921301254.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/625af4efd4cdf9c928a608dea2dd2dfd~c5_100x100.jpeg?x-expires=1648314000&x-signature=wzH64BhwzxAbL2ARrkYbejVNlY8%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/625af4efd4cdf9c928a608dea2dd2dfd~c5_720x720.jpeg?x-expires=1648314000&x-signature=dCi4L3JECpubjsGb3A5brqZmidI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/625af4efd4cdf9c928a608dea2dd2dfd~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=zrDe2gBkPwS3YVdE7k9dtvUi%2FxQ%3D",
+        "authorName": "TAYLOR MALONE",
+        "original": true,
+        "duration": 25,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "2860691",
+            "title": "swissmiss",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "12797345",
+            "title": "neutrality",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "13365",
+            "title": "bye",
+            "desc": "0",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5647fa1c9b8bbd53e24cce68b2580985",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5647fa1c9b8bbd53e24cce68b2580985",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5647fa1c9b8bbd53e24cce68b2580985",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a14e548c79325f548e6ee6eac03a502",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a14e548c79325f548e6ee6eac03a502",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a14e548c79325f548e6ee6eac03a502",
+            "isCommerce": false
+        },
+        {
+            "id": "1246",
+            "title": "thankyou",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "7056129701542264837",
+            "title": "standwithukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 124800,
+        "shareCount": 1358,
+        "commentCount": 717,
+        "playCount": 633600
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "swissmiss",
+            "hashtagId": "2860691",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 11,
+            "end": 22,
+            "hashtagName": "neutrality",
+            "hashtagId": "12797345",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 23,
+            "end": 27,
+            "hashtagName": "bye",
+            "hashtagId": "13365",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 28,
+            "end": 37,
+            "hashtagName": "thankyou",
+            "hashtagId": "1246",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 38,
+            "end": 59,
+            "hashtagName": "standwithukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "7056129701542264837",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 668,
+        "followerCount": 19000,
+        "heartCount": 1200000,
+        "videoCount": 163,
+        "diggCount": 29700,
+        "heart": 1200000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u201cThey\u2019ll only help so much. No country is going to alter who they *are* for Ukraine, you know?\u201d",
+                "\u201cI know, it\u2019s-\u201c",
+                "Switzerland"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "\ud83c\uddfa\ud83c\udde6\ud83c\udde8\ud83c\udded"
+            ]
+        }
+    ],
+    "isAd": false
+}

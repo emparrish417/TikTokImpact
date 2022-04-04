@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6787570350228243462",
+        "shortId": "",
+        "uniqueId": "arjunbanerjeecomedy",
+        "nickname": "Arjun Banerjee",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/92e543a977dcd31f68fc088df9ca591e~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=SGacrss4G0k3TpQ2PU08tITGGBg%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/92e543a977dcd31f68fc088df9ca591e~c5_720x720.jpeg?x-expires=1648580400&x-signature=u8mQteR06A6fGhLlvGQYexme9Jk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/92e543a977dcd31f68fc088df9ca591e~c5_100x100.jpeg?x-expires=1648580400&x-signature=BV%2FDz0dspJri8v3MHYtCli%2B5JzM%3D",
+        "signature": "Stand up Comic\nTell Me Where to Perform \ud83d\udc47",
+        "createTime": 1580355961,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAt2Py77EhYWrLA9xkQydyqCy7MpUK1q7vJwffzB-z3_08YIIhBQmmJzvq09FYKXgS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.arjuncomedy.com/tell-me-where-to-perform",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 120900,
+        "followingCount": 108,
+        "heart": 3500000,
+        "heartCount": 3500000,
+        "videoCount": 90,
+        "diggCount": 0
+    },
+    "itemList": []
+}

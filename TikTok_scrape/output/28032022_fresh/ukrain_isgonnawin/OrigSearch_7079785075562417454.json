@@ -1,0 +1,90 @@
+{
+    "id": "7079785075562417454",
+    "desc": "",
+    "createTime": 1648390917,
+    "video": {
+        "id": "7079785075562417454",
+        "height": 1024,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/614293ded77f408fb53f0683ce09e1f0?x-expires=1648515600&x-signature=%2FOTKc9kjpbnSlkOjrS6xNhyLUU8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b5538b9cae56405da958844b27b927e4_1648390918?x-expires=1648515600&x-signature=YdO7lgXbQAX9g3eIDCTUaN2t7ig%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3378efb128a3418b8eec6ed176b371e6_1648390918?x-expires=1648515600&x-signature=%2BneelQF1gWeIZkUpbwEpgPnvX8c%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c83925045d0ae006f1efb2aec7b418fe/62425ee9/video/tos/useast5/tos-useast5-pve-0068-tx/c721d9aad7554c638dbbc289e60210ca/?a=1988&br=3462&bt=1731&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th.mugDXq&l=2022032819201901011313507727CBED33&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZzaDc6Zmc6PDMzZzczNEApaDM1OWZnNjs0NzRnOzk1M2cyLmEucjRfMi1gLS1kMS9zczE1NS40MzYzMV8yYzExNV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c83925045d0ae006f1efb2aec7b418fe/62425ee9/video/tos/useast5/tos-useast5-pve-0068-tx/c721d9aad7554c638dbbc289e60210ca/?a=1988&br=3462&bt=1731&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th.mugDXq&l=2022032819201901011313507727CBED33&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZzaDc6Zmc6PDMzZzczNEApaDM1OWZnNjs0NzRnOzk1M2cyLmEucjRfMi1gLS1kMS9zczE1NS40MzYzMV8yYzExNV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b5538b9cae56405da958844b27b927e4_1648390918~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=7%2FhymDQlr1dke1YWt1me3tRXL5o%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b5538b9cae56405da958844b27b927e4_1648390918~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=Jpbc%2FZg27XUWZZYa9S7tu1PbrUE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/614293ded77f408fb53f0683ce09e1f0?x-expires=1648515600&x-signature=%2FOTKc9kjpbnSlkOjrS6xNhyLUU8%3D",
+        "bitrate": 1772971,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7046837837647381509",
+        "uniqueId": "ukrain_isgonnawin",
+        "nickname": "UKRAINNNN",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ef80af63a18cae9442d0cd86e837908~c5_100x100.jpeg?x-expires=1648580400&x-signature=fpho3ehy27gDROdtsPKkKl4ExSk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ef80af63a18cae9442d0cd86e837908~c5_720x720.jpeg?x-expires=1648580400&x-signature=oo%2B%2FDUJWDt1KFz4CqYrwUrXv1bc%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ef80af63a18cae9442d0cd86e837908~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=0CvFhxqAELwGEk0gcA2S18ZNEdQ%3D",
+        "signature": "Follow me on twitter @mm2kingreal and my twitch @RAG3KIDTHEGOAT",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtJvZxrzLO3LQ3rV_TF9OUanPbOjzVtbddpOM1_ii8zP-Fbh-_vqJbGCjyqVJ9HZC",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067777582250330113",
+        "title": "The Sugarhill Keem Freestyle",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/542561bcb7d54d36961d6d0616112aad",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/514cf6d94fc54bd29f72d8e34eb95766.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/514cf6d94fc54bd29f72d8e34eb95766.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/514cf6d94fc54bd29f72d8e34eb95766.jpeg",
+        "authorName": "DJ Swervy B",
+        "original": false,
+        "duration": 60,
+        "album": "The Sugarhill Keem Freestyle"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 192
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 247,
+        "followerCount": 82,
+        "heartCount": 281,
+        "videoCount": 185,
+        "diggCount": 284,
+        "heart": 281
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6897816837406819333",
+        "shortId": "",
+        "uniqueId": "simpleecoactions",
+        "nickname": "Simple Eco Actions",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7103257318893c6b603fd50d33145829~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=Z6B0ddArkpYt8%2FxcFk0%2FVnmMOTk%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7103257318893c6b603fd50d33145829~c5_720x720.jpeg?x-expires=1647817200&x-signature=atePOrfkGlBuWG6ZrMwI3F0i9p4%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7103257318893c6b603fd50d33145829~c5_100x100.jpeg?x-expires=1647817200&x-signature=6VrWaBINVvnvprii0vc%2FMAom8Jc%3D",
+        "signature": "\ud83c\udf3f\u00a0Simple Eco Actions to help restore our planet. Visit SimpleEcoActions.com",
+        "createTime": 1606023294,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV-sTVDWf3HJRx1MM6S7s5iXNc5LpTQyPNcnudcIp4Ykv3NGFNZ_IvzwbvB04Y7a2",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "SimpleEcoActions.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6,
+        "followingCount": 16,
+        "heart": 268,
+        "heartCount": 268,
+        "videoCount": 18,
+        "diggCount": 0
+    },
+    "itemList": []
+}

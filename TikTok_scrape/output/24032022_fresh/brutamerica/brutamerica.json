@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6781531515165033477",
+        "shortId": "",
+        "uniqueId": "brutamerica",
+        "nickname": "Brut.",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a7082bdd4ff0dd479e900360b95b3d0a~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=JHfFapAUOgWLjZd9tjxKbJNp4pU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a7082bdd4ff0dd479e900360b95b3d0a~c5_720x720.jpeg?x-expires=1648234800&x-signature=S6wMADqxxCrJiY%2BZ95cdj6eHF4s%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a7082bdd4ff0dd479e900360b95b3d0a~c5_100x100.jpeg?x-expires=1648234800&x-signature=2zNQ%2FendEXzhK1FWdMWJzk5aXkA%3D",
+        "signature": "Stories, unfiltered.",
+        "createTime": 1578948536,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAap8Y3V2Z-f1gwCLM30hElBhj81g7YpkD2xA2XYGnteRxz8aYfgfEmR-UyWnc2c-l",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 988600,
+        "followingCount": 66,
+        "heart": 31500000,
+        "heartCount": 31500000,
+        "videoCount": 1002,
+        "diggCount": 0
+    },
+    "itemList": []
+}

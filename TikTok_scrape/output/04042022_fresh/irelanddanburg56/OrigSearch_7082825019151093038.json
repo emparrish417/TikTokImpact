@@ -1,0 +1,90 @@
+{
+    "id": "7082825019151093038",
+    "desc": "",
+    "createTime": 1649098709,
+    "video": {
+        "id": "7082825019151093038",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/29e930ca2d244698b55083e8176d857b?x-expires=1649131200&x-signature=QYegJHebj88Gm1T0QpufFRuOlxc%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/681b2c3510c34fd3b23ae0718b37cec6_1649098710?x-expires=1649131200&x-signature=EMU2JTHIsTa6cAHc%2Fa0iSkMjv7A%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/798a91217014496bbc7d9e7c53a5fa15_1649098711?x-expires=1649131200&x-signature=MWXkVgF0JTBigXHYnHc57HIPUC4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/55db8dfba63e24975a965369a091c1e4/624bc064/video/tos/useast5/tos-useast5-ve-0068c001-tx/f4ba9ba689ab45499b7f1c0061b184be/?a=1988&br=6466&bt=3233&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThiFeqDXq&l=202204042206510101130061320BC47DA0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2lyNTU6Zm5tPDMzZzczNEApN2hlZDszOTw4NzZnZGc8Zmc1Zms2cjRvcTJgLS1kMS9zcy9fLzRiNC02YWE0Y140LTU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/55db8dfba63e24975a965369a091c1e4/624bc064/video/tos/useast5/tos-useast5-ve-0068c001-tx/f4ba9ba689ab45499b7f1c0061b184be/?a=1988&br=6466&bt=3233&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThiFeqDXq&l=202204042206510101130061320BC47DA0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2lyNTU6Zm5tPDMzZzczNEApN2hlZDszOTw4NzZnZGc8Zmc1Zms2cjRvcTJgLS1kMS9zcy9fLzRiNC02YWE0Y140LTU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/681b2c3510c34fd3b23ae0718b37cec6_1649098710~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=9AsS%2FtbVzR71HdJ1vvq%2B39T6KTM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/681b2c3510c34fd3b23ae0718b37cec6_1649098710~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=P055%2FAmKNhT0WlS70cYSZxcI87s%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/29e930ca2d244698b55083e8176d857b?x-expires=1649131200&x-signature=6GQGdI8DIxi3WJvnD3H8uNv68%2Fk%3D",
+        "bitrate": 3310852,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6635083295593889798",
+        "uniqueId": "irelanddanburg56",
+        "nickname": "Ireland",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/260b9f4b54622d36c87cb21430e369d7~c5_100x100.jpeg?x-expires=1649196000&x-signature=1NApQkf4JuL2F%2BVnYcl2%2FKFBhEo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/260b9f4b54622d36c87cb21430e369d7~c5_720x720.jpeg?x-expires=1649196000&x-signature=5bkTFknk9018lqh6aUAZ1zX%2FUJA%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/260b9f4b54622d36c87cb21430e369d7~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=eghVdNM%2B%2B3Yw7Y%2FFj%2BPmMZ3PkYA%3D",
+        "signature": "They/Them\n15\nPansexual \ud83e\udd5e\nspam acc: @god_hates_ireland",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJLsJ58mDwPo64Uq4VdLik5goHSpIu2EpIvlPpdoPPGgkNxVt4lLSqmxH1HypM0j-",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6980344033805617926",
+        "title": "u can hold my hand",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/6991707692557454082.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5bc4bb82ba21a5bde9d9929ceef2355~c5_100x100.jpeg?x-expires=1649196000&x-signature=mxi7n0aUOGsGeqTe8IgCxJEjZk8%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5bc4bb82ba21a5bde9d9929ceef2355~c5_720x720.jpeg?x-expires=1649196000&x-signature=UXN8uXhXzqm%2FChd2mC%2F7GPTHVBY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5bc4bb82ba21a5bde9d9929ceef2355~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=SrUEMa%2BXW4k%2FbIJkvQ793Y6OKRo%3D",
+        "authorName": "judi",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 22
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 321,
+        "followerCount": 72,
+        "heartCount": 509,
+        "videoCount": 27,
+        "diggCount": 36200,
+        "heart": 509
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

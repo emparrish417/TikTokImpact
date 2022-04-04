@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6791125615598355462",
+        "shortId": "",
+        "uniqueId": "ohsorandiejo",
+        "nickname": "Randie",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/20d8b3e1e8aa14c9a184f1cac121ef09~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=7n1M2nA%2Bwpk9ulv5pGzVpqSoqrQ%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/20d8b3e1e8aa14c9a184f1cac121ef09~c5_720x720.jpeg?x-expires=1647900000&x-signature=oj4J70D6cxUiHTAf7ip98TdWr28%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/20d8b3e1e8aa14c9a184f1cac121ef09~c5_100x100.jpeg?x-expires=1647900000&x-signature=s77nPEEfTwthMjSEDVIEzKHKPf4%3D",
+        "signature": "",
+        "createTime": 1581182400,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_SjUaZgfxCi5wQMWPx8vY0_MG_x_5On5MkNi9LG2-k1QiSPvUOtuOxV4nUGVLuop",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 220,
+        "followingCount": 805,
+        "heart": 1635,
+        "heartCount": 1635,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,96 @@
+{
+    "id": "7082668529962568965",
+    "desc": "Bored.com \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+    "createTime": 1649062275,
+    "video": {
+        "id": "7082668529962568965",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b8953b8b19014c039c49d91b8890597b?x-expires=1649131200&x-signature=%2FYOL8IqD4PTZr5LdG80NZ7R7oio%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2d7a0f3f59b34a9aae31a07a60845be1_1649062276?x-expires=1649131200&x-signature=sqUpzZRImLzGym6Em37J35GX44E%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7664ed33dd0746d0ac0e6da5b87078fa_1649062277?x-expires=1649131200&x-signature=Rw%2FdrU2u6UW7zR9r4og8oon63pI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/96472cfb8dc7cc34436299eafdec8685/624bc0c1/video/tos/useast2a/tos-useast2a-pve-0068/109fe210aed048acb9dd4f83994cd637/?a=1988&br=1486&bt=743&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThB-eqDXq&l=2022040422081801011300608627EEA485&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xoaWg6ZnBlPDMzNzczM0ApNWc7OTU2Ozs8N2kzNDk5PGdgcWVrcjRfLzJgLS1kMTZzczFgNDIzX19hM14vMi40Li06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/96472cfb8dc7cc34436299eafdec8685/624bc0c1/video/tos/useast2a/tos-useast2a-pve-0068/109fe210aed048acb9dd4f83994cd637/?a=1988&br=1486&bt=743&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThB-eqDXq&l=2022040422081801011300608627EEA485&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xoaWg6ZnBlPDMzNzczM0ApNWc7OTU2Ozs8N2kzNDk5PGdgcWVrcjRfLzJgLS1kMTZzczFgNDIzX19hM14vMi40Li06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2d7a0f3f59b34a9aae31a07a60845be1_1649062276~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=WsKtx0TxpxzVXyoEaQd%2FeAP88Yg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2d7a0f3f59b34a9aae31a07a60845be1_1649062276~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=0F0XXi%2BKvVyyWE599bGeplWhFjE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b8953b8b19014c039c49d91b8890597b?x-expires=1649131200&x-signature=%2FYOL8IqD4PTZr5LdG80NZ7R7oio%3D",
+        "bitrate": 761753,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6829309360419980294",
+        "uniqueId": "debbiedohertyireland",
+        "nickname": "Debbie",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4dcb2e55ab389524c5166c577552e20c~c5_100x100.jpeg?x-expires=1649196000&x-signature=8MsJmulDaCRLBavmSIy3q2W%2BQxc%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/4dcb2e55ab389524c5166c577552e20c~c5_720x720.jpeg?x-expires=1649196000&x-signature=Y3P9oCSTEEoQk1dpjqeI7QXAp1Q%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4dcb2e55ab389524c5166c577552e20c~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=2%2BWDJQKZteOVmiospkpp2cXadsE%3D",
+        "signature": "Food critic and wine connoisseur\nEmpowering others\nHere for fun NO DMS",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5YXjzLaPXjRA3OyQrEehT6biqjVWaaRqkU7ShNaYCaJLlZbPn9TAyXNQayz-Q5y3",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081256822019099397",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7081256851442060038.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f9e7c5752deee19ae27e764a4d37062d~c5_100x100.jpeg?x-expires=1649196000&x-signature=hfG%2F9Hw7E%2BiMD42HaubeMQWAehc%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f9e7c5752deee19ae27e764a4d37062d~c5_720x720.jpeg?x-expires=1649196000&x-signature=MNPWAZm4jPYZSDdsPKtOb3FvljM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f9e7c5752deee19ae27e764a4d37062d~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=4tkm95POOiLKGRBI%2F1UITaDXPHM%3D",
+        "authorName": "babygirl_1968",
+        "original": true,
+        "duration": 59,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 9,
+        "shareCount": 0,
+        "commentCount": 14,
+        "playCount": 133
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Shuttlecock Face",
+            "ID": "1411176"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 700,
+        "followerCount": 2333,
+        "heartCount": 6607,
+        "videoCount": 210,
+        "diggCount": 34300,
+        "heart": 6607
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

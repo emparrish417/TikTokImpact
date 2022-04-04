@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6917088966064079877",
+        "shortId": "",
+        "uniqueId": "lev4ak",
+        "nickname": "lev4ak",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1a448100c9989e40b8e29338fcaa78e5~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=E%2B7kYlBJ73JcMw75aY8g8%2BivhOg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1a448100c9989e40b8e29338fcaa78e5~c5_720x720.jpeg?x-expires=1647817200&x-signature=K5fkEMmZ6qgI1iWXGaqdGeOOJQM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1a448100c9989e40b8e29338fcaa78e5~c5_100x100.jpeg?x-expires=1647817200&x-signature=MSzLUD9itFzcJwViC1Y6VsWdKCk%3D",
+        "signature": "...",
+        "createTime": 1610510552,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZ4aaM1kkzTyC7yLESxDkcNynP1Bv5Y9sAkc-mpyqmDgf1Gq7TdSXfcTzQxpvHio4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 237,
+        "followingCount": 55,
+        "heart": 24700,
+        "heartCount": 24700,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

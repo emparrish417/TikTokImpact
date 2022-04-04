@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6738746760095040518",
+        "shortId": "",
+        "uniqueId": "thisiscory",
+        "nickname": "Cory Bradford",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/355fec7de141dc99fcfc01be8b746335~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=avv4vcN7MPhwTxVCGI8oqiOSxNo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/355fec7de141dc99fcfc01be8b746335~c5_720x720.jpeg?x-expires=1648069200&x-signature=kULcVTKrk958ySZc4xYT3w1pA%2FM%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/355fec7de141dc99fcfc01be8b746335~c5_100x100.jpeg?x-expires=1648069200&x-signature=7rurIvwSFo7G5m2Z154yELTEbnQ%3D",
+        "signature": "The CEO of History",
+        "createTime": 1568986898,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAiJcPjUZ-2j0uQMcm8lXcUBO3dfLmu3jUBxtjNObN7_ylIjFxuhii70TBqdFQKR_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://m.youtube.com/channel/UCzUxjVwwgy92uvkSEXXop9A",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 724300,
+        "followingCount": 182,
+        "heart": 13600000,
+        "heartCount": 13600000,
+        "videoCount": 154,
+        "diggCount": 0
+    },
+    "itemList": []
+}

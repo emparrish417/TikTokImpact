@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6895796735278646277",
+        "shortId": "",
+        "uniqueId": "ba.bay.lus",
+        "nickname": "Ludmila Bai",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/859f5e839e26201490ac4d083784e339.jpeg?x-expires=1648764000&x-signature=q7xEY8aICj5ndmk6oho2KW%2F3ODo%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/859f5e839e26201490ac4d083784e339.jpeg?x-expires=1648764000&x-signature=vjPN6olAVMHuIr6jwQQ1eQYoZGM%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/859f5e839e26201490ac4d083784e339.jpeg?x-expires=1648764000&x-signature=eKKO2JAsdAebxdPiAkYcNg3QdeE%3D",
+        "signature": "",
+        "createTime": 1605553103,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6lOfE0Hy6N-TyPXXKgVS_i5K0CsTBUveKKmQkpMrfCxkgxZgPuEw6utwQC-_qCdA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 40,
+        "followingCount": 25,
+        "heart": 244,
+        "heartCount": 244,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

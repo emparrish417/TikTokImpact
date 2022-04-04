@@ -1,0 +1,133 @@
+{
+    "id": "7079813953878117674",
+    "desc": "#distorted",
+    "createTime": 1648397641,
+    "video": {
+        "id": "7079813953878117674",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2072c71f6b00478893b8e909ad57e700?x-expires=1648515600&x-signature=S7WbVn%2FWMwY6BwNzRzERm4V%2FS2s%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a23cb060aca54ab1a043a1c6ae840ba2_1648397641?x-expires=1648515600&x-signature=4%2F%2F0sPaEPdghrHc%2FSCVZDM23NBQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/23492bf2bb6c4684b6d06d98207110f0_1648397642?x-expires=1648515600&x-signature=Mq5ronqYCnJFbrLb7SD13jsygsw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d94ccb026bc9303e5cf2e3b7164890cf/62425f17/video/tos/useast5/tos-useast5-pve-0068-tx/d35dc34e48774e01aaeb9dcb1fb247dc/?a=1988&br=1188&bt=594&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZiugDXq&l=202203281921130101130061471C3BF6B8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2lyN2k6Znk7PDMzZzczNEApOzQ7OWQ7NTw7N2YzOWZmNGdxLXNscjQwbS1gLS1kMS9zc15eX2BgYzI1Ni8wLzA2MmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d94ccb026bc9303e5cf2e3b7164890cf/62425f17/video/tos/useast5/tos-useast5-pve-0068-tx/d35dc34e48774e01aaeb9dcb1fb247dc/?a=1988&br=1188&bt=594&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZiugDXq&l=202203281921130101130061471C3BF6B8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2lyN2k6Znk7PDMzZzczNEApOzQ7OWQ7NTw7N2YzOWZmNGdxLXNscjQwbS1gLS1kMS9zc15eX2BgYzI1Ni8wLzA2MmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a23cb060aca54ab1a043a1c6ae840ba2_1648397641~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=OqftAl7w7Uy5nbZDyI2lQHSZsTQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a23cb060aca54ab1a043a1c6ae840ba2_1648397641~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=ff3A7Cjc5cEjCgaiBiBBLBf3uPI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2072c71f6b00478893b8e909ad57e700?x-expires=1648515600&x-signature=S7WbVn%2FWMwY6BwNzRzERm4V%2FS2s%3D",
+        "bitrate": 608277,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6905603249261593606",
+        "uniqueId": "goukrainiambradley203",
+        "nickname": "dogboy152",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/305f9d679a1574cadf5a599d0ae644e9~c5_100x100.jpeg?x-expires=1648580400&x-signature=GQejnJdYuocbciTYQFy0nkfVDao%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/305f9d679a1574cadf5a599d0ae644e9~c5_720x720.jpeg?x-expires=1648580400&x-signature=264EjznzxpF8RI7tzMbKU0q%2Bt4s%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/305f9d679a1574cadf5a599d0ae644e9~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=pEa8RX6YKNmb%2FJ8EURPBAzosGBQ%3D",
+        "signature": "Hi im brad",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA8MiEH7U29lrqSTCbuPJv5udQw0xzdkoub5IMzNudnzrbVuJgcvgIBv-bl12ZgM0k",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6712652459048766214",
+        "title": "Originalton",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1638833460898870.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1648740950549510~c5_100x100.jpeg?x-expires=1648580400&x-signature=7GlJ6%2FBMnosiNSBROL%2FbYCPbSeU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1648740950549510~c5_720x720.jpeg?x-expires=1648580400&x-signature=BJ3PCbd7weATMf6Nw65CwyBUpXw%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1648740950549510~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=5cGl2jfKT%2FgQXH6XeSjT%2FNX1q94%3D",
+        "authorName": "frankieelicious",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "2677962",
+            "title": "distorted",
+            "desc": "Is this what we really look like? Use our new Creative Effect and serve a #Distorted look. ",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 87
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "distorted",
+            "hashtagId": "2677962",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Distorted",
+            "ID": "244131"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 471,
+        "followerCount": 72,
+        "heartCount": 196,
+        "videoCount": 146,
+        "diggCount": 627,
+        "heart": 196
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "TikTok really removed my video for showing a wound on my leg \ud83d\ude44\ud83d\ude44\ud83d\ude44"
+            ]
+        }
+    ],
+    "isAd": false
+}

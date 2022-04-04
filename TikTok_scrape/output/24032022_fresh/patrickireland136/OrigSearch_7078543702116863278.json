@@ -1,0 +1,90 @@
+{
+    "id": "7078543702116863278",
+    "desc": "",
+    "createTime": 1648101888,
+    "video": {
+        "id": "7078543702116863278",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/afd63fffc17b41eb9c518e142f7d4c0a?x-expires=1648170000&x-signature=W%2B7ZaxY8FqnPyRtrc2cEY%2FemR94%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ae34facdce604e01a75ab9a81c5fa0d1_1648101888?x-expires=1648170000&x-signature=7Ie8JXVl4ENXB%2FyO5k9iw%2Bjmm8E%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f5151655620642f1b4d4f5de70e3f0cf_1648101889?x-expires=1648170000&x-signature=3Pz%2BbccWSZ53ewv72RDE369CQ64%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2ef13380cdf1f41736162c6b028833b3/623d1d3e/video/tos/useast5/tos-useast5-ve-0068c004-tx/21fd2abb0f2b417a9664bad86bdd97eb/?a=1988&br=2922&bt=1461&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThL_pJDXq&l=2022032419385501011313502003346F16&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztkcWc6ZnMzOzMzZzczNEApZmlnOzo3ZmQ3NzY7aWg2aWdlcF9lcjRvZ3JgLS1kMS9zc15iNTU1MmBeMjMzMl4wLmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2ef13380cdf1f41736162c6b028833b3/623d1d3e/video/tos/useast5/tos-useast5-ve-0068c004-tx/21fd2abb0f2b417a9664bad86bdd97eb/?a=1988&br=2922&bt=1461&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThL_pJDXq&l=2022032419385501011313502003346F16&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztkcWc6ZnMzOzMzZzczNEApZmlnOzo3ZmQ3NzY7aWg2aWdlcF9lcjRvZ3JgLS1kMS9zc15iNTU1MmBeMjMzMl4wLmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ae34facdce604e01a75ab9a81c5fa0d1_1648101888~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=HvSSOD2AknoPc3P%2FnAPQK2q1XhM%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ae34facdce604e01a75ab9a81c5fa0d1_1648101888~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=TkYF0%2BdZarru9T104PBOUTlsXzQ%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/afd63fffc17b41eb9c518e142f7d4c0a?x-expires=1648170000&x-signature=W%2B7ZaxY8FqnPyRtrc2cEY%2FemR94%3D",
+        "bitrate": 1497051,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7034820739874178053",
+        "uniqueId": "patrickireland136",
+        "nickname": "patrickireland136",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7034821159040319493~c5_100x100.jpeg?x-expires=1648234800&x-signature=fUmQmh52WARv2%2Bz3xSltVP3a%2FhY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7034821159040319493~c5_720x720.jpeg?x-expires=1648234800&x-signature=I47rm55K7im7pk%2FziV513FLiDyk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7034821159040319493~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=465LlaBtQdV267RHybbYTG8%2BQFk%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvHb8HLtDOQ5K3BAFdaYGTOTXhdAEqKnrIMWBROYzRZGsKlYNiaALKoSDVj-PspuW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078543631258372907",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7078543668797279019.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7034821159040319493~c5_100x100.jpeg?x-expires=1648234800&x-signature=fUmQmh52WARv2%2Bz3xSltVP3a%2FhY%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7034821159040319493~c5_720x720.jpeg?x-expires=1648234800&x-signature=I47rm55K7im7pk%2FziV513FLiDyk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7034821159040319493~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=465LlaBtQdV267RHybbYTG8%2BQFk%3D",
+        "authorName": "patrickireland136",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 125
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 57,
+        "followerCount": 52,
+        "heartCount": 0,
+        "videoCount": 1,
+        "diggCount": 323,
+        "heart": 0
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

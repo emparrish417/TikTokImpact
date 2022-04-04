@@ -1,0 +1,96 @@
+{
+    "id": "7081837615812562219",
+    "desc": "Peace for Ukrainian",
+    "createTime": 1648868811,
+    "video": {
+        "id": "7081837615812562219",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5a8929c58f0145aab68ec3f62fa7f4d4?x-expires=1648944000&x-signature=rN5fP6Xg9GYhpTc3F3SenWcYdto%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/36dad8a95a7b499c8cf09e1954c995f8_1648868812?x-expires=1648944000&x-signature=efe3S6IgPBQInUmi2ZkFyxN%2Fc2k%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f00a4859c9d94adbb00476aea6d08d72_1648868812?x-expires=1648944000&x-signature=C878yN3rSqLm2tOdi4SCHXCDgrM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/201e83efa9d5931966b0307730853b87/6248ecea/video/tos/useast5/tos-useast5-ve-0068c003-tx/4212c1022d894931ae3dad3b5ae966ff/?a=1988&br=2740&bt=1370&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi5VqDXq&l=2022040218395601011300622708EF5C46&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2d0cTM6Zmt1PDMzZzczNEApZDM6Nmg8OjszN2RoaTRlaWdwLTAtcjRnbzBgLS1kMS9zc2NgLV82Ni9fNl4tLWMuMDM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/201e83efa9d5931966b0307730853b87/6248ecea/video/tos/useast5/tos-useast5-ve-0068c003-tx/4212c1022d894931ae3dad3b5ae966ff/?a=1988&br=2740&bt=1370&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi5VqDXq&l=2022040218395601011300622708EF5C46&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2d0cTM6Zmt1PDMzZzczNEApZDM6Nmg8OjszN2RoaTRlaWdwLTAtcjRnbzBgLS1kMS9zc2NgLV82Ni9fNl4tLWMuMDM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/36dad8a95a7b499c8cf09e1954c995f8_1648868812~tplv-tiktok-play.jpeg?x-expires=1649527200&x-signature=NZfFBNqg%2BwA0dzQiSs3%2F5JELGvk%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/36dad8a95a7b499c8cf09e1954c995f8_1648868812~tplv-tiktokx-share-play.jpeg?x-expires=1649527200&x-signature=ukiOgHXqxgJNEbbaT%2BFPH32igsU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5a8929c58f0145aab68ec3f62fa7f4d4?x-expires=1648944000&x-signature=6MOD6SZI%2FBZmgefD2y3aw5hNBrA%3D",
+        "bitrate": 1403300,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7074790229852718122",
+        "uniqueId": "123sandra500",
+        "nickname": "user4516810626882",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/743081a8f78e06e9af54cfc93af6baa4~c5_100x100.jpeg?x-expires=1649008800&x-signature=ve6Cmu%2FPOXzqGbuL7BDZY%2FuxdPM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/743081a8f78e06e9af54cfc93af6baa4~c5_720x720.jpeg?x-expires=1649008800&x-signature=Y1gBNXec17x6V0xmAUNFhmDkgyY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/743081a8f78e06e9af54cfc93af6baa4~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=MG3UJpnyQTG6mSxQ7MpuWTF6PqE%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArZtSulWr4HPK52xpDrVzr4jsb4fFp3NbGhFQn6E8xAqLXLxufXk58twVlBxiPuDj",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6795585271782967298",
+        "title": "Steven Universe",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b5c5eca2f9c746c9af5f56e3859278b4",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a44bf2819f5f472f96dbbf3efcd0d8fa.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a44bf2819f5f472f96dbbf3efcd0d8fa.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a44bf2819f5f472f96dbbf3efcd0d8fa.jpeg",
+        "authorName": "L.Dre",
+        "original": false,
+        "duration": 60,
+        "album": "Steven Universe"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 2
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "blingUA",
+            "ID": "1815228"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 13,
+        "followerCount": 2,
+        "heartCount": 51,
+        "videoCount": 70,
+        "diggCount": 65,
+        "heart": 51
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

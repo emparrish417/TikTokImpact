@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7058133464269784110",
+        "shortId": "",
+        "uniqueId": "babak.apk3",
+        "nickname": "BaBak.Apk3",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a45e8f551845d068722a6f243007ed1~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=davcRpkV2dNx0v1GO7L9OyW3CcQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a45e8f551845d068722a6f243007ed1~c5_720x720.jpeg?x-expires=1648173600&x-signature=B1KINnoZnvS78h8lQjQN2OpnoN8%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a45e8f551845d068722a6f243007ed1~c5_100x100.jpeg?x-expires=1648173600&x-signature=x4uUB82ul0Xet%2FEcMRhfu7t3%2F%2Bc%3D",
+        "signature": "...............!?",
+        "createTime": 1643439879,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAABqOBaiFxtKzJgZaMSe44Ah7-THvEADToAnMcnNlc89T6tfm8GynQniGQwX7WBf7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 716,
+        "followingCount": 777,
+        "heart": 34,
+        "heartCount": 34,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6916987184793666566",
+        "shortId": "",
+        "uniqueId": "tiktokovue_golovu",
+        "nickname": "pR0`jksN",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f01cc03aa14a123fb79aebe8b8bce9af~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=M3ajV4NZSS4%2F4ZTPf%2FtC%2BqeZK%2Bw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f01cc03aa14a123fb79aebe8b8bce9af~c5_720x720.jpeg?x-expires=1648580400&x-signature=1%2FfYheSypw4OdZ6iL22G4Z087Y8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f01cc03aa14a123fb79aebe8b8bce9af~c5_100x100.jpeg?x-expires=1648580400&x-signature=19dubWhG2jEjd36EugIZOtzh6Bs%3D",
+        "signature": "",
+        "createTime": 1610487250,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA88Im-Ti8zm0EWgEJZaJOx4IzoCqudQ9sSCEsb8JNH6zj92hK_NPyeR-GHYGqTVt6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 534,
+        "followingCount": 376,
+        "heart": 4700,
+        "heartCount": 4700,
+        "videoCount": 48,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,134 @@
+{
+    "id": "7068882792465075498",
+    "desc": "#ukraine",
+    "createTime": 1645852531,
+    "video": {
+        "id": "7068882792465075498",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1243d9864ea74351aecadc02f503fe8c?x-expires=1648108800&x-signature=oeeD859U0iSRlExbIDvU%2BslAgF8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/efadbadd3b4e406ab02163d4d8c68e91_1645852532?x-expires=1648108800&x-signature=B%2F5818O0lUHXVeRqFaUvxvms6xM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/086e90c28c104b39ad8d0ee3ce317488_1645852532?x-expires=1648108800&x-signature=nEvxTpHpN4IGG%2FVZy21pAqwwfq4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0e656831bae5819173a3bc015cfd96ae/623c31e7/video/tos/useast5/tos-useast5-ve-0068c001-tx/1fb90adeeed2468b983b91f89ad6941f/?a=1988&br=694&bt=347&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9JgMDXq&l=2022032402545401011300625406AC8007&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajN1aDU6ZnZ1OzMzZzczNEApOztnZ2Q6O2U0N2QzZTk2ZmdpLWhucjQwYGBgLS1kMS9zczFjLS41YTFjXy8zY2AzYWI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0e656831bae5819173a3bc015cfd96ae/623c31e7/video/tos/useast5/tos-useast5-ve-0068c001-tx/1fb90adeeed2468b983b91f89ad6941f/?a=1988&br=694&bt=347&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9JgMDXq&l=2022032402545401011300625406AC8007&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajN1aDU6ZnZ1OzMzZzczNEApOztnZ2Q6O2U0N2QzZTk2ZmdpLWhucjQwYGBgLS1kMS9zczFjLS41YTFjXy8zY2AzYWI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/efadbadd3b4e406ab02163d4d8c68e91_1645852532~tplv-tiktok-play.jpeg?x-expires=1648692000&x-signature=FP0%2BlNnxYVyLJRWDUrHQ8siXSRw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/efadbadd3b4e406ab02163d4d8c68e91_1645852532~tplv-tiktokx-share-play.jpeg?x-expires=1648692000&x-signature=5Ml4cpTeQdVQ1Dibmuh%2FJrlbgKI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1243d9864ea74351aecadc02f503fe8c?x-expires=1648108800&x-signature=F8%2Bd%2BzHUzeoa9l28JJiDpK4kUs8%3D",
+        "bitrate": 356162,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6584434879390351365",
+        "uniqueId": "tyler_danks",
+        "nickname": "Tyler",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9fe3fb296da489ff51ad4b8ed64ded44~c5_100x100.jpeg?x-expires=1648173600&x-signature=5zE5mC1t8f2K6iKXVzUohc6Vock%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9fe3fb296da489ff51ad4b8ed64ded44~c5_720x720.jpeg?x-expires=1648173600&x-signature=tzc%2B7IWXJtM2lTYI9nP0qIAtksw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9fe3fb296da489ff51ad4b8ed64ded44~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=%2Bzkb7HFA0w4x3Im4ouU7obAlCwY%3D",
+        "signature": "Mpls\ud83d\udccd\n\u042f \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u043e\u044e",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtMvCBgezHhPpE1XRkGuK561KoZTGFYBvZ3U5gFi7rZKsFKa2WXtBN9GeJegAz_VT",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6998487087003552517",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6998487220998900485.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec97f57c1fd273d5b4710662abd30d09~c5_100x100.jpeg?x-expires=1648173600&x-signature=8XgtmseOryjdPOFXav3YmIaCVv4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec97f57c1fd273d5b4710662abd30d09~c5_720x720.jpeg?x-expires=1648173600&x-signature=T7I3Q%2FXihILmAmD6O%2B1JtvEW3jA%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec97f57c1fd273d5b4710662abd30d09~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=nUTx1g4E7ZmWhRFbxtUcx%2F74aWo%3D",
+        "authorName": "Sub 2 the big Lez show on yt",
+        "original": true,
+        "duration": 17,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 161900,
+        "shareCount": 4170,
+        "commentCount": 318,
+        "playCount": 1400000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Eyes and Mouth",
+            "ID": "896750"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 375,
+        "followerCount": 3182,
+        "heartCount": 225700,
+        "videoCount": 351,
+        "diggCount": 112700,
+        "heart": 225700
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Russia tryin to pull some shit..",
+                "The one Ukrainian who watched Top Gun\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

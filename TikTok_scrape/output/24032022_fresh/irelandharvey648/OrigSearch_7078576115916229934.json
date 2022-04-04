@@ -1,0 +1,96 @@
+{
+    "id": "7078576115916229934",
+    "desc": "",
+    "createTime": 1648109437,
+    "video": {
+        "id": "7078576115916229934",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3f2387d98531497d8c0b92822c0f2d34?x-expires=1648170000&x-signature=FbbHr7LWEfU1jnh%2FNQetsVHh8UM%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6b50a104d1cb42ee8ebadf5fd7bfc497_1648109437?x-expires=1648170000&x-signature=kEDKgRCQXwnNBi390swamCeUjn4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/074cea1b96c44fee966d3d82f28f9498_1648109457?x-expires=1648170000&x-signature=6dznDL98NhVv6%2BdvMUMIwEZJJ04%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8b38a96d9b602dd5e3721bb52a4b7ed1/623d1d78/video/tos/useast5/tos-useast5-ve-0068c003-tx/544110a5b63e4042b420ca141970a8f7/?a=1988&br=3530&bt=1765&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcxpJDXq&l=20220324193956010113135207263E5C57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2V5PDM6Zng1OzMzZzczNEApOGg3PDRoNmQ5NzdlNmUzNGcuaXJlcjRvYnJgLS1kMS9zc2JiMGE2LTI1XmBjMS4vMWE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8b38a96d9b602dd5e3721bb52a4b7ed1/623d1d78/video/tos/useast5/tos-useast5-ve-0068c003-tx/544110a5b63e4042b420ca141970a8f7/?a=1988&br=3530&bt=1765&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcxpJDXq&l=20220324193956010113135207263E5C57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2V5PDM6Zng1OzMzZzczNEApOGg3PDRoNmQ5NzdlNmUzNGcuaXJlcjRvYnJgLS1kMS9zc2JiMGE2LTI1XmBjMS4vMWE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6b50a104d1cb42ee8ebadf5fd7bfc497_1648109437~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=%2B5Id0UeeT76sED1JUcjBEMjPDUI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6b50a104d1cb42ee8ebadf5fd7bfc497_1648109437~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=trOub0tNKUuNTighEPOdBVVbZ1I%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3f2387d98531497d8c0b92822c0f2d34?x-expires=1648170000&x-signature=FbbHr7LWEfU1jnh%2FNQetsVHh8UM%3D",
+        "bitrate": 1807445,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6973423889893868549",
+        "uniqueId": "irelandharvey648",
+        "nickname": "irelandharvey648.",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8f7216b46053a4f1f72517e81fcfdf0b~c5_100x100.jpeg?x-expires=1648234800&x-signature=Od0d68PB3G4auT%2BXmaCspPdjw5k%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8f7216b46053a4f1f72517e81fcfdf0b~c5_720x720.jpeg?x-expires=1648234800&x-signature=9%2FYNp3s0Q5%2F9m0ktXkHhje5xzbg%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8f7216b46053a4f1f72517e81fcfdf0b~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=WcfvrQnCgOIlPxvs1LsgGorciDE%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyyRJyEn5b78BmWfvQWZuGH3bUt-Ma0quA06jveV1QJdeQn--CCjXhMPlFwIbwyuu",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7063288214429108226",
+        "title": "Nobody Like U - From \"Turning Red\"/Chorus",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4ed11330704d4b25a5a823ef8716cbfb",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg",
+        "authorName": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+        "original": false,
+        "duration": 45,
+        "album": "Nobody Like U - From \"Turning Red\"/Chorus"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 13
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Turning Red Characters",
+            "ID": "1758430"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1130,
+        "followerCount": 208,
+        "heartCount": 99,
+        "videoCount": 303,
+        "diggCount": 1258,
+        "heart": 99
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

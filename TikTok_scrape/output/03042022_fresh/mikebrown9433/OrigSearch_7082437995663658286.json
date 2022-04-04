@@ -1,0 +1,96 @@
+{
+    "id": "7082437995663658286",
+    "desc": "",
+    "createTime": 1649008598,
+    "video": {
+        "id": "7082437995663658286",
+        "height": 1024,
+        "width": 576,
+        "duration": 180,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5f27cbe34de48d1aff1e74eac390389?x-expires=1649055600&x-signature=yZFZVp1uuxglVLORBs%2F3rz%2BIGfo%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1c585a9390a4407b92ce95b5ac15f783_1649008599?x-expires=1649055600&x-signature=owYmXft8SvxAUoYEqHfuo7G3cTk%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8edfe63b76ef444d91c7949fe666910c_1649008599?x-expires=1649055600&x-signature=KRXiyv%2B8vyrNIUE%2FxdE0giYgNxY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/95a7ad3a9bac0ae128b8e2f142974f1e/624a9824/video/tos/useast5/tos-useast5-ve-0068c002-tx/bee3ff41df4e42e6a90edcde1f21dca0/?a=1988&br=3174&bt=1587&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th4ARqDXq&l=2022040401000001011313517417DC996E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3h3NTQ6ZjV3PDMzZzczNEApNzU4aTozOWRmN2ZnaDQ4NWc1azBjcjRvczFgLS1kMS9zczJhYGA2MDRhNF9hYGFiNDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/95a7ad3a9bac0ae128b8e2f142974f1e/624a9824/video/tos/useast5/tos-useast5-ve-0068c002-tx/bee3ff41df4e42e6a90edcde1f21dca0/?a=1988&br=3174&bt=1587&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th4ARqDXq&l=2022040401000001011313517417DC996E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3h3NTQ6ZjV3PDMzZzczNEApNzU4aTozOWRmN2ZnaDQ4NWc1azBjcjRvczFgLS1kMS9zczJhYGA2MDRhNF9hYGFiNDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1c585a9390a4407b92ce95b5ac15f783_1649008599~tplv-tiktok-play.jpeg?x-expires=1649638800&x-signature=grdqV8puulrTHEc%2Bat2%2B1h57jfo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1c585a9390a4407b92ce95b5ac15f783_1649008599~tplv-tiktokx-share-play.jpeg?x-expires=1649638800&x-signature=MaEqebwEimr%2BUGdo7OEf6TRW5xM%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5f27cbe34de48d1aff1e74eac390389?x-expires=1649055600&x-signature=yZFZVp1uuxglVLORBs%2F3rz%2BIGfo%3D",
+        "bitrate": 1625529,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055884826352174085",
+        "uniqueId": "mikebrown9433",
+        "nickname": "WE STAND UKRAIN!\u270a",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1649120400&x-signature=ZMYHI2WLPEgRKFdi8g6wZBO%2F7pU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1649120400&x-signature=ntuEUMkZMLp%2FaO8pAD3i1EiLZH0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=ZwfSKN7vgoTm8gbxzvkKnq2rGTg%3D",
+        "signature": "https://orangsa.bar/13274aa?s1=kri$ten\nYou're about to open an external website.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGgAQEHqHu61EVzvb_SDCl5X-7FhqqEbp78nzWkWPPuRgwuKVqleUMHU_fUlwdhNW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082438001678289710",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7082438024755153710.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1649120400&x-signature=ZMYHI2WLPEgRKFdi8g6wZBO%2F7pU%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1649120400&x-signature=ntuEUMkZMLp%2FaO8pAD3i1EiLZH0%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=ZwfSKN7vgoTm8gbxzvkKnq2rGTg%3D",
+        "authorName": "WE STAND UKRAIN!\u270a",
+        "original": true,
+        "duration": 180,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 15
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Which Encanto character",
+            "ID": "1501898"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 115,
+        "followerCount": 40,
+        "heartCount": 214,
+        "videoCount": 176,
+        "diggCount": 511,
+        "heart": 214
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

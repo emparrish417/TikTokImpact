@@ -1,0 +1,105 @@
+{
+    "id": "7082404702054370566",
+    "desc": "\u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c \u043d\u0430 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440 @dhenha_katia32",
+    "createTime": 1649000846,
+    "video": {
+        "id": "7082404702054370566",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0f3cc9fd0cc44c479a328c4b4923720e?x-expires=1649055600&x-signature=Y2uqgAAPxKQofbypot38GVSBN2A%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1824e0b2e30a4101b5b53a2f66e37cbd_1649000847?x-expires=1649055600&x-signature=Ia26bBO4II%2FWhSYHOpZOPk2s9kw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b765a3c01de14605abecde81957f4133_1649000848?x-expires=1649055600&x-signature=kESeqATMdTP%2Bez%2FFuDWn8YWir98%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6e75285d7519cbe278c9136576415881/624a9778/video/tos/useast2a/tos-useast2a-pve-0068/f355ed99350040a899f8cd67be56ad38/?a=1988&br=2716&bt=1358&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th4ARqDXq&l=2022040401000001011313517417DC996E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JtOTc6Zjt1PDMzNzczM0ApOTk4PDg2NmU3NzRlZGg6OGdmYGc1cjRnczFgLS1kMTZzcy40MDFjYjAxNTMuNGEyNTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6e75285d7519cbe278c9136576415881/624a9778/video/tos/useast2a/tos-useast2a-pve-0068/f355ed99350040a899f8cd67be56ad38/?a=1988&br=2716&bt=1358&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th4ARqDXq&l=2022040401000001011313517417DC996E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JtOTc6Zjt1PDMzNzczM0ApOTk4PDg2NmU3NzRlZGg6OGdmYGc1cjRnczFgLS1kMTZzcy40MDFjYjAxNTMuNGEyNTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1824e0b2e30a4101b5b53a2f66e37cbd_1649000847~tplv-tiktok-play.jpeg?x-expires=1649638800&x-signature=D11BECzycoISa98j4PmMixQpcFs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1824e0b2e30a4101b5b53a2f66e37cbd_1649000847~tplv-tiktokx-share-play.jpeg?x-expires=1649638800&x-signature=GSJrDgLUPhSr%2Fy%2F8rx1%2BHeAMxBU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0f3cc9fd0cc44c479a328c4b4923720e?x-expires=1649055600&x-signature=Y2uqgAAPxKQofbypot38GVSBN2A%3D",
+        "bitrate": 1391456,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7053400905274278918",
+        "uniqueId": "_pypsen_009",
+        "nickname": "Ukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14c816c3a98ede6bcadf90582614b22~c5_100x100.jpeg?x-expires=1649120400&x-signature=ZS0Bnt11I0f4VV%2BzcAv9DCzJryA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14c816c3a98ede6bcadf90582614b22~c5_720x720.jpeg?x-expires=1649120400&x-signature=0VS2Fx2%2BRxerc1NOlYgk9QPQcbc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14c816c3a98ede6bcadf90582614b22~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=iLxxENODaEPQNDPQGKAwCDx0Mpg%3D",
+        "signature": "\u0425\u0442\u043e \u0437\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0443?",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAesqj9wqxzbM3P0tm8hRRPx4dEXPO0cV0xhJEYrYGzockK6OPNr9yb7u2QEJt3OcU",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7016773558680438786",
+        "title": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/dca16b7ed1f0415d9700b10c5a3b5439",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "authorName": "PROBASS \u2206 HARDI",
+        "original": false,
+        "duration": 60,
+        "album": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From"
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 58
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 37,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7009356837884265478",
+            "isCommerce": false,
+            "userUniqueId": "dhenha_katia32",
+            "secUid": "MS4wLjABAAAAWiP5IU35Zg8rCBVuVXwTFg_ySILXA32gefauIqrHoVcB5ZrpY6OSQK_TCG67y3mD",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 167,
+        "followerCount": 5911,
+        "heartCount": 26700,
+        "videoCount": 232,
+        "diggCount": 1080,
+        "heart": 26700
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

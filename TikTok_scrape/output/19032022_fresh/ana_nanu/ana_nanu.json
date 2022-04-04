@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6899447081398174722",
+        "shortId": "",
+        "uniqueId": "ana_nanu",
+        "nickname": "\u00ab \ud835\udc1a\ud835\udc27\ud835\udc27\ud835\udc1a \u00bb",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/c2f4986af66090c58f617a0a219bbba4.jpeg?x-expires=1647817200&x-signature=c%2Ffj0A0JMtCdunBJmab4eEFX3LE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/c2f4986af66090c58f617a0a219bbba4.jpeg?x-expires=1647817200&x-signature=GfEk4ByHSa3trH7GtrL8m4N2%2FTg%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/c2f4986af66090c58f617a0a219bbba4.jpeg?x-expires=1647817200&x-signature=NQ%2FYzCZw81L%2B4Y5%2F89GZNMOW5H4%3D",
+        "signature": "\ud835\udc30\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \u2615\ufe0e\n\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc1d\ud835\udc2b\ud835\udc1a\ud835\udc30\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c \u270c\ufe0e\n\u2192 \ud835\udc1a\ud835\udc27\ud835\udc1a_\ud835\udc27\ud835\udc1a\ud835\udc27\ud835\udc2e \u2190",
+        "createTime": 1644305486,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG2Cfk4ALy3uCAY3uFbeAJ5o_TcvH4NXO5OihzNEVLnNG8SPhK9_aZvoJVv3AFuyJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 902,
+        "followingCount": 62,
+        "heart": 6723,
+        "heartCount": 6723,
+        "videoCount": 14,
+        "diggCount": 0
+    },
+    "itemList": []
+}

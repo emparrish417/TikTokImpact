@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7072314075641103362",
+        "shortId": "",
+        "uniqueId": "zelenskiy_offici",
+        "nickname": "zelenskiy",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1648850400&x-signature=nMzGWTG%2BUPYbvM6XuNkWgWM0LJ4%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1648850400&x-signature=4xe9dehqvokbon6dZW1xn%2BEqYjk%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1648850400&x-signature=C2R%2BmGHqpfEc0u3Y7pgGeUqp5WY%3D",
+        "signature": "zelenskiy_offici",
+        "createTime": 1646651465,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXkyHOfwRZ00qOe6RFKnKbv-8FTq1HmRgu6mM8853OAzpdRySholHUbmVk88rrKal",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://vt.tiktok.com/ZSd8J771a/",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 31100,
+        "followingCount": 60,
+        "heart": 468800,
+        "heartCount": 468800,
+        "videoCount": 81,
+        "diggCount": 0
+    },
+    "itemList": []
+}

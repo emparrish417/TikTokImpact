@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "112304675755864064",
+        "shortId": "",
+        "uniqueId": "carlos_torrents",
+        "nickname": "@carlos_torrents",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2233eb4280a59bf91cf9f262f8bceb5~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=RCRBregn9uirsXe5cXv9PKXH7XQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2233eb4280a59bf91cf9f262f8bceb5~c5_720x720.jpeg?x-expires=1648069200&x-signature=IDDx7ep5N1vGJsoWdVTC6DufbGs%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2233eb4280a59bf91cf9f262f8bceb5~c5_100x100.jpeg?x-expires=1648069200&x-signature=CaqKl5FjQc5qjIAyTeM5eTQfu6Y%3D",
+        "signature": "\ud83d\udccdMadrid\n#militaryworld #powerlifting",
+        "createTime": 1467118236,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg0amz0-t2COaPAq3iaAXwHUIzSXoMqwD_ATExu75a2iyKrPc3vCTO58q9dpd1NmB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/carlos_torrentslink",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17700,
+        "followingCount": 514,
+        "heart": 616200,
+        "heartCount": 616200,
+        "videoCount": 43,
+        "diggCount": 0
+    },
+    "itemList": []
+}

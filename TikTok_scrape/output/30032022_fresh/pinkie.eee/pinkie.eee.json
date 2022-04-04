@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7079085534529864710",
+        "shortId": "",
+        "uniqueId": "pinkie.eee",
+        "nickname": "user",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a1f9948ea45eff40a502f424d9ac2db~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=4jS3XJX5wVK02uG7Qxl4Z7dZIME%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a1f9948ea45eff40a502f424d9ac2db~c5_720x720.jpeg?x-expires=1648764000&x-signature=owlC5EPGrjGig0rM7RTxISuTnBQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a1f9948ea45eff40a502f424d9ac2db~c5_100x100.jpeg?x-expires=1648764000&x-signature=Un5YK9WiU37diagL%2Fz6azJzbkq8%3D",
+        "signature": "\u043d\u043e\u0432\u0438\u0439 \u0430\u043a\u043a",
+        "createTime": 1648228173,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAr0joVAtv4Z-m71HJxe0WOo0y8k8nyhQ4TYu3qa7WBqBn6-PEeV9VUzPbOzqf1od1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 1,
+        "heart": 5,
+        "heartCount": 5,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6780510578152801286",
+        "shortId": "",
+        "uniqueId": "galan_kate",
+        "nickname": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041e\u0441\u0442\u0430\u043f\u0435\u043d\u043a\u043e",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664112158682117~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=iuNcFTLB%2By7DKve2VDAAC2Vlxn4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664112158682117~c5_720x720.jpeg?x-expires=1649008800&x-signature=wCqYK1WqJ4uytE4SK0cZhLKcYx8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664112158682117~c5_100x100.jpeg?x-expires=1649008800&x-signature=vO5kzJL5qn5uGno%2BF3JRZq0rfl4%3D",
+        "signature": "",
+        "createTime": 1587021025,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA22nPtJr6F5tSHlo-7vG1VDfJFXZLY8cKyiU_oWnpwwsrFT_iqF66ZGleZdUuKqT9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 66,
+        "followingCount": 65,
+        "heart": 333,
+        "heartCount": 333,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

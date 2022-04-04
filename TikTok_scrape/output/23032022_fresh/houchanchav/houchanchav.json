@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6743769275980743682",
+        "shortId": "",
+        "uniqueId": "houchanchav",
+        "nickname": "houchanchav",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/10e37f4b65f5fac98fdb0ce60d1b75e4~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=P0XyEua2H8EjY1X0uPEGhbz4QC8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/10e37f4b65f5fac98fdb0ce60d1b75e4~c5_720x720.jpeg?x-expires=1648173600&x-signature=YSoYaEtIU8TeUxK8DxO%2F%2FZTLHts%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/10e37f4b65f5fac98fdb0ce60d1b75e4~c5_100x100.jpeg?x-expires=1648173600&x-signature=ph4YttnMJK99sLqo0%2F40LGKYokQ%3D",
+        "signature": "",
+        "createTime": 1618714548,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAd3IzO2YpCA6_UPcqhNPFdXq0pyYZSZc5AiDDpxmS_P6pn7KZ323WtSZbDGpasCft",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1314,
+        "followingCount": 583,
+        "heart": 10200,
+        "heartCount": 10200,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

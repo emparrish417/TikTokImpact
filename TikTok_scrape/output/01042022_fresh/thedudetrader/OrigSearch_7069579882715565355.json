@@ -1,0 +1,119 @@
+{
+    "id": "7069579882715565355",
+    "desc": "Let's GOOOOO \ud83d\ude01\ud83e\udd18\ud83c\udffc #standwithukraine",
+    "createTime": 1646014835,
+    "video": {
+        "id": "7069579882715565355",
+        "height": 1024,
+        "width": 576,
+        "duration": 52,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7715df0308d243ec98278fb2ca82ce79?x-expires=1648875600&x-signature=g0fwq6LIABw6UuWoPIk7AZKVrfU%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/351614e2a85b49a886d0876e5fb8aceb_1646014836?x-expires=1648875600&x-signature=pzD35LaP6rVGS49Y71K72XuLX0M%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b482e1bf84a8420e8d5c7c6c7a4763a1_1646014836?x-expires=1648875600&x-signature=8Ag%2Bfxrvu97XB2RPSiM5amhtD2E%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0041732d5810108b9fc62d3cc3c13559/6247e54e/video/tos/useast5/tos-useast5-ve-0068c003-tx/194b8d517c5b49acabc6babe10f8a8f3/?a=1988&br=1172&bt=586&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThYWMzDXq&l=202204012354340101131350820A6F6DB9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ang8dWk6Zmo2OzMzZzczNEApPGc4Zjs5NDxkN2Q2OzdpOGctaGdfcjRfL2JgLS1kMS9zc19eMzEzLy9fYDMyNDQ0Y2I6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0041732d5810108b9fc62d3cc3c13559/6247e54e/video/tos/useast5/tos-useast5-ve-0068c003-tx/194b8d517c5b49acabc6babe10f8a8f3/?a=1988&br=1172&bt=586&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThYWMzDXq&l=202204012354340101131350820A6F6DB9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ang8dWk6Zmo2OzMzZzczNEApPGc4Zjs5NDxkN2Q2OzdpOGctaGdfcjRfL2JgLS1kMS9zc19eMzEzLy9fYDMyNDQ0Y2I6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/351614e2a85b49a886d0876e5fb8aceb_1646014836~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=%2B3akrsA9qEUqnb3QTVRvi6WVTiM%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/351614e2a85b49a886d0876e5fb8aceb_1646014836~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=KXHVmkn6H6ZBubqXYvIgpDL4PSU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7715df0308d243ec98278fb2ca82ce79?x-expires=1648875600&x-signature=kqFCrlQZZRqoB%2B9obIzslfBArtc%3D",
+        "bitrate": 600600,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6856968123455833094",
+        "uniqueId": "thedudetrader",
+        "nickname": "The Dude \u270c\ufe0f",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_100x100.jpeg?x-expires=1648940400&x-signature=JOgr2YxpIN1o%2BjwxLZAQB47Br4M%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_720x720.jpeg?x-expires=1648940400&x-signature=PQvC2o7GQXB8Dc8lo9rCJU%2FEcYc%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=dBJ%2BNiWsm5JvjvduoPCxL3aq3ik%3D",
+        "signature": "\ud83d\udca52006 Time Magazine's Person of the Year\ud83d\udca5 \nThis is just, like, my opinion, man",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATrPEKby_VIStuLost0vwnlaHaalBI8ndhOi6Nx4tT9silbfdv97benAr4OlOZrPK",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069579867280460586",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7069579892467223339.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_100x100.jpeg?x-expires=1648940400&x-signature=JOgr2YxpIN1o%2BjwxLZAQB47Br4M%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_720x720.jpeg?x-expires=1648940400&x-signature=PQvC2o7GQXB8Dc8lo9rCJU%2FEcYc%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=dBJ%2BNiWsm5JvjvduoPCxL3aq3ik%3D",
+        "authorName": "The Dude \u270c\ufe0f",
+        "original": true,
+        "duration": 52,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1677190279668742",
+            "title": "standwithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 260300,
+        "shareCount": 36200,
+        "commentCount": 5251,
+        "playCount": 2900000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 20,
+            "end": 37,
+            "hashtagName": "standwithukraine",
+            "hashtagId": "1677190279668742",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 726,
+        "followerCount": 221800,
+        "heartCount": 15400000,
+        "videoCount": 2544,
+        "diggCount": 4636,
+        "heart": 15400000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

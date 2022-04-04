@@ -1,0 +1,99 @@
+{
+    "id": "7080921311895178501",
+    "desc": "",
+    "createTime": 1648655467,
+    "video": {
+        "id": "7080921311895178501",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1b006118d0914444837373a0baedd812?x-expires=1648699200&x-signature=FTRlzrxK0gspkfINerdXEJMLluk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d22346f50d454f7985aedb0c74f27f5a_1648655468?x-expires=1648699200&x-signature=jFQ6l2Ka6CuitWM3y2Cmxe1LPy4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/10fdddcd18ea45aebf304e40198b4ac3_1648655469?x-expires=1648699200&x-signature=j9W%2BfO5aMUpuRaMRsFm0fvRjBl0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0551efd2764d260b21eba0e01065f97c/62452978/video/tos/useast2a/tos-useast2a-ve-0068c002/90296e96db634157a18d5b39fa503f26/?a=1988&br=568&bt=284&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThH3FzDXq&l=202203302209180101130062051341B0BE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2c0ZDQ6ZnM6PDMzNzczM0ApOTppZjdmOWVpNzo8ZDU1OWcwbW00cjRvbC9gLS1kMTZzczJjYDYvXjMzNjBfNS0vNjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0551efd2764d260b21eba0e01065f97c/62452978/video/tos/useast2a/tos-useast2a-ve-0068c002/90296e96db634157a18d5b39fa503f26/?a=1988&br=568&bt=284&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThH3FzDXq&l=202203302209180101130062051341B0BE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2c0ZDQ6ZnM6PDMzNzczM0ApOTppZjdmOWVpNzo8ZDU1OWcwbW00cjRvbC9gLS1kMTZzczJjYDYvXjMzNjBfNS0vNjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d22346f50d454f7985aedb0c74f27f5a_1648655468~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=xhm7X0jC1kef5Vef54I9jmbMJrI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d22346f50d454f7985aedb0c74f27f5a_1648655468~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=zI%2BLd7YWH3rnqwtXS%2B4twnzTWm4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1b006118d0914444837373a0baedd812?x-expires=1648699200&x-signature=FTRlzrxK0gspkfINerdXEJMLluk%3D",
+        "bitrate": 291758,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7079744423723025413",
+        "uniqueId": "vous_aimez_les_ukrainien",
+        "nickname": "Leo Delvalle411",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/137fa428b04a795573a6dd203bcc8f1d~c5_100x100.jpeg?x-expires=1648764000&x-signature=zx7vN%2FoA87BMj6qcKY64sUZI%2B34%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/137fa428b04a795573a6dd203bcc8f1d~c5_720x720.jpeg?x-expires=1648764000&x-signature=6FpQbeT79WOS%2Bp3uDF15CQOd9zM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/137fa428b04a795573a6dd203bcc8f1d~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=OeoMwJeGsYWEyC%2B3%2FkvGasg%2Fnn8%3D",
+        "signature": "Je rend",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnEnRrywq5_AoxZa3g0lGWECT9drtWkJch2oSCBL7NziIN9Bkp2VQ6oRFJco1guZm",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6871277975694739469",
+        "title": "Le Calin",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/793627e4561448ffae838586455cfe4a",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/ed253ff71ef74232bafb4396574fa38d.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/ed253ff71ef74232bafb4396574fa38d.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/ed253ff71ef74232bafb4396574fa38d.jpeg",
+        "authorName": "\u658c\u6768Remix",
+        "original": false,
+        "duration": 172,
+        "album": "\u4fc4\u8bed"
+    },
+    "stats": {
+        "diggCount": 16,
+        "shareCount": 1,
+        "commentCount": 12,
+        "playCount": 162
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 373,
+        "followerCount": 641,
+        "heartCount": 574,
+        "videoCount": 8,
+        "diggCount": 38,
+        "heart": 574
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0669[angry]\u06f6\u0669[scream]\u06f6\u0669[weep]\u06f6",
+                "Tu es un akker si tu ecris sa dans Les coms "
+            ]
+        }
+    ],
+    "isAd": false
+}

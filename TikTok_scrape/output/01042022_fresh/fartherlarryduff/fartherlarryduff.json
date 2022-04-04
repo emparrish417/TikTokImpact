@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7009011544274174981",
+        "shortId": "",
+        "uniqueId": "fartherlarryduff",
+        "nickname": "FartherLarryDuff",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6c868cd01bb5f393594fe97bbcd8efea~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=vTEm0W%2F4skZWwv46C1ASR%2BoOSDg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6c868cd01bb5f393594fe97bbcd8efea~c5_720x720.jpeg?x-expires=1648940400&x-signature=5J9BfecPmhAcOn%2BHH%2FeE2Z1%2FbQU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6c868cd01bb5f393594fe97bbcd8efea~c5_100x100.jpeg?x-expires=1648940400&x-signature=wRpYnQESPecFZeHOrRRYSiT6Ryw%3D",
+        "signature": "\ud83e\uddb5",
+        "createTime": 1631912711,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3VWsgfFk9DKjYX951rFFXP8LdLcOKpBOgdOUtr6Kp3DjzuSioFQFyFUbktitLzoG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 193,
+        "followingCount": 151,
+        "heart": 11600,
+        "heartCount": 11600,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

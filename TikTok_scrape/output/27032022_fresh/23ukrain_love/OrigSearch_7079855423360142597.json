@@ -1,0 +1,98 @@
+{
+    "id": "7079855423360142597",
+    "desc": "\u0423\u0432\u0430\u0433\u0430! \u0425\u0442\u043e \u0436\u0438\u0432\u0435 \u0432 \u0446\u0438\u0445 \u043c\u0456\u0441\u0446\u044f\u0445 \u0432 \u043a\u043e\u0433\u043e \u0442\u0435\u0436 \u0442\u0440\u0438\u0432\u043e\u0433\u0430 \u0456\u0434\u0456\u0442\u044c \u0432 \u0443\u043a\u0440\u0438\u0442\u0442\u044f \u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
+    "createTime": 1648407296,
+    "video": {
+        "id": "7079855423360142597",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/62ba9917659e4f309a24e394438b9081?x-expires=1648450800&x-signature=TMwVl%2BQIaJTbPeIeIW99qf5GRe0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5da58fb9eaca4e649867fb03e2fb1f41_1648407297?x-expires=1648450800&x-signature=GbM5usbOZYl0YxGIHumYv%2Fw%2BZNM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/87324c9ffe044f378ab4c4d6f13c3e5d_1648407297?x-expires=1648450800&x-signature=4O6MRwwq31TtZDvL56CkqydrLv0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/48e9eb3daca2e25334f92c70b897be5c/62415e61/video/tos/useast2a/tos-useast2a-pve-0068/cbb0a8fe01284365acf815c8413a7107/?a=1988&br=1102&bt=551&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThC.agDXq&l=202203280106030101130062440BFE3C07&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3ZmNzo6ZnhlPDMzNzczM0ApOGhkZGZmN2RoN2UzZ2U3OmdkZ19ycjRvMi1gLS1kMTZzcy42NjA1YS1eXy0vYC1fMWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/48e9eb3daca2e25334f92c70b897be5c/62415e61/video/tos/useast2a/tos-useast2a-pve-0068/cbb0a8fe01284365acf815c8413a7107/?a=1988&br=1102&bt=551&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThC.agDXq&l=202203280106030101130062440BFE3C07&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3ZmNzo6ZnhlPDMzNzczM0ApOGhkZGZmN2RoN2UzZ2U3OmdkZ19ycjRvMi1gLS1kMTZzcy42NjA1YS1eXy0vYC1fMWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5da58fb9eaca4e649867fb03e2fb1f41_1648407297~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=ZSnbUd3RWUIDIXln1oqZxL4aeF4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5da58fb9eaca4e649867fb03e2fb1f41_1648407297~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=g9iV0SEUT0BP3r0z9GJN4a8VRGc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/62ba9917659e4f309a24e394438b9081?x-expires=1648450800&x-signature=TMwVl%2BQIaJTbPeIeIW99qf5GRe0%3D",
+        "bitrate": 564661,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7057116052434895878",
+        "uniqueId": "23ukrain_love",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\u0423\u043a\u0440\u0430\u0457\u043d\u0430\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50d4ffbbd3853a6c3b972d7910bd48de~c5_100x100.jpeg?x-expires=1648515600&x-signature=NOye8UFKfq3df1S6mijPZR4KQuo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50d4ffbbd3853a6c3b972d7910bd48de~c5_720x720.jpeg?x-expires=1648515600&x-signature=ZOjmGsu8i0ujzv7MmRw5aRD4xPg%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50d4ffbbd3853a6c3b972d7910bd48de~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=cNlclP%2FFBFYwRa324oqh5EuZfrk%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\u0423\u043a\u0440\u0430\u0457\u043d\u0430\ud83c\uddfa\ud83c\udde6\n\ud83c\uddfa\ud83c\udde6\u0445\u043e\u0447\u0443 1000 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAuizzqQ4uOb9DDYqlxrpoiuHxxN8ktVS2s5UBEHridALEIHJZFZEi3nM-s4x9XiE9",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078322779354893062",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7078322776917969670.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65b69ae82e1429e84ed9a6109993d211~c5_100x100.jpeg?x-expires=1648515600&x-signature=rdbsBVwAYrDJeNT3vlk6gIUSMGk%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65b69ae82e1429e84ed9a6109993d211~c5_720x720.jpeg?x-expires=1648515600&x-signature=w4SBTOdRY9OfBsCxCNwInuVidt4%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65b69ae82e1429e84ed9a6109993d211~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=p%2B%2BthbUI04%2FdB2iIabeOiI6%2FycQ%3D",
+        "authorName": "\u0442\u0433 \u043a\u0430\u043d\u0430\u043b ..qw0xx.1",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 31
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 21,
+        "followerCount": 507,
+        "heartCount": 8049,
+        "videoCount": 41,
+        "diggCount": 1065,
+        "heart": 8049
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0423 \u043c\u0435\u043d\u0435 \u043f\u043e\u0432\u0456\u0442\u0440\u044f\u043d\u0430 \u0442\u0440\u0438\u0432\u043e\u0433\u0430!"
+            ]
+        }
+    ],
+    "isAd": false
+}

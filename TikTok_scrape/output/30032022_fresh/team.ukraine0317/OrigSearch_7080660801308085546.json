@@ -1,0 +1,101 @@
+{
+    "id": "7080660801308085546",
+    "desc": "hahaha I think we all hate a L",
+    "createTime": 1648594812,
+    "video": {
+        "id": "7080660801308085546",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6466918b4cd142e4bef066fea57133ef?x-expires=1648699200&x-signature=uCgmpTNZd%2BZy04vbtbBLRCE9viE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0b65495b6bbd44419a1e389cf12aecb1_1648594813?x-expires=1648699200&x-signature=WzdsIaahdw2ctYTfmlxXqo6Bba4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/49d74e9e40504c488cef0d859fed50d7_1648594813?x-expires=1648699200&x-signature=psYPXCU2MqLv%2FC55hBGzMiPdvnw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/34bf910f4eda639967c35d9b76a64fff/624528ea/video/tos/useast5/tos-useast5-ve-0068c002-tx/054f0f0be25b4617a5aa83af3d0d530e/?a=1988&br=1048&bt=524&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThrMFzDXq&l=20220330220659010113135139108B6D29&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anhocjo6Zm1yPDMzZzczNEApZjU1OWQ4Zzw7NzM3M2c6NGdiMTNpcjRfci5gLS1kMS9zczI2M2BfLTYtLjEtLzYuMl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/34bf910f4eda639967c35d9b76a64fff/624528ea/video/tos/useast5/tos-useast5-ve-0068c002-tx/054f0f0be25b4617a5aa83af3d0d530e/?a=1988&br=1048&bt=524&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThrMFzDXq&l=20220330220659010113135139108B6D29&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anhocjo6Zm1yPDMzZzczNEApZjU1OWQ4Zzw7NzM3M2c6NGdiMTNpcjRfci5gLS1kMS9zczI2M2BfLTYtLjEtLzYuMl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b65495b6bbd44419a1e389cf12aecb1_1648594813~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=sB%2BR3HmVuypbqH1Cfgquhzw92CA%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b65495b6bbd44419a1e389cf12aecb1_1648594813~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=PHHq5uJU%2FHsOq%2Fq1TmODnaRytAw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6466918b4cd142e4bef066fea57133ef?x-expires=1648699200&x-signature=%2BGScB61n75igvoXGNK4gZlhopRo%3D",
+        "bitrate": 536966,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7050732031162713135",
+        "uniqueId": "team.ukraine0317",
+        "nickname": "Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fc0dc96e8a606bf94f83aa58db7ff02~c5_100x100.jpeg?x-expires=1648764000&x-signature=Wz9emXdAhst9eAZoNiLhANt1XXc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fc0dc96e8a606bf94f83aa58db7ff02~c5_720x720.jpeg?x-expires=1648764000&x-signature=48VUgiXGh8JJui6mJ%2FL%2B8hMQ0%2Bo%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fc0dc96e8a606bf94f83aa58db7ff02~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=SdOi26yRV2UjdCe093XEZ81doyc%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAejU9s6YMnLO_CfeguwMT2ZyBrQk7vnUiAjhaLCRYnS6yt074H2_FmB-U5y4slkHt",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067382546014980911",
+        "title": "bad blood",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7067382559071619886.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/dc7c7241ff2a3f0fa0f18349f94db7a6~c5_100x100.jpeg?x-expires=1648764000&x-signature=gMCvv548eupEuPSJsEAuAOrJsKw%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/dc7c7241ff2a3f0fa0f18349f94db7a6~c5_720x720.jpeg?x-expires=1648764000&x-signature=AGJad%2FHNxlJdoJD4JKIbwczlDe0%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/dc7c7241ff2a3f0fa0f18349f94db7a6~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=5un5sQ9moxK3mlclw5ua71ci1z8%3D",
+        "authorName": "marley\u2049\ufe0f",
+        "original": true,
+        "duration": 33,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 23,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 776
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 21,
+        "followerCount": 13,
+        "heartCount": 165,
+        "videoCount": 12,
+        "diggCount": 563,
+        "heart": 165
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "L",
+                "Now        we got bad blood",
+                "bandaids do fix bullet holes",
+                "you say sorry just for show"
+            ]
+        }
+    ],
+    "isAd": false
+}

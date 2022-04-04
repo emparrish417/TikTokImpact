@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6858775376111797249",
+        "shortId": "",
+        "uniqueId": "fillippevan",
+        "nickname": "Filipp Logvanov",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c9991723b8392bf961572f8f4490340b~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=ETo7Lhb1eJ6lWeV5LgZA9aFEAaA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c9991723b8392bf961572f8f4490340b~c5_720x720.jpeg?x-expires=1649116800&x-signature=QaAPRps65GGYcNeY3jcgKHywzsE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c9991723b8392bf961572f8f4490340b~c5_100x100.jpeg?x-expires=1649116800&x-signature=pXKYzzc8ZFcOfasaEfzTTgUAI0c%3D",
+        "signature": "",
+        "createTime": 1599066218,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEfusMCP-k3NZau_mXUoVc050K-XJ4ExlwJq69hXGFv-PcDoXgr-VbMJpuvvxPQaC",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 87,
+        "followingCount": 23,
+        "heart": 719,
+        "heartCount": 719,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

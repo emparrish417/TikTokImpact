@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6856185946972668934",
+        "shortId": "",
+        "uniqueId": "justlydeserved",
+        "nickname": "david",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/30b87d360ddc5062513c0339210a5921~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=aSDnINfVK%2F3JQT6l%2BLfuOFZ5oj0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/30b87d360ddc5062513c0339210a5921~c5_720x720.jpeg?x-expires=1648850400&x-signature=hNKnrluW57nibUrd6zo9Xibe2DA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/30b87d360ddc5062513c0339210a5921~c5_100x100.jpeg?x-expires=1648850400&x-signature=zK7L5c80T3J%2Binhf%2FJobswC77Ic%3D",
+        "signature": "Not a lawyer yet, but I can still science. #DC he/him\n\nMerch coming soon \ud83d\udd25",
+        "createTime": 1596302938,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWy2T0XKQRRW7kN3fIijA6KwtCKKcbaFWisZU3YAdbvZwdb79VH0iTZRdDSgx7Ec8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/justlydeserved",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 264900,
+        "followingCount": 1440,
+        "heart": 10900000,
+        "heartCount": 10900000,
+        "videoCount": 1159,
+        "diggCount": 0
+    },
+    "itemList": []
+}

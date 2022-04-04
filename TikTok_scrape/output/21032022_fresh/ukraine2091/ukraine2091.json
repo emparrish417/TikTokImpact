@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7060171263252644866",
+        "shortId": "",
+        "uniqueId": "ukraine2091",
+        "nickname": "\u6545\u4e8b\u7684",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/cc05a9b00942dde5eb158e3d5ebbf780.jpeg?x-expires=1647986400&x-signature=K75rzMu8cWA%2BpZBKe5OD5LRE3Rc%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/cc05a9b00942dde5eb158e3d5ebbf780.jpeg?x-expires=1647986400&x-signature=n7xrIAKsget3aHGLgJthf%2FyGP7E%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/cc05a9b00942dde5eb158e3d5ebbf780.jpeg?x-expires=1647986400&x-signature=zf0KYa7FwOGoxMUocXAezc1tQ0Q%3D",
+        "signature": "\u7eed\u96c6\u4f4e\u8c03\u9047\u5230\u5403\u4e86\u996d\u554a\u963f\u554a\u7684\u5a03",
+        "createTime": 1643824638,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAHKZtNwOvJy2ZOM7Cden0qqErMeC38biqpLK_MPSaFETHz8Wl345ZPvKQc5iBl8h",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "\u6b21\u4f5b\u5367\u69fd\u88e4\u5b50\u4e0d\u79d1\u5b66",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1815,
+        "followingCount": 2661,
+        "heart": 1239,
+        "heartCount": 1239,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

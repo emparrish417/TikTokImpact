@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6767779501084836869",
+        "shortId": "",
+        "uniqueId": "nick_morabito13",
+        "nickname": "Nick",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fc20402dc5c7c597f8f3c2be5f6b619~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=rE1q119qWn9Dy%2BfKAW3OUdYvUq4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fc20402dc5c7c597f8f3c2be5f6b619~c5_720x720.jpeg?x-expires=1648580400&x-signature=IPqW7khbZBU%2BGjAsBzaHE2mnhrU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fc20402dc5c7c597f8f3c2be5f6b619~c5_100x100.jpeg?x-expires=1648580400&x-signature=KgJZTvTU%2BQEI7MH5Q0x4qFkkf0g%3D",
+        "signature": "MI\ud83d\udccdCMU\ncashtag/ venmo- coachnick91",
+        "createTime": 1582636383,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtYThbB2qHjm5Qixdm7OAedJqiWppdrgRTJ96E-9ofKf7S29M_guhNX7EYrVECr03",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Nickmorabito",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 32800,
+        "followingCount": 280,
+        "heart": 542200,
+        "heartCount": 542200,
+        "videoCount": 43,
+        "diggCount": 0
+    },
+    "itemList": []
+}

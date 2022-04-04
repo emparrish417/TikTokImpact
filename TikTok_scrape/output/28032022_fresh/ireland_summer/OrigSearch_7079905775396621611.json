@@ -1,0 +1,105 @@
+{
+    "id": "7079905775396621611",
+    "desc": "My nose is just \ud83d\udc80",
+    "createTime": 1648419019,
+    "video": {
+        "id": "7079905775396621611",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/687334de756c4f83820bad110bf9591e_1648419020?x-expires=1648515600&x-signature=dtHWHFHP1ncxswZBTssJY%2BnqjHw%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/32ff9dbe12064cea8b596f1d6f423d2f_1648419553?x-expires=1648515600&x-signature=RTSCPXLB3rq0zSXXSZSvnImmWCk%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a397ecfae6f8466c9b61330cbfa7e9c8_1648419020?x-expires=1648515600&x-signature=b9PJtISjYPj0LOLPlcEKtQrABgw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a4f701b9a5204b143f6d4dcd0624a8f3/62425ec1/video/tos/useast5/tos-useast5-ve-0068c001-tx/e23cf079b98d47a7bdeb14fe6d23166c/?a=1988&br=1266&bt=633&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXmugDXq&l=202203281919530101130062411141F368&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anVrcWQ6Zm5nPDMzZzczNEApNmU5OThoOmQ6NzNnZTk4PGduZmEvcjRncy1gLS1kMS9zczY2Yy8xLTEzNF4xMF9eLWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a4f701b9a5204b143f6d4dcd0624a8f3/62425ec1/video/tos/useast5/tos-useast5-ve-0068c001-tx/e23cf079b98d47a7bdeb14fe6d23166c/?a=1988&br=1266&bt=633&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThXmugDXq&l=202203281919530101130062411141F368&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anVrcWQ6Zm5nPDMzZzczNEApNmU5OThoOmQ6NzNnZTk4PGduZmEvcjRncy1gLS1kMS9zczY2Yy8xLTEzNF4xMF9eLWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/32ff9dbe12064cea8b596f1d6f423d2f_1648419553~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=YcPipd7fzFFJAm8%2BfRoQ5kpSAc8%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/32ff9dbe12064cea8b596f1d6f423d2f_1648419553~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=UKWOtieAJugvOkj1Q%2BzD39ZXVJk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/687334de756c4f83820bad110bf9591e_1648419020?x-expires=1648515600&x-signature=dtHWHFHP1ncxswZBTssJY%2BnqjHw%3D",
+        "bitrate": 648266,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7078079556293215275",
+        "uniqueId": "ireland_summer",
+        "nickname": "Ireland_Summer",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ce33bae23752028b239848befe57e2e~c5_100x100.jpeg?x-expires=1648580400&x-signature=Yw3ZqWu7fu2hX93s3%2B0PWG6mnBo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ce33bae23752028b239848befe57e2e~c5_720x720.jpeg?x-expires=1648580400&x-signature=1LqhL2sPqV1W1Mby1Xnpx6Qdo4c%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ce33bae23752028b239848befe57e2e~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=A6c3%2ByE8SxXZ%2BcfLDErZ2uPBJ8o%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADKFeIH248HEZjf7BHdE3p3cbvIv_PND_Bv7sZbaJwZr0FvMb75k9l__apfy2R8Ay",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7074080678450694954",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7074080732183808810.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b88a88d7d491fd263a762c4d0db8b2b~c5_100x100.jpeg?x-expires=1648580400&x-signature=qkVbaA%2BwQQxXmbOZ%2FU%2FuiVNhXNo%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b88a88d7d491fd263a762c4d0db8b2b~c5_720x720.jpeg?x-expires=1648580400&x-signature=GjIix%2FCBQNKg9azCi6ueJvIma94%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b88a88d7d491fd263a762c4d0db8b2b~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=4VOYp8Sx4rv02xt8PPd0iI0Yi8Y%3D",
+        "authorName": ".",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 160
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "low exposure",
+            "ID": "1250788"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 11,
+        "followerCount": 1,
+        "heartCount": 15,
+        "videoCount": 6,
+        "diggCount": 258,
+        "heart": 15
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Front profile: \u2728",
+                "Side profile: \ud83d\ude10"
+            ]
+        }
+    ],
+    "isAd": false
+}

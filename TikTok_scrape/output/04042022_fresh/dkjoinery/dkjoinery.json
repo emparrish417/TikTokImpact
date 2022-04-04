@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6890228465561175046",
+        "shortId": "",
+        "uniqueId": "dkjoinery",
+        "nickname": "Dk joinery",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e2f593003826d65de5da8621df0c3995~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=FFIRJYvibUet3xFT1bIOP8e7zKQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e2f593003826d65de5da8621df0c3995~c5_720x720.jpeg?x-expires=1649196000&x-signature=PX9CjrAuG9rHMxa97bvLoZ1EA4c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e2f593003826d65de5da8621df0c3995~c5_100x100.jpeg?x-expires=1649196000&x-signature=jV5d6wz9VPp50TfFTaPvTBS2%2BM0%3D",
+        "signature": "",
+        "createTime": 1604256952,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwZUqlws-qWEM_pNcpnvaR_ziita2nKbeWHQu-RXtpsYi01EApqmMwqwef1it6jzB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13,
+        "followingCount": 191,
+        "heart": 64,
+        "heartCount": 64,
+        "videoCount": 18,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6771124189753213957",
+        "shortId": "",
+        "uniqueId": "cloudzzy001",
+        "nickname": "Cloudzy fn",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a56b0658b0fadde73deeee6c49797c36~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=Fjc8iiD0ZggpM7zUAhG4mHUq9Rc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a56b0658b0fadde73deeee6c49797c36~c5_720x720.jpeg?x-expires=1648515600&x-signature=Rra0jc0aYqGh5IXBG7fFYuDjbmo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a56b0658b0fadde73deeee6c49797c36~c5_100x100.jpeg?x-expires=1648515600&x-signature=SOElQFKGct47ugUdSS8yEhc%2BQ9Q%3D",
+        "signature": "No bio yet\ud83e\udd28",
+        "createTime": 1576497092,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAORpule7Mjdc7nN-V2dA-fGR2kHNeIQFHDL_pEXFHIgHJ_GGnH--CavkU68hbOBNG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15500,
+        "followingCount": 7,
+        "heart": 409600,
+        "heartCount": 409600,
+        "videoCount": 72,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,98 @@
+{
+    "id": "7078763476692487470",
+    "desc": "Cold",
+    "createTime": 1648153057,
+    "video": {
+        "id": "7078763476692487470",
+        "height": 960,
+        "width": 540,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b5d1152772704d39ad0d0d5e0ded12d3?x-expires=1648249200&x-signature=Zy1aRe3vNyqVo2%2Fu9j9lPXUOEQ4%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/480c2158e6af400ebfb0c5628f38b00e_1648153058?x-expires=1648249200&x-signature=0rJ100YN3zSxbwU%2FjYtcSkK40IM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/52ff4273ac784d8a876706ff11ed70f9_1648153058?x-expires=1648249200&x-signature=42buyU%2FQ3dLWVF9mSASJiWPQVrc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/86bf8f55451c6c40d05d03e2b46900e2/623e4f65/video/tos/useast5/tos-useast5-ve-0068c002-tx/20f95e40bdf948959af6d0ecbafc029b/?a=1988&br=1046&bt=523&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThYNzJDXq&l=202203251725130101131350981AB52F24&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Zyd2k6ZmdnOzMzZzczNEApPDc7OjY3PGQ4Nzg5aGk6OGc2aDFycjRvMHJgLS1kMS9zcy8zNWMzLmBjNS8xXjZhLjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/86bf8f55451c6c40d05d03e2b46900e2/623e4f65/video/tos/useast5/tos-useast5-ve-0068c002-tx/20f95e40bdf948959af6d0ecbafc029b/?a=1988&br=1046&bt=523&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThYNzJDXq&l=202203251725130101131350981AB52F24&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Zyd2k6ZmdnOzMzZzczNEApPDc7OjY3PGQ4Nzg5aGk6OGc2aDFycjRvMHJgLS1kMS9zcy8zNWMzLmBjNS8xXjZhLjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/480c2158e6af400ebfb0c5628f38b00e_1648153058~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=n4MFCn5HfiE7Bz8ZYDiT4AV%2FZRg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/480c2158e6af400ebfb0c5628f38b00e_1648153058~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=6wLTnoNjy7QqhcCT6v%2FqF0%2B7zkw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b5d1152772704d39ad0d0d5e0ded12d3?x-expires=1648249200&x-signature=Zy1aRe3vNyqVo2%2Fu9j9lPXUOEQ4%3D",
+        "bitrate": 535990,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6909292116385514501",
+        "uniqueId": "istandwithukraine082",
+        "nickname": "Dirtbikes4life",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e80cdadaa0554c97e2b5a8617ab487ec~c5_100x100.jpeg?x-expires=1648314000&x-signature=k8iMh0uikh5RtabQQyDP7S97vuU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e80cdadaa0554c97e2b5a8617ab487ec~c5_720x720.jpeg?x-expires=1648314000&x-signature=y%2FhFuz2t7iT7rZCxMSb9PnMX5H4%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e80cdadaa0554c97e2b5a8617ab487ec~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=HAs8tKV%2BR%2FoJF0Qfr%2B%2BKteTCZFY%3D",
+        "signature": "Follow if u like dirt bikes",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbAdR_u61Kj35YJ81oGelH_mHPPOghvFceTQJ1pgwRbvzH4BQuE6T9D1tDiaLE64H",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7019714357059881733",
+        "title": "Cornfield Chase",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ef06dadaafdf4ebda4ff453f6f400696",
+        "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/7a44a3ede6414554ba0e7d593e7beeaf~c5_100x100.jpeg",
+        "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/7a44a3ede6414554ba0e7d593e7beeaf~c5_200x200.jpeg",
+        "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/7a44a3ede6414554ba0e7d593e7beeaf~c5_720x720.jpeg",
+        "authorName": "Dorian Marko",
+        "original": false,
+        "duration": 37,
+        "album": "Cornfield Chase"
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 66
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 417,
+        "followerCount": 84,
+        "heartCount": 198,
+        "videoCount": 28,
+        "diggCount": 729,
+        "heart": 198
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Football at recess be like "
+            ]
+        }
+    ],
+    "isAd": false
+}

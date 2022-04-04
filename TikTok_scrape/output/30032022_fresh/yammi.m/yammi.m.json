@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7045668499533022214",
+        "shortId": "",
+        "uniqueId": "yammi.m",
+        "nickname": "\u042f\u043d\u0430 \u041c\u0438\u0440\u043e\u043d\u044e\u043a",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96f61bdc451ebc4fb6f85ce3c282f67f~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=boqvyuufEQ%2F6kga8HGFacToGzyE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96f61bdc451ebc4fb6f85ce3c282f67f~c5_720x720.jpeg?x-expires=1648764000&x-signature=vNL3ERDww12ctab9TsycYRtlPt4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96f61bdc451ebc4fb6f85ce3c282f67f~c5_100x100.jpeg?x-expires=1648764000&x-signature=smGr4%2FC4kyrt1TRccbICEt3N2AU%3D",
+        "signature": "inst. yana_mironyuk\n\ud83c\uddfa\ud83c\udde6\u2764",
+        "createTime": 1640447590,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIRQoUhq758IPFTn7X8Dry7HARnNnkPmr6eOMEuqwqe4pxvFjgkOqABTXr1xuY8Ez",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1545,
+        "followingCount": 30,
+        "heart": 181700,
+        "heartCount": 181700,
+        "videoCount": 52,
+        "diggCount": 0
+    },
+    "itemList": []
+}

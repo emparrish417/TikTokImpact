@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6787475271471285253",
+        "shortId": "",
+        "uniqueId": "dana.gnatenko",
+        "nickname": "\u0414\u0430\u043d\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f2c5f8e85952a7824f8d42f8c2a8ac0a~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=nTkzqcW6J0fGy03jYrPYxaFJVwo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f2c5f8e85952a7824f8d42f8c2a8ac0a~c5_720x720.jpeg?x-expires=1648940400&x-signature=BwxWMkhtXcjzeQm%2Bf2eDic9qwrU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f2c5f8e85952a7824f8d42f8c2a8ac0a~c5_100x100.jpeg?x-expires=1648940400&x-signature=vCspQvY5ROADCSImwDVmonPrjjo%3D",
+        "signature": "inst\ndana.gnatenko",
+        "createTime": 1580339894,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAHNUNkwyP985DxMLSnC86XXFop3E88QJHuIrtuxNXZYxFtuNmBU8OXTcKSx-czBIt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 604,
+        "followingCount": 31,
+        "heart": 25000,
+        "heartCount": 25000,
+        "videoCount": 43,
+        "diggCount": 0
+    },
+    "itemList": []
+}

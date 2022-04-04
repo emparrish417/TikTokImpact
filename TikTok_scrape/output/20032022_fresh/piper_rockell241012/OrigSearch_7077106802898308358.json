@@ -1,0 +1,98 @@
+{
+    "id": "7077106802898308358",
+    "desc": "",
+    "createTime": 1647767333,
+    "video": {
+        "id": "7077106802898308358",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6ccf064e796b4423a130770ec4a996fc?x-expires=1647835200&x-signature=05YajI5TXj1g2NRHFpXL8HSr1XY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bd077453ce5942ae8e3f41f1f302e8d8_1647767335?x-expires=1647835200&x-signature=5kck4Py9EQbwPebuQz5rmcJQnls%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/441b974a58c74d1bbe27814712ffb0ca_1647767334?x-expires=1647835200&x-signature=1cGjLVil7nG4r7hkOireZ%2BImeDw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6383396bb79aad577f629ba3f9b1c8a1/6237ff41/video/tos/useast2a/tos-useast2a-ve-0068c003/898b7208bf18415fa9e96a56abc1842d/?a=1988&br=1618&bt=809&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgNc_DXq&l=202203202229390101131350430113EC50&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVyNjg6ZndoOzMzNzczM0ApZTU1PDY8NjtlNzs3PDxoOGczNGZwcjRnbm9gLS1kMTZzczExNWI1Y2ExXy4zMTNfMTU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6383396bb79aad577f629ba3f9b1c8a1/6237ff41/video/tos/useast2a/tos-useast2a-ve-0068c003/898b7208bf18415fa9e96a56abc1842d/?a=1988&br=1618&bt=809&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgNc_DXq&l=202203202229390101131350430113EC50&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVyNjg6ZndoOzMzNzczM0ApZTU1PDY8NjtlNzs3PDxoOGczNGZwcjRnbm9gLS1kMTZzczExNWI1Y2ExXy4zMTNfMTU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bd077453ce5942ae8e3f41f1f302e8d8_1647767335~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=96qiki%2BMLlYW7MwVEQG803zt6Vo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bd077453ce5942ae8e3f41f1f302e8d8_1647767335~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=wtdUIOe8wgfXX4ZUSfh43moAlLo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6ccf064e796b4423a130770ec4a996fc?x-expires=1647835200&x-signature=05YajI5TXj1g2NRHFpXL8HSr1XY%3D",
+        "bitrate": 829357,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7037104813708395525",
+        "uniqueId": "piper_rockell241012",
+        "nickname": "Ukrain_help.pray241012\ud83d\ude2d",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e51037717e3acf928769a7f31cd0ab2f~c5_100x100.jpeg?x-expires=1647900000&x-signature=FZ5tBCK1npHDXZSb9H%2BkjQEPLtU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e51037717e3acf928769a7f31cd0ab2f~c5_720x720.jpeg?x-expires=1647900000&x-signature=6cDSL4xd1pFFMzI9tOan%2BqVYDjE%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e51037717e3acf928769a7f31cd0ab2f~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=9IQIQ3OkowRQiCBwwD0uiyItnCk%3D",
+        "signature": "\ud835\udcd8 \ud835\udcf5\ud835\udcf8\ud835\udcff\ud835\udcee \ud835\udcfd\ud835\udcf1\ud835\udcf2\ud835\udcfc \ud835\udcf0\ud835\udcf2\ud835\udcfb\ud835\udcf5\ud835\udcfc \ud835\udcfd\ud835\udcf2\ud835\udcf4 \ud835\udcfd\ud835\udcf8\ud835\udcf4\ud835\udcfc",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMoGqa2l-i56TIVcyeIzOd4e0MiDt87AHpgcuhiVU0PTDhlvEZmWE_z6RfPmivvTb",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6894311865766135809",
+        "title": "Can't Get You out of My Head (La La La Remix)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/817a665149a7453d85a3383d8574e902",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/baf8dcb870f3496aa8a86a3090e8279f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/baf8dcb870f3496aa8a86a3090e8279f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/baf8dcb870f3496aa8a86a3090e8279f.jpeg",
+        "authorName": "System Society",
+        "original": false,
+        "duration": 60,
+        "album": "2021 EDM (Best of Techno, Trance, House, Progressive & Dance Party Anthems)"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 64
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 348,
+        "followerCount": 79,
+        "heartCount": 47,
+        "videoCount": 85,
+        "diggCount": 319,
+        "heart": 47
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Befor and after"
+            ]
+        }
+    ],
+    "isAd": false
+}

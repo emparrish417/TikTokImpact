@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6778394136284152838",
+        "shortId": "",
+        "uniqueId": "tombradabbc",
+        "nickname": "Tom Brada",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d476c90ba10394bdee162785c2670093~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=RrZWNrNYd9CQhMOEOyKUELoQdLU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d476c90ba10394bdee162785c2670093~c5_720x720.jpeg?x-expires=1649116800&x-signature=ULX2eR8xQuIHYOnA2RQLbcBHR7U%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d476c90ba10394bdee162785c2670093~c5_100x100.jpeg?x-expires=1649116800&x-signature=ZM0s9zQrZdg7wijMY0r7IB0R18Y%3D",
+        "signature": "\u270d\ud83c\udffb Journalist\n\ud83c\udfa5 Short explainers on BIG issues\nWhat you need to know in 60 sec",
+        "createTime": 1578218199,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA28vVxD1X6oz3rN9-S_V2v8mZPz7RFmX4NnR5Mbb-gDFMPJkm-fLe68sj_jx_k_9w",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17400,
+        "followingCount": 104,
+        "heart": 490300,
+        "heartCount": 490300,
+        "videoCount": 87,
+        "diggCount": 102
+    },
+    "itemList": []
+}

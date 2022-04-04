@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6785662573742457861",
+        "shortId": "",
+        "uniqueId": "swaggerdad",
+        "nickname": "swaggerdad",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/57ad4dfe14292bc78f8a868114255531~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=bbECxw5iKZVGCKIWsrMnfzmTqr8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/57ad4dfe14292bc78f8a868114255531~c5_720x720.jpeg?x-expires=1648234800&x-signature=rzJ2AyYX18I7k%2FNrJX3heHHKZjo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/57ad4dfe14292bc78f8a868114255531~c5_100x100.jpeg?x-expires=1648234800&x-signature=8mLywqXggGfxnjLcpU5ymuV6EEs%3D",
+        "signature": "CEO of girl dads! (4x) & subpar content",
+        "createTime": 1579910415,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsum4jGsuGgnCIZwA2QHeHJnTsUO8FYampmqc1ovDRbH-bugh10bTbzupR0uyNqYt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 141700,
+        "followingCount": 1079,
+        "heart": 3000000,
+        "heartCount": 3000000,
+        "videoCount": 748,
+        "diggCount": 0
+    },
+    "itemList": []
+}

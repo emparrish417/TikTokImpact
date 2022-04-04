@@ -1,0 +1,98 @@
+{
+    "id": "7079768596985072942",
+    "desc": "",
+    "createTime": 1648387081,
+    "video": {
+        "id": "7079768596985072942",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1c17699ab83b4fc8bf56fb004c2de53f?x-expires=1648450800&x-signature=7pha%2FuDcbkg%2BnbHTW69CSHFEECo%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4574934a911d46b0a7f0e61dd7885077_1648387082?x-expires=1648450800&x-signature=Dm%2FREIUJprLT7oZg1OmBJDhXfYA%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ebaaaee63bff45e0af62c7c2a57c91c8_1648387082?x-expires=1648450800&x-signature=cEJT8BKn5J3pDOST6ZbmS6Xi8ck%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a2a2bcdd23813ad87ed1f833f689c417/62415e23/video/tos/useast5/tos-useast5-ve-0068c001-tx/3d18bd750b6245978c15308de6c945b2/?a=1988&br=486&bt=243&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbGagDXq&l=2022032801045201011313514321BEC590&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhyaDc6Zjc5PDMzZzczNEApNDo7PDM6aWQ8Nzc4ZTc1aGdjNWEucjRnNC1gLS1kMS9zczEuMjQvXzRjXmAvM2MwXjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a2a2bcdd23813ad87ed1f833f689c417/62415e23/video/tos/useast5/tos-useast5-ve-0068c001-tx/3d18bd750b6245978c15308de6c945b2/?a=1988&br=486&bt=243&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbGagDXq&l=2022032801045201011313514321BEC590&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhyaDc6Zjc5PDMzZzczNEApNDo7PDM6aWQ8Nzc4ZTc1aGdjNWEucjRnNC1gLS1kMS9zczEuMjQvXzRjXmAvM2MwXjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4574934a911d46b0a7f0e61dd7885077_1648387082~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=3lr8SUkyeBW4%2FA4hdYYk7aj2lOw%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4574934a911d46b0a7f0e61dd7885077_1648387082~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=9jlZuxuLlrMdw5L%2FjGFnfJMV56w%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1c17699ab83b4fc8bf56fb004c2de53f?x-expires=1648450800&x-signature=7pha%2FuDcbkg%2BnbHTW69CSHFEECo%3D",
+        "bitrate": 249527,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7079247853680509998",
+        "uniqueId": "idk_pink22",
+        "nickname": "\ud83c\uddfa\ud83c\udde6Ukrainian I stand with you",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e1897ed7ddcc9574ea00917fa0345e9f~c5_100x100.jpeg?x-expires=1648515600&x-signature=xqSJzQAbiaWmLA4v0Sg2ahdZkU8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e1897ed7ddcc9574ea00917fa0345e9f~c5_720x720.jpeg?x-expires=1648515600&x-signature=kI45LGnANC70MH4c4hrk25MTQz0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e1897ed7ddcc9574ea00917fa0345e9f~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=B1DvLEh0036lfXDiRFY%2FvTNf%2FEk%3D",
+        "signature": "\ud83e\udd0dMolly\ud83e\udd0d\n\ud83e\udd0dAaliyah\ud83e\udd0d\n\ud83e\udd0dKianna\ud83e\udd0d\n\ud83e\udd0dRamona\ud83e\udd0d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAS2wXq9ixJuiYTUx8IDsg_cyJHpRgiqSJI0kDXkavPAxmQNbZ7n8nUHnS2mqAGe8b",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6448513875884608270",
+        "title": "Happy",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d1ab768cf115415297f27cfd51c485ea",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/9a052a7f0ccc4882af91db6d3235c04e.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/9a052a7f0ccc4882af91db6d3235c04e.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/9a052a7f0ccc4882af91db6d3235c04e.jpeg",
+        "authorName": "Pharrell Williams",
+        "original": false,
+        "duration": 47,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 95
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 20,
+        "followerCount": 6,
+        "heartCount": 20,
+        "videoCount": 5,
+        "diggCount": 36,
+        "heart": 20
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "OMG YOU GUYS ARE AMAZING YOU BLEW UP MY VIDEOS!\ud83d\udc97\ud83d\udc97"
+            ]
+        }
+    ],
+    "isAd": false
+}

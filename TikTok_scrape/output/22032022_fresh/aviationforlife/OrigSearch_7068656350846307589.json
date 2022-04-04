@@ -1,0 +1,127 @@
+{
+    "id": "7068656350846307589",
+    "desc": "#freeukraine",
+    "createTime": 1645799809,
+    "video": {
+        "id": "7068656350846307589",
+        "height": 1248,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4a6b2d8cfffb498f940416be6d7b90b6?x-expires=1648004400&x-signature=d7NUbhqzPzCyLbxjtnDzZPYi45I%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/55b3e5d1a8464bdab1e46f2faf18c6d5_1645799810?x-expires=1648004400&x-signature=xYiFOL8fT4doUH9IYtCADSVd6E4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/34d5500a01c04527ad4788abff4abd63_1645799811?x-expires=1648004400&x-signature=fpwbsNyVWxkzvPpt8synvgrC6vc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6995b1873e372401678fbe8f0584d59c/623a95a8/video/tos/useast2a/tos-useast2a-pve-0068/d299f075a545478899589d7991efe662/?a=1988&br=5100&bt=2550&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl9RMDXq&l=2022032221360101011313518926BD86CD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=andtazY6ZjtoOzMzNzczM0ApNWZoO2g7PGU6NzU6OTc8OGdhYWYxcjRnZWBgLS1kMTZzc2JjNC1jNjA2YC8yNGFhYjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6995b1873e372401678fbe8f0584d59c/623a95a8/video/tos/useast2a/tos-useast2a-pve-0068/d299f075a545478899589d7991efe662/?a=1988&br=5100&bt=2550&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl9RMDXq&l=2022032221360101011313518926BD86CD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=andtazY6ZjtoOzMzNzczM0ApNWZoO2g7PGU6NzU6OTc8OGdhYWYxcjRnZWBgLS1kMTZzc2JjNC1jNjA2YC8yNGFhYjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/55b3e5d1a8464bdab1e46f2faf18c6d5_1645799810~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=jrLlm1qLiPXFkAxXRTFucUsuSUY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/55b3e5d1a8464bdab1e46f2faf18c6d5_1645799810~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=CAalUCsIzdOhX%2BVZ%2BLVouG0sONU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4a6b2d8cfffb498f940416be6d7b90b6?x-expires=1648004400&x-signature=d7NUbhqzPzCyLbxjtnDzZPYi45I%3D",
+        "bitrate": 2611228,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6674309882283590662",
+        "uniqueId": "aviationforlife",
+        "nickname": "Aviation Forever",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6c24d7ff62b6e0a561e95970886129d4~c5_100x100.jpeg?x-expires=1648069200&x-signature=lffC6YE%2FdREeLseS%2BICl2h7rhq4%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6c24d7ff62b6e0a561e95970886129d4~c5_720x720.jpeg?x-expires=1648069200&x-signature=EcLrEjTVduh2%2B9CLIxtkQGur2bk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6c24d7ff62b6e0a561e95970886129d4~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=3qjbV4OnDJnApwCZbrJwP71mk8I%3D",
+        "signature": "Fav airline  Turkish Etihad Tuifly FlyErbil Nolinor Qatar and Singapore",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATVBU3rQ2Tkqp9bxPdCrRF-c6v4CGpwA69uBdFZecrb5O39MpU4qTkoW-pAqx742q",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6959020444208909061",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6959020617270201094.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/735784a55940994dcb636d4301dcb2be~c5_100x100.jpeg?x-expires=1648069200&x-signature=MHpBZnjYPThTj59Al%2FB5b8%2Folzg%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/735784a55940994dcb636d4301dcb2be~c5_720x720.jpeg?x-expires=1648069200&x-signature=Uy8EGWOBTz0qHSPXaAAnzPTX9qo%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/735784a55940994dcb636d4301dcb2be~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=UJYAyLEk%2F9iBTDljhCefxwgEcy0%3D",
+        "authorName": "daddy",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "12072267",
+            "title": "freeukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 192400,
+        "shareCount": 395,
+        "commentCount": 2647,
+        "playCount": 5300000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "freeukraine",
+            "hashtagId": "12072267",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 17,
+        "followerCount": 14400,
+        "heartCount": 591100,
+        "videoCount": 91,
+        "diggCount": 8584,
+        "heart": 591100
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "No planes over Ukraine"
+            ]
+        }
+    ],
+    "isAd": false
+}

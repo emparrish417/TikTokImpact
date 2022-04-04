@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7035285982951212038",
+        "shortId": "",
+        "uniqueId": "elcoffee",
+        "nickname": ".Coffee M",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ebab8c45de091a9df355a4a19ad8c634~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=66rHNFq%2FdNJPi1GIrned9XXLUXs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ebab8c45de091a9df355a4a19ad8c634~c5_720x720.jpeg?x-expires=1648069200&x-signature=8Ti8a6PQ5kv907hCkNF%2BcuhDrVs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ebab8c45de091a9df355a4a19ad8c634~c5_100x100.jpeg?x-expires=1648069200&x-signature=D1f8MXhx85aQSswgLDVWtTqRkZc%3D",
+        "signature": "Lo mejor de lo peor..",
+        "createTime": 1638030304,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWk1LKaQRXZOhQjtxOGzUxZ3zMoVHRO6WdN7dMJrTFupIlZ-2P1pGxhP6kCaNOe5O",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2048,
+        "followingCount": 126,
+        "heart": 18400,
+        "heartCount": 18400,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

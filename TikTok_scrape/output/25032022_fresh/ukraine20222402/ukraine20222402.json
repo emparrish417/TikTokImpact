@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7014852132516398085",
+        "shortId": "",
+        "uniqueId": "ukraine20222402",
+        "nickname": "Ukraine",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d7c78fef294abbb9f776481f3d03637~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=%2F%2F9ySiQEHcAVwXT%2Bj4jKOo%2BLsm0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d7c78fef294abbb9f776481f3d03637~c5_720x720.jpeg?x-expires=1648314000&x-signature=9C%2Bl012ckQ%2Fob4OkAY3klIKcebo%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d7c78fef294abbb9f776481f3d03637~c5_100x100.jpeg?x-expires=1648314000&x-signature=dWXuoT1habVENzhg2L92Y2J0gwk%3D",
+        "signature": "",
+        "createTime": 1633272594,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsluSGZ82C7-H8ZlsvURcFik6g8t0Jk4AYloMz92B3Actsp44a_siMWb5nqWBnNG5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 3,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14700,
+        "followingCount": 2,
+        "heart": 150700,
+        "heartCount": 150700,
+        "videoCount": 35,
+        "diggCount": 0
+    },
+    "itemList": []
+}

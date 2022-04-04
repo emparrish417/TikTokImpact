@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6694345641851913221",
+        "shortId": "",
+        "uniqueId": "thesneako",
+        "nickname": "SNEAKO",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=nQAwYi%2BK7yDPLCwVE0%2FxG5ttbU0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_720x720.jpeg?x-expires=1648940400&x-signature=wO%2F%2FIwBuhbmF9lKEPLPzrBbCbsU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663614335808518~c5_100x100.jpeg?x-expires=1648940400&x-signature=tR297vmAew3lxb3uRb22xrsOCLQ%3D",
+        "signature": "SNEAKO ON YOUTUBE \nTIK TOK IS BAD FOR YOU",
+        "createTime": 1558649043,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZvy1MkJl7xeNE5bIknk1r9-Y45t3bNTlJYx5jalber7vwc8told7MzNrgsQEqgW9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "http://www.patreon.com/thesneako",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 288400,
+        "followingCount": 1,
+        "heart": 7900000,
+        "heartCount": 7900000,
+        "videoCount": 82,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,116 @@
+{
+    "id": "7080771057384230186",
+    "desc": "\ud83e\udd70",
+    "createTime": 1648620485,
+    "video": {
+        "id": "7080771057384230186",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a285c447bc4147b1a2e60f22e314d4d6?x-expires=1648699200&x-signature=arBeLU4cMqZuqSnbWdlddALngt8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7a34a4a80d3a4d58a45e7589fa98a050_1648620486?x-expires=1648699200&x-signature=EkMUcVmcYhfrm2aF9mRE4LlLzWc%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7d7e01effe5845b1ab3a8f351e8ff1cd_1648620580?x-expires=1648699200&x-signature=UtlAhsQ6s9AIm%2BMxdcrzgUZlYBU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/70f37a25adb10c06a40d891ac7a409da/62452964/video/tos/useast5/tos-useast5-pve-0068-tx/1bbf8e4a9c5844f39b070d7d8c87971e/?a=1988&br=1676&bt=838&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKOFzDXq&l=2022033022085301011313521126747A74&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhkPDM6ZjV5PDMzZzczNEApNGlpOztoZWVkN2c7ZzpkN2dpcnBlcjRfMC5gLS1kMS9zc2JgMzYuM14yMC4wYGIzYV86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/70f37a25adb10c06a40d891ac7a409da/62452964/video/tos/useast5/tos-useast5-pve-0068-tx/1bbf8e4a9c5844f39b070d7d8c87971e/?a=1988&br=1676&bt=838&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKOFzDXq&l=2022033022085301011313521126747A74&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhkPDM6ZjV5PDMzZzczNEApNGlpOztoZWVkN2c7ZzpkN2dpcnBlcjRfMC5gLS1kMS9zc2JgMzYuM14yMC4wYGIzYV86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7a34a4a80d3a4d58a45e7589fa98a050_1648620486~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=HIFOrJmF1qAOMNGA6I0xPhVQVqg%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7a34a4a80d3a4d58a45e7589fa98a050_1648620486~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=WLI0oobtW77f6udMTkeffdwnR%2F0%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a285c447bc4147b1a2e60f22e314d4d6?x-expires=1648699200&x-signature=arBeLU4cMqZuqSnbWdlddALngt8%3D",
+        "bitrate": 858798,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "17167423",
+        "uniqueId": "irelandcaseyyy",
+        "nickname": "irecasey",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/edc022f9457e081d5b741c190be26ab7~c5_100x100.jpeg?x-expires=1648764000&x-signature=T9sLngFcr4DJ6qdnB%2BtfzhuanC0%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/edc022f9457e081d5b741c190be26ab7~c5_720x720.jpeg?x-expires=1648764000&x-signature=dB8fFGYE1NREkpZ2kIsOxBMY1zU%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/edc022f9457e081d5b741c190be26ab7~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=BSWldn0daYUz4dxTAiBbfWNIR0U%3D",
+        "signature": "\ud83d\udca4",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEDx9YSVoOtVvRb__76U5Z9hNEAlfIz3sJCZqa0q_HI8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7066659691182705454",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7066659703401220911.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c6e5ed2a995334905976ae7c1edf2a3~c5_100x100.jpeg?x-expires=1648764000&x-signature=OU91Dvl4ll6M%2BkFqwsfMCln6%2FVg%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c6e5ed2a995334905976ae7c1edf2a3~c5_720x720.jpeg?x-expires=1648764000&x-signature=u5EK5CfvbikSLxf0sgCRLymLx9U%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c6e5ed2a995334905976ae7c1edf2a3~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=jd%2Bz7vX4AQIdoMgxeBFnEnkVCd4%3D",
+        "authorName": "bigzitti",
+        "original": true,
+        "duration": 20,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 64
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Video",
+            "ID": "454747"
+        },
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 7456,
+        "followerCount": 437,
+        "heartCount": 3257,
+        "videoCount": 15,
+        "diggCount": 155600,
+        "heart": 3257
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "my boyfriend if he were :",
+                "a food:",
+                "a drink:",
+                "a flower :",
+                "a character:",
+                "a place:",
+                "a season:",
+                "a room:",
+                "a scent:"
+            ]
+        }
+    ],
+    "isAd": false
+}

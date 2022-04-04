@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6777593631172838406",
+        "shortId": "",
+        "uniqueId": "goodmorningbadnews",
+        "nickname": "Good Morning, Bad News",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/340702da7988e2626f32d9e6fd63e02f~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=Dg%2BoYsGvw8XdK%2BAblimmhDISfME%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/340702da7988e2626f32d9e6fd63e02f~c5_720x720.jpeg?x-expires=1648580400&x-signature=v%2BRc7z1UTpcCHg4Har7sfYTayyc%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/340702da7988e2626f32d9e6fd63e02f~c5_100x100.jpeg?x-expires=1648580400&x-signature=F6Crfdzac5uG8D4p7HlEnyQmaIQ%3D",
+        "signature": "\u2b07\ufe0f MUGS & SOURCES \u2b07\ufe0f",
+        "createTime": 1578031620,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAm-KiRyErVsyJ_GQ-rXzKz0YfaKSS5uUd9zQpHlMMAYeIo3VMwNjwJQtQVOSjuf3o",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "android": "",
+                "ios": ""
+            },
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1100000,
+        "followingCount": 118,
+        "heart": 24700000,
+        "heartCount": 24700000,
+        "videoCount": 202,
+        "diggCount": 0
+    },
+    "itemList": []
+}

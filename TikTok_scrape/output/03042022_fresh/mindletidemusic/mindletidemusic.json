@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7080953542971638830",
+        "shortId": "",
+        "uniqueId": "mindletidemusic",
+        "nickname": "CJ McCullough492",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/27b52d94e69b4820b004f395593c5b80~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=iJOKpDY0pzAEc4RdrhWO61jaRpI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/27b52d94e69b4820b004f395593c5b80~c5_720x720.jpeg?x-expires=1649116800&x-signature=ZWd%2BSjlQHTjbbhnr2qgVjCCexgw%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/27b52d94e69b4820b004f395593c5b80~c5_100x100.jpeg?x-expires=1649116800&x-signature=N%2F8Hr%2FRXS0RT1SYrENq8B4QhJdE%3D",
+        "signature": "",
+        "createTime": 1648663172,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQ6J_HqY5RuyBTIO_0zkUn15z13Ux9NjJ8i538RY20nY5JE66mqu664bNoEfhMnPH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 0,
+        "heart": 12,
+        "heartCount": 12,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

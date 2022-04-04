@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7070671970903737350",
+        "shortId": "",
+        "uniqueId": "warinurkraine",
+        "nickname": "WarInUrkraine",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a10e65e0e0d8c3f07cff1a91ca53c449~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=gDX5IeHkZaE146vLq3sfua6e7K8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a10e65e0e0d8c3f07cff1a91ca53c449~c5_720x720.jpeg?x-expires=1649196000&x-signature=SX6KJXnAWMif9bh8Zdt2vlJ2TdA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a10e65e0e0d8c3f07cff1a91ca53c449~c5_100x100.jpeg?x-expires=1649196000&x-signature=eKPEyVVTiWAtFNMssnmTplY6DFc%3D",
+        "signature": "",
+        "createTime": 1646269129,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsn8v4GY2UCXBxhTcvwYicDPNlyZ_a6F4CZA71Qh1hVXWa19cj1ViHTHiFrz0VP7g",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 204,
+        "followingCount": 4,
+        "heart": 1121,
+        "heartCount": 1121,
+        "videoCount": 145,
+        "diggCount": 0
+    },
+    "itemList": []
+}

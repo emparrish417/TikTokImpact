@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6807563431630619654",
+        "shortId": "",
+        "uniqueId": "tikwiddit",
+        "nickname": "Thick With It",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1aa7cc0e4135324775d5e254f06b5ec2~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=%2FsrJ6VbmPGhlmTnQhWdLWNq%2F0Vg%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1aa7cc0e4135324775d5e254f06b5ec2~c5_720x720.jpeg?x-expires=1648234800&x-signature=3H%2F6l7VGM7FnIY1snDDbGwHNUbo%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1aa7cc0e4135324775d5e254f06b5ec2~c5_100x100.jpeg?x-expires=1648234800&x-signature=A9znlW9McBwxA3mtaiIbk6jk3Nw%3D",
+        "signature": "3 guys 1 account\n(Help us reach 20k \ud83d\ude18)\nHIT THE LINK BELOW \u2b07\ufe0f",
+        "createTime": 1585009595,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwS1DtVUUTVZcf6FmmRlMkIf2lOO1KJO9mn_h5ftLTDhdwSyWxOGQaZiyPmVd9m3l",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.linktr.ee/tikwiddit",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11100,
+        "followingCount": 159,
+        "heart": 583700,
+        "heartCount": 583700,
+        "videoCount": 58,
+        "diggCount": 0
+    },
+    "itemList": []
+}

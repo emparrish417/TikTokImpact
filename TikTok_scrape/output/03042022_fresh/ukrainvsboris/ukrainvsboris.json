@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7082426192955212806",
+        "shortId": "",
+        "uniqueId": "ukrainvsboris",
+        "nickname": "ukrainVSboris",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8317c2d3e5ba7f3ab90f56ce0d4ef01~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=taRqFX%2BQHn25eMJg2uMl%2F5%2BzQ88%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8317c2d3e5ba7f3ab90f56ce0d4ef01~c5_720x720.jpeg?x-expires=1649116800&x-signature=MaZ7y1XbGbvwaDOi%2F%2FYv0cv1htg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8317c2d3e5ba7f3ab90f56ce0d4ef01~c5_100x100.jpeg?x-expires=1649116800&x-signature=z6%2F7GtzaPJVWdu%2FnquzfyRqXcY8%3D",
+        "signature": "",
+        "createTime": 1649005858,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAU5ndLT_F31DUeZpy1-wHuJZ1PNVgqstxLsVp7rVfPKysQhTQYRMzYgXdctbniZlE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 0,
+        "heart": 0,
+        "heartCount": 0,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "54068006569377792",
+        "shortId": "",
+        "uniqueId": "msnbc",
+        "nickname": "MSNBC",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e92a3469e7b4ffb29a68cc86420f3e96~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=rRUSpw5obTslaMceSD%2Fhi8nU5zQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e92a3469e7b4ffb29a68cc86420f3e96~c5_720x720.jpeg?x-expires=1648234800&x-signature=xYrrJK%2BUQ%2BNUDUe65ykhdbPzO2U%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e92a3469e7b4ffb29a68cc86420f3e96~c5_100x100.jpeg?x-expires=1648234800&x-signature=f0MnNJgTpGH2u1jBdF3rFINOAeU%3D",
+        "signature": "We\u2019re that network with the anchor who provides legal analysis via rap lyrics.",
+        "createTime": 1453262332,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAWVK5uqakgdMrCp5PmPNIGSKIAZSYn5nrdONexZWOpfn17hqX1oHNgXdPGngj35g1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "MSNBC.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 622500,
+        "followingCount": 24,
+        "heart": 8100000,
+        "heartCount": 8100000,
+        "videoCount": 277,
+        "diggCount": 0
+    },
+    "itemList": []
+}

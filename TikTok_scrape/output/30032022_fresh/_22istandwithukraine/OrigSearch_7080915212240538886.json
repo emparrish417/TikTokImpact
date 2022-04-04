@@ -1,0 +1,90 @@
+{
+    "id": "7080915212240538886",
+    "desc": "",
+    "createTime": 1648654047,
+    "video": {
+        "id": "7080915212240538886",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f9c0dae8ec394fdfba31efec34bd7803?x-expires=1648699200&x-signature=xTxCUg2StTB9QxHhENcGP8QG3YM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8db46efdabdc415dab33f9163c517475_1648654048?x-expires=1648699200&x-signature=1%2FZIMxhZ5QPRM2WxFXgvO2LCC%2FQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9f844d737f1245f59277199792c80b98_1648654049?x-expires=1648699200&x-signature=7NbBxiKqtiAxFsw8%2BjUUuiJFFUg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8c8a078018bb14882842096cba4a174c/6245295f/video/tos/useast2a/tos-useast2a-pve-0068/17c6fd9380344ef2b5e05218796eb1ae/?a=1988&br=884&bt=442&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKOFzDXq&l=2022033022085301011313521126747A74&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k1eDs6Zms6PDMzNzczM0ApNTw7ZWhkZDs8Nzg4OWQ3PGdyNGJpcjRvYS9gLS1kMTZzczQ1LTJeX180Yy8tMC4xMF46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8c8a078018bb14882842096cba4a174c/6245295f/video/tos/useast2a/tos-useast2a-pve-0068/17c6fd9380344ef2b5e05218796eb1ae/?a=1988&br=884&bt=442&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKOFzDXq&l=2022033022085301011313521126747A74&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k1eDs6Zms6PDMzNzczM0ApNTw7ZWhkZDs8Nzg4OWQ3PGdyNGJpcjRvYS9gLS1kMTZzczQ1LTJeX180Yy8tMC4xMF46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8db46efdabdc415dab33f9163c517475_1648654048~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=Y%2FeN%2BCTWKhveN23NVb%2FMk2O11Hc%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8db46efdabdc415dab33f9163c517475_1648654048~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=rhhEKGcXmU6r%2B1ploilkJuldPOA%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f9c0dae8ec394fdfba31efec34bd7803?x-expires=1648699200&x-signature=xTxCUg2StTB9QxHhENcGP8QG3YM%3D",
+        "bitrate": 453525,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7002593182870258694",
+        "uniqueId": "_22istandwithukraine",
+        "nickname": "George White",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05c6145c8e8ced5ca140185a73da56bb~c5_100x100.jpeg?x-expires=1648764000&x-signature=spc70QULG9tBBcZsr%2FtGSayje0U%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05c6145c8e8ced5ca140185a73da56bb~c5_720x720.jpeg?x-expires=1648764000&x-signature=6HblGmsIHH5HufnOi%2FHt6eW2RaY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05c6145c8e8ced5ca140185a73da56bb~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=9bMNipTJZo1GgwT253%2FyXo%2Beka0%3D",
+        "signature": "follow\nguys can we start to get the likes up I post at least 2 to 3 vids a day",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQpqz9WgC5ERoUJPY_izvDW3lMndD8n1iI9wbaJ1MM0rz9DLdE4sRWEvnY74FEq7q",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7060160255967218438",
+        "title": "BMW",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4b9731229f5c4700ac1076603c676ee0",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d49cea9d25834ff5ba5a0d9b7679b6e9.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/d49cea9d25834ff5ba5a0d9b7679b6e9.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/d49cea9d25834ff5ba5a0d9b7679b6e9.jpeg",
+        "authorName": "Bad Boy Chiller Crew",
+        "original": false,
+        "duration": 8,
+        "album": "BMW"
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 34
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 6003,
+        "followerCount": 2093,
+        "heartCount": 8897,
+        "videoCount": 224,
+        "diggCount": 8527,
+        "heart": 8897
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

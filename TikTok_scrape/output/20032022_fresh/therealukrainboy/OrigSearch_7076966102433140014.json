@@ -1,0 +1,90 @@
+{
+    "id": "7076966102433140014",
+    "desc": "",
+    "createTime": 1647734573,
+    "video": {
+        "id": "7076966102433140014",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/244873a9074b4859bd32576dea019d17?x-expires=1647835200&x-signature=hVnQ4OncCdbM7tXTcg8M2Ppnw78%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/13b6761947844c6897eef004834a87bb_1647734574?x-expires=1647835200&x-signature=KOnAzo3dlxaaFwzz%2BTWkGi24ctI%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3154c8f8eb2e4bbc9f868490f7e9960c_1647734574?x-expires=1647835200&x-signature=ixJwFv6Lx3meVSF4SRPkStaTV3g%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/45470848a3aec79cad8972cc9585f084/6237ff53/video/tos/useast5/tos-useast5-ve-0068c002-tx/206b85af6db84fc69716e9c0e0cfc13b/?a=1988&br=372&bt=186&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amd5b2g6ZmQ5OzMzZzczNEApZjU8ZzVpZ2RlNzw2NTw3Nmdoc19gcjRvcm9gLS1kMS9zczAwYy1gLV40NjEvY2EwXzQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/45470848a3aec79cad8972cc9585f084/6237ff53/video/tos/useast5/tos-useast5-ve-0068c002-tx/206b85af6db84fc69716e9c0e0cfc13b/?a=1988&br=372&bt=186&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amd5b2g6ZmQ5OzMzZzczNEApZjU8ZzVpZ2RlNzw2NTw3Nmdoc19gcjRvcm9gLS1kMS9zczAwYy1gLV40NjEvY2EwXzQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/13b6761947844c6897eef004834a87bb_1647734574~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=tgfqXA3CdWcIVoiPXwK9gOCu54c%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/13b6761947844c6897eef004834a87bb_1647734574~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=lfLQoRhVJHs5Miq4QrAShG6CHQE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/244873a9074b4859bd32576dea019d17?x-expires=1647835200&x-signature=hVnQ4OncCdbM7tXTcg8M2Ppnw78%3D",
+        "bitrate": 190960,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6966796774229410821",
+        "uniqueId": "therealukrainboy",
+        "nickname": "Darryl",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/481bee5207d058ff708e24502f9b0bbd~c5_100x100.jpeg?x-expires=1647900000&x-signature=Mv8bcm20qKgrIePGsLz3BiuDPV4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/481bee5207d058ff708e24502f9b0bbd~c5_720x720.jpeg?x-expires=1647900000&x-signature=x%2Fb6j7Bclsn0%2FMK6%2FLdli%2FTEGY0%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/481bee5207d058ff708e24502f9b0bbd~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=aRmXYFka2hW8byDyte08l0q8By0%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmq48Hmfui5-d8KvwwFarn15YuOfVJY64tcg-rPIia03mhdRKyslgLFLP9EwBWBpO",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076966078546758446",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076966103393651498.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/481bee5207d058ff708e24502f9b0bbd~c5_100x100.jpeg?x-expires=1647900000&x-signature=Mv8bcm20qKgrIePGsLz3BiuDPV4%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/481bee5207d058ff708e24502f9b0bbd~c5_720x720.jpeg?x-expires=1647900000&x-signature=x%2Fb6j7Bclsn0%2FMK6%2FLdli%2FTEGY0%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/481bee5207d058ff708e24502f9b0bbd~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=aRmXYFka2hW8byDyte08l0q8By0%3D",
+        "authorName": "Darryl",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 92
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 442,
+        "followerCount": 32,
+        "heartCount": 28,
+        "videoCount": 21,
+        "diggCount": 1722,
+        "heart": 28
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

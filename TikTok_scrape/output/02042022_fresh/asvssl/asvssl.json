@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7046377692967306246",
+        "shortId": "",
+        "uniqueId": "asvssl",
+        "nickname": "asvssl\ud83d\udda4",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92dfbed5005668e7ffe758af0cc12955~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=wWwQQckcjT1UuuEEeFrEJxs7uJw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92dfbed5005668e7ffe758af0cc12955~c5_720x720.jpeg?x-expires=1649008800&x-signature=idbI35fjsQ6ZBi1GtbM2CJUIaDc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92dfbed5005668e7ffe758af0cc12955~c5_100x100.jpeg?x-expires=1649008800&x-signature=40vCvGYpIYcXnz3BO7U8foZDldk%3D",
+        "signature": "something wonderful\nhttps://t.me/musicforyoursouletc",
+        "createTime": 1640612721,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAzcI7YdL2vHsnxNtj0nbzEN9ovjEGH-w8vXbIJ6qFZg009wYoGku_EnwLhDGlgc8A",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 66,
+        "followingCount": 422,
+        "heart": 436,
+        "heartCount": 436,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

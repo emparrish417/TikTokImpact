@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6671042256710057990",
+        "shortId": "",
+        "uniqueId": "thedailyshow",
+        "nickname": "The Daily Show",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1640607820281861~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=1JcOqEHhALwFupfZS%2Bwe4SUVOSA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1640607820281861~c5_720x720.jpeg?x-expires=1647900000&x-signature=VAchHfhU2fiOPTI5dZ8%2Bvd%2BwPPk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1640607820281861~c5_100x100.jpeg?x-expires=1647900000&x-signature=9wGPQhm5akWmpKk4LbxD1dTkCyA%3D",
+        "signature": "The Daily Show with Trevor Noah - Weeknights 11/10c on Comedy Central",
+        "createTime": 1556058440,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAfMWDpSwLThfBlDjnJarnxL_NR32OrLM238x1iygqI-MOTG3d3hm4H1VO8v2hin7r",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/thedailyshow",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3700000,
+        "followingCount": 42,
+        "heart": 64700000,
+        "heartCount": 64700000,
+        "videoCount": 532,
+        "diggCount": 0
+    },
+    "itemList": []
+}

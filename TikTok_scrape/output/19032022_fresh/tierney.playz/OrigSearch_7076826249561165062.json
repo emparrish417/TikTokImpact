@@ -1,0 +1,96 @@
+{
+    "id": "7076826249561165062",
+    "desc": "",
+    "createTime": 1647702012,
+    "video": {
+        "id": "7076826249561165062",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c319e6437b5a4e478d9307927e171f17?x-expires=1647752400&x-signature=zS4BLFXW406AgRbXdPw%2FcgZiDZo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c749803e3b04409db10c1f76b60592db_1647702013?x-expires=1647752400&x-signature=hQ%2BJerE6sklaQge5kjZiKY%2BCljM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/661b5fc7d3db402db8e4e692909c3490_1647702014?x-expires=1647752400&x-signature=bv04YRzEFVJ6MakSeKQt0%2B3iev0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/60357c84bf54d110a38bf355a5feb5f8/6236bd95/video/tos/useast2a/tos-useast2a-ve-0068c001/dffde627b3c04c809cd2cf1cc877bc5f/?a=1988&br=1636&bt=818&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtxb_DXq&l=20220319233710010113135168140E8E5E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am51NTQ6ZnZ4OzMzNzczM0ApMzppOjY1M2UzNzQ2NmU3N2dicGhscjQwc25gLS1kMTZzc2I2XjFhYTZgYi81LjJeNDY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/60357c84bf54d110a38bf355a5feb5f8/6236bd95/video/tos/useast2a/tos-useast2a-ve-0068c001/dffde627b3c04c809cd2cf1cc877bc5f/?a=1988&br=1636&bt=818&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtxb_DXq&l=20220319233710010113135168140E8E5E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am51NTQ6ZnZ4OzMzNzczM0ApMzppOjY1M2UzNzQ2NmU3N2dicGhscjQwc25gLS1kMTZzc2I2XjFhYTZgYi81LjJeNDY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c749803e3b04409db10c1f76b60592db_1647702013~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=4UDbfVvbT%2FPlmkmGB0hY2ws5Pe0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c749803e3b04409db10c1f76b60592db_1647702013~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=JFeILzwSoWpyKXubussYYVNKlc0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c319e6437b5a4e478d9307927e171f17?x-expires=1647752400&x-signature=zS4BLFXW406AgRbXdPw%2FcgZiDZo%3D",
+        "bitrate": 838044,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7069085179478197253",
+        "uniqueId": "tierney.playz",
+        "nickname": "I stand with ukrain \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7c9b1168130916040076eb13873785a8~c5_100x100.jpeg?x-expires=1647817200&x-signature=%2FV%2Bb9QtVgVOaqivwLrAEPkvB3RA%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7c9b1168130916040076eb13873785a8~c5_720x720.jpeg?x-expires=1647817200&x-signature=dppcYW8vYWq12WE6GfJHAsIE%2FOI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7c9b1168130916040076eb13873785a8~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=3w4Y9td9uBueo31KrPOFvs7rFOE%3D",
+        "signature": "Even when the sun don\u2019t shine \u2728 \n4 liferrs\nLate nights in the middle of June <3",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQ9UmqmWIqaW0Y3Q79KygVNM9QyupG5h-50bmNBgjqdpq6hhFQ-o5vsAG8ETFtzUD",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7028284230153112325",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7028284318392994565.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1675870535566341~c5_100x100.jpeg?x-expires=1647817200&x-signature=yhytVANaRsPvqq%2B9qkPWyW9iGFM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1675870535566341~c5_720x720.jpeg?x-expires=1647817200&x-signature=udm4vEQEB0KxBSwULU2TrGTWCxY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1675870535566341~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=Oy730%2BWD8HW3pNLeDXlzzSP6RcY%3D",
+        "authorName": "Davolaf",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 6,
+        "playCount": 69
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "CAT SELFIE",
+            "ID": "1307452"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 136,
+        "followerCount": 100,
+        "heartCount": 115,
+        "videoCount": 24,
+        "diggCount": 5288,
+        "heart": 115
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,98 @@
+{
+    "id": "7077700048712240426",
+    "desc": "",
+    "createTime": 1647905459,
+    "video": {
+        "id": "7077700048712240426",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/45dd94c8c01c4ca9afbcce5c04b93682?x-expires=1648004400&x-signature=yTDRAEgUytJP2EyRY0pZSxh4NUo%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/678c8331892c41eba3f6090c063d32fa_1647905459?x-expires=1648004400&x-signature=zN1e2xFqSdxpjOxDd8qKJD1J6wk%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a6074efd76044e389ff0a0210ae7de1d_1647905460?x-expires=1648004400&x-signature=hE6%2BLlxmCofRfz3%2BYreIEWbZGfw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/28d1ee9023ad4f3d5e78986bf3cf25e0/623a9478/video/tos/useast5/tos-useast5-pve-0068-tx/971c67f048ac41b0afd427d5206cccb1/?a=1988&br=4308&bt=2154&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThBZRMDXq&l=202203222130580101130061180C9DFD08&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ank6bzk6ZmlqOzMzZzczNEApaWYzZ2k0OjtpNzlnNGhmN2dncS5ycjRnaHBgLS1kMS9zc19iNi8xMDY0Xi4tXmBhYzY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/28d1ee9023ad4f3d5e78986bf3cf25e0/623a9478/video/tos/useast5/tos-useast5-pve-0068-tx/971c67f048ac41b0afd427d5206cccb1/?a=1988&br=4308&bt=2154&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThBZRMDXq&l=202203222130580101130061180C9DFD08&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ank6bzk6ZmlqOzMzZzczNEApaWYzZ2k0OjtpNzlnNGhmN2dncS5ycjRnaHBgLS1kMS9zc19iNi8xMDY0Xi4tXmBhYzY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/678c8331892c41eba3f6090c063d32fa_1647905459~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=jGO0qjb255iadMjowXkGrzd2%2B6E%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/678c8331892c41eba3f6090c063d32fa_1647905459~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=UoUyD2JiEsFMVrnve70KLCy6zz0%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/45dd94c8c01c4ca9afbcce5c04b93682?x-expires=1648004400&x-signature=el9Fzr2ubNxFzAYw%2BkPW4gTM5QM%3D",
+        "bitrate": 2206594,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7031662061769163781",
+        "uniqueId": "pjlikesfood",
+        "nickname": "PJ",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e8279c16239b4e9822c782934978e80~c5_100x100.jpeg?x-expires=1648069200&x-signature=PBVN%2BHQz8tYy2HH8F3Mbia3Q%2Fg8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e8279c16239b4e9822c782934978e80~c5_720x720.jpeg?x-expires=1648069200&x-signature=wzpzsC%2Fu9AiwKJdjAcW87Xqfdx4%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e8279c16239b4e9822c782934978e80~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=BEqfqr5K6dwOsS5vIsP3WFyRYUE%3D",
+        "signature": "I stand with Ukraine\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPf3w3cx6yITTr4XoWiPzF_CPDQOt8iPvEFEnSdWCwbh6nafgORLFgyr12U4MavVJ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7053896049328491310",
+        "title": "5 star nicki minaj verse",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7053896066886421294.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e3c2099a01ebcc11a5aab466cd2d95e~c5_100x100.jpeg?x-expires=1648069200&x-signature=Q0rDTHy5I5cTgMFr2Khow2kQxQI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e3c2099a01ebcc11a5aab466cd2d95e~c5_720x720.jpeg?x-expires=1648069200&x-signature=QLg47Ozckm0DDbm8tNuHD6HrTHE%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e3c2099a01ebcc11a5aab466cd2d95e~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=AJVWl8QhQ62ZEelc6780MH6hePI%3D",
+        "authorName": "n",
+        "original": true,
+        "duration": 6,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 88
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1085,
+        "followerCount": 357,
+        "heartCount": 1405,
+        "videoCount": 166,
+        "diggCount": 3731,
+        "heart": 1405
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "to\n the Ukraine kid who called me trash on Madden 17"
+            ]
+        }
+    ],
+    "isAd": false
+}

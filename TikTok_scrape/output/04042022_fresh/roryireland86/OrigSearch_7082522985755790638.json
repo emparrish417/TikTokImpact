@@ -1,0 +1,96 @@
+{
+    "id": "7082522985755790638",
+    "desc": "",
+    "createTime": 1649028386,
+    "video": {
+        "id": "7082522985755790638",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/58670aba92884e02a907fc5679ca6b58?x-expires=1649131200&x-signature=eOyhMn%2FAmGHVo4MDbC6wnRu3%2BBw%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4efdc2790a444e4998f45d56d33a3c3d_1649028387?x-expires=1649131200&x-signature=lW53odqKz2UzZq99ED%2B8lPDpZ%2FY%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9812fa7bda5f4bbfa77d6e3b85f16472_1649028387?x-expires=1649131200&x-signature=8lxYcUCxM2KrpFTCC13d%2B0NRAyU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d45438f660cb219f6d95163840df50a2/624bc0bd/video/tos/useast5/tos-useast5-ve-0068c001-tx/f2a8ece796304c8e8bf7d4d2ce2652ee/?a=1988&br=1814&bt=907&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThB-eqDXq&l=2022040422081801011300608627EEA485&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxwcWc6Zjo1PDMzZzczNEApM2lpZmdoNDxkNzY2ZjRmNmdnMWBlcjRvbjJgLS1kMS9zc14vYjQyMzIwX2M2YjMwNjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d45438f660cb219f6d95163840df50a2/624bc0bd/video/tos/useast5/tos-useast5-ve-0068c001-tx/f2a8ece796304c8e8bf7d4d2ce2652ee/?a=1988&br=1814&bt=907&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThB-eqDXq&l=2022040422081801011300608627EEA485&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxwcWc6Zjo1PDMzZzczNEApM2lpZmdoNDxkNzY2ZjRmNmdnMWBlcjRvbjJgLS1kMS9zc14vYjQyMzIwX2M2YjMwNjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4efdc2790a444e4998f45d56d33a3c3d_1649028387~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=VEgt3FPTQPGt5Y9QV7HI8kwPp3Y%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4efdc2790a444e4998f45d56d33a3c3d_1649028387~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=Hz%2FkU2gECw5ICk8GSL1dIfYGlbs%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/58670aba92884e02a907fc5679ca6b58?x-expires=1649131200&x-signature=eOyhMn%2FAmGHVo4MDbC6wnRu3%2BBw%3D",
+        "bitrate": 929685,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6892055324669248518",
+        "uniqueId": "roryireland86",
+        "nickname": "JoJo",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_100x100.jpeg?x-expires=1649196000&x-signature=y%2BnaJKMJcukW8b%2BmCQKMDWwhEdU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_720x720.jpeg?x-expires=1649196000&x-signature=E7XyWN2jIR%2B34jwDsCSc%2FDJ7Lqw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=Mr0f0RDIL02HXBOXiod5GjK2IUI%3D",
+        "signature": "happily married mom of 4 #Canna-Parent World Wide",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKPwwSOqgGLqBR86w5iJVAoe-AOddIfhen-r6uz3Tx-HeIYU4hPdq2jPxgSPzk7cy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081725704836025134",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7081725740206557994.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bdb102ef5d425fa86cf8a9f09bba3f13~c5_100x100.jpeg?x-expires=1649196000&x-signature=xFZHtDiX09FZiyFiuyIRJ5Gb4a4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bdb102ef5d425fa86cf8a9f09bba3f13~c5_720x720.jpeg?x-expires=1649196000&x-signature=MGEAETDhs%2BuH5c8TLs%2BEQFwv0Qo%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/bdb102ef5d425fa86cf8a9f09bba3f13~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=M4u9HjXmybxfnSzFr%2B422679XwQ%3D",
+        "authorName": "tatmama88",
+        "original": true,
+        "duration": 11,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 205
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "What Side of TikTok",
+            "ID": "1813568"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9967,
+        "followerCount": 1570,
+        "heartCount": 2084,
+        "videoCount": 376,
+        "diggCount": 21100,
+        "heart": 2084
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

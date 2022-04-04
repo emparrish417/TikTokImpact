@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6983939353950405638",
+        "shortId": "",
+        "uniqueId": "nastinkokil",
+        "nickname": "nastinkokil",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d93d742d155bfac3d4c874fc86415407~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=oGJqsoQO7%2BVR0%2B0htr2ZV5QNt3U%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d93d742d155bfac3d4c874fc86415407~c5_720x720.jpeg?x-expires=1648314000&x-signature=0gSA9sjyTPQZzxNWSLk4XEyUDfM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d93d742d155bfac3d4c874fc86415407~c5_100x100.jpeg?x-expires=1648314000&x-signature=jNz2Xf22Lt0UzeZoUlVnH%2FEZt0w%3D",
+        "signature": "inst: nastinkokil",
+        "createTime": 1626075314,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKs3-J2YBVgRDUL1l-Vkjej_Z2PyJqOPPUA9Q_Tms3g4_EZxXPGUym7yKEiHimF1s",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 177,
+        "followingCount": 38,
+        "heart": 12300,
+        "heartCount": 12300,
+        "videoCount": 192,
+        "diggCount": 0
+    },
+    "itemList": []
+}

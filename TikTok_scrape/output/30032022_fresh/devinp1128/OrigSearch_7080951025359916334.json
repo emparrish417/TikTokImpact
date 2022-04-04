@@ -1,0 +1,98 @@
+{
+    "id": "7080951025359916334",
+    "desc": "Yes I support Ukrain just saying",
+    "createTime": 1648662386,
+    "video": {
+        "id": "7080951025359916334",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a9a2562297eb48fb96373095a48a450b?x-expires=1648699200&x-signature=yyppS990IjEO5%2B3zSIUBS2Z%2FwMQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e1dddd021cb0427a97887fcb9d5db067_1648662387?x-expires=1648699200&x-signature=dTjGm9Gb8l2xblJQgYZBTIT2kA0%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c2f65fdaec9f4059abe608ba127df696_1648662387?x-expires=1648699200&x-signature=r%2BFrvtFdvgtHjVeJ3JAkWOpG8sI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/018eb4f1bcb93146f989e0299f8b6bdc/624528eb/video/tos/useast5/tos-useast5-ve-0068c004-tx/64498d8fcaa641a98a0c4666b4e8a2a3/?a=1988&br=4486&bt=2243&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThrMFzDXq&l=20220330220659010113135139108B6D29&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2kzcjo6ZnU8PDMzZzczNEApZzUzOzU1O2U8NzdoOzQ6NWdoXzRpcjRfYi9gLS1kMS9zczNjXi4xLTY2MDEuM15jMV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/018eb4f1bcb93146f989e0299f8b6bdc/624528eb/video/tos/useast5/tos-useast5-ve-0068c004-tx/64498d8fcaa641a98a0c4666b4e8a2a3/?a=1988&br=4486&bt=2243&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThrMFzDXq&l=20220330220659010113135139108B6D29&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2kzcjo6ZnU8PDMzZzczNEApZzUzOzU1O2U8NzdoOzQ6NWdoXzRpcjRfYi9gLS1kMS9zczNjXi4xLTY2MDEuM15jMV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e1dddd021cb0427a97887fcb9d5db067_1648662387~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=eJBn2sj47poKCsRU6TgHn7QHPRY%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e1dddd021cb0427a97887fcb9d5db067_1648662387~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=xHKqQIJUuQTpimmKgG2FWBxNy3I%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a9a2562297eb48fb96373095a48a450b?x-expires=1648699200&x-signature=yyppS990IjEO5%2B3zSIUBS2Z%2FwMQ%3D",
+        "bitrate": 2297630,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6894395790220248070",
+        "uniqueId": "devinp1128",
+        "nickname": "Devin Punch",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4ec5525009b6d6445850e9fb3548daa1~c5_100x100.jpeg?x-expires=1648764000&x-signature=i47AxEaiLIE6bDYk12%2FQ9grI7mQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4ec5525009b6d6445850e9fb3548daa1~c5_720x720.jpeg?x-expires=1648764000&x-signature=oqML8BYoyoA8UYN%2FY8WeYiya%2F5k%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4ec5525009b6d6445850e9fb3548daa1~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=JXlLmYNqGK7pwXzVzMDdgXJV6hM%3D",
+        "signature": "That one guy with the random videos",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3NVrnLRNCiW0GL6XYW9B1x0SrNQN1fbcLouiD9jqdqFEpuq2ko3PeNBnK33BOSEE",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "289567659359268864",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6881626577587784454.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9180a5e0fc717eb477fdb15fcaa40d44~c5_100x100.jpeg?x-expires=1648764000&x-signature=YT6jQRAHR6ELsT1stXiEUXC165w%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9180a5e0fc717eb477fdb15fcaa40d44~c5_720x720.jpeg?x-expires=1648764000&x-signature=xhZCbD%2BVxnAoyMSl4hH%2BNAGhHbk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9180a5e0fc717eb477fdb15fcaa40d44~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=i9n9gizarucxKWbHwEGHvLA%2Fil4%3D",
+        "authorName": "Void",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 38,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 347
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 317,
+        "followerCount": 655,
+        "heartCount": 27300,
+        "videoCount": 43,
+        "diggCount": 23300,
+        "heart": 27300
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "We went from talking about covid, to Ukrain, to will smith what is this day and age"
+            ]
+        }
+    ],
+    "isAd": false
+}

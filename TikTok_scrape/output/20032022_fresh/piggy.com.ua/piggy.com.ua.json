@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6919838864727393282",
+        "shortId": "",
+        "uniqueId": "piggy.com.ua",
+        "nickname": "piggy.com.ua",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5db07592d64a2c513691da9e0e2dade7~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=yc3LGcyPi0yKAB2M7q2rm3B6LCk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5db07592d64a2c513691da9e0e2dade7~c5_720x720.jpeg?x-expires=1647900000&x-signature=vkdUSk7wx2f8EHvLg44VDAVrIOk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5db07592d64a2c513691da9e0e2dade7~c5_100x100.jpeg?x-expires=1647900000&x-signature=SCfqh4YNw2ndiBDpeS0MOLaCMPk%3D",
+        "signature": "\u2640\ufe0f\u041c\u0410\u0413\u0410\u0417\u0418\u041d \u0414\u041b\u042f \u0412\u0417\u0420\u041e\u0421\u041b\u042b\u0425\u2642\ufe0f",
+        "createTime": 1611150675,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoKXYhaKEM__aoAwEv3elm1-Jq90bMDP6PtEuBP2S6Efzw9lA4PaZrnmE6PPjudS4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "piggy.com.ua",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Shopping/Retail",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22,
+        "followingCount": 191,
+        "heart": 368,
+        "heartCount": 368,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6921041557212152834",
+        "shortId": "",
+        "uniqueId": "nikovika_pro",
+        "nickname": "Nikovika_pro",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/320c48b89fd9448cb6fe6c5e709545fc~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=yuyZRVVTlF%2FTnwK55%2F0qoqscVXA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/320c48b89fd9448cb6fe6c5e709545fc~c5_720x720.jpeg?x-expires=1648940400&x-signature=fiuU%2BZ4fFmFE2DyMBrVzF3GusAs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/320c48b89fd9448cb6fe6c5e709545fc~c5_100x100.jpeg?x-expires=1648940400&x-signature=Y7xnEIsCXE6MZV15C83T9OGdM9o%3D",
+        "signature": "",
+        "createTime": 1611431543,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcfqWEByoCRNw38He_etHuTJp_jTY9Uk8dhb0JNO1A8Zf6qkTw5vanS6ZVanOeL58",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://instagram.com/nikovika_pro",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2572,
+        "followingCount": 116,
+        "heart": 14500,
+        "heartCount": 14500,
+        "videoCount": 103,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,96 @@
+{
+    "id": "7082494200410934533",
+    "desc": "",
+    "createTime": 1649021684,
+    "video": {
+        "id": "7082494200410934533",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f460c686420248a499573b782a06839e?x-expires=1649052000&x-signature=IpKz02%2B33wnhdys7mdFgB26wLSM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/86884769e06f4146a5d4b35fa8501491_1649021685?x-expires=1649052000&x-signature=35%2FrEqFZfj%2F8y03Z92USet5RUCw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/998104feb806407b9d0d8b741f8d13ed_1649021686?x-expires=1649052000&x-signature=A%2FhWGR69lXAapNNgH7O2cVvG%2F%2FM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/da207f7d230b1a7342f83cfe0ade62fd/624a9730/video/tos/useast2a/tos-useast2a-pve-0068/424540ba32bd45f1b6de2d3c10b77d50/?a=1988&br=4862&bt=2431&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl2RqDXq&l=202204040058410101131351940FF39509&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdnbGc6ZnY0PDMzNzczM0ApaWY7ZjM8Njs3N2RmNmU7Nmc0cmJtcjQwMjJgLS1kMTZzczQuYS0uMGIxNTYyNi1iNTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/da207f7d230b1a7342f83cfe0ade62fd/624a9730/video/tos/useast2a/tos-useast2a-pve-0068/424540ba32bd45f1b6de2d3c10b77d50/?a=1988&br=4862&bt=2431&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl2RqDXq&l=202204040058410101131351940FF39509&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdnbGc6ZnY0PDMzNzczM0ApaWY7ZjM8Njs3N2RmNmU7Nmc0cmJtcjQwMjJgLS1kMTZzczQuYS0uMGIxNTYyNi1iNTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/86884769e06f4146a5d4b35fa8501491_1649021685~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=QO9Di5VM2jWb7EIwCrloPfu3LYY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/86884769e06f4146a5d4b35fa8501491_1649021685~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=9uWP29puK1n%2BftJm%2FpFOR9xC4%2BE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f460c686420248a499573b782a06839e?x-expires=1649052000&x-signature=IpKz02%2B33wnhdys7mdFgB26wLSM%3D",
+        "bitrate": 2489603,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6947292475187479558",
+        "uniqueId": "robloxisthebest747465",
+        "nickname": "Istandwithukrainian",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dacf291ba8cf0c9e2e3d23c1f4930daa~c5_100x100.jpeg?x-expires=1649116800&x-signature=unUDr19nYddxC1%2BeYQaZCSmfhpo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dacf291ba8cf0c9e2e3d23c1f4930daa~c5_720x720.jpeg?x-expires=1649116800&x-signature=8%2FVudfQOl%2BzgsfOap3U6uBpqWds%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dacf291ba8cf0c9e2e3d23c1f4930daa~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=lkztdpKWOl972jb0crZnDYWkPZY%3D",
+        "signature": "Hello if you guys play roblox and wanna friend me my username is Astvnxd127085",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASSTty0wZbU2jdfPy-TZOM9-ZTGuvovBlsqamZtdnuqgjsi6bpETykaPGX7whKFSs",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7029568766254025498",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7029568716132109083.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/3a055954fd23e6787e667d394cc4d4bd~c5_100x100.jpeg?x-expires=1649116800&x-signature=YUFWt8%2FN07kmgxHJ1GAHj20Luyc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/3a055954fd23e6787e667d394cc4d4bd~c5_720x720.jpeg?x-expires=1649116800&x-signature=U7QmSieukQ%2FZ4UITVMWG5kX93NE%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/3a055954fd23e6787e667d394cc4d4bd~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=cGrCpqnOrvstRMoB5mYSEm5Fgd0%3D",
+        "authorName": "MUSIC WORLD",
+        "original": true,
+        "duration": 29,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 15
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "TapTap Numbers by Jan",
+            "ID": "1816074"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 230,
+        "followerCount": 6310,
+        "heartCount": 13600,
+        "videoCount": 51,
+        "diggCount": 536,
+        "heart": 13600
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

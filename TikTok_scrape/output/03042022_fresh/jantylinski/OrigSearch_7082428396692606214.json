@@ -1,0 +1,90 @@
+{
+    "id": "7082428396692606214",
+    "desc": "Ukraini Song in germany/SLAVA UKRAINI",
+    "createTime": 1649006363,
+    "video": {
+        "id": "7082428396692606214",
+        "height": 576,
+        "width": 576,
+        "duration": 327,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/543d7b0939d94be58c80cb456e5d0c41?x-expires=1649052000&x-signature=Wg%2BwZm%2FqNvol%2F8KIkSqB%2FlnLT6Y%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fa68aa1da5194150a04541a8b2502118_1649006364?x-expires=1649052000&x-signature=lO%2FD84nY3MF6O6jEvaHTWUZiZ40%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b7883721021c44a5b51667b3311c408e_1649006375?x-expires=1649052000&x-signature=%2FZ81z9yjiNYD%2F1ByU%2BA57rxZJ0o%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6ebae6592bd8667b11efb2d46f878c1b/624a983d/video/tos/useast2a/tos-useast2a-ve-0068c004/b34c11e5460e4a27a97b4bef68b53975/?a=1988&br=658&bt=329&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5vRqDXq&l=202204040057580101130062131DFDA3D2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZ0NTQ6Zmx3PDMzNzgzM0ApZjpoPGY3NWRoNzhpNmhmZGdta3BpcjRnYDFgLS1kLzZzcy1gLmMuMjY1Xl4vMGMzNC46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6ebae6592bd8667b11efb2d46f878c1b/624a983d/video/tos/useast2a/tos-useast2a-ve-0068c004/b34c11e5460e4a27a97b4bef68b53975/?a=1988&br=658&bt=329&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5vRqDXq&l=202204040057580101130062131DFDA3D2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZ0NTQ6Zmx3PDMzNzgzM0ApZjpoPGY3NWRoNzhpNmhmZGdta3BpcjRnYDFgLS1kLzZzcy1gLmMuMjY1Xl4vMGMzNC46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fa68aa1da5194150a04541a8b2502118_1649006364~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=AF5Msxxi3YkUu%2BkxYoR%2Bi4y8wCU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fa68aa1da5194150a04541a8b2502118_1649006364~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=fwuvA%2BUaysi7s%2BJzSA35WupqNC4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/543d7b0939d94be58c80cb456e5d0c41?x-expires=1649052000&x-signature=Wg%2BwZm%2FqNvol%2F8KIkSqB%2FlnLT6Y%3D",
+        "bitrate": 337857,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7073887034998047749",
+        "uniqueId": "jantylinski",
+        "nickname": "Jan Tylinski",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082337606695911429~c5_100x100.jpeg?x-expires=1649116800&x-signature=zORZr%2FZYap%2BOSdc1q9q39vtmHek%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082337606695911429~c5_720x720.jpeg?x-expires=1649116800&x-signature=oBBjrwa7zUkeWxRkRiU0226RkVY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082337606695911429~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=tyMykKsMlf3uU%2Bjt8ZbBR%2BrKkoI%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjSrgM3OV6gDeaAJ9a7HpCZwszwis7pOc75zHW918X-fFn3vVvRr-wvI46pWMYAYW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082428574904617734",
+        "title": "Originalton",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082428578129890053.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082337606695911429~c5_100x100.jpeg?x-expires=1649116800&x-signature=zORZr%2FZYap%2BOSdc1q9q39vtmHek%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082337606695911429~c5_720x720.jpeg?x-expires=1649116800&x-signature=oBBjrwa7zUkeWxRkRiU0226RkVY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7082337606695911429~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=tyMykKsMlf3uU%2Bjt8ZbBR%2BrKkoI%3D",
+        "authorName": "Jan Tylinski",
+        "original": true,
+        "duration": 327,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 54
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 28,
+        "followerCount": 1,
+        "heartCount": 0,
+        "videoCount": 1,
+        "diggCount": 10,
+        "heart": 0
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

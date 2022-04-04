@@ -1,0 +1,99 @@
+{
+    "id": "7077588832689966378",
+    "desc": "",
+    "createTime": 1647879565,
+    "video": {
+        "id": "7077588832689966378",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ff9c438a85eb4d76a0a39e597219bac9?x-expires=1647921600&x-signature=n04LFumOJBuZbYne7awNWsiZMdM%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/df26d168f5774887a11f7f613a91d109_1647879565?x-expires=1647921600&x-signature=ZCzEabcIiY1BrIHQm34VM%2B94sEo%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8c32b94727c941af8ef0efaa4b2fc3d9_1647879566?x-expires=1647921600&x-signature=SGJ%2FeAoanLklECH96jDX0BrONgs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e69631b2cc18f8241ad8c380728d05b9/62394fdc/video/tos/useast5/tos-useast5-pve-0068-tx/972ff65458204031887f3989773f98a6/?a=1988&br=840&bt=420&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbPKMDXq&l=2022032122255601011313504318E01946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJ2bzk6ZnNkOzMzZzczNEApZjw2NWdnPDw8N2Q7aTZkOGcvZi1ycjRvXnBgLS1kMS9zczYxNWAxLzBgYWBgNC02NF46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e69631b2cc18f8241ad8c380728d05b9/62394fdc/video/tos/useast5/tos-useast5-pve-0068-tx/972ff65458204031887f3989773f98a6/?a=1988&br=840&bt=420&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbPKMDXq&l=2022032122255601011313504318E01946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJ2bzk6ZnNkOzMzZzczNEApZjw2NWdnPDw8N2Q7aTZkOGcvZi1ycjRvXnBgLS1kMS9zczYxNWAxLzBgYWBgNC02NF46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/df26d168f5774887a11f7f613a91d109_1647879565~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=skDRGneQYcDRJNaMOJ4oZvnjDVY%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/df26d168f5774887a11f7f613a91d109_1647879565~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=0Jfr83OEis5KaY9%2FCJfY3SVuE54%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ff9c438a85eb4d76a0a39e597219bac9?x-expires=1647921600&x-signature=n04LFumOJBuZbYne7awNWsiZMdM%3D",
+        "bitrate": 430164,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7054357080598037509",
+        "uniqueId": "ukraine_805",
+        "nickname": "Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2cd72e0f7bc299fc96e6bcfbe3fda4d5~c5_100x100.jpeg?x-expires=1647986400&x-signature=KT14jTgBxJO%2F9T7AJCdjAK8ARts%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2cd72e0f7bc299fc96e6bcfbe3fda4d5~c5_720x720.jpeg?x-expires=1647986400&x-signature=IGjA%2F1bwRV7lNdUlKTdWPFGp4C4%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2cd72e0f7bc299fc96e6bcfbe3fda4d5~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=BQovENliXKJ%2FIod3id%2FaTbtjUw0%3D",
+        "signature": "NC\nFRICK VAPE\n\ud83c\uddfa\ud83c\uddf8\nStar Wars \nShrek",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAh7jwzm8UGSq4JKSSYOvkhO4UFEi6SBnWng9Gc4bjfm41dqKIC89YAxeIo2wxCx57",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077588775634783018",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7077588830106176302.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2cd72e0f7bc299fc96e6bcfbe3fda4d5~c5_100x100.jpeg?x-expires=1647986400&x-signature=KT14jTgBxJO%2F9T7AJCdjAK8ARts%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2cd72e0f7bc299fc96e6bcfbe3fda4d5~c5_720x720.jpeg?x-expires=1647986400&x-signature=IGjA%2F1bwRV7lNdUlKTdWPFGp4C4%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2cd72e0f7bc299fc96e6bcfbe3fda4d5~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=BQovENliXKJ%2FIod3id%2FaTbtjUw0%3D",
+        "authorName": "Ukraine",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 114
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 310,
+        "followerCount": 58,
+        "heartCount": 220,
+        "videoCount": 31,
+        "diggCount": 386,
+        "heart": 220
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "People named Luke:",
+                "Dance if your fast"
+            ]
+        }
+    ],
+    "isAd": false
+}

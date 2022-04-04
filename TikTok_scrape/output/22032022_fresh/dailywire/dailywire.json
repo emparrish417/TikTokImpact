@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6990057066854695941",
+        "shortId": "",
+        "uniqueId": "dailywire",
+        "nickname": "Daily Wire",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39d60090a70c29d2396e87163ff35ff6~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=SDCi82%2FLedEm6GqcaGc7zbCeFxU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39d60090a70c29d2396e87163ff35ff6~c5_720x720.jpeg?x-expires=1648069200&x-signature=LC6EXGf3%2FWZC7YZSzbe7AaDZWJc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/39d60090a70c29d2396e87163ff35ff6~c5_100x100.jpeg?x-expires=1648069200&x-signature=v%2FxSEAoHwRDZW1oEpQnWwqEzKDQ%3D",
+        "signature": "Facts don't care about your feelings.\nConservative News, Opinion & Entertainment",
+        "createTime": 1627499600,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAfwUJYSD5Kf1NXfRcZXtIzCEU6JD9WGo2MZdmayHSvXXawVGdug3Aa2LeV-bV_ZJd",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/DailyWireTikTok",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Shopping/Retail",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1800000,
+        "followingCount": 4,
+        "heart": 24400000,
+        "heartCount": 24400000,
+        "videoCount": 329,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7005189730371896326",
+        "shortId": "",
+        "uniqueId": "denas1111111",
+        "nickname": "DenasFn",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/644ca65e92d14cdf142b16685f263011~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=C%2BESSgHq6lqAhlV6nXz%2BDncpQkg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/644ca65e92d14cdf142b16685f263011~c5_720x720.jpeg?x-expires=1648850400&x-signature=Uu26xEtrQL3TF0Y1EmD3VRAGZ2g%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/644ca65e92d14cdf142b16685f263011~c5_100x100.jpeg?x-expires=1648850400&x-signature=%2BeUoKkKo0uHjPmUjnir2BzJBaIM%3D",
+        "signature": "Code denas\n       \ud83c\uddee\ud83c\uddf8",
+        "createTime": 1631022861,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgpuKv6ove75OZijt64KSnIxAzYi2YcqhhLGvkHZLi52sYr37oAsrSiVUl3eXHr7Z",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24000,
+        "followingCount": 19,
+        "heart": 597400,
+        "heartCount": 597400,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

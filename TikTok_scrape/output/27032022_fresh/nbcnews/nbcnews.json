@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6652774777768427525",
+        "shortId": "",
+        "uniqueId": "nbcnews",
+        "nickname": "nbcnews",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=V%2BI2T1%2BwRC9YSp7Xj23Imkq%2F%2FwU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_720x720.jpeg?x-expires=1648515600&x-signature=TsFcnA%2B66KPqrEWIlQncf0TVMrI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1d609726fada617827450fca7583b5ee~c5_100x100.jpeg?x-expires=1648515600&x-signature=wnaansJvdPcO9rBdwDf6NxKMlcA%3D",
+        "signature": "Your trusted source for the top news around the \ud83c\udf0e",
+        "createTime": 1550677201,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAPKwfIjVxeU_QM21ur63vnT_eJtYyiIFDRAZO7PUpPaUwSfV0LNTa6mCczB108mUZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://nbcnews.to/tiktok",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2400000,
+        "followingCount": 11,
+        "heart": 64500000,
+        "heartCount": 64500000,
+        "videoCount": 749,
+        "diggCount": 0
+    },
+    "itemList": []
+}

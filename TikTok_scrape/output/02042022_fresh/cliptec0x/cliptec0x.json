@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7078342781199352838",
+        "shortId": "",
+        "uniqueId": "cliptec0x",
+        "nickname": "Cliptec",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/112941e932c366db9fb7478e2dd172b9~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=yEoey97gigWiL8vUugSaz3M2PEo%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/112941e932c366db9fb7478e2dd172b9~c5_720x720.jpeg?x-expires=1649008800&x-signature=ccEhU7t9Lgha1xnMcJGOBH%2BpK58%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/112941e932c366db9fb7478e2dd172b9~c5_100x100.jpeg?x-expires=1649008800&x-signature=z4NzXosg40nU53rqhPnBOhP1xWU%3D",
+        "signature": "Face reveal at 1k",
+        "createTime": 1648055274,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0qjmCNPmMH-QpHnAIHMnjRFNEcKW4pMsN9pPt1JuwctpdGpOxeIouCpxr2cfjCYJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10,
+        "followingCount": 5,
+        "heart": 58,
+        "heartCount": 58,
+        "videoCount": 17,
+        "diggCount": 0
+    },
+    "itemList": []
+}

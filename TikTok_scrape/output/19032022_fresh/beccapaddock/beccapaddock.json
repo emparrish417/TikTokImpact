@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6656166325180383237",
+        "shortId": "",
+        "uniqueId": "beccapaddock",
+        "nickname": "Becca Paddock",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1662629403934721.jpeg?x-expires=1647817200&x-signature=QZJ0tiUopvScFIub6g5dWr%2F190A%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1662629403934721.jpeg?x-expires=1647817200&x-signature=sB8ATJtiBYWm9AmA%2Fum4n0fp02U%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1662629403934721.jpeg?x-expires=1647817200&x-signature=ZGLBGwdSJ3%2Fr6ldmtieTuNDLjxM%3D",
+        "signature": "",
+        "createTime": 1585606953,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPeLe1o-u8XRoK7347Nz-o_7sQ518iIZsDBjU-k9xiVN4-Mat10Bou-4ttPRtzEWk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 16,
+        "followingCount": 18,
+        "heart": 3,
+        "heartCount": 3,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

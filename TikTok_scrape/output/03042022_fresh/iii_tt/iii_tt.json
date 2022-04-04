@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6747415230684365829",
+        "shortId": "",
+        "uniqueId": "iii_tt",
+        "nickname": "Inna Tovkun",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/958482dc3aefe04c164a9d2717d828ab~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=FYhLNrk5ouyzL7aBJK3SGyAsq0I%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/958482dc3aefe04c164a9d2717d828ab~c5_720x720.jpeg?x-expires=1649116800&x-signature=RfbMC8NRQGZWEaEJ5PRnFPDVYQw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/958482dc3aefe04c164a9d2717d828ab~c5_100x100.jpeg?x-expires=1649116800&x-signature=J3GFD1HkhQ%2FA3Vy3sgNxC3OK0YQ%3D",
+        "signature": "\ud83d\udc83\ud83d\udc83\ud83d\udc83",
+        "createTime": 1571338449,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhol-g55uegJdln2321Oy1GxnMChf6jxZh6M2E3gjuoEoSWa4hGhC8WTjQirvZxLS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 613,
+        "followingCount": 102,
+        "heart": 37200,
+        "heartCount": 37200,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

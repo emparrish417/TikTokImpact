@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6907721095722976262",
+        "shortId": "",
+        "uniqueId": "a.vtss",
+        "nickname": "Anastasia Vets",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a9d17d76d88618a50ec380aa78276117~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=AJvBZ7sIIAIJFfDkK7%2BbSsiCnkM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a9d17d76d88618a50ec380aa78276117~c5_720x720.jpeg?x-expires=1648764000&x-signature=%2Bxz4oLopvjEPoJ6EDtSSyMG%2BSOk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a9d17d76d88618a50ec380aa78276117~c5_100x100.jpeg?x-expires=1648764000&x-signature=or2mhmiLDuhoKdNa1lcf4Eh3GAw%3D",
+        "signature": "",
+        "createTime": 1608329334,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKmMA25ywtpRCBX72k8tmbzUshHBgAzCbsCrBJfc76ENe1Rabp2W1RcL-JwWaTOSz",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 19,
+        "followingCount": 52,
+        "heart": 65,
+        "heartCount": 65,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

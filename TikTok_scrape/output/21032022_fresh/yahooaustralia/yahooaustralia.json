@@ -1,0 +1,47 @@
+{
+    "user": {
+        "id": "6805744108663194629",
+        "shortId": "",
+        "uniqueId": "yahooaustralia",
+        "nickname": "Yahoo Australia",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663901557492741~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=Ia7csQTSxFodGzlhjn5TAp5%2FQjY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663901557492741~c5_720x720.jpeg?x-expires=1647986400&x-signature=lqq0DEqmmaDfu21nyPcm%2FWjEEn0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663901557492741~c5_100x100.jpeg?x-expires=1647986400&x-signature=MR4%2Bnrmmg11giTNIWBPwmb6Eqxo%3D",
+        "signature": "Yes, we still exist!\nBite-size Aussie news \ud83c\udde6\ud83c\uddfa",
+        "createTime": 1584557777,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAMAi5eIsuVujKT1bX5cMmQv7WthnX8UwQIgfNfNM4m8gSxD-Jtf7Dr2BMqGwjror8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://au.news.yahoo.com/europes-biggest-nuclear-plant-on-fire-russian-attack-ukraine-014849948.html",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "ios": "https://apps.apple.com/au/app/yahoo-news/id439828000",
+                "android": ""
+            },
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 102500,
+        "followingCount": 122,
+        "heart": 4000000,
+        "heartCount": 4000000,
+        "videoCount": 1098,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6629371614511906821",
+        "shortId": "",
+        "uniqueId": "kloezayda",
+        "nickname": "Kloe",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/68ab7996b2cecb05a3eb54f15880acfe~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=MlX4sxvfGcedfpDDowVybbPg8BE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/68ab7996b2cecb05a3eb54f15880acfe~c5_720x720.jpeg?x-expires=1648173600&x-signature=l0LEr15y9uk%2F0bdUMz%2BnOf7LOS4%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/68ab7996b2cecb05a3eb54f15880acfe~c5_100x100.jpeg?x-expires=1648173600&x-signature=UbiZ2mDACs%2FMtuFzanw3cgdqM64%3D",
+        "signature": "NY\n21",
+        "createTime": 1571266275,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3ohbf9p-v5BylLgzSvr4WMrMCP52DZrvKfdRDYa_7FUTJ6dftfBvIFibpGDs6ORU",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 125600,
+        "followingCount": 218,
+        "heart": 4200000,
+        "heartCount": 4200000,
+        "videoCount": 239,
+        "diggCount": 0
+    },
+    "itemList": []
+}

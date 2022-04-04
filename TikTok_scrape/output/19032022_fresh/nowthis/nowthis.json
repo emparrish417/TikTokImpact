@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6650201683875299333",
+        "shortId": "",
+        "uniqueId": "nowthis",
+        "nickname": "nowthis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=KAg4Eq68nx8y1HOxqf15RyAS5cE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_720x720.jpeg?x-expires=1647817200&x-signature=GnUsuHHMFZM4YiXEj%2Bn5mri8JEI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_100x100.jpeg?x-expires=1647817200&x-signature=gClnZUKVeiFdO6U2l1RBYCSmQVk%3D",
+        "signature": "Common Cents, Ep 1 \ud83d\udc47",
+        "createTime": 1554916458,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAqqXqeS9G9YFlTYklY1JXLQYP32to1WC0AFGrmwr5tHFjGBj01YAKRDsOw68lyeMW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtu.be/Yq4rWmVUpi4",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4400000,
+        "followingCount": 54,
+        "heart": 148900000,
+        "heartCount": 148900000,
+        "videoCount": 1160,
+        "diggCount": 0
+    },
+    "itemList": []
+}

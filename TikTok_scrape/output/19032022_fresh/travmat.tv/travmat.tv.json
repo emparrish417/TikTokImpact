@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7053372912237921285",
+        "shortId": "",
+        "uniqueId": "travmat.tv",
+        "nickname": "Travmat.tv",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c7b9368ecccec1699d1e92af6e9884d8~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=RbR6k1ljsWXIfkciiR77Zc0qHmk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c7b9368ecccec1699d1e92af6e9884d8~c5_720x720.jpeg?x-expires=1647817200&x-signature=nxLNI%2By4S8vJ4UFFBLOPiMYaNms%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c7b9368ecccec1699d1e92af6e9884d8~c5_100x100.jpeg?x-expires=1647817200&x-signature=hp50hCt7RWjnKoWN1y3AWcYlfKQ%3D",
+        "signature": "",
+        "createTime": 1642241468,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMJrlagL-dUgC8oxIOG6J7sg30FLt_OAcN5_1gokAdPTsP6eKniE9bIMxKp5i9fSH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 96,
+        "followingCount": 156,
+        "heart": 374,
+        "heartCount": 374,
+        "videoCount": 36,
+        "diggCount": 0
+    },
+    "itemList": []
+}

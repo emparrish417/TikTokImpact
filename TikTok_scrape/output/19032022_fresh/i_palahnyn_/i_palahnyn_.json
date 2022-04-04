@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6622291615916965894",
+        "shortId": "",
+        "uniqueId": "i_palahnyn_",
+        "nickname": "i_palahnyn",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/01f9c058028e5df91f970409c3273987~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=WINdYP7bT5DW39FQsE0CcpWhVyY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/01f9c058028e5df91f970409c3273987~c5_720x720.jpeg?x-expires=1647817200&x-signature=EA10fqGfaG382CLvwaH0sgGuVHA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/01f9c058028e5df91f970409c3273987~c5_100x100.jpeg?x-expires=1647817200&x-signature=JS2JjeP2ptio4TsHyx3mdHCtNJc%3D",
+        "signature": "",
+        "createTime": 1541947065,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-IAdeHdaP-v4lWK5TUNbxeq3BqoMD_ntAmJOzO7gZ_5gcT8KSfjr3n2NrrbezC3v",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 471,
+        "followingCount": 62,
+        "heart": 3701,
+        "heartCount": 3701,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

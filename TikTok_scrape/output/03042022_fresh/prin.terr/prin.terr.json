@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7036115910424134661",
+        "shortId": "",
+        "uniqueId": "prin.terr",
+        "nickname": "ruslan prin",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de8d2b319d917d406af90f23bcf5eea7~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=S0TFshDHbQrgh8192hbO5ykyXVs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de8d2b319d917d406af90f23bcf5eea7~c5_720x720.jpeg?x-expires=1649116800&x-signature=aOC0fR1pyrskkcFL4k3KdgwG83g%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de8d2b319d917d406af90f23bcf5eea7~c5_100x100.jpeg?x-expires=1649116800&x-signature=zevJJEWzwLnWIOOosf2WkAnx69g%3D",
+        "signature": "art",
+        "createTime": 1638302204,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUCdEC5AWqyEHMEvqJU8_A7qL7UE_qw4Gi4xfEY-YGSU2cXVtYFBuBM3hQE3IxaLK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3,
+        "followingCount": 6,
+        "heart": 50,
+        "heartCount": 50,
+        "videoCount": 19,
+        "diggCount": 0
+    },
+    "itemList": []
+}

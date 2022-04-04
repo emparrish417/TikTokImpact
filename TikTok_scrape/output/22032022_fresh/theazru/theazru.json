@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7017733703460930561",
+        "shortId": "",
+        "uniqueId": "theazru",
+        "nickname": "theazru",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/66b5a6eaab459c1cf83b0bc83d3afae5.jpeg?x-expires=1648069200&x-signature=k3ZvxaxmlBnnejExxDDifeyth5c%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/66b5a6eaab459c1cf83b0bc83d3afae5.jpeg?x-expires=1648069200&x-signature=RFrHMnpwrtBlda1P2C5xsTnpP%2FI%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/66b5a6eaab459c1cf83b0bc83d3afae5.jpeg?x-expires=1648069200&x-signature=jLm%2FjkWD3tudh4i4zjAdwwk%2FcUA%3D",
+        "signature": "\ud83c\uddf7\ud83c\uddfa\ud83e\udd1d\ud83c\udde6\ud83c\uddff",
+        "createTime": 1633943888,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAW_vYCPDK-imZF1N4QQ3h_hyGMhsp9uUne_NdoQrQkeUnRmVO7vdFnnKkTOzz_4Yr",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3533,
+        "followingCount": 980,
+        "heart": 40600,
+        "heartCount": 40600,
+        "videoCount": 53,
+        "diggCount": 2559
+    },
+    "itemList": []
+}

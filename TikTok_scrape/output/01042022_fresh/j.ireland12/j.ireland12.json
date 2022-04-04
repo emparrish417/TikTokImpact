@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6904673908722222086",
+        "shortId": "",
+        "uniqueId": "j.ireland12",
+        "nickname": "user2749189633028",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e20d283a179d1c3f8b5651364a5a78a4~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=kmG3E8yUXWdREiBfwRHMNd%2B2PlE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e20d283a179d1c3f8b5651364a5a78a4~c5_720x720.jpeg?x-expires=1648940400&x-signature=qsl6%2BBA%2BL%2BFeb%2FLb3mOZyHxx39k%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e20d283a179d1c3f8b5651364a5a78a4~c5_100x100.jpeg?x-expires=1648940400&x-signature=1hL3DiiGsSPgZRaRrGhL%2Btpu%2Bms%3D",
+        "signature": "",
+        "createTime": 1607620147,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWK7b1dxhL16zVkx-Z6-Uz22XZymHR-skiGPOA4FLxpcdCkeym6p49m5erBqKjIyo",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 163,
+        "followingCount": 814,
+        "heart": 289,
+        "heartCount": 289,
+        "videoCount": 52,
+        "diggCount": 0
+    },
+    "itemList": []
+}

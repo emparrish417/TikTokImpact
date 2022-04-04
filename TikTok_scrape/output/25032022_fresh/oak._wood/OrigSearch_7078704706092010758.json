@@ -1,0 +1,96 @@
+{
+    "id": "7078704706092010758",
+    "desc": "",
+    "createTime": 1648139374,
+    "video": {
+        "id": "7078704706092010758",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6fcaae11dca8459a93792ba7a2f9119e?x-expires=1648249200&x-signature=hcVoFeNsybboiOPhZryBlQGKRQM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e31217f663b94739b9efb16526a5106b_1648139375?x-expires=1648249200&x-signature=RUOPyhja5UKc8NLRGDQ3dTQVqEw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3317841806df40f09c6d9e7d26620c4c_1648139375?x-expires=1648249200&x-signature=TAvA%2FnS2z1cCDvnO9tWcyA3%2BaD8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/89a9cd04df8bcb674a35b77161862afc/623e4f25/video/tos/useast2a/tos-useast2a-pve-0068/5a91e40352cb429cac4563adfbba2bdc/?a=1988&br=2894&bt=1447&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJizJDXq&l=2022032517240601011300620700E3C417&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k8eWg6ZnQ8OzMzNzczM0ApPDo3ZTppO2U0NzxnZjVpO2c2MWZrcjRvbHJgLS1kMTZzc2MxNV4vMmA0L2IxXy5hNDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/89a9cd04df8bcb674a35b77161862afc/623e4f25/video/tos/useast2a/tos-useast2a-pve-0068/5a91e40352cb429cac4563adfbba2bdc/?a=1988&br=2894&bt=1447&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJizJDXq&l=2022032517240601011300620700E3C417&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k8eWg6ZnQ8OzMzNzczM0ApPDo3ZTppO2U0NzxnZjVpO2c2MWZrcjRvbHJgLS1kMTZzc2MxNV4vMmA0L2IxXy5hNDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e31217f663b94739b9efb16526a5106b_1648139375~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=H%2BlCJ52xE0rbl%2B2ORcGI2EsLrwE%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e31217f663b94739b9efb16526a5106b_1648139375~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=Yj%2BPcr%2FEb5D4Wq9JQdI711%2FKDzE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6fcaae11dca8459a93792ba7a2f9119e?x-expires=1648249200&x-signature=hcVoFeNsybboiOPhZryBlQGKRQM%3D",
+        "bitrate": 1482284,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7041263388328887301",
+        "uniqueId": "oak._wood",
+        "nickname": "Stand for Ukraine!!!!!",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a3c2a5915feac8ff21fd2526ad275ef2~c5_100x100.jpeg?x-expires=1648314000&x-signature=erRgeqlTq4CQ%2BjlnGPv9X8Lgf1g%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a3c2a5915feac8ff21fd2526ad275ef2~c5_720x720.jpeg?x-expires=1648314000&x-signature=w6Xn9pPVCGJqeRnP7UjUvWapuNk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a3c2a5915feac8ff21fd2526ad275ef2~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=Ddf%2FqleHxKigatcB4RKDn9YbZsE%3D",
+        "signature": "I\u2019m dyslexic \nI\u2019m a rat\nI\u2019m a libra\nA no swearing account",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAM3XCoingMQj0ZvsVXEd-LyUathZx8S8smUcLLypaecgkvbag_8KtytvIcpwjQZ85",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7055036575159191554",
+        "title": "mona lisa",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a5c052f7d33a4e58b8f88a0c8c73927d",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/183789c93bc3448f89f75c6137e81fb6.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/183789c93bc3448f89f75c6137e81fb6.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/183789c93bc3448f89f75c6137e81fb6.jpeg",
+        "authorName": "mxmtoon",
+        "original": false,
+        "duration": 60,
+        "album": "mona lisa"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 257
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Vibrant Colors",
+            "ID": "1483192"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1041,
+        "followerCount": 441,
+        "heartCount": 2361,
+        "videoCount": 206,
+        "diggCount": 3977,
+        "heart": 2361
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

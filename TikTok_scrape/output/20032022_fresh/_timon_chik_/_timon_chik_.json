@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7050797341713155078",
+        "shortId": "",
+        "uniqueId": "_timon_chik_",
+        "nickname": "\ud83e\udd19",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b762f8fca43dd6ed1fcbf9300d74d7f2~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=R5KoG7fSFtLAG01Qu3olL5VMNsY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b762f8fca43dd6ed1fcbf9300d74d7f2~c5_720x720.jpeg?x-expires=1647900000&x-signature=Qx45R64BFgrhLMMCIzxUr24WjVg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b762f8fca43dd6ed1fcbf9300d74d7f2~c5_100x100.jpeg?x-expires=1647900000&x-signature=VkSf8WTQ4XyAzdvt30%2FSzCfXqEs%3D",
+        "signature": "",
+        "createTime": 1641641775,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAq_LiGIdDkdPbIs8LzstsnaZSGF-Fkb1NRUvkAgCncoVrNhDz4Mijv6QfuiKWTxuS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 42,
+        "followingCount": 34,
+        "heart": 1404,
+        "heartCount": 1404,
+        "videoCount": 31,
+        "diggCount": 0
+    },
+    "itemList": []
+}

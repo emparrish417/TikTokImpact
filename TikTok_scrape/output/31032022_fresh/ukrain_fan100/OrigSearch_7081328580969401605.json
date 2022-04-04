@@ -1,0 +1,98 @@
+{
+    "id": "7081328580969401605",
+    "desc": "",
+    "createTime": 1648750292,
+    "video": {
+        "id": "7081328580969401605",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f79bd72250534a33b0b9da67d5cc9773?x-expires=1648785600&x-signature=MJ3fNeA%2BzXtsFZ4ynglj2ink1LM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/94a5cae5d78d4126901747ae216571d2_1648750294?x-expires=1648785600&x-signature=vMUq%2FhRhXelsA1rrbn3xnLaJuTg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0b7facf3c7a946e3b54f87f079a6b6d0_1648750294?x-expires=1648785600&x-signature=vCBpjsbCFktMW8m%2BUX9ljNd9sSU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ac6908578ce05ee177ee06aace4751cc/6246837a/video/tos/useast2a/tos-useast2a-ve-0068c002/0d4066598b5748d1895cc320a0081dd9/?a=1988&br=784&bt=392&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1X0zDXq&l=202203312245310101130060400541BB4B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2h3ZDQ6Zjd4PDMzNzczM0ApNWU4ZGQ5OWRlNzk3OTRpO2dzLmtjcjQwcS9gLS1kMTZzczYzMDE1YTZjMTY1MWEyMmI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ac6908578ce05ee177ee06aace4751cc/6246837a/video/tos/useast2a/tos-useast2a-ve-0068c002/0d4066598b5748d1895cc320a0081dd9/?a=1988&br=784&bt=392&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1X0zDXq&l=202203312245310101130060400541BB4B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2h3ZDQ6Zjd4PDMzNzczM0ApNWU4ZGQ5OWRlNzk3OTRpO2dzLmtjcjQwcS9gLS1kMTZzczYzMDE1YTZjMTY1MWEyMmI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/94a5cae5d78d4126901747ae216571d2_1648750294~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=Mk2Wypm2WFD%2B5FOndVMtx5%2BKc5A%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/94a5cae5d78d4126901747ae216571d2_1648750294~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=kUh%2FffQsmgHcFtbisQ5owI3g3Dk%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f79bd72250534a33b0b9da67d5cc9773?x-expires=1648785600&x-signature=MJ3fNeA%2BzXtsFZ4ynglj2ink1LM%3D",
+        "bitrate": 401708,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7061723824933061638",
+        "uniqueId": "ukrain_fan100",
+        "nickname": "beff jayne",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9fb3ecac87f76b75c65692b623ba7274~c5_100x100.jpeg?x-expires=1648850400&x-signature=LX8oeNqUYuZykP9OoxORf6cH1H8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9fb3ecac87f76b75c65692b623ba7274~c5_720x720.jpeg?x-expires=1648850400&x-signature=9h5d1CTgrCDKF9LdBFa9N8LSBIo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9fb3ecac87f76b75c65692b623ba7274~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=ljEIbV%2FNAN9F1jEQ5VKam%2Bs9l%2Fk%3D",
+        "signature": "Hi my name is E\u013alie please follow I love figets and gacha and roblox",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyArMqjm_IMbD0-3PaDkU-8Vpg6Zl3t6_S_5VWkabcmF5UwPtJS-V5eSEuTZ3fG0D",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7056759400903805698",
+        "title": "\u30aa\u30ea\u30b8\u30ca\u30eb\u697d\u66f2 - Junya/\u3058\u3085\u3093\u3084",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7056759383530818306.mp3",
+        "coverThumb": "https://p77-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/fce99e2707212729ff1b70c9d1d9b1a7.jpeg?x-expires=1648850400&x-signature=NjBbsm9yHaZwDrqtTOsQ45ab5ls%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/fce99e2707212729ff1b70c9d1d9b1a7.jpeg?x-expires=1648850400&x-signature=%2Bw%2BwLdfRcuLvY2v%2FAik9SRmbF3g%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/fce99e2707212729ff1b70c9d1d9b1a7.jpeg?x-expires=1648850400&x-signature=ALwGsMvPVAZFeMDluZkYic%2FAPEA%3D",
+        "authorName": "Junya/\u3058\u3085\u3093\u3084",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 7
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 832,
+        "followerCount": 122,
+        "heartCount": 269,
+        "videoCount": 91,
+        "diggCount": 1888,
+        "heart": 269
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "been laughing this for 6 minutes "
+            ]
+        }
+    ],
+    "isAd": false
+}

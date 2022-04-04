@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7061815014726534171",
+        "shortId": "",
+        "uniqueId": "mirifudokato",
+        "nickname": "Takaki",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/5a9bd02be0f67d724410cd25237d7401~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=M6Xf%2BZpCf7e1lxkUuVGcxgGETjI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/5a9bd02be0f67d724410cd25237d7401~c5_720x720.jpeg?x-expires=1648580400&x-signature=qCUbHYHTs44TcnE5biBOJG75YJc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/5a9bd02be0f67d724410cd25237d7401~c5_100x100.jpeg?x-expires=1648580400&x-signature=N8%2FeA2llSWQ7osZGPq9IncnOKBI%3D",
+        "signature": "",
+        "createTime": 1644208070,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASbSfQjdmRiWpp10mZUDPghhOXMfVoSD66p0tg4uYtezMgGCQ5jj-yJgzrEE0LC9d",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 128200,
+        "followingCount": 3,
+        "heart": 2500000,
+        "heartCount": 2500000,
+        "videoCount": 54,
+        "diggCount": 0
+    },
+    "itemList": []
+}

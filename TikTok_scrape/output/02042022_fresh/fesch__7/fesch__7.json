@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7079623031140090923",
+        "shortId": "",
+        "uniqueId": "fesch__7",
+        "nickname": "Fesch 7",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d23a83b59db606b3985656db0f0a6a87~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=X5HLLp4xhglYBgTuXP%2Fu%2BQ1Bi14%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d23a83b59db606b3985656db0f0a6a87~c5_720x720.jpeg?x-expires=1649008800&x-signature=LPes0lLcMDx7yv8Bqy1CBv6EKvE%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d23a83b59db606b3985656db0f0a6a87~c5_100x100.jpeg?x-expires=1649008800&x-signature=d8jqLcgM%2FOblgla0ldvIyMa6D1s%3D",
+        "signature": "",
+        "createTime": 1648353338,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAz4TG1UMzeYIYkkGObPOF3dYeZkgol7bu_9L4mcfLbUrk6tknsQeWu4JsyuGXikMD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 48,
+        "followingCount": 91,
+        "heart": 38,
+        "heartCount": 38,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

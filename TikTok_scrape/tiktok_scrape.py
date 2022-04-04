@@ -9,7 +9,7 @@ from datetime import date
 def query_keyword_fresh(keyword):
 
     # call API to initialize search
-    verify_fp = "7C66fa6af63ea9408e735663146791fe394c8ae88aef0898735b3a35662d4dbe3f"
+    verify_fp = "7C382e73c146e81a173a2480c9ec8bec41f205c78d385f9f163cc4225cbff61b80"
     did = ''.join(random.choice(string.digits) for num in range(19))
 
     api = TikTokApi(custom_verifyfp= verify_fp, use_test_endpoints=True, custom_device_id=did)

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7019784160001721350",
+        "shortId": "",
+        "uniqueId": "kaseta_pm",
+        "nickname": "\u0415\u0439, \u0437\u0430\u043b\u0435\u0442\u0430\u0439\ud83d\udc96",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5c984a8051dafb7b031c70e036bcb1c5~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=73NcBAG4ROBbzpiyjwaqtzpeO6E%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5c984a8051dafb7b031c70e036bcb1c5~c5_720x720.jpeg?x-expires=1647986400&x-signature=1lff1ASESqTJYFK7LvIitkNollo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5c984a8051dafb7b031c70e036bcb1c5~c5_100x100.jpeg?x-expires=1647986400&x-signature=E0tcep4F6K9Uzzyf41VAcGxc3oI%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\n\u041a\u0430\u043a \u043e\u0431\u044b\u0447\u043d\u043e, \u0432\u0441\u0435 \u043a\u043b\u0443\u0431\u043d\u044b\u0447\u043d\u043e\ud83c\udf53\nid:5649135945\n\u041d\u0430\u0431\u043e\u0440 \u0432 \u043a\u043b\u0430\u043d\ud83d\udc47\ud83c\udffb",
+        "createTime": 1634420917,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKsoQaJFEJC0pKXdlQkOKL9Zg47pIiRMogHkDt4MXdfBoTjrwUgjq58OP2jUncRCA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/nadika0",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2267,
+        "followingCount": 20,
+        "heart": 71200,
+        "heartCount": 71200,
+        "videoCount": 49,
+        "diggCount": 0
+    },
+    "itemList": []
+}

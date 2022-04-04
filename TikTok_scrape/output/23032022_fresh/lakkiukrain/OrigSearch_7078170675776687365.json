@@ -1,0 +1,90 @@
+{
+    "id": "7078170675776687365",
+    "desc": "",
+    "createTime": 1648015042,
+    "video": {
+        "id": "7078170675776687365",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d384a4c19992449f8bcb69b66956020c?x-expires=1648108800&x-signature=GndjseUQbn%2FfLKtfWOKYJL8tkaY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/570a2229a0ff4dc5ac40db46ed26cbe6_1648015046?x-expires=1648108800&x-signature=VyV3p9mzBiqi8pvgykCK5aJ%2BOx0%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1d16cd07846342329dac284e6f83c212_1648015044?x-expires=1648108800&x-signature=%2BraPmHQoB1c0LSScEtdj0ygTfu0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4e2d043147072e29df64cf28c865d097/623c305e/video/tos/useast2a/tos-useast2a-ve-0068c001/73a1e552daa64a9ca9caf9cdde2881da/?a=1988&br=1336&bt=668&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJFgMDXq&l=20220324024821010113135068226D0024&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M283PDg6ZmplOzMzNzczM0ApODs0ZjY3aWQ5NzZmaGg1N2ctYTQvcjQwYXFgLS1kMTZzc2AwMDVfLjNjMi9hNDFgYjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4e2d043147072e29df64cf28c865d097/623c305e/video/tos/useast2a/tos-useast2a-ve-0068c001/73a1e552daa64a9ca9caf9cdde2881da/?a=1988&br=1336&bt=668&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJFgMDXq&l=20220324024821010113135068226D0024&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M283PDg6ZmplOzMzNzczM0ApODs0ZjY3aWQ5NzZmaGg1N2ctYTQvcjQwYXFgLS1kMTZzc2AwMDVfLjNjMi9hNDFgYjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/570a2229a0ff4dc5ac40db46ed26cbe6_1648015046~tplv-tiktok-play.jpeg?x-expires=1648692000&x-signature=TlzI7wCP8sCiRzclhe1P3JkMRXU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/570a2229a0ff4dc5ac40db46ed26cbe6_1648015046~tplv-tiktokx-share-play.jpeg?x-expires=1648692000&x-signature=Xk03JTBqoiDA%2BgH7GR1ZfKP0h%2Fc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d384a4c19992449f8bcb69b66956020c?x-expires=1648108800&x-signature=GndjseUQbn%2FfLKtfWOKYJL8tkaY%3D",
+        "bitrate": 684543,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7051132983512302597",
+        "uniqueId": "lakkiukrain",
+        "nickname": "user8642221578291",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74f531e9c296184eac768a807b59b0bc~c5_100x100.jpeg?x-expires=1648173600&x-signature=jfSU8Cz%2BoKxHPz9vfEwVTVg%2BC2Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74f531e9c296184eac768a807b59b0bc~c5_720x720.jpeg?x-expires=1648173600&x-signature=aUe3vABlMxAFWXapze6JL5hMXE8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74f531e9c296184eac768a807b59b0bc~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=4DnTr5s3MA7N5wiAyyxjo%2B3F5%2BQ%3D",
+        "signature": "\u041c\u043e\u0436\u0435\u0442\u0435 \u043c\u0435\u043d\u0456 \u0434\u043e\u0431\u0438\u0442\u0438 1\u043a \u043f\u0456\u0442\u043f\u0438\u0441\u043d\u0438\u043a\u0456\u0432",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkiKNSxqBYZZV8d6njVJv98M8d5Lfhz-Uwehn4wHqoCMntX8LofKrXFl-p2Q4al3d",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6997106510161545217",
+        "title": "When The Imposter Is Sus",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/f9a2086fa9f942968a636f140561fb4a",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/148172386cf74d8db65a1be894c78221.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/148172386cf74d8db65a1be894c78221.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/148172386cf74d8db65a1be894c78221.jpeg",
+        "authorName": "Phaze",
+        "original": false,
+        "duration": 60,
+        "album": "When The Imposter Is Sus"
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 111
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 355,
+        "followerCount": 9708,
+        "heartCount": 18800,
+        "videoCount": 120,
+        "diggCount": 520,
+        "heart": 18800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,104 @@
+{
+    "id": "7078394752231591211",
+    "desc": "",
+    "createTime": 1648067207,
+    "video": {
+        "id": "7078394752231591211",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fa717483c5ee48499a3b2a8d9fff3348?x-expires=1648170000&x-signature=saF6wTRTtRJZ8%2FWnzdBh5nBfZ1I%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b0cb1af53c0d4154b3804e934e66c7d3_1648067208?x-expires=1648170000&x-signature=6pJPcmQ7E%2BJ5YUi0IzP9OyIpBTE%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/158d36b7a5584c6fb05d706f4ecd529e_1648067208?x-expires=1648170000&x-signature=ZXO6Yzu3B%2F7BHvHtD3sqgeS9lh4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a60ba5ba083628c892c07e70ee78898c/623d1d4e/video/tos/useast5/tos-useast5-ve-0068c004-tx/65ba05eedf6e41afbd768be60ba3ffb6/?a=1988&br=1960&bt=980&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThI_pJDXq&l=2022032419391101011300613310EAB325&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3M4MzU6ZnVyOzMzZzczNEApZ2loOjdmOTw5N2RoaWQ7aGdfaDVwcjRvMXFgLS1kMS9zc2NiX2BeNC42X2IuXjNiM186Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a60ba5ba083628c892c07e70ee78898c/623d1d4e/video/tos/useast5/tos-useast5-ve-0068c004-tx/65ba05eedf6e41afbd768be60ba3ffb6/?a=1988&br=1960&bt=980&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThI_pJDXq&l=2022032419391101011300613310EAB325&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3M4MzU6ZnVyOzMzZzczNEApZ2loOjdmOTw5N2RoaWQ7aGdfaDVwcjRvMXFgLS1kMS9zc2NiX2BeNC42X2IuXjNiM186Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b0cb1af53c0d4154b3804e934e66c7d3_1648067208~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=0jpuAty%2B%2F%2FuppXO3MGs6Gsq6TWU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b0cb1af53c0d4154b3804e934e66c7d3_1648067208~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=LPu9Qv0fSy9%2FGzewc7gGYK8idNw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fa717483c5ee48499a3b2a8d9fff3348?x-expires=1648170000&x-signature=saF6wTRTtRJZ8%2FWnzdBh5nBfZ1I%3D",
+        "bitrate": 1004026,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6780448408818779141",
+        "uniqueId": "skythesditunicorn",
+        "nickname": "prayforUkraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b1e9e3568c262745666b35bf79425c90~c5_100x100.jpeg?x-expires=1648234800&x-signature=i7yDaA%2BTzaM59LI33m23a%2BNeWDk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b1e9e3568c262745666b35bf79425c90~c5_720x720.jpeg?x-expires=1648234800&x-signature=dn%2F4BeF7Iqw%2FzK1A5Bd%2Bf0Daxcg%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b1e9e3568c262745666b35bf79425c90~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=jKQN9U2WCLK4Jx0W20r6287vwcg%3D",
+        "signature": "I hate fairy acc DONT follow me if your a fairly acc I hate y'all your to young",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArFT7IIINxdiTOm01GFx6F8LrywLMuFaJnboQf7TVPyPDIGk14Hbm2VuM45l3JDGS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6730112256937315077",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1643094327896118.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f00dfc98080bbba875fb5389f2ccd3e~c5_100x100.jpeg?x-expires=1648234800&x-signature=BdiaG5cUfpk1%2FVRxNUsjpTe0G%2F8%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f00dfc98080bbba875fb5389f2ccd3e~c5_720x720.jpeg?x-expires=1648234800&x-signature=X7oBDyxG%2FN55%2B2%2FdjYt0SUOmRbk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f00dfc98080bbba875fb5389f2ccd3e~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=uA7AdHqrtpH%2BsrdXjSY7XAHC14I%3D",
+        "authorName": "\ud83d\udc99Loyal\ud83d\udc99",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 63
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Jelly Look",
+            "ID": "1112272"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 4347,
+        "followerCount": 1258,
+        "heartCount": 1085,
+        "videoCount": 281,
+        "diggCount": 34800,
+        "heart": 1085
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "i want to stay this to miss dodds sm"
+            ]
+        }
+    ],
+    "isAd": false
+}

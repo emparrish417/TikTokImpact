@@ -1,0 +1,101 @@
+{
+    "id": "7078936121715084590",
+    "desc": "",
+    "createTime": 1648193257,
+    "video": {
+        "id": "7078936121715084590",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5171f2c92994c99856bd45dcb66faca?x-expires=1648249200&x-signature=QqRo3Qsv6ovrP50YgXzH0keTkHY%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/17307ef1b551448a8ae665d0c1a46812_1648193258?x-expires=1648249200&x-signature=lJIOp9lXM8bgCbJdhvWlUh2sExI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d3bd9b8fea72405ebecbe3800cb685a0_1648193258?x-expires=1648249200&x-signature=XJ7vpu75ecmHK77d5TBxFOoEuUw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5fcfba10f5720e016b194a3fa6914257/623e4f3f/video/tos/useast5/tos-useast5-ve-0068c002-tx/77d11191bc1a4937b2735b4f30034d26/?a=1988&br=3112&bt=1556&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5NzJDXq&l=20220325172438010113006071090A6826&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dlPDk6Zm9wOzMzZzczNEApO2VlOGZkPGQ2NzxnZWc0ZWcwcWBhcjQwcHJgLS1kMS9zc2BhYjVgX142MzE0MS9gY146Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5fcfba10f5720e016b194a3fa6914257/623e4f3f/video/tos/useast5/tos-useast5-ve-0068c002-tx/77d11191bc1a4937b2735b4f30034d26/?a=1988&br=3112&bt=1556&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5NzJDXq&l=20220325172438010113006071090A6826&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dlPDk6Zm9wOzMzZzczNEApO2VlOGZkPGQ2NzxnZWc0ZWcwcWBhcjQwcHJgLS1kMS9zc2BhYjVgX142MzE0MS9gY146Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/17307ef1b551448a8ae665d0c1a46812_1648193258~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=ebdjTg8SwF7Ol6ezJTUyx6UcxYo%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/17307ef1b551448a8ae665d0c1a46812_1648193258~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=ZKKDHb3benM9StxeQ2TLIKZeDzw%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5171f2c92994c99856bd45dcb66faca?x-expires=1648249200&x-signature=sGjjBQva8uf7v%2FXGDu575XFV34U%3D",
+        "bitrate": 1593697,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6950428483869000710",
+        "uniqueId": "pray_forukraine_._",
+        "nickname": "2 owners! \ud83c\udf44 and \ud83d\udd2a",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/294c3c7304949dc25f425cb74815ec34~c5_100x100.jpeg?x-expires=1648314000&x-signature=g%2FDK4SkZle27t8tyw2KxHlRam0s%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/294c3c7304949dc25f425cb74815ec34~c5_720x720.jpeg?x-expires=1648314000&x-signature=fKZu0oRUqZCzBXUO4meVolaFhkw%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/294c3c7304949dc25f425cb74815ec34~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=Nsl436KLtrWbWKm9%2FuVm82MWfRs%3D",
+        "signature": "Owner 1:\ud83c\udf44\nOwner 2:\ud83d\udd2a\nWe\u2019re here for you!\nAsk us anything\u2764\ufe0f\ud83d\udda4",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYTcLv17I8FpL2-czg9mBT-Y68rY7vscuFIjK_R8ErjJiW4ehwNm5Z3EBfBLKluAE",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078827961075370794",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7078827968642140974.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7cf91d7cc9bf5b72ea5237cec9dccb59~c5_100x100.jpeg?x-expires=1648314000&x-signature=E89LhShkMXVzR7uYOYEtbg8SBWc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7cf91d7cc9bf5b72ea5237cec9dccb59~c5_720x720.jpeg?x-expires=1648314000&x-signature=bcDzV5FQKxsBXbjr%2BNY9hEXB5aM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7cf91d7cc9bf5b72ea5237cec9dccb59~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=npCTPm47j2iVq0wEm3Os05JL1Ew%3D",
+        "authorName": "oof_234!",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 69
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1729,
+        "followerCount": 1368,
+        "heartCount": 3884,
+        "videoCount": 357,
+        "diggCount": 1637,
+        "heart": 3884
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "When we reach 3K",
+                "IF we reach 3K.",
+                "I\u2019ll be announcing my\nRetirement.",
+                "From TikTok."
+            ]
+        }
+    ],
+    "isAd": false
+}

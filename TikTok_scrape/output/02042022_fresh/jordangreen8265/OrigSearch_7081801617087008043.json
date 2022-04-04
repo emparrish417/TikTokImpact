@@ -1,0 +1,90 @@
+{
+    "id": "7081801617087008043",
+    "desc": "Russia vs Ukraine I think Ukraine",
+    "createTime": 1648860431,
+    "video": {
+        "id": "7081801617087008043",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e84f2a5615a94d4d80a64e57eafa3bda?x-expires=1648944000&x-signature=Oajs9eG5dRdktFvi0e1VTE%2F%2Bt2A%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d5738880f1e146daae1699adc712c104_1648860432?x-expires=1648944000&x-signature=MrBkK9NXW7Tryo0RQerXEg2xDno%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/299bd1a2d79343b3bd35929afaca9e6a_1648860433?x-expires=1648944000&x-signature=lKtEcBsLbW0uMgcaWR%2FMXFe84sM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5cee37c111d8ca057717729b0c023351/6248eceb/video/tos/useast5/tos-useast5-pve-0068-tx/363800823cb74fe68e1352a4cfe1641e/?a=1988&br=556&bt=278&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi5VqDXq&l=2022040218395601011300622708EF5C46&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdmNTU6ZmRzPDMzZzczNEApODg7PGQ1ZWU8NzlnOmdoZWdnZGk2cjQwbTBgLS1kMS9zc18uL19eNDU2M19iYWIwYjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5cee37c111d8ca057717729b0c023351/6248eceb/video/tos/useast5/tos-useast5-pve-0068-tx/363800823cb74fe68e1352a4cfe1641e/?a=1988&br=556&bt=278&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi5VqDXq&l=2022040218395601011300622708EF5C46&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdmNTU6ZmRzPDMzZzczNEApODg7PGQ1ZWU8NzlnOmdoZWdnZGk2cjQwbTBgLS1kMS9zc18uL19eNDU2M19iYWIwYjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d5738880f1e146daae1699adc712c104_1648860432~tplv-tiktok-play.jpeg?x-expires=1649527200&x-signature=wX0VaSI8mc7GhnqXnKb9C5sLiZg%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d5738880f1e146daae1699adc712c104_1648860432~tplv-tiktokx-share-play.jpeg?x-expires=1649527200&x-signature=%2F2BSj0xqdagHYpjUO1%2F6FOyrDbc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e84f2a5615a94d4d80a64e57eafa3bda?x-expires=1648944000&x-signature=Oajs9eG5dRdktFvi0e1VTE%2F%2Bt2A%3D",
+        "bitrate": 285246,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7072125615916925998",
+        "uniqueId": "jordangreen8265",
+        "nickname": "Jordan Green8265",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7072125814405349422~c5_100x100.jpeg?x-expires=1649008800&x-signature=QlfrbTNznxeLiN8oPZkxeNBkvZA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7072125814405349422~c5_720x720.jpeg?x-expires=1649008800&x-signature=%2FveiYi4cLiAiSlOQSYDaATIbyAw%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7072125814405349422~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=cfBVT%2F%2FtrVJpkWYKTm3VaC%2F%2F6Go%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAf9yoMAA2Q5qfmUDf0PJeX5OL5PfVo64Y-pLpoPEB0MSt6BAhH2jzsUNFTjV7yOMy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6795407744489752577",
+        "title": "Just a Cloud Away",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a9dc60e62f334229af15a0b1650029ff",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "authorName": "Pharrell Williams",
+        "original": false,
+        "duration": 60,
+        "album": "Despicable Me 2 (Original Motion Picture Soundtrack)"
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 260
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 14,
+        "followerCount": 2,
+        "heartCount": 9,
+        "videoCount": 3,
+        "diggCount": 35,
+        "heart": 9
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

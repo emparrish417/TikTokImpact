@@ -1,0 +1,119 @@
+{
+    "id": "7077206305613548806",
+    "desc": "Ukraine#ukraine\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1647790500,
+    "video": {
+        "id": "7077206305613548806",
+        "height": 1024,
+        "width": 576,
+        "duration": 39,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d29b45a112ff4870a82029c67c42a3a3?x-expires=1647835200&x-signature=7ECiBR08qx55rF0kLYd3LaOAnaI%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/048697bf06e2456ca4151a6850bb9da6_1647790501?x-expires=1647835200&x-signature=KeMzZY%2BG2dG1nR5UAEIo5X5PKzc%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/47539ce49f5540b18a70d5a917abf690_1647790503?x-expires=1647835200&x-signature=S4QZJLlF%2BxNGAYLZ1k5O2TMKdLI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c94c221ec6b9aefb40540339c7f5490e/6237fe8e/video/tos/useast2a/tos-useast2a-ve-0068c001/7cdfabfa694744d2ae892be0034f2e64/?a=1988&br=5974&bt=2987&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThSbc_DXq&l=202203202226150101131351931605F8DC&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3ZkODk6ZnJuOzMzNzczM0ApaThpNzg4aDxpNzhmOzM8ZGdea2UycjRfZW9gLS1kMTZzc19gYS5iLS82XjZhYzEuMS06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c94c221ec6b9aefb40540339c7f5490e/6237fe8e/video/tos/useast2a/tos-useast2a-ve-0068c001/7cdfabfa694744d2ae892be0034f2e64/?a=1988&br=5974&bt=2987&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThSbc_DXq&l=202203202226150101131351931605F8DC&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3ZkODk6ZnJuOzMzNzczM0ApaThpNzg4aDxpNzhmOzM8ZGdea2UycjRfZW9gLS1kMTZzc19gYS5iLS82XjZhYzEuMS06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/048697bf06e2456ca4151a6850bb9da6_1647790501~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=%2FiKEsKyA9%2B0WoIRnrCZk3znebKA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/048697bf06e2456ca4151a6850bb9da6_1647790501~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=VGFlTB34EsdxYnN%2BH2njkyHc2VE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d29b45a112ff4870a82029c67c42a3a3?x-expires=1647835200&x-signature=7ECiBR08qx55rF0kLYd3LaOAnaI%3D",
+        "bitrate": 3059284,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6879069475699409925",
+        "uniqueId": "obinna733",
+        "nickname": "Ojong Samuel",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1679460488813569.jpeg?x-expires=1647900000&x-signature=IzOuAQFnnpq%2F7jK%2FC9ZTQJTMs7s%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1679460488813569.jpeg?x-expires=1647900000&x-signature=DCZOhd9IpgwPuF6gBStY0X7K45Y%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1679460488813569.jpeg?x-expires=1647900000&x-signature=5FY1pcFr9r1X%2FRPUCI2x6ZdKcu4%3D",
+        "signature": "555555",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASxJrfD9VW2QSBC6Su4qJJoWQE8v4m_vgssdYqmZLEKmEogSq04jacxDGgwfvvlC5",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077206301516090118",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7077206303743019782.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1679460488813569.jpeg?x-expires=1647900000&x-signature=IzOuAQFnnpq%2F7jK%2FC9ZTQJTMs7s%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1679460488813569.jpeg?x-expires=1647900000&x-signature=DCZOhd9IpgwPuF6gBStY0X7K45Y%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1679460488813569.jpeg?x-expires=1647900000&x-signature=5FY1pcFr9r1X%2FRPUCI2x6ZdKcu4%3D",
+        "authorName": "Ojong Samuel",
+        "original": true,
+        "duration": 39,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1592381310170118",
+            "title": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 59,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 704
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 7,
+            "end": 19,
+            "hashtagName": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "1592381310170118",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2926,
+        "followerCount": 23000,
+        "heartCount": 341200,
+        "videoCount": 154,
+        "diggCount": 6724,
+        "heart": 341200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

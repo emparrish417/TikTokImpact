@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6929309855510496262",
+        "shortId": "",
+        "uniqueId": "legacymediasolutions",
+        "nickname": "Sam Lorenz",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0e3532c653c1b77f55baa4c404134f6b~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=w4s3X9jsN%2Ba0mLyF%2BUG2F6Jctzw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0e3532c653c1b77f55baa4c404134f6b~c5_720x720.jpeg?x-expires=1648173600&x-signature=I0dcpD2sdRFqrDRdvc8FCpMCSco%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0e3532c653c1b77f55baa4c404134f6b~c5_100x100.jpeg?x-expires=1648173600&x-signature=z9q8PcN7ZFJtuzb%2Fvry6YRiQC8o%3D",
+        "signature": "CEO / Founder - Legacy Media Solutions",
+        "createTime": 1613355918,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAeGGlAI9dsyGn6kSx7wpdhsWhmF4_nrs5JfnDSKagabmQVTCIOsJVf9piKCShX80q",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://legacymedia.online",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Professional Services",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 498,
+        "followingCount": 905,
+        "heart": 192,
+        "heartCount": 192,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

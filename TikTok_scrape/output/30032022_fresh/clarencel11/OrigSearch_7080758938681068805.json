@@ -1,0 +1,202 @@
+{
+    "id": "7080758938681068805",
+    "desc": "#foryou #frp #ukraine #soutien",
+    "createTime": 1648617665,
+    "video": {
+        "id": "7080758938681068805",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1810c1de48884c1f9b469fa9d8354c18?x-expires=1648699200&x-signature=F%2FRBSnfGizCKHLI9QFqfL9ZPYw4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/63c5b20474f14080a0679eb9914feff2_1648617666?x-expires=1648699200&x-signature=BK4l7o1PXCDe9MFNWpGjGfd3QJs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c6a3c025be0f4e5f9043e86c82edf1c5_1648617666?x-expires=1648699200&x-signature=%2Fx8XbE2wWPIaDB84SIhyjMMpbnU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ef05da0f245236b277806ad3cadf3820/624528c8/video/tos/useast2a/tos-useast2a-ve-0068c002/97b50c0f9b84447387c400e220f9913d/?a=1988&br=660&bt=330&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqIFzDXq&l=20220330220620010113135187147B7458&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2R3ODM6Zjl4PDMzNzczM0ApZzhoOmYzNmU2Nzc6ZzQ8OmdhMG9tcjRnZC5gLS1kMTZzcy0wYzFgMC0uXjBjNTJfXl46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ef05da0f245236b277806ad3cadf3820/624528c8/video/tos/useast2a/tos-useast2a-ve-0068c002/97b50c0f9b84447387c400e220f9913d/?a=1988&br=660&bt=330&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqIFzDXq&l=20220330220620010113135187147B7458&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2R3ODM6Zjl4PDMzNzczM0ApZzhoOmYzNmU2Nzc6ZzQ8OmdhMG9tcjRnZC5gLS1kMTZzcy0wYzFgMC0uXjBjNTJfXl46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/63c5b20474f14080a0679eb9914feff2_1648617666~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=jhJJixpyNkmNNclBTjcIKQixfyY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/63c5b20474f14080a0679eb9914feff2_1648617666~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=84UNgVN5O6fdLtjGNnIG4hn1IJg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1810c1de48884c1f9b469fa9d8354c18?x-expires=1648699200&x-signature=F%2FRBSnfGizCKHLI9QFqfL9ZPYw4%3D",
+        "bitrate": 338794,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7049386715606598662",
+        "uniqueId": "clarencel11",
+        "nickname": "clarence2.0",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be535efaab45ef10bec0c5e6c4051ae8~c5_100x100.jpeg?x-expires=1648764000&x-signature=OREbrGKFYyNPyQolTaptBzn3LVE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be535efaab45ef10bec0c5e6c4051ae8~c5_720x720.jpeg?x-expires=1648764000&x-signature=gkDh4fZlmyMEBPM88NbXIZZjKl0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be535efaab45ef10bec0c5e6c4051ae8~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=vUCOnSIMA%2BV8dxMMNScSgXP9GJg%3D",
+        "signature": "n\u00b01=\ud83c\uddf5\ud83c\uddf9\ud83c\uddf5\ud83c\uddf9\ud83c\uddf5\ud83c\uddf9\ud83c\uddf5\ud83c\uddf9\ud83c\uddf5\ud83c\uddf9\u2764\u2764\u2764\u2764",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAr73vhOhpum-fe8mV8uY8GaT2AHznhJpGx3XkmS2KjDLx6fiabiMke3_i46oN3dFP",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068376165500717829",
+        "title": "son original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7068376148442483461.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/376b61824662d459f195c963cb702120~c5_100x100.jpeg?x-expires=1648764000&x-signature=ygxyUykXl%2BeilAdxXhyapO3xykw%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/376b61824662d459f195c963cb702120~c5_720x720.jpeg?x-expires=1648764000&x-signature=3Kit7svTjg%2FL0sFb59djsTyIkEg%3D",
+        "coverLarge": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/376b61824662d459f195c963cb702120~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=ruYrADrFt1G%2BKz%2Bb8QAAfdqVqC4%3D",
+        "authorName": "Futt.MD10",
+        "original": true,
+        "duration": 30,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "42164",
+            "title": "foryou",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "6318009",
+            "title": "frp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "2049928",
+            "title": "soutien",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 494,
+        "shareCount": 0,
+        "commentCount": 12,
+        "playCount": 2942
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "foryou",
+            "hashtagId": "42164",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 8,
+            "end": 12,
+            "hashtagName": "frp",
+            "hashtagId": "6318009",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 13,
+            "end": 21,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 30,
+            "hashtagName": "soutien",
+            "hashtagId": "2049928",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 35,
+        "followerCount": 2877,
+        "heartCount": 6926,
+        "videoCount": 50,
+        "diggCount": 731,
+        "heart": 6926
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "1 like =1 soutien "
+            ]
+        }
+    ],
+    "isAd": false
+}

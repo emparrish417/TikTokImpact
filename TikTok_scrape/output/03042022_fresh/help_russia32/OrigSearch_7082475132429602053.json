@@ -1,0 +1,102 @@
+{
+    "id": "7082475132429602053",
+    "desc": "",
+    "createTime": 1649017244,
+    "video": {
+        "id": "7082475132429602053",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/135a79d69ccc4d2888cc7d19847dc9e2?x-expires=1649052000&x-signature=MbmSX3iRWXW8AZQ%2B348d2UonVjE%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e71a6b2ae8eb4dfc83431e45fb6594c8_1649017246?x-expires=1649052000&x-signature=VmWNn8wU6WCFEQSwfGyVLo9B3gA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e0616fb9ed0f4bb983c559f3dcf8769d_1649017246?x-expires=1649052000&x-signature=v%2B%2BdNhy55up5s1qliO1J5U4xyFg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/1eb21eb4e2090b9f6b40279b45140624/624a972b/video/tos/useast2a/tos-useast2a-ve-0068c003/cb41e0b5bd6645c0bf25af7a4afb3b26/?a=1988&br=3110&bt=1555&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl2RqDXq&l=202204040058410101131351940FF39509&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZzZjg6ZjozPDMzNzczM0ApOTU0M2g4OTs3NzZkZmZmNmc1ZC4wcjQwLTJgLS1kMTZzczNgYmFhX19hYGJfM2BfXjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/1eb21eb4e2090b9f6b40279b45140624/624a972b/video/tos/useast2a/tos-useast2a-ve-0068c003/cb41e0b5bd6645c0bf25af7a4afb3b26/?a=1988&br=3110&bt=1555&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl2RqDXq&l=202204040058410101131351940FF39509&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZzZjg6ZjozPDMzNzczM0ApOTU0M2g4OTs3NzZkZmZmNmc1ZC4wcjQwLTJgLS1kMTZzczNgYmFhX19hYGJfM2BfXjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e71a6b2ae8eb4dfc83431e45fb6594c8_1649017246~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=mlEfqhCLjeCuxvnnN2jSE%2BvdXQs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e71a6b2ae8eb4dfc83431e45fb6594c8_1649017246~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=J%2B48bS8BYxhrn4wf5F9UWb6HBt0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/135a79d69ccc4d2888cc7d19847dc9e2?x-expires=1649052000&x-signature=MbmSX3iRWXW8AZQ%2B348d2UonVjE%3D",
+        "bitrate": 1592607,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6970070900402537478",
+        "uniqueId": "help_russia32",
+        "nickname": "Ukrain vs Russia",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5373be16a1ab0c9b82ffb1edcd10d959~c5_100x100.jpeg?x-expires=1649116800&x-signature=bn5RyqK61O5FAUcP0om7MjXw9uY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5373be16a1ab0c9b82ffb1edcd10d959~c5_720x720.jpeg?x-expires=1649116800&x-signature=kzvviEM1kkKTYTnnVPMQndAzj%2Bk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5373be16a1ab0c9b82ffb1edcd10d959~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=idBvXeHgD8VbPDfyWx5YbQJbYnI%3D",
+        "signature": "This account if you support Russia or help_ Ukraine If you support Ukraine follo",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARc4Cnni7h_zxsxZjY6houkxLjh9f5nmSp8BtvgGOTgN6LBwGIBH4iETaUtkxO7mr",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7066555423255448366",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7066555420776794927.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/13c279c6d6631b14915e9113378fd986~c5_100x100.jpeg?x-expires=1649116800&x-signature=fR70SzZCVn2my5sZQ7SF5Z0NXZw%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/13c279c6d6631b14915e9113378fd986~c5_720x720.jpeg?x-expires=1649116800&x-signature=81DbSACfiBCQn7%2BAKmL2cUrDHqc%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/13c279c6d6631b14915e9113378fd986~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=r2k5woC%2B7vvz1kbW45S%2FXxdZqaE%3D",
+        "authorName": "Divine \u2728",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 15,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 104
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 8,
+        "followerCount": 86,
+        "heartCount": 41,
+        "videoCount": 20,
+        "diggCount": 327,
+        "heart": 41
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Like if your fat",
+                "Nah I\u2019m just playin \ud83e\udd2a",
+                "I know you thing your fat \ud83d\ude29",
+                "But I\u2019m here to tell ya \ud83d\ude09",
+                "Every inch of you is perfect from the \ud83d\udc47\ud83c\udffb\ud83d\udc46\ud83c\udfff"
+            ]
+        }
+    ],
+    "isAd": false
+}

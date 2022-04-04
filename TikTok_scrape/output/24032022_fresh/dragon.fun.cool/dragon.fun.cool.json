@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7078343137449739269",
+        "shortId": "",
+        "uniqueId": "dragon.fun.cool",
+        "nickname": "Dragon Ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7078343363539238918~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=jr%2BKHeMKXh%2FgOPyX%2F8mMUAAWBHo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7078343363539238918~c5_720x720.jpeg?x-expires=1648234800&x-signature=wGJ3vAuPuNDaY7Rkqn0zO0enLCA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7078343363539238918~c5_100x100.jpeg?x-expires=1648234800&x-signature=xUowaiCgbAvhezbk7T36%2F7DBSgU%3D",
+        "signature": "",
+        "createTime": 1648055241,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA23yXaYBSRBUKdQUW24rd3z5q3YJHdMWxCpnOnNfMXgl9CjRt6yJ8C0DJReVutRow",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2,
+        "followingCount": 9,
+        "heart": 2,
+        "heartCount": 2,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

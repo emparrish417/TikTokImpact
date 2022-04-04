@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6875201150061593606",
+        "shortId": "",
+        "uniqueId": "shev.chick",
+        "nickname": "KristinaRoza",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3a3cd2f170a0136d4f712bf036cb319~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=qzDqKJjmMBX3TaW1N0Md5V2LZRQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3a3cd2f170a0136d4f712bf036cb319~c5_720x720.jpeg?x-expires=1649120400&x-signature=C4iQWBsd%2ByPIL8a8Uc1lBNdMUdM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d3a3cd2f170a0136d4f712bf036cb319~c5_100x100.jpeg?x-expires=1649120400&x-signature=tEsmrAKS7rEcQIN6nHNVtVwD3Js%3D",
+        "signature": "\u0423\u043a\u0440\u0430\u0457\u043d\u043a\u0430\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1601869439,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoPgt5NlYtO8bQ2f2M5U7SlrcnBkH0-gCxbH_T3DiB8XSD_1PtEl_yCIwv7ulArdD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "gofund.me/78ee9d0f",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2182,
+        "followingCount": 650,
+        "heart": 244600,
+        "heartCount": 244600,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

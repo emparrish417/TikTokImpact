@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6889152434171560965",
+        "shortId": "",
+        "uniqueId": "defense.digest",
+        "nickname": "Defense Digest",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c4da9893063a3bfec3ce7312f9ee94bd~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=9Vq0Kg%2BxR1Bm2onJtfhVkRIdRD4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c4da9893063a3bfec3ce7312f9ee94bd~c5_720x720.jpeg?x-expires=1649116800&x-signature=0CR00mM9obFZqU5%2FHOTK0gai73c%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c4da9893063a3bfec3ce7312f9ee94bd~c5_100x100.jpeg?x-expires=1649116800&x-signature=TGlBLFtXeoMnSa8XXTXAdIYlSsE%3D",
+        "signature": "",
+        "createTime": 1604005973,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA9F6CvtapiynzUCOy6RvGf9P0DZjdc9u0HCF4vCp0Jvu88kAUcKzGsN3j6gYj4yAK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 43300,
+        "followingCount": 0,
+        "heart": 354600,
+        "heartCount": 354600,
+        "videoCount": 55,
+        "diggCount": 0
+    },
+    "itemList": []
+}

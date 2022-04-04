@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6845604547177235461",
+        "shortId": "",
+        "uniqueId": "tss.c.o",
+        "nickname": "\u0421arina",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9aeb74cae4e4b37ce56c1c0f3cd218cc~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=ghvKSDZOKjovT8gC4p3zACdBQI8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9aeb74cae4e4b37ce56c1c0f3cd218cc~c5_720x720.jpeg?x-expires=1648764000&x-signature=X%2BaQYfWWfBb2jIuNjxF7KhOCBY8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9aeb74cae4e4b37ce56c1c0f3cd218cc~c5_100x100.jpeg?x-expires=1648764000&x-signature=ztjZKI9eUZTGq%2BX%2B4wqPcja42c0%3D",
+        "signature": "Ukrainian girl in Italy \u2764\ufe0f",
+        "createTime": 1593837841,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUBFPb65iYZaMZ__-1DFzDyRS9E2luEOsGoQaMQ1UkG9kPwZwY_7UDUqRMaEegjlY",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 143800,
+        "followingCount": 19,
+        "heart": 5300000,
+        "heartCount": 5300000,
+        "videoCount": 42,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7023365874569757701",
+        "shortId": "",
+        "uniqueId": "altair_ukraine",
+        "nickname": "altair_ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/996f79d1242149f5c1680b99d4db4acb~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=WAUTk2mBy%2Bdbn6lyhORKKZUOD6I%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/996f79d1242149f5c1680b99d4db4acb~c5_720x720.jpeg?x-expires=1648515600&x-signature=70vcE7pZQ%2B0TBB3sq683mSncxng%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/996f79d1242149f5c1680b99d4db4acb~c5_100x100.jpeg?x-expires=1648515600&x-signature=nvpzRZB1dkTuGNYiMzGRTe%2Bv6ws%3D",
+        "signature": "\u0414\u043e\u043f\u043e\u043c\u043e\u0433\u0430\u0454\u043c\u043e \u0417\u0431\u0440\u043e\u0439\u043d\u0438\u043c \u0441\u0438\u043b\u0430\u043c \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+        "createTime": 1635254869,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAE3ukK2RfFs72U1vzc0Wafi6hgplKlpHobu9qYcZ6zB2eqlj2qOrJXn_yCVAKEUw1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "alt-air.com.ua/war",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Professional Services",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 410,
+        "followingCount": 5,
+        "heart": 2337,
+        "heartCount": 2337,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

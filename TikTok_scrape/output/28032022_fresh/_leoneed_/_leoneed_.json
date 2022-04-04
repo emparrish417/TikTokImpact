@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7064904585777742854",
+        "shortId": "",
+        "uniqueId": "_leoneed_",
+        "nickname": "Leo Need",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/debc33d7410a83fa6012f347d895119b~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=D%2FQcT4gkOCEPttfjALFahtSwVUI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/debc33d7410a83fa6012f347d895119b~c5_720x720.jpeg?x-expires=1648580400&x-signature=gX7ZSSFdbGi6nlb%2FUmEkgOre5v8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/debc33d7410a83fa6012f347d895119b~c5_100x100.jpeg?x-expires=1648580400&x-signature=hIwsvBsYgtniquY1P2NrDIc%2BJvI%3D",
+        "signature": "\u2600\ufe0f\ud83c\udf3c\ud83c\udf40",
+        "createTime": 1645293410,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJ9UAFnE0oi_XQaWQ4OktAzOjI-_pqQSiK6pO23_bV6XdDmPWtpT52vraCfXnmsvz",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10,
+        "followingCount": 30,
+        "heart": 158,
+        "heartCount": 158,
+        "videoCount": 38,
+        "diggCount": 0
+    },
+    "itemList": []
+}

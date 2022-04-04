@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6578413525289680901",
+        "shortId": "",
+        "uniqueId": "hasonax1",
+        "nickname": "\ufbbc\u062d\u0633\u0646 \uf8ff",
+        "avatarLarger": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/8be3989cccf3890f803e40257bd9d55e~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=vG0UtB5dTusHsQNzRGOpQdQd8BM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8be3989cccf3890f803e40257bd9d55e~c5_720x720.jpeg?x-expires=1647817200&x-signature=AwqfCLE8jtBJbi9sp9Ldr2Undog%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8be3989cccf3890f803e40257bd9d55e~c5_100x100.jpeg?x-expires=1647817200&x-signature=%2FCg70E8DiTJOxUrf85KEDZhdsu4%3D",
+        "signature": "\ud83c\udde9\ud83c\uddeaOsnabr\u00fcck \n\u2764\ufe0fL\ud83d\udc8d05.03.2022",
+        "createTime": 1532270950,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4qPV3AM9qzNPJR6lc0CkzwfpHWeNyRVccarNMNpErxQyilLWqpPj2InM2WgUBIRA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24100,
+        "followingCount": 673,
+        "heart": 162900,
+        "heartCount": 162900,
+        "videoCount": 380,
+        "diggCount": 0
+    },
+    "itemList": []
+}

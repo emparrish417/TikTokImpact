@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7060531261643998213",
+        "shortId": "",
+        "uniqueId": "artem.rttv",
+        "nickname": "Artem.rttv",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7490c18b05a4a4e4fa9d0761921ebeff~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=iFNiFuzNAZptYLKmTDpgQCQFRMo%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7490c18b05a4a4e4fa9d0761921ebeff~c5_720x720.jpeg?x-expires=1648764000&x-signature=rOdIN%2B76Dh4HJPCAYxrlZHKwnGA%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7490c18b05a4a4e4fa9d0761921ebeff~c5_100x100.jpeg?x-expires=1648764000&x-signature=sCe0nCpmXYxlH4f9NGZU2oyRBeI%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\u2764\ufe0f",
+        "createTime": 1643908266,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKFW5ucCc8ky_bE2B9LTjj_kiLKptc5JEStUDhz3Vasa7RFg44WFST3GyMw8YX6Ko",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 67,
+        "followingCount": 2,
+        "heart": 434,
+        "heartCount": 434,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

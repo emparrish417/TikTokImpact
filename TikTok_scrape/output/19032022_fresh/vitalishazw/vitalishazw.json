@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7041585090351596550",
+        "shortId": "",
+        "uniqueId": "vitalishazw",
+        "nickname": "\ud83d\udc97\u270c\ufe0f",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e10d0c33aedbde30c7a484b4447e1d1~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=zcPM79%2FF%2BfGaLDgMtZv%2Fn2xdhWM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e10d0c33aedbde30c7a484b4447e1d1~c5_720x720.jpeg?x-expires=1647817200&x-signature=s9LhPwwhFBCXrW1de3trEbGUZks%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e10d0c33aedbde30c7a484b4447e1d1~c5_100x100.jpeg?x-expires=1647817200&x-signature=IbDYBfoZhvOVEUQVroAAK86SJR0%3D",
+        "signature": "",
+        "createTime": 1639496880,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbzTpk9uk5t6YhMy8EazupU6JSMCevg_MNZLzTXi_ur84on4i8QhT_PFKtNf_4YFs",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2266,
+        "followingCount": 1862,
+        "heart": 57900,
+        "heartCount": 57900,
+        "videoCount": 285,
+        "diggCount": 0
+    },
+    "itemList": []
+}

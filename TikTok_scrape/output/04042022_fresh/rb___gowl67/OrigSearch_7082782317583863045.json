@@ -1,0 +1,104 @@
+{
+    "id": "7082782317583863045",
+    "desc": "",
+    "createTime": 1649088767,
+    "video": {
+        "id": "7082782317583863045",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1126e4e56b9e4d4b964b1c4ac9ae541c?x-expires=1649131200&x-signature=59TNrUKpG5mt872VW4%2F8juQT7wc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a795d8d1f220483f9bf9a7a71ed8a598_1649088768?x-expires=1649131200&x-signature=G2S%2Bmr64dtwLU0WO5Emh5FPiK9M%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/177153dcbe754903b161a2bcf3071435_1649088768?x-expires=1649131200&x-signature=U0SqewHyNWNynYTnJkZlWnKE5nQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0da9aca3217dfa4bc9cb396301e2d45e/624bc095/video/tos/useast2a/tos-useast2a-pve-0068/ea744cb7863640948c114a75bf14bcc9/?a=1988&br=1650&bt=825&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThtgeqDXq&l=2022040422073301011313514924ACC21F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k5djc6ZnFrPDMzNzczM0ApOjg2Ojg3Mzw2NzUzNGQ0OGdicGMtcjRfZTJgLS1kMTZzczQwNWA1L2IvY2IxMGE0NGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0da9aca3217dfa4bc9cb396301e2d45e/624bc095/video/tos/useast2a/tos-useast2a-pve-0068/ea744cb7863640948c114a75bf14bcc9/?a=1988&br=1650&bt=825&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThtgeqDXq&l=2022040422073301011313514924ACC21F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k5djc6ZnFrPDMzNzczM0ApOjg2Ojg3Mzw2NzUzNGQ0OGdicGMtcjRfZTJgLS1kMTZzczQwNWA1L2IvY2IxMGE0NGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a795d8d1f220483f9bf9a7a71ed8a598_1649088768~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=dLikDeruFMGE0SoNvKlcOD2oHMo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a795d8d1f220483f9bf9a7a71ed8a598_1649088768~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=EYSdE88Lumy0ahvyM4noYGEWFas%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1126e4e56b9e4d4b964b1c4ac9ae541c?x-expires=1649131200&x-signature=59TNrUKpG5mt872VW4%2F8juQT7wc%3D",
+        "bitrate": 844814,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6962426785700103173",
+        "uniqueId": "rb___gowl67",
+        "nickname": "Help Ukrain\u2026.",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c22aef4cc4a23881d4ed92e8fb2dadf1~c5_100x100.jpeg?x-expires=1649196000&x-signature=oJDEQUGpF4OhCSrgg5XPJvW0Qdg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c22aef4cc4a23881d4ed92e8fb2dadf1~c5_720x720.jpeg?x-expires=1649196000&x-signature=%2FqQc%2BwUxPbXvUqOqrwqwhLWcvEk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c22aef4cc4a23881d4ed92e8fb2dadf1~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=3ozJDh4xU4RQznP0ElwlmlGJQko%3D",
+        "signature": "I hope all you Ukrainians stay safe \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVwHGqJiMmQ5GTgXaCk1HmA7jZ8Sf-AL5u5dOjuSfIhiC0kMGr3JBqNBizQo2uDSM",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7051770555447446278",
+        "title": "Hot N Cold",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7051770581892549382.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0bfbe0cf4a0d49acbe5482123809bfb8~c5_100x100.jpeg?x-expires=1649196000&x-signature=z3MvJV9ktsKbmJNqtb9e%2BxqwEiw%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0bfbe0cf4a0d49acbe5482123809bfb8~c5_720x720.jpeg?x-expires=1649196000&x-signature=fnFCE9Xg2MNHRRmxtPTtUgMsOlE%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0bfbe0cf4a0d49acbe5482123809bfb8~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=j1g4396zgPbUiYAs5UIL8Pd8xYA%3D",
+        "authorName": "Sped up songs \u26a1\ufe0f",
+        "original": true,
+        "duration": 17,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 38
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "World Warp",
+            "ID": "1590914"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1914,
+        "followerCount": 1033,
+        "heartCount": 14700,
+        "videoCount": 441,
+        "diggCount": 3258,
+        "heart": 14700
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Umm which one is my arua"
+            ]
+        }
+    ],
+    "isAd": false
+}

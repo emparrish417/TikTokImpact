@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6724316132079666181",
+        "shortId": "",
+        "uniqueId": "_fikus.x_",
+        "nickname": "\u0414\u0438\u0430\u043d\u0430",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/9adcaac771c3d323e5eff85c4ac0c4dd.jpeg?x-expires=1647900000&x-signature=rEoLeJSdIYR51TGuzJMfz6OZyUQ%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/9adcaac771c3d323e5eff85c4ac0c4dd.jpeg?x-expires=1647900000&x-signature=h8fuJSEDMQgGcIqg%2FCXfoE7AbFo%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/9adcaac771c3d323e5eff85c4ac0c4dd.jpeg?x-expires=1647900000&x-signature=nbiueD2WAMQT4RGrCvqZdRooYVA%3D",
+        "signature": "\u0421\u0430\u041c\u0430\u042f \u0432\u042b\u0441\u041e\u043a\u041e\u043e\u041f\u043b\u0410\u0447\u0418\u0432\u0410\u0435\u041c\u0430\u042f \u0440\u042b\u0436\u0410\u044f \u0423\u043a\u0420\u0430\u0418\u043d\u042b",
+        "createTime": 1565598175,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1DQHH-cP7TT6k9L-bnNm-Sli2NnLFwf9m3109PI6eEYxg0q1eNnQHX4PmVoK9kHS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 199,
+        "followingCount": 185,
+        "heart": 4635,
+        "heartCount": 4635,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

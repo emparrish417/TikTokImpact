@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6938233144542217222",
+        "shortId": "",
+        "uniqueId": "mattallred3",
+        "nickname": "Matt",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/572abccbd1f73253b0a75a0c36a4dacc~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=LWx%2F452iIUEhQcAzMVrf5Na2bYg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/572abccbd1f73253b0a75a0c36a4dacc~c5_720x720.jpeg?x-expires=1648069200&x-signature=IAOq0GLN%2FXVTO2Plyt2G6AUMbZ4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/572abccbd1f73253b0a75a0c36a4dacc~c5_100x100.jpeg?x-expires=1648069200&x-signature=ZUkEbjEA46PXIxkpi2qXBMGavkE%3D",
+        "signature": "nothing much",
+        "createTime": 1615433412,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbZ1qSkMh5F6ZfeOw2b5v2hGpmZVyTzgacG_wEGoS9JdiugG1NFtoh23hQga_sCXj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 551,
+        "followingCount": 210,
+        "heart": 2944,
+        "heartCount": 2944,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7076856515843427626",
+    "desc": "",
+    "createTime": 1647709058,
+    "video": {
+        "id": "7076856515843427626",
+        "height": 1024,
+        "width": 576,
+        "duration": 18,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e9429033c9a34fcc811c3cc6419df0b7?x-expires=1647752400&x-signature=c3rf8ybg1AbE7XzgePAfzmaW6hk%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4d522c05b5894c2fa293cf82c7164eea_1647709059?x-expires=1647752400&x-signature=Moy%2BRQlJeW4h6jSbCxG9Nd3eDew%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3408f920cb2a4c0cb6eee52f6fe52003_1647709059?x-expires=1647752400&x-signature=KAOziV5kcmm80wOT3Nbi5V8uFAQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b4a0dff31ada618954084b10351f78aa/6236bdc7/video/tos/useast5/tos-useast5-ve-0068c004-tx/152ab64386ea4633a91985208e2da7dc/?a=1988&br=3374&bt=1687&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am41d2k6ZnAzOzMzZzczNEApZTdlODs4NmRpNzRoZjlmM2cyYC1ycjRfam9gLS1kMS9zczNfYzIvNGFgLWEyLi02Y2E6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b4a0dff31ada618954084b10351f78aa/6236bdc7/video/tos/useast5/tos-useast5-ve-0068c004-tx/152ab64386ea4633a91985208e2da7dc/?a=1988&br=3374&bt=1687&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am41d2k6ZnAzOzMzZzczNEApZTdlODs4NmRpNzRoZjlmM2cyYC1ycjRfam9gLS1kMS9zczNfYzIvNGFgLWEyLi02Y2E6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4d522c05b5894c2fa293cf82c7164eea_1647709059~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=1wXxjuzwcllA9JYSZ26yxBdslb4%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4d522c05b5894c2fa293cf82c7164eea_1647709059~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=wLf7d2tOw6tn7s73alG9kubNT18%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e9429033c9a34fcc811c3cc6419df0b7?x-expires=1647752400&x-signature=c3rf8ybg1AbE7XzgePAfzmaW6hk%3D",
+        "bitrate": 1728220,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7064755188412007470",
+        "uniqueId": "rickandmortylover5",
+        "nickname": "SAVE UKRAINIAN STOP PUTIN !!!!",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/48a75e13258078b49083ba4705d1bcc0~c5_100x100.jpeg?x-expires=1647817200&x-signature=8es2FCLqgTLh29HFPAO5C2RizXo%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/48a75e13258078b49083ba4705d1bcc0~c5_720x720.jpeg?x-expires=1647817200&x-signature=gnKRekWi9Nae9dtnz7VXFCp8ASI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/48a75e13258078b49083ba4705d1bcc0~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=f9LSUDmvKzvqxx7bOKuNFyZVSi4%3D",
+        "signature": "STOP PUTIN AND HELP UKRAINIAN \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvkGHde1-552K3hJQz519frSFuEY7E2ne2wrv2Nf7Sx-huDaTfCukA9NeAJ1YSwz3",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067047232037702426",
+        "title": "original sound - Niana Guerrero",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7067052920260348698.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1653642385041413~c5_100x100.jpeg?x-expires=1647817200&x-signature=Tw%2FuqMIXMN0YxuGPRKzcgS%2B2bQ0%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1653642385041413~c5_720x720.jpeg?x-expires=1647817200&x-signature=B3Eu0hOntVMNailhUWkSKfT%2Bfgc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1653642385041413~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=VlvzvBdmfoNZwwcDykNyteNoERE%3D",
+        "authorName": "Niana Guerrero",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 2
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 201,
+        "followerCount": 26,
+        "heartCount": 88,
+        "videoCount": 103,
+        "diggCount": 588,
+        "heart": 88
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

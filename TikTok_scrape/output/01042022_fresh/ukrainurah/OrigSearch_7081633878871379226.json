@@ -1,0 +1,98 @@
+{
+    "id": "7081633878871379226",
+    "desc": "",
+    "createTime": 1648821374,
+    "video": {
+        "id": "7081633878871379226",
+        "height": 1024,
+        "width": 576,
+        "duration": 66,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/90144356ed1949ec9b392e27b172551a?x-expires=1648875600&x-signature=Yv0wPpAHSiWeiLcstq%2F2p%2BP2oEs%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/6fc93fdb75a848f8818278b5e4ccf5d5_1648821375?x-expires=1648875600&x-signature=HyMdnCdqm2THXgUomDyBJb4%2BemI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/9c56d374b943461288a502ee20954f43_1648821376?x-expires=1648875600&x-signature=gIVCktyQbSbeG5AA%2Bw45VAosWMI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/178d84c2e87ca9b21101409cd907fd78/6247e3ee/video/tos/useast2a/tos-useast2a-pve-0037-aiso/5c14cf1386804b8c8eeddc23d1d1b3f6/?a=1988&br=678&bt=339&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcaxzDXq&l=20220401234828010113006233063ED9A9&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JnZDQ6ZmpqPDMzZjgzM0ApZWg1aGY8NWQ5NzxlOzRlZmdqL14wcjRfNDBgLS1kL2Nzc18yYWEvLl5hMmFeMjNeMTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/178d84c2e87ca9b21101409cd907fd78/6247e3ee/video/tos/useast2a/tos-useast2a-pve-0037-aiso/5c14cf1386804b8c8eeddc23d1d1b3f6/?a=1988&br=678&bt=339&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcaxzDXq&l=20220401234828010113006233063ED9A9&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JnZDQ6ZmpqPDMzZjgzM0ApZWg1aGY8NWQ5NzxlOzRlZmdqL14wcjRfNDBgLS1kL2Nzc18yYWEvLl5hMmFeMjNeMTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/6fc93fdb75a848f8818278b5e4ccf5d5_1648821375~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=A90rUU2bWH2q85REoJDhIdLukoM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/6fc93fdb75a848f8818278b5e4ccf5d5_1648821375~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=dvmVYhTNY9OVRNgjMBc3py9woGY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/90144356ed1949ec9b392e27b172551a?x-expires=1648875600&x-signature=Yv0wPpAHSiWeiLcstq%2F2p%2BP2oEs%3D",
+        "bitrate": 347818,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7066445790792860678",
+        "uniqueId": "ukrainurah",
+        "nickname": "user9324273160651",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e55081275c2b0c8a3f882d5812a106d~c5_100x100.jpeg?x-expires=1648940400&x-signature=q8odoKsrYEUDBoNBKrUdoU%2FRdsU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e55081275c2b0c8a3f882d5812a106d~c5_720x720.jpeg?x-expires=1648940400&x-signature=ldABk8Hy9iZ%2FSiVp47XRa6b8u6w%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e55081275c2b0c8a3f882d5812a106d~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=mMqIsA55cEwCbXyhrLHJFPxyxJA%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyHjETQmx8UMnm5IuFL_Yed8YsKUWEXFcnanLf0r7FXtHqEUMoXWnQKc-yE87iiG6",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081633885997566747",
+        "title": "original sound - user9324273160651",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7081633900769938203.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e55081275c2b0c8a3f882d5812a106d~c5_100x100.jpeg?x-expires=1648940400&x-signature=q8odoKsrYEUDBoNBKrUdoU%2FRdsU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e55081275c2b0c8a3f882d5812a106d~c5_720x720.jpeg?x-expires=1648940400&x-signature=ldABk8Hy9iZ%2FSiVp47XRa6b8u6w%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e55081275c2b0c8a3f882d5812a106d~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=mMqIsA55cEwCbXyhrLHJFPxyxJA%3D",
+        "authorName": "user9324273160651",
+        "original": true,
+        "duration": 66,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 1287
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 22,
+        "followerCount": 10,
+        "heartCount": 57,
+        "videoCount": 65,
+        "diggCount": 82,
+        "heart": 57
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "hindi kami bayad ..kong ano sinasabi namin sayoyon ay nakikita namin sayo.\nwag mo kaming tutulonggising mga taga maynila at div vendors.\nhambog now kulong after election"
+            ]
+        }
+    ],
+    "isAd": false
+}

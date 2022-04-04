@@ -1,0 +1,90 @@
+{
+    "id": "7082866255602011438",
+    "desc": "la sis",
+    "createTime": 1649108310,
+    "video": {
+        "id": "7082866255602011438",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ce0105ecda63456b8ce80094693f8d86?x-expires=1649131200&x-signature=1auyE54nTwYfKmK95eLvevVUVk8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/485d0f873424478e8bd2aab70faa260f_1649108311?x-expires=1649131200&x-signature=R3sUEHMDoE%2Bwx7tlOA3uRKIqKEw%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/299ada8386e34504a9fb333e8b57d57a_1649108312?x-expires=1649131200&x-signature=5ZcO6vx%2Br1UsFrfVMHLQirXRyjw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f98ca22b18cf0657ea6006954c27b62e/624bc0d1/video/tos/useast5/tos-useast5-ve-0068c001-tx/a2b27f1204ab4aa3a6af33c159c9e7f2/?a=1988&br=2990&bt=1495&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ-eqDXq&l=202204042208400101130062071192DC2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w8aDc6ZjpwPDMzZzczNEApOGdlNWg0Zjw0N2c8N2VmNGcvYmAucjQwXjJgLS1kMS9zcy0zXy40MC9fNmA2MzYxMGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f98ca22b18cf0657ea6006954c27b62e/624bc0d1/video/tos/useast5/tos-useast5-ve-0068c001-tx/a2b27f1204ab4aa3a6af33c159c9e7f2/?a=1988&br=2990&bt=1495&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ-eqDXq&l=202204042208400101130062071192DC2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w8aDc6ZjpwPDMzZzczNEApOGdlNWg0Zjw0N2c8N2VmNGcvYmAucjQwXjJgLS1kMS9zcy0zXy40MC9fNmA2MzYxMGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/485d0f873424478e8bd2aab70faa260f_1649108311~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=ai7%2B%2BCyT1xYJwdrYOwRO%2FpRQY88%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/485d0f873424478e8bd2aab70faa260f_1649108311~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=nZ8eF19BeAg3HbT1JWN0paEnxp4%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ce0105ecda63456b8ce80094693f8d86?x-expires=1649131200&x-signature=1auyE54nTwYfKmK95eLvevVUVk8%3D",
+        "bitrate": 1531830,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6791567703942562822",
+        "uniqueId": "emiireland",
+        "nickname": "emi",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/250cb91f987e254be1bffb52bdf500d4~c5_100x100.jpeg?x-expires=1649196000&x-signature=RxZ6mQlgrecxVmKwQc3EauYH03E%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/250cb91f987e254be1bffb52bdf500d4~c5_720x720.jpeg?x-expires=1649196000&x-signature=NSwCLddLfFgIA0JNeJKEZH2xizo%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/250cb91f987e254be1bffb52bdf500d4~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=vw4FQQwiBdUEMOBRknNPNeU3n%2Fo%3D",
+        "signature": "heroine 4life\n\ud83d\udc97\ud83d\udc97\npeace love joy\n15",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAx0u7QY96PUTrrm6bBJXXj9V4cQGk_Q_jIaLb-U0u0Qa0Qhh6fckFwx11-fSlGDRZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7079126725686217478",
+        "title": "that is what gets me",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7079126735169604358.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c6fcdf69da8358dbfaca3898b7df3c2~c5_100x100.jpeg?x-expires=1649196000&x-signature=h8wVvDjmOllSdFRoYd5arvMmu6c%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c6fcdf69da8358dbfaca3898b7df3c2~c5_720x720.jpeg?x-expires=1649196000&x-signature=QqJNp97mYjK4fy5cxPGrOdFbmWM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c6fcdf69da8358dbfaca3898b7df3c2~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=uVv9Ezm%2BF3QEORkcWDH4SFjNYlk%3D",
+        "authorName": "biggarbie",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 14,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 63
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 742,
+        "followerCount": 505,
+        "heartCount": 5955,
+        "videoCount": 162,
+        "diggCount": 292600,
+        "heart": 5955
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

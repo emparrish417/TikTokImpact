@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7061313801560441862",
+        "shortId": "",
+        "uniqueId": "www.fabulous2",
+        "nickname": "Fabulous",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d6bfee1baa4f399202196167d8c0df4b~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=baADfLz8PkKMni3lXwAxy0DjG74%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d6bfee1baa4f399202196167d8c0df4b~c5_720x720.jpeg?x-expires=1648234800&x-signature=J9963ulr%2FucoitIpFRemoVq3LB4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d6bfee1baa4f399202196167d8c0df4b~c5_100x100.jpeg?x-expires=1648234800&x-signature=93FCjiX0QVsybzN%2FGSqCCbzfgQE%3D",
+        "signature": "Tech Mind \ud83c\uddec\ud83c\udde7",
+        "createTime": 1644090448,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7xHt6_A2A9bOu2gGJBdWXWAeUsbJpEpqcfsrnhH3FXrF6jXwJAZRxr52pZm1FkKt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 21,
+        "followingCount": 43,
+        "heart": 100,
+        "heartCount": 100,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7072413697050772486",
+        "shortId": "",
+        "uniqueId": "tatiayana0",
+        "nickname": "tatiayana",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cd95c84cefc3c587652d167243851243~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=uYIaCfzJ%2FQM2OeodKKs8kzXz%2BIo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cd95c84cefc3c587652d167243851243~c5_720x720.jpeg?x-expires=1648580400&x-signature=v8h6AnxvrTb2mS%2BGVhuEXZXfwnA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cd95c84cefc3c587652d167243851243~c5_100x100.jpeg?x-expires=1648580400&x-signature=uRV8jtpHOhWvYu9BxuNlgGvirBE%3D",
+        "signature": "",
+        "createTime": 1646674746,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADgoBLPL95yb5sO4wk0ew8vYaRGte9If8ZndTdWpELPZwWgn4-fidOn55EIicmCBh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 593,
+        "followingCount": 0,
+        "heart": 5317,
+        "heartCount": 5317,
+        "videoCount": 12,
+        "diggCount": 0
+    },
+    "itemList": []
+}

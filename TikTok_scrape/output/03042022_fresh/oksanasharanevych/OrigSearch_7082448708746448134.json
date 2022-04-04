@@ -1,0 +1,127 @@
+{
+    "id": "7082448708746448134",
+    "desc": "I Am Proud To Be Ukrainian\ud83d\udc99\ud83d\udc9b #standwithukraine",
+    "createTime": 1649011094,
+    "video": {
+        "id": "7082448708746448134",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3ec9c73efe354b9cba691126b2b07a8c_1649011097?x-expires=1649052000&x-signature=DGqjQO5ynWU3ECiFj2n1fbwa6M8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c4c7f4246b1c4368a6c0bb6da808f3e6_1649011096?x-expires=1649052000&x-signature=6hsM12LAZWeheSJoZzUa%2B5Ewu9o%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bf7a99ddc8bb4970bb20d7716109b4a6_1649011096?x-expires=1649052000&x-signature=r5eB4uMTHgNg58kNA8LgC1Qsals%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/cd6ede39cfbe4359d6e45526e3429645/624a96de/video/tos/useast2a/tos-useast2a-ve-0068c001/954e2e37c825403a94a10c89c99923db/?a=1988&br=734&bt=367&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThAjRqDXq&l=202204040057210101130062081A574D91&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Z3eWU6Zmt4PDMzNzczM0ApOWk2Omc4OGQ0N2k4NWg4aGczZ2NwcjRfZjFgLS1kMTZzcy42M2M2MDI2LWFhLWBeX2M6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/cd6ede39cfbe4359d6e45526e3429645/624a96de/video/tos/useast2a/tos-useast2a-ve-0068c001/954e2e37c825403a94a10c89c99923db/?a=1988&br=734&bt=367&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThAjRqDXq&l=202204040057210101130062081A574D91&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Z3eWU6Zmt4PDMzNzczM0ApOWk2Omc4OGQ0N2k4NWg4aGczZ2NwcjRfZjFgLS1kMTZzcy42M2M2MDI2LWFhLWBeX2M6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4c7f4246b1c4368a6c0bb6da808f3e6_1649011096~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=m4YtayTeVGNmBD8VNP8Ytt41b%2FA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4c7f4246b1c4368a6c0bb6da808f3e6_1649011096~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=PZikleqgmJjj3K0ZqOumU%2Bk6mXo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3ec9c73efe354b9cba691126b2b07a8c_1649011097?x-expires=1649052000&x-signature=DGqjQO5ynWU3ECiFj2n1fbwa6M8%3D",
+        "bitrate": 376006,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6770778579363136518",
+        "uniqueId": "oksanasharanevych",
+        "nickname": "Oksana Sharanevych",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f87ce1b9f5caf07eae8d2dbd2fed9ca~c5_100x100.jpeg?x-expires=1649116800&x-signature=MlA7%2B4PsFDDerjLKnBHAdqNrPlo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f87ce1b9f5caf07eae8d2dbd2fed9ca~c5_720x720.jpeg?x-expires=1649116800&x-signature=gkqcvBN19KaCkX1Rk%2BSIeUWRdsQ%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f87ce1b9f5caf07eae8d2dbd2fed9ca~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=750w3VX45MG0h%2BXdquhC9%2BhQdt0%3D",
+        "signature": "@sharanevychka",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1tGGsrasL7r5pexb_KIl4nFlmfcDMY1kwHUqaBnhqos5kXfUKzLvwxLUHoxr6gDL",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068990821135190790",
+        "title": "Slow Motion (Fast Beat)",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7068990792668433157.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1649116800&x-signature=JH5qcaYCOup6EZAk3Ws8%2BrS3p0E%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1649116800&x-signature=INQTRWZuVChdJE%2F7DFqkEQEWv1M%3D",
+        "coverLarge": "https://p77-sign-va-lite.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=i53zYBIPhx9GRh%2Fu3QSHlrgygNE%3D",
+        "authorName": "Sped up sounds",
+        "original": true,
+        "duration": 21,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1677190279668742",
+            "title": "standwithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 57,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 1000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 31,
+            "end": 48,
+            "hashtagName": "standwithukraine",
+            "hashtagId": "1677190279668742",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 16,
+        "followerCount": 50,
+        "heartCount": 5419,
+        "videoCount": 13,
+        "diggCount": 7321,
+        "heart": 5419
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "POV:I\u2019m your \ud83c\uddfa\ud83c\udde6\ngirlfriend "
+            ]
+        }
+    ],
+    "isAd": false
+}

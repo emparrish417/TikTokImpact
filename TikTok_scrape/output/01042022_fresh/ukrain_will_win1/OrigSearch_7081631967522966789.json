@@ -1,0 +1,127 @@
+{
+    "id": "7081631967522966789",
+    "desc": "#tiktokpoll",
+    "createTime": 1648820930,
+    "video": {
+        "id": "7081631967522966789",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4d6f972745f14377aea172c6d0e5a660?x-expires=1648875600&x-signature=iu4CtoT5HC5dG0vLboyWuNL6Gwo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ae212a00263945f68b72379f10c30992_1648820932?x-expires=1648875600&x-signature=rJLR8MGjrFEAVcnmaJ5P7pGWq2E%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/957061b298e44f6190225353f0e56eb1_1648820932?x-expires=1648875600&x-signature=Ym%2F3QSzWGrkmhJ%2F4DH9b5sUuPTg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/390978414aa899b33051d53f752096d9/6247e3c9/video/tos/useast2a/tos-useast2a-ve-0068c001/7019f79e2d4d4816a5b507ad96ff2b47/?a=1988&br=650&bt=325&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThxaxzDXq&l=20220401234842010113135231265C47A3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am94Nzw6ZnlqPDMzNzczM0ApaTQ6OGg1NmVlN2g3OGk8NWdtcC1rcjRvMTBgLS1kMTZzc2AwLTYvMzJeMjQtM2FeNTE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/390978414aa899b33051d53f752096d9/6247e3c9/video/tos/useast2a/tos-useast2a-ve-0068c001/7019f79e2d4d4816a5b507ad96ff2b47/?a=1988&br=650&bt=325&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThxaxzDXq&l=20220401234842010113135231265C47A3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am94Nzw6ZnlqPDMzNzczM0ApaTQ6OGg1NmVlN2g3OGk8NWdtcC1rcjRvMTBgLS1kMTZzc2AwLTYvMzJeMjQtM2FeNTE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ae212a00263945f68b72379f10c30992_1648820932~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=hMC%2FcIf1%2FXOERmneqdKFgElQVQw%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ae212a00263945f68b72379f10c30992_1648820932~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=qaKfsSww4BTVQg%2Bgm7cBaFDK9jM%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4d6f972745f14377aea172c6d0e5a660?x-expires=1648875600&x-signature=iu4CtoT5HC5dG0vLboyWuNL6Gwo%3D",
+        "bitrate": 333519,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7044878225965007877",
+        "uniqueId": "ukrain_will_win1",
+        "nickname": "Roblox acc x",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/761cadf71302e93922c73cc894ab84d1~c5_100x100.jpeg?x-expires=1648940400&x-signature=Mzp6DZeD2ej9ZNFQtbt6J8LvI%2Bk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/761cadf71302e93922c73cc894ab84d1~c5_720x720.jpeg?x-expires=1648940400&x-signature=%2FNdsNzYnEhXTy4XhEeuXTx3d%2BFg%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/761cadf71302e93922c73cc894ab84d1~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=uIOufEOIF6XKoW3UZETGDDAsgg8%3D",
+        "signature": "Help me pick a name for tik tok!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEwxFefuRW3oe59PlyZDOUUlrTu4bty-3BdHVdqG0piSaag1DB_0EGjtRI8a94hh_",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6795407744489752577",
+        "title": "Just a Cloud Away",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a9dc60e62f334229af15a0b1650029ff",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "authorName": "Pharrell Williams",
+        "original": false,
+        "duration": 60,
+        "album": "Despicable Me 2 (Original Motion Picture Soundtrack)"
+    },
+    "challenges": [
+        {
+            "id": "1620897957840038",
+            "title": "tiktokpoll",
+            "desc": "Get your votes in for #TikTokPoll \u2705",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 9
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 11,
+            "hashtagName": "tiktokpoll",
+            "hashtagId": "1620897957840038",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 197,
+        "followerCount": 42,
+        "heartCount": 60,
+        "videoCount": 3,
+        "diggCount": 1546,
+        "heart": 60
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Should I do an adopt me give away?"
+            ]
+        }
+    ],
+    "isAd": false
+}

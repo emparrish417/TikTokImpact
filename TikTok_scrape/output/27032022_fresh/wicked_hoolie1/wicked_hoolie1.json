@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7040393326723826734",
+        "shortId": "",
+        "uniqueId": "wicked_hoolie1",
+        "nickname": "Stacy",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/474bf426415ed184c7f0e4d4749f4c5f~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=q0gSBJh%2FS3OMQ7C8Gqam8gWzDEk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/474bf426415ed184c7f0e4d4749f4c5f~c5_720x720.jpeg?x-expires=1648515600&x-signature=d5%2BKMgazJmDOhZolsX6AGwhvo%2F0%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/474bf426415ed184c7f0e4d4749f4c5f~c5_100x100.jpeg?x-expires=1648515600&x-signature=4WZplMuk4VkxlAV%2FhI9WXWIKO1g%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\ud83d\udcda\ud83d\udc08\u200d\u2b1b\ud83c\udf3f\ud83e\udeb4",
+        "createTime": 1648404201,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmAlokpUEOt_BAVotDx1yz4am3QkI5Zdze-AQhb8l-mPZbKFqcdNEtOTsEdjGwSqW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10,
+        "followingCount": 94,
+        "heart": 36,
+        "heartCount": 36,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

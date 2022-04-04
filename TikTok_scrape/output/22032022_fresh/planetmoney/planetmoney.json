@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6821201908814087173",
+        "shortId": "",
+        "uniqueId": "planetmoney",
+        "nickname": "planetmoney",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/15b0d5368776687b1944066bdde61c88~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=irZcCbBx6NqERANMYcNAUsp9z6Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/15b0d5368776687b1944066bdde61c88~c5_720x720.jpeg?x-expires=1648069200&x-signature=Hgx6vcVt2JprTucreQpM982ORtI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/15b0d5368776687b1944066bdde61c88~c5_100x100.jpeg?x-expires=1648069200&x-signature=w3oSI0tvuW%2FUA7xU5JbBDbF0H2Y%3D",
+        "signature": "you can help support us with a Planet Money+ paid subscription! n.pr/pm-sub",
+        "createTime": 1588156945,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAS5nW5BWfYHlcN3uDF8loPX7tBjIayRJfajXpYBJHz7C-_vcvCOTRF0jEULfs576-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "npr.org/planetmoney",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 674300,
+        "followingCount": 9,
+        "heart": 12000000,
+        "heartCount": 12000000,
+        "videoCount": 252,
+        "diggCount": 0
+    },
+    "itemList": []
+}

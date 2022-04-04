@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6775158620260434949",
+        "shortId": "",
+        "uniqueId": "olga_see_",
+        "nickname": "Olga See",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e05ce1f140f1eaf5826dfad961d6a44~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=9IFb5VhAYSAgzrqUa4Jv0fm05qA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e05ce1f140f1eaf5826dfad961d6a44~c5_720x720.jpeg?x-expires=1648069200&x-signature=aKikCXd3YlybKSHpRIG1nth0m%2F8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e05ce1f140f1eaf5826dfad961d6a44~c5_100x100.jpeg?x-expires=1648069200&x-signature=v%2FvM%2FEsczAA7kEivvRAYr9jcGPQ%3D",
+        "signature": "",
+        "createTime": 1577435943,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAI0kaV24zNVsD3hzZXURJsrLrHHybD6T_KPOAZFBbzkTAkFC4mxjZm3tDZ4OSnfnp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 203,
+        "followingCount": 33,
+        "heart": 3603,
+        "heartCount": 3603,
+        "videoCount": 44,
+        "diggCount": 0
+    },
+    "itemList": []
+}

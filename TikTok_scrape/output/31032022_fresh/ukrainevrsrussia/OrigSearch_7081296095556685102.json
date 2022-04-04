@@ -1,0 +1,98 @@
+{
+    "id": "7081296095556685102",
+    "desc": "",
+    "createTime": 1648742729,
+    "video": {
+        "id": "7081296095556685102",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f1cebd0bb2744772a457f07a21aaf443?x-expires=1648785600&x-signature=zR5uvjuykVK8yXY41bCLQwvZk0Q%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0222a2d47e804d95b605b8086e720edf_1648742730?x-expires=1648785600&x-signature=SrVyQYF4n52TItRRzCYnzqjAk74%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6ea0f18b29a64b038e31e8b76dfb8e3a_1648742731?x-expires=1648785600&x-signature=wyYjALnG9V0%2BeOkynNSAiEM9JWw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c154811c35d1c37b0daba60a80fb2f68/6246835f/video/tos/useast5/tos-useast5-ve-0068c004-tx/c851c275fa78401fae29bba771aebc8e/?a=1988&br=1342&bt=671&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThK~0zDXq&l=202203312245090101130062330C212A49&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdteTg6Zmt3PDMzZzczNEApZGhkOzQ2M2Q6N2k5ZDQ5ZmdfaS1scjRfLy9gLS1kMS9zczQyMF5jLmA0YDFeMjNeNTE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c154811c35d1c37b0daba60a80fb2f68/6246835f/video/tos/useast5/tos-useast5-ve-0068c004-tx/c851c275fa78401fae29bba771aebc8e/?a=1988&br=1342&bt=671&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThK~0zDXq&l=202203312245090101130062330C212A49&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdteTg6Zmt3PDMzZzczNEApZGhkOzQ2M2Q6N2k5ZDQ5ZmdfaS1scjRfLy9gLS1kMS9zczQyMF5jLmA0YDFeMjNeNTE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0222a2d47e804d95b605b8086e720edf_1648742730~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=iffbnKEbkvp9%2FgsigK8O9ZAcPs8%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0222a2d47e804d95b605b8086e720edf_1648742730~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=7u7VGOs5qhDJJPs2wYqyhJ9jR9A%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f1cebd0bb2744772a457f07a21aaf443?x-expires=1648785600&x-signature=9yWhDmg%2FVibh%2FkvGqh%2ByPTqwYKU%3D",
+        "bitrate": 688041,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7071337785295995950",
+        "uniqueId": "ukrainevrsrussia",
+        "nickname": "Urkrainvrrussia",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e6dcc2b25c715558b8ba0e04c381ff4f~c5_100x100.jpeg?x-expires=1648850400&x-signature=CJHuMoRANhtKQWsOxOWS8qXiETc%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e6dcc2b25c715558b8ba0e04c381ff4f~c5_720x720.jpeg?x-expires=1648850400&x-signature=PEkZMs6ptV4gpm93KcLklePa3Uc%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e6dcc2b25c715558b8ba0e04c381ff4f~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=rKrHMrg%2FNx4wlUr38S2fLCEpbNY%3D",
+        "signature": "Like all my vids if Russia sucks and they gonna lose",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_aUNg-fToXgoQ5lubLF4FFI-QISLsWPfwsXCG85ea6jj7RKUdDNsxRhD8CWYFiUJ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6945648324590553861",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6945648495840037638.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/456960c4ecb13bf35750fc1e3eb5c851~c5_100x100.jpeg?x-expires=1648850400&x-signature=WCuXuQteDOUyGFp29q0XdOTOpHY%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/456960c4ecb13bf35750fc1e3eb5c851~c5_720x720.jpeg?x-expires=1648850400&x-signature=P2v%2FYpQVngPcAc00VdbR5zx%2F4rM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/456960c4ecb13bf35750fc1e3eb5c851~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=LZUxDI3mE%2FXMNdSj%2FRAjZKYhWYI%3D",
+        "authorName": "JaniaRoberts",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 112
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 813,
+        "followerCount": 323,
+        "heartCount": 1434,
+        "videoCount": 102,
+        "diggCount": 1106,
+        "heart": 1434
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Yep another one passed again rip\ud83d\ude4f"
+            ]
+        }
+    ],
+    "isAd": false
+}

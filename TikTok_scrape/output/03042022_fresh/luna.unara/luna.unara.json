@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7079092771625649158",
+        "shortId": "",
+        "uniqueId": "luna.unara",
+        "nickname": "luna.unara",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3d7bafffb368feb92f792579c58b05f3~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=E%2FfPvTrN2pK2mXT26vYiQ74bwjg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3d7bafffb368feb92f792579c58b05f3~c5_720x720.jpeg?x-expires=1649116800&x-signature=Ia5197nJCUBMUjTrKNFftdnHCis%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3d7bafffb368feb92f792579c58b05f3~c5_100x100.jpeg?x-expires=1649116800&x-signature=joqfmiDYbQAt%2Bm%2BBerKNSId3UTQ%3D",
+        "signature": "",
+        "createTime": 1648237873,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVoMiYL4ywvnUZOF8_fI0yIqwZQCoHRgXavkCEpGiQYsCgnsrWqlysKF69D-2DCpk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 0,
+        "heart": 8,
+        "heartCount": 8,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

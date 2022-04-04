@@ -1,0 +1,98 @@
+{
+    "id": "7082649139669896453",
+    "desc": "",
+    "createTime": 1649057760,
+    "video": {
+        "id": "7082649139669896453",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d23fcf6ac8374830ae3e02d35dd08232?x-expires=1649131200&x-signature=KhpXQc8QXuCNOyeghlfNHZqcwbo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/660de38151254dbab91bfefdabb4bceb_1649057761?x-expires=1649131200&x-signature=puSVSCBxEyMcejpjY4P7N1LAgSs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1889b8cb475f46409cdcc0aaacb2a902_1649057762?x-expires=1649131200&x-signature=8REQaZT31Ov%2Fg5ZVC9QqK9lWiAY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f31f150ea404ab5f2f26756c19a537bf/624bc07f/video/tos/useast2a/tos-useast2a-ve-0068c001/aaaa97fafe89403dad447fd007daba10/?a=1988&br=4230&bt=2115&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThBgeqDXq&l=202204042207140101131352531806E89A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am5xZDY6Zmw8PDMzNzczM0ApZmY6aGc1NWQ4Nzo1Zjc7aGdecC5vcjRvczJgLS1kMTZzc2E1LS01LWBjLzAyMWM1NDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f31f150ea404ab5f2f26756c19a537bf/624bc07f/video/tos/useast2a/tos-useast2a-ve-0068c001/aaaa97fafe89403dad447fd007daba10/?a=1988&br=4230&bt=2115&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThBgeqDXq&l=202204042207140101131352531806E89A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am5xZDY6Zmw8PDMzNzczM0ApZmY6aGc1NWQ4Nzo1Zjc7aGdecC5vcjRvczJgLS1kMTZzc2E1LS01LWBjLzAyMWM1NDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/660de38151254dbab91bfefdabb4bceb_1649057761~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=m4N5IznMnnFHptJrfPuAjWLk4%2FI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/660de38151254dbab91bfefdabb4bceb_1649057761~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=Gf4uY3pSjPMq4oN0fS%2BhS7HA1Pg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d23fcf6ac8374830ae3e02d35dd08232?x-expires=1649131200&x-signature=KhpXQc8QXuCNOyeghlfNHZqcwbo%3D",
+        "bitrate": 2166300,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7030050794234446854",
+        "uniqueId": "ukrain437",
+        "nickname": "Support Ukraine",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/179726936c0f939c4ae09760ece1db96~c5_100x100.jpeg?x-expires=1649196000&x-signature=nTMD4l%2BnjHQ40SeBuE4eB9rIyzE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/179726936c0f939c4ae09760ece1db96~c5_720x720.jpeg?x-expires=1649196000&x-signature=Hrqb8VR8AeT78CMlOmSu4yfhG%2F0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/179726936c0f939c4ae09760ece1db96~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=8%2BWPDGEZoaBKkUItC2oPbz85Iew%3D",
+        "signature": "Hi if you like Dirt bikes follow me I would like to achieve 1K one day",
+        "verified": false,
+        "secUid": "MS4wLjABAAAApeiFDAjv3q-atcE2N87El33TWAe0XDEzK9yIIkqVml1rLWY84ZByWmg3RqfkmoIb",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081558492469463809",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7081558489441159937.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3ef6b4246acd13923d4858bb38bc63a7.jpeg?x-expires=1649196000&x-signature=YP4Qny0coiZzdPKUmKI9K9CNrZg%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/3ef6b4246acd13923d4858bb38bc63a7.jpeg?x-expires=1649196000&x-signature=nHp9%2F9%2FZzq5Jg%2FWjDnhuZ7SwQVA%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/3ef6b4246acd13923d4858bb38bc63a7.jpeg?x-expires=1649196000&x-signature=Gsy45ovns2INqNv07tjLpKkMhTQ%3D",
+        "authorName": "RapStaring",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 27
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2869,
+        "followerCount": 455,
+        "heartCount": 671,
+        "videoCount": 159,
+        "diggCount": 8810,
+        "heart": 671
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Best song ever\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

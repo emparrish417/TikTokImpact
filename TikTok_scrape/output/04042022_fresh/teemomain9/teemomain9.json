@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6782053248683967494",
+        "shortId": "",
+        "uniqueId": "teemomain9",
+        "nickname": "TeemoMain",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e0299cb0436f0b6864768ea1af66250b~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=xtSoFIe5gi2hYptHGwJKJqcFzsw%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e0299cb0436f0b6864768ea1af66250b~c5_720x720.jpeg?x-expires=1649196000&x-signature=r2uTo3OjvfI%2BkDXtWp07Jce7RaA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e0299cb0436f0b6864768ea1af66250b~c5_100x100.jpeg?x-expires=1649196000&x-signature=oa2bVVCv0QpljhtRjcPl7zdWRPA%3D",
+        "signature": "",
+        "createTime": 1591380524,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7zwY8MBYAUgrA8CxKXX-6w41z9ABuaFTUeOt6TVeb8ev0TYjAKns4ZTkdfWySYox",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5026,
+        "followingCount": 86,
+        "heart": 91400,
+        "heartCount": 91400,
+        "videoCount": 209,
+        "diggCount": 0
+    },
+    "itemList": []
+}

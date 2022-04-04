@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "290351079148625920",
+        "shortId": "",
+        "uniqueId": "elizkomarova",
+        "nickname": "Liza Komarova",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a4dd4516a2b2cde0cf8c08f41d89a96c~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=cZAx11JDtyEXzkvnHIGt8PCboO8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a4dd4516a2b2cde0cf8c08f41d89a96c~c5_720x720.jpeg?x-expires=1647900000&x-signature=K7rzl0W5Fh6Jjr9zgEMZlkRbSyI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a4dd4516a2b2cde0cf8c08f41d89a96c~c5_100x100.jpeg?x-expires=1647900000&x-signature=pcFoSux9lxONnfo4MWX1M%2B4AyjM%3D",
+        "signature": "",
+        "createTime": 1509596606,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA72D_Mecs91lAIG7bQl1lGU1gCPgStHh2YeTivVE5Xh8uy0UlSLRq-VS5tZtSwMUB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 93,
+        "followingCount": 504,
+        "heart": 18500,
+        "heartCount": 18500,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

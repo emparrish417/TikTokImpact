@@ -1,0 +1,104 @@
+{
+    "id": "7080718022134009130",
+    "desc": "Oof \ud83d\ude25",
+    "createTime": 1648608135,
+    "video": {
+        "id": "7080718022134009130",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f76ce78494b94422bb530b7c04c49a21?x-expires=1648699200&x-signature=m4NIVt8Ups5i702mEVurC0BDmC8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7e5541ba2c414a509463e7a928931295_1648608136?x-expires=1648699200&x-signature=R81sNiVzxQgaEDtmFy1zxU0I%2BxQ%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3fbcb38337014a9d8db8e699eddc8619_1648608137?x-expires=1648699200&x-signature=Gdo4PzRLX2I1WI%2FatFHO5kD5tUI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d773ebca05692aae28f2b6868c80436e/6245295b/video/tos/useast5/tos-useast5-ve-0068c001-tx/3b3e806ca0d64e249d6024691ea1c489/?a=1988&br=1040&bt=520&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKOFzDXq&l=2022033022085301011313521126747A74&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anc4ZTs6ZjV2PDMzZzczNEApODVoNTU1aGQ0NzVmOWloNmcvbjQ2cjRnMi5gLS1kMS9zcy5iXzEvNS40MTYuXy9hMjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d773ebca05692aae28f2b6868c80436e/6245295b/video/tos/useast5/tos-useast5-ve-0068c001-tx/3b3e806ca0d64e249d6024691ea1c489/?a=1988&br=1040&bt=520&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKOFzDXq&l=2022033022085301011313521126747A74&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anc4ZTs6ZjV2PDMzZzczNEApODVoNTU1aGQ0NzVmOWloNmcvbjQ2cjRnMi5gLS1kMS9zcy5iXzEvNS40MTYuXy9hMjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7e5541ba2c414a509463e7a928931295_1648608136~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=TaRqka4MVW4hMv8UHaB%2FiPCRxmQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7e5541ba2c414a509463e7a928931295_1648608136~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=NUt0EkhBv8KudO5gKv5po4AgwWo%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f76ce78494b94422bb530b7c04c49a21?x-expires=1648699200&x-signature=m4NIVt8Ups5i702mEVurC0BDmC8%3D",
+        "bitrate": 533173,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7045853948679832582",
+        "uniqueId": "_hog.rider_12",
+        "nickname": "I stand with Ukrain",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a5dfafaa334b0faeff18a958dcc01e6b~c5_100x100.jpeg?x-expires=1648764000&x-signature=72wePM9cU9deFlIaz8LUqZpH%2BY8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a5dfafaa334b0faeff18a958dcc01e6b~c5_720x720.jpeg?x-expires=1648764000&x-signature=xIJcKNB2YoCJIDWF90JH2XDdDZo%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a5dfafaa334b0faeff18a958dcc01e6b~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=ev2yJmAW3Hmazsm9PBNnarJQQ%2BU%3D",
+        "signature": "Utah\ud83d\ude42\nVms\ud83d\udc34\nJust retired from stalking my crush \ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude0c\ud83d\ude0c",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAW3vtQlpOYVQKOVJMl3fH7ce1_tzN_Xklzdoq972kou5jR792UQponcmsewXuM4TJ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7071093895836224257",
+        "title": "No surprises by Radiohead",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7071093853847161601.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/310574f2839c8cff0a82f03ade997ab3.jpeg?x-expires=1648764000&x-signature=o%2Bsd2fX0g%2BfPdRjU7SNyckKELOI%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/310574f2839c8cff0a82f03ade997ab3.jpeg?x-expires=1648764000&x-signature=VE6JDAdI12lvi2XpTSIZr7SwsdY%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/310574f2839c8cff0a82f03ade997ab3.jpeg?x-expires=1648764000&x-signature=RrLYzH6yEIAwG12NCjac%2F977h4E%3D",
+        "authorName": "<3",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 30
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "light makeup",
+            "ID": "1574533"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1030,
+        "followerCount": 218,
+        "heartCount": 292,
+        "videoCount": 50,
+        "diggCount": 5403,
+        "heart": 292
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "When I decide to start talking to my crush"
+            ]
+        }
+    ],
+    "isAd": false
+}

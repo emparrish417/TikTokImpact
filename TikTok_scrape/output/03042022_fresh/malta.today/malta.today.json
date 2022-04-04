@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6901599955275990018",
+        "shortId": "",
+        "uniqueId": "malta.today",
+        "nickname": "MaltaToday",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/78944c86bd149db9d5b075f47d842ef3.jpeg?x-expires=1649120400&x-signature=wF2jtdkhprCMjlIaEty9e%2FLFU%2BE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/78944c86bd149db9d5b075f47d842ef3.jpeg?x-expires=1649120400&x-signature=GsuVbPV4n28gWq2%2FEqaPFSzJyGM%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/78944c86bd149db9d5b075f47d842ef3.jpeg?x-expires=1649120400&x-signature=mn%2BOr0mredo%2Bi8XNIUZ%2BeqFueqI%3D",
+        "signature": "Independent English language Maltese newspaper bringing you all the latest \ud83d\udca5",
+        "createTime": 1606904157,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAX9BiBfk4kDZGS7_6fFRJuDJOpNIhHpcOew5mMnZQWs2QYytLmnwbhbLkm_86j5Ta",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 26000,
+        "followingCount": 0,
+        "heart": 433900,
+        "heartCount": 433900,
+        "videoCount": 69,
+        "diggCount": 0
+    },
+    "itemList": []
+}

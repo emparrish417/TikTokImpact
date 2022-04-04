@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7064076134124602374",
+        "shortId": "",
+        "uniqueId": "azra.zi",
+        "nickname": "Azra",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76ac76f91829e162e7fa3149f9a9c80a~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=ze5K8XcLZsPWje%2FkBGcLd483t60%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76ac76f91829e162e7fa3149f9a9c80a~c5_720x720.jpeg?x-expires=1648234800&x-signature=XguT9dxMLAtz9KpToUH0aJ0naEM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76ac76f91829e162e7fa3149f9a9c80a~c5_100x100.jpeg?x-expires=1648234800&x-signature=wVcBM2VS9SgzwFUHvhuSXhddVZs%3D",
+        "signature": "Minor\nDrown",
+        "createTime": 1647758866,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYgA5LGjauhErJ6Io1ZlK2voMfH34HpzIw94a-L4Ss1IJgJkLLNVJLItqzabpqYGS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22,
+        "followingCount": 21,
+        "heart": 181,
+        "heartCount": 181,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

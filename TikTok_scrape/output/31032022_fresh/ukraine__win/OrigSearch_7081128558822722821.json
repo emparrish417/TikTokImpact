@@ -1,0 +1,103 @@
+{
+    "id": "7081128558822722821",
+    "desc": "",
+    "createTime": 1648703722,
+    "video": {
+        "id": "7081128558822722821",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/728911c735f34b0f8c5edba3d1746c0f?x-expires=1648785600&x-signature=1IGuGZ7SdJLda1UAlvH8S2O1rF8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9d7c40df699a45288746f6d388c108e5_1648703724?x-expires=1648785600&x-signature=z3zGEcAXUTYLQ1etO0pUlIi1IaU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5b92701bcb3448379e15e2bac54b035b_1648703724?x-expires=1648785600&x-signature=0kJ%2BaqmNbdXHj6Bu4daUYYc5VjA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/70cc30a09adf073f54afe0ef9080a2d8/62468351/video/tos/useast2a/tos-useast2a-pve-0068/b06b9fbb3e4e4e16b5bb17e06158b801/?a=1988&br=1216&bt=608&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thm~0zDXq&l=2022033122445001011300622720562A56&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3dqbTM6ZnhtPDMzNzczM0ApNmlmOzxmPDw6Nzs6MzVkZGcxYG1lcjRfYi9gLS1kMTZzczYtLS8wLmMuMV8uMDYwNjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/70cc30a09adf073f54afe0ef9080a2d8/62468351/video/tos/useast2a/tos-useast2a-pve-0068/b06b9fbb3e4e4e16b5bb17e06158b801/?a=1988&br=1216&bt=608&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thm~0zDXq&l=2022033122445001011300622720562A56&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3dqbTM6ZnhtPDMzNzczM0ApNmlmOzxmPDw6Nzs6MzVkZGcxYG1lcjRfYi9gLS1kMTZzczYtLS8wLmMuMV8uMDYwNjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d7c40df699a45288746f6d388c108e5_1648703724~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=BbT3KBnTunPa1yXF%2Fk10KtFmHdg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d7c40df699a45288746f6d388c108e5_1648703724~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=o0AIzBwjw9e0MezQuEik%2Fwk8ClU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/728911c735f34b0f8c5edba3d1746c0f?x-expires=1648785600&x-signature=1IGuGZ7SdJLda1UAlvH8S2O1rF8%3D",
+        "bitrate": 623200,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6976701189908186117",
+        "uniqueId": "ukraine__win",
+        "nickname": "Dooman_7128",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/84802ca13f66a3160d6e791eb037a988~c5_100x100.jpeg?x-expires=1648850400&x-signature=y30JqBA15MP9X1PNLxUtxfgtVvo%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/84802ca13f66a3160d6e791eb037a988~c5_720x720.jpeg?x-expires=1648850400&x-signature=69WK5qJd6tPqntBqnG9ByjN7Kao%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/84802ca13f66a3160d6e791eb037a988~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=ncncm1MuIMzlRv0StL%2B6o9HE%2B6c%3D",
+        "signature": "Podpora @Panny_cz , @jehl1x , @\u0161trba_martin14 \nTi co podpo\u0159\u00ed kan\u00e1l budou vevideu",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKnz8Sj1CvvCWom0gIog6wmFnYgq6bhrCMlVvtzgNMwMM6hpDQrGqbI8WH20iimQE",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7073489854000024362",
+        "title": "In My Head",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/61ff0ba0cfac40b6a8bf80db9ed74eb2",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/19add7a413854ef1baff24fa616210e6.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/19add7a413854ef1baff24fa616210e6.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/19add7a413854ef1baff24fa616210e6.jpeg",
+        "authorName": "Lil Tjay",
+        "original": false,
+        "duration": 29,
+        "album": "In My Head"
+    },
+    "stats": {
+        "diggCount": 72,
+        "shareCount": 1,
+        "commentCount": 14,
+        "playCount": 722
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1736,
+        "followerCount": 1685,
+        "heartCount": 8894,
+        "videoCount": 44,
+        "diggCount": 1494,
+        "heart": 8894
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Legendary",
+                "Hard",
+                "Normal",
+                "Easy",
+                "part 3",
+                "Najdi v\u0161e "
+            ]
+        }
+    ],
+    "isAd": false
+}

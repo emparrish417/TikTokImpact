@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7075278246808142854",
+        "shortId": "",
+        "uniqueId": "goldart660",
+        "nickname": "Starr",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb90b39438da404113777f90190b9bd3~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=wfZve83mX1dfVVzr%2FPwlFcEW%2BK4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb90b39438da404113777f90190b9bd3~c5_720x720.jpeg?x-expires=1648940400&x-signature=f5JDFP3nlAjYUOea7pAsPYDpSs4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb90b39438da404113777f90190b9bd3~c5_100x100.jpeg?x-expires=1648940400&x-signature=3YTpvrAAGG6VYW9jckvMmyHhMog%3D",
+        "signature": "\ud83d\udea8",
+        "createTime": 1647375499,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA03vfOtUp_GxVrOnJg9YSW5_N3Y_tp9arh7s24vOLDomI1VWl5iF76wMwSVo8l6zW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Automotive & Transportation",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 474,
+        "followingCount": 2,
+        "heart": 266,
+        "heartCount": 266,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

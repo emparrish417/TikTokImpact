@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6803177261531022341",
+        "shortId": "",
+        "uniqueId": "ratlady5",
+        "nickname": "Talia",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a898916dc909ba9d6dc71c0af4be66fa~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=L2w9%2FMQAV0Ix%2Flde9yd%2ByGSo9H4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a898916dc909ba9d6dc71c0af4be66fa~c5_720x720.jpeg?x-expires=1648515600&x-signature=s3su3XBvlKpEq9L%2BQh%2BU%2FN%2FlqYc%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a898916dc909ba9d6dc71c0af4be66fa~c5_100x100.jpeg?x-expires=1648515600&x-signature=jjfAjQPHFqvYBbDUg5cEF%2BzPOEc%3D",
+        "signature": "18 \n\ud83c\uddfa\ud83c\udde6\nAll proceeds go to Ukraine",
+        "createTime": 1583990500,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhSt4M8c918c0Vq4ZMDcXMBocGRfQGQd2fpGeHD8Cr5mWc55FKgEKSSLTYvB-QOgA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linkr.bio/ratlady5",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 49600,
+        "followingCount": 1037,
+        "heart": 3600000,
+        "heartCount": 3600000,
+        "videoCount": 60,
+        "diggCount": 0
+    },
+    "itemList": []
+}

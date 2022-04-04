@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6625395928545968133",
+        "shortId": "",
+        "uniqueId": "j_mazda",
+        "nickname": "J Matsuda",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/681986941afe259d91b3efe0c39f0c5c~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=iL5cMZk1wLSKjMZJXm%2FnhbwzFc4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/681986941afe259d91b3efe0c39f0c5c~c5_720x720.jpeg?x-expires=1649196000&x-signature=RDLFSoeRuRGbkzw7fzpjBQIC3Uc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/681986941afe259d91b3efe0c39f0c5c~c5_100x100.jpeg?x-expires=1649196000&x-signature=E9%2B9jCTsj7Nl7c5L6Q46k4IPM7Y%3D",
+        "signature": "19\njaymatsudabusiness@gmail.com",
+        "createTime": 1542567391,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAK-ASPXAOx17u0VCxRdrkVoOv0xZssEcDzOdMvqVUxsNT5vbypfC4Wn9W6AoU6jzM",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://scdhec.gov/covid19",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 82600,
+        "followingCount": 322,
+        "heart": 6300000,
+        "heartCount": 6300000,
+        "videoCount": 731,
+        "diggCount": 0
+    },
+    "itemList": []
+}

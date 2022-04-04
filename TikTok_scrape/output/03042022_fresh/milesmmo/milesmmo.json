@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6558125857663352834",
+        "shortId": "",
+        "uniqueId": "milesmmo",
+        "nickname": "M",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=Q9U5gFld51N5iQrcKlw%2Bvj4wLnI%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_720x720.jpeg?x-expires=1649120400&x-signature=gstKW9Ysj%2BFuDxzZtKaTpf0fb28%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_100x100.jpeg?x-expires=1649120400&x-signature=TfJg7BA1OXwuIaPT0r3I%2FRknTkU%3D",
+        "signature": "Man I ain\u2019t getting no creator fund\ud83d\ude14",
+        "createTime": 1553564362,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWaBvB7HTQrSugj_BvS0ZAWVXPIgY5U8uhg86sZ-gSBY2DsHmIZMSlxZpPreD1DjQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 41100,
+        "followingCount": 301,
+        "heart": 5700000,
+        "heartCount": 5700000,
+        "videoCount": 134,
+        "diggCount": 36900
+    },
+    "itemList": []
+}

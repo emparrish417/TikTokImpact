@@ -1,0 +1,101 @@
+{
+    "id": "7078862386794581294",
+    "desc": "Follow and like if you sopport Ukrainian",
+    "createTime": 1648176086,
+    "video": {
+        "id": "7078862386794581294",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8a37a0df4a5d414cb584f4c308fe3403?x-expires=1648249200&x-signature=c5U3whY43wJ9cOUCNtbtWIuViM4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fb71446e900e484eabb480345e96efd4_1648176087?x-expires=1648249200&x-signature=iawR2ipt4AEYTIxxk4xdk60vo70%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/829830a5510245039556194695f02ed0_1648176088?x-expires=1648249200&x-signature=CFrqV6A%2Fe0FDeRoLhktmyz6JMpM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/954f6106300a93253af984bad549c062/623e4f21/video/tos/useast5/tos-useast5-ve-0068c004-tx/481bbbf9be8540c58e4281e6f10d33d9/?a=1988&br=292&bt=146&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJizJDXq&l=2022032517240601011300620700E3C417&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNub2g6ZjVsOzMzZzczNEApZmloZGUzaWU4Nzc1NmY5O2doLjVgcjRvaHJgLS1kMS9zcy9jXjY2NGAyNTExXi9gYjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/954f6106300a93253af984bad549c062/623e4f21/video/tos/useast5/tos-useast5-ve-0068c004-tx/481bbbf9be8540c58e4281e6f10d33d9/?a=1988&br=292&bt=146&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJizJDXq&l=2022032517240601011300620700E3C417&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNub2g6ZjVsOzMzZzczNEApZmloZGUzaWU4Nzc1NmY5O2doLjVgcjRvaHJgLS1kMS9zcy9jXjY2NGAyNTExXi9gYjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fb71446e900e484eabb480345e96efd4_1648176087~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=qauShQkWElXjYzBXGTdQprntW1g%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fb71446e900e484eabb480345e96efd4_1648176087~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=R%2Ffa%2FEInkihZwWMlUwPFBEyo3Fc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8a37a0df4a5d414cb584f4c308fe3403?x-expires=1648249200&x-signature=c5U3whY43wJ9cOUCNtbtWIuViM4%3D",
+        "bitrate": 149801,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6735200323793601542",
+        "uniqueId": "gamer2.361",
+        "nickname": "Hasan Ali \ud83d\ude0e",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f3250ecc6c5c66133e92a82eafbc7c4d~c5_100x100.jpeg?x-expires=1648314000&x-signature=QAUgH0YYTw2G6QNaWOjsXWAaDdU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f3250ecc6c5c66133e92a82eafbc7c4d~c5_720x720.jpeg?x-expires=1648314000&x-signature=r35hfwxK2bEU53lrBznUy2tO27c%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f3250ecc6c5c66133e92a82eafbc7c4d~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=AwcB2rdZEbVML2603IRHWd9XPtg%3D",
+        "signature": "Hasan\nFrome syria \ud83c\uddf8\ud83c\uddfe\nIive In \ud83c\uddfa\ud83c\uddf8",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxUwMvuNXxG8P3YhNzjBzYUQSx6UojKoMbxwBSRT3jIY5xa5wlWpKcOIBE1UwCG9b",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6745130332346927105",
+        "title": "Sex Sounds",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/fc451aac84994c3f9d771a7e1210538b",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a811b8c341b6434ab5f55002267f5ef3.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a811b8c341b6434ab5f55002267f5ef3.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a811b8c341b6434ab5f55002267f5ef3.jpeg",
+        "authorName": "Lil Tjay",
+        "original": false,
+        "duration": 60,
+        "album": "True 2 Myself"
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 85
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 300,
+        "followerCount": 10500,
+        "heartCount": 56400,
+        "videoCount": 227,
+        "diggCount": 28600,
+        "heart": 56400
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "  \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+                ".                     ",
+                ".                    ",
+                "If you sopport Ukrainian like and follow"
+            ]
+        }
+    ],
+    "isAd": false
+}

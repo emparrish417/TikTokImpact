@@ -1,0 +1,98 @@
+{
+    "id": "7078729053150137605",
+    "desc": "",
+    "createTime": 1648145042,
+    "video": {
+        "id": "7078729053150137605",
+        "height": 1024,
+        "width": 576,
+        "duration": 37,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9a43a93c562843b88837b7f1db76358a?x-expires=1648249200&x-signature=wdpbOgI9I4IPh2WW8zwQxmjdFKs%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/11ba1e2e143f407483ec5167f9d6e288_1648145043?x-expires=1648249200&x-signature=vljvcoU1Ko0ep%2BAFW%2BeqWbnDJq0%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4f3bb8903ebd40cab7f5e81da50aa4e3_1648145044?x-expires=1648249200&x-signature=kmyTwF0htQp2eLFUcnLZTjps7lk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/81d71eda7325b16691bdb6380cd01336/623e4f46/video/tos/useast2a/tos-useast2a-ve-0068c002/753dce19edaf4379bb9611726dadc82e/?a=1988&br=1270&bt=635&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNzJDXq&l=2022032517241701011300613316C22D57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3E5NWg6ZnFlOzMzNzczM0ApNmlnN2ZnPGU3N2VnaTdoNWdnMnEzcjRvLXJgLS1kMTZzczUvNGBjLS40LWAxMDEvYmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/81d71eda7325b16691bdb6380cd01336/623e4f46/video/tos/useast2a/tos-useast2a-ve-0068c002/753dce19edaf4379bb9611726dadc82e/?a=1988&br=1270&bt=635&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNzJDXq&l=2022032517241701011300613316C22D57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3E5NWg6ZnFlOzMzNzczM0ApNmlnN2ZnPGU3N2VnaTdoNWdnMnEzcjRvLXJgLS1kMTZzczUvNGBjLS40LWAxMDEvYmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/11ba1e2e143f407483ec5167f9d6e288_1648145043~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=zYP3rWsUvjAYoZ94fVnr3gUaFHg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/11ba1e2e143f407483ec5167f9d6e288_1648145043~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=Z2ZdIRkskge0hfNkBlod%2F%2BvSh7c%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9a43a93c562843b88837b7f1db76358a?x-expires=1648249200&x-signature=wdpbOgI9I4IPh2WW8zwQxmjdFKs%3D",
+        "bitrate": 650678,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6932423317237728262",
+        "uniqueId": "nationalpoliceukraine",
+        "nickname": "NationalPoliceUkraine",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0960738db5ddd9fa3c335fbda3429855~c5_100x100.jpeg?x-expires=1648314000&x-signature=UETrKeZoBUzGGjfhrYinfvJgPHA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0960738db5ddd9fa3c335fbda3429855~c5_720x720.jpeg?x-expires=1648314000&x-signature=di0HYEXTCi7FDd%2Fonv1fGi9ugbo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0960738db5ddd9fa3c335fbda3429855~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=Vf0Un8PzviJqovzroe1skizXcRk%3D",
+        "signature": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u043f\u043e\u043b\u0456\u0446\u0456\u044f \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUlMeEBzc4VmHSzkZso1G7DJ6tOCQ1czTadqjDfhPwKYWvNFa6tF4RlTh5yd85kDp",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6732132914286299137",
+        "title": "Siren",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ee88a02aa978408d8dca0f6d9e04a1d0",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/31168fa7a578428483298f0ee7491905.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/31168fa7a578428483298f0ee7491905.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/31168fa7a578428483298f0ee7491905.jpeg",
+        "authorName": "Filip Lackovic",
+        "original": false,
+        "duration": 60,
+        "album": "Songs of the North"
+    },
+    "stats": {
+        "diggCount": 49,
+        "shareCount": 0,
+        "commentCount": 35,
+        "playCount": 870
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 478,
+        "followerCount": 1070,
+        "heartCount": 267,
+        "videoCount": 5,
+        "diggCount": 63400,
+        "heart": 267
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u042f 25.03.\u0443\u0445\u043e\u0434\u044e \u0438\u0437 \u0442\u0456\u043a \u0442\u043e\u043a\u0430, \u0442\u0430\u043a \u0449\u043e \u0442\u0430\u043a, \u043f\u0440\u044f\u043c \u043d\u0430\u0441\u0432\u043e\u0439\u0456 \u0456\u043c\u0435\u043d\u0456\u043d\u0438  \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0434\u043f\u0438\u0441\u0443\u0432\u0430\u0442\u0438\u0441\u044c \u0432\u0441\u0435 \u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0435\u0432\u0435\u0440\u043d\u0443\u0441\u044c \u043f\u0440\u043e\u0449\u0430\u0439\u0442\u0435 "
+            ]
+        }
+    ],
+    "isAd": false
+}

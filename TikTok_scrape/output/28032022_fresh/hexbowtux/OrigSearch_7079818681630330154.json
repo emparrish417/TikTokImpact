@@ -1,0 +1,127 @@
+{
+    "id": "7079818681630330154",
+    "desc": "Rip #ukraine",
+    "createTime": 1648398741,
+    "video": {
+        "id": "7079818681630330154",
+        "height": 1024,
+        "width": 576,
+        "duration": 19,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fde065c06fce4a0abd1e7a096a55e0c4?x-expires=1648515600&x-signature=2JiMfltheJOf3ABpXoG1czCrqgc%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2973223e4b7d488889aea647129d503a_1648398742?x-expires=1648515600&x-signature=aHktrnDW7U7bvf%2BmjHjrhB6udK0%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4b92b434ad66494ebabef71f2a63cc6d_1648398742?x-expires=1648515600&x-signature=Tq83rLgonuHEPO5PUETNAVRd8Mc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e3c1fc1002bdc740de06524cbd6b0c9a/62425ebf/video/tos/useast5/tos-useast5-ve-0068c004-tx/246f2fbd43cf46dbace3084dd1000f84/?a=1988&br=1118&bt=559&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcmugDXq&l=202203281919400101130062211E46C297&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajg2dmY6Zm48PDMzZzczNEApZDloZGk0NGRoNzZmN2Q5OmdxcmotcjRnLy1gLS1kMS9zczUxMmItMGExNmAwYWA2LWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e3c1fc1002bdc740de06524cbd6b0c9a/62425ebf/video/tos/useast5/tos-useast5-ve-0068c004-tx/246f2fbd43cf46dbace3084dd1000f84/?a=1988&br=1118&bt=559&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcmugDXq&l=202203281919400101130062211E46C297&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajg2dmY6Zm48PDMzZzczNEApZDloZGk0NGRoNzZmN2Q5OmdxcmotcjRnLy1gLS1kMS9zczUxMmItMGExNmAwYWA2LWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2973223e4b7d488889aea647129d503a_1648398742~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=vYu0lC%2BR98eZnmnxZdfX0JLUBSk%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2973223e4b7d488889aea647129d503a_1648398742~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=gGxRKHbuYt5sINUg43zLd%2FniYqw%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fde065c06fce4a0abd1e7a096a55e0c4?x-expires=1648515600&x-signature=jcCudYbsIqNZYOcvuDKk620TURU%3D",
+        "bitrate": 573051,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7061742014196696110",
+        "uniqueId": "hexbowtux",
+        "nickname": "SUS I  make Roblox TIKTOKS",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/193168dbbea75f9899a8cda726c1c3d6~c5_100x100.jpeg?x-expires=1648580400&x-signature=xXkGU44TEHEDLahB1s3EL5d6NdA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/193168dbbea75f9899a8cda726c1c3d6~c5_720x720.jpeg?x-expires=1648580400&x-signature=ZfV4Cn7q6P7iwIk6X%2FXPxqF5MyQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/193168dbbea75f9899a8cda726c1c3d6~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=cgdKkqvhsKWEpScpN6%2FUODHzDJw%3D",
+        "signature": "I\u2019m Vince A Roblox Tiktoker",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnixK21VOt61jPB6cbMZKdLBShyNf3YQ4PfpOChCpd1_m55PL0vQ77n3JNH-_7ztI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7012418685637856005",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7012418768747940613.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb86d18cce56f1cdb5e2f9173d75fbf5~c5_100x100.jpeg?x-expires=1648580400&x-signature=xM6OV3RUUN%2F%2FYegCtWSUfZKsGms%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb86d18cce56f1cdb5e2f9173d75fbf5~c5_720x720.jpeg?x-expires=1648580400&x-signature=Q7rsP26vlu33a%2BSutOlg8ovSnYI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb86d18cce56f1cdb5e2f9173d75fbf5~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=o7BiCHKlLTHFNp6b3FlKHzn8KLU%3D",
+        "authorName": "musicquotes",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 15,
+        "shareCount": 0,
+        "commentCount": 4,
+        "playCount": 1108
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 4,
+            "end": 12,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 11,
+        "followerCount": 7,
+        "heartCount": 152,
+        "videoCount": 21,
+        "diggCount": 132,
+        "heart": 152
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Rip 2020 to 2022"
+            ]
+        }
+    ],
+    "isAd": false
+}

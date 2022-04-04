@@ -1,0 +1,90 @@
+{
+    "id": "7080106419680234778",
+    "desc": "Nh\u1ea1c anh n\u00e0y cu\u1ed1n qu\u00e1",
+    "createTime": 1648465735,
+    "video": {
+        "id": "7080106419680234778",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e191f6a0e6c64cc18d9929d8ec791848?x-expires=1648515600&x-signature=DExPj%2F5QX8Ve02xkr6IIGhiVpfc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e215faa8bd3e4680a63c151eb0442412_1648465736?x-expires=1648515600&x-signature=YTCcJpydSgu68RL8zGD%2FgvNoXSk%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1688d7c27965497e977dc1aebc711f29_1648465736?x-expires=1648515600&x-signature=200g97w8dPDCA4HA4hb67qUYhmY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/393a5bb8142de62df81e779f6a36118b/62425f1c/video/tos/useast2a/tos-useast2a-pve-0037-aiso/9b8970e2622d48abad3b12bcdbb11d77/?a=1988&br=2808&bt=1404&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKiugDXq&l=202203281921250101130061471C3C0044&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xyazg6ZmRzPDMzZjgzM0ApZTQ2ZTNlZmQzNzk8ODUzO2dvXl9ocjRfYi1gLS1kL2NzczNhXjZfXjExMDA2YV81XzM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/393a5bb8142de62df81e779f6a36118b/62425f1c/video/tos/useast2a/tos-useast2a-pve-0037-aiso/9b8970e2622d48abad3b12bcdbb11d77/?a=1988&br=2808&bt=1404&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKiugDXq&l=202203281921250101130061471C3C0044&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xyazg6ZmRzPDMzZjgzM0ApZTQ2ZTNlZmQzNzk8ODUzO2dvXl9ocjRfYi1gLS1kL2NzczNhXjZfXjExMDA2YV81XzM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/e215faa8bd3e4680a63c151eb0442412_1648465736~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=Zh80tIlhfOiUQcTF43PMa642Ejw%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/e215faa8bd3e4680a63c151eb0442412_1648465736~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=eS%2Ba%2FphNZMgJLartXqhV8gZgSsY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e191f6a0e6c64cc18d9929d8ec791848?x-expires=1648515600&x-signature=DExPj%2F5QX8Ve02xkr6IIGhiVpfc%3D",
+        "bitrate": 1438100,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6869759990292841473",
+        "uniqueId": "playforukraine1",
+        "nickname": "Thi\u00ean Nhi \u2705",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/de629b03d6abc5c71651a10e3af868cf~c5_100x100.jpeg?x-expires=1648580400&x-signature=JPCPiKnSnaJLbMcCEytUOCe%2BvpI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/de629b03d6abc5c71651a10e3af868cf~c5_720x720.jpeg?x-expires=1648580400&x-signature=L8%2FW5YUC2RgugVNz1jnRtJDYouM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/de629b03d6abc5c71651a10e3af868cf~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=AjmjCUnrHbIdBPiTiaJ3oSw7tjc%3D",
+        "signature": "nh\u1ea5n v\u00e0o youtube \u1ee7ng h\u1ed9 k\u00eanh youtube cho Nhi nh\u00e9",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoLiusXAJpOAr-hLoBVvkpMUrGL4XHiwuUnuD8RURIvRZaQOzxjOjNo99IAHhAgdt",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7080106436100983579",
+        "title": "nh\u1ea1c n\u1ec1n - Thi\u00ean Nhi \u2705",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7080106437594106651.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/de629b03d6abc5c71651a10e3af868cf~c5_100x100.jpeg?x-expires=1648580400&x-signature=JPCPiKnSnaJLbMcCEytUOCe%2BvpI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/de629b03d6abc5c71651a10e3af868cf~c5_720x720.jpeg?x-expires=1648580400&x-signature=L8%2FW5YUC2RgugVNz1jnRtJDYouM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/de629b03d6abc5c71651a10e3af868cf~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=AjmjCUnrHbIdBPiTiaJ3oSw7tjc%3D",
+        "authorName": "Thi\u00ean Nhi \u2705",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 570,
+        "shareCount": 2,
+        "commentCount": 24,
+        "playCount": 3772
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2,
+        "followerCount": 123900,
+        "heartCount": 1500000,
+        "videoCount": 26,
+        "diggCount": 18800,
+        "heart": 1500000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

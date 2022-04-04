@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6777182699788092422",
+        "shortId": "",
+        "uniqueId": "kiwi.s2",
+        "nickname": "Kiwi",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e69b368fc2ad3cf6dda9f909d155d16~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=YrjFbJ0tOae1rzsN%2BpPhpwjXuoM%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e69b368fc2ad3cf6dda9f909d155d16~c5_720x720.jpeg?x-expires=1648850400&x-signature=Y8kAY6WfRJbYuovFgXKhXvzbyhQ%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e69b368fc2ad3cf6dda9f909d155d16~c5_100x100.jpeg?x-expires=1648850400&x-signature=6rZ5x4MO3wqtTf97rMv0Q4%2Bo0iI%3D",
+        "signature": "#69 Maggie\nUsername: NotSoKiwi\n15",
+        "createTime": 1577936184,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-ObV2X-R8nZH5hVNJXcYH1xj1tDijrawLRAXEqNEKNaf79YWU9CRDnpkY2_vGwCb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 37300,
+        "followingCount": 700,
+        "heart": 3500000,
+        "heartCount": 3500000,
+        "videoCount": 201,
+        "diggCount": 0
+    },
+    "itemList": []
+}

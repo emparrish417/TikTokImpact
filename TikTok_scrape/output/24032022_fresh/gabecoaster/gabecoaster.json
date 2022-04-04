@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7031312726627632134",
+        "shortId": "",
+        "uniqueId": "gabecoaster",
+        "nickname": "Gabe Coaster",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b75d1b520697c66af7b451f6121cb3f4~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=7rBP3YleW5Me%2BgMG0H9JqNey%2Bl4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b75d1b520697c66af7b451f6121cb3f4~c5_720x720.jpeg?x-expires=1648234800&x-signature=56m00UNM0IRLyUDVBMGO9S7diR0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b75d1b520697c66af7b451f6121cb3f4~c5_100x100.jpeg?x-expires=1648234800&x-signature=vcnoQpNr8t%2Fipu1Rci9%2F%2Fwe%2Bp4w%3D",
+        "signature": "IG/YT: Gabecoaster\nBusiness: GabeCoasterOfficial@gmail.com",
+        "createTime": 1637105119,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmRbTjiwthsQaN85vnTkVzDUA-9VQ2luYGbpvxgZpc8JOrAk9pDYQcBD1HTcHPHd7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "YouTube.com/Gabecoaster",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 54700,
+        "followingCount": 75,
+        "heart": 6400000,
+        "heartCount": 6400000,
+        "videoCount": 67,
+        "diggCount": 0
+    },
+    "itemList": []
+}

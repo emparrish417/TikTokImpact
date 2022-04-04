@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6682867687314048005",
+        "shortId": "",
+        "uniqueId": "ireland021",
+        "nickname": "Grace",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1640711726163973~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=wF4ejHKdXnRRh%2FYrCtUBsob65Hg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1640711726163973~c5_720x720.jpeg?x-expires=1649196000&x-signature=SzR1%2F9JjtShZBGZxWHS1YagCHX0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1640711726163973~c5_100x100.jpeg?x-expires=1649196000&x-signature=orNgci4D7H%2FM%2FGdiZLCmztU2EIo%3D",
+        "signature": "",
+        "createTime": 1555976984,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMN_OlY8GrFIPjvSywPNIugzGzEl5eNWXWCx4NOT_-vavuB10Y8LY59_Mq_LQFMnp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 417,
+        "followingCount": 400,
+        "heart": 3777,
+        "heartCount": 3777,
+        "videoCount": 131,
+        "diggCount": 0
+    },
+    "itemList": []
+}

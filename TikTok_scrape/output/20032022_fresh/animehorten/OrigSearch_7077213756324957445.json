@@ -1,0 +1,106 @@
+{
+    "id": "7077213756324957445",
+    "desc": "UKRAINE",
+    "createTime": 1647792235,
+    "video": {
+        "id": "7077213756324957445",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/215dd174bbd5432daadc3901542572f4?x-expires=1647835200&x-signature=aaKga5MmXjWw8ZDQyevwAm7ENe0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e7deefead1224f3fad8e157cfd2baa14_1647800151?x-expires=1647835200&x-signature=ZgrQFdYw%2BoPBjpRh%2FvjOldgn8Ps%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/646d3618e7a9414fb7cd97c7d97d8357_1647800152?x-expires=1647835200&x-signature=ISqttEt2%2By8XLlFV3rNJpgmIJnE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e305179f896892e3c26a08515e29d2e9/6237fede/video/tos/useast2a/tos-useast2a-ve-0068c003/00f12937e1354324be6c08df33a62b92/?a=1988&br=930&bt=465&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKmc_DXq&l=20220320222804010113006062181977AB&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dtO2Q6ZjpuOzMzNzczM0ApZWlnaGk7Njw2Nzc3PDRmM2doZnFfcjRfc29gLS1kMTZzczBfXjE2LV9fMGFeYGJfY2I6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e305179f896892e3c26a08515e29d2e9/6237fede/video/tos/useast2a/tos-useast2a-ve-0068c003/00f12937e1354324be6c08df33a62b92/?a=1988&br=930&bt=465&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKmc_DXq&l=20220320222804010113006062181977AB&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dtO2Q6ZjpuOzMzNzczM0ApZWlnaGk7Njw2Nzc3PDRmM2doZnFfcjRfc29gLS1kMTZzczBfXjE2LV9fMGFeYGJfY2I6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e7deefead1224f3fad8e157cfd2baa14_1647800151~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=F4ZdOv8Qp5XYUJsPMdGbg9gQd44%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e7deefead1224f3fad8e157cfd2baa14_1647800151~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=cpgNRADN1JMlcZttfunBlRTndsQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/215dd174bbd5432daadc3901542572f4?x-expires=1647835200&x-signature=aaKga5MmXjWw8ZDQyevwAm7ENe0%3D",
+        "bitrate": 477177,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7072416286035100677",
+        "uniqueId": "animehorten",
+        "nickname": "Anime",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d106616295b85a8e3491ecef9515c6ae~c5_100x100.jpeg?x-expires=1647900000&x-signature=RuWiD5AHwxWVlwrvip21clK9%2Feo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d106616295b85a8e3491ecef9515c6ae~c5_720x720.jpeg?x-expires=1647900000&x-signature=6hrTUJRei4mG33%2F8f5%2BCvjrA22M%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d106616295b85a8e3491ecef9515c6ae~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=lBZuESQJi1cBN7fzToAIz4pJyRA%3D",
+        "signature": "Sorry if they are bed I only stared TikTok",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2yIaAbIWU6YQLXk1WnUBU1JxYxO98f3jO72EJeGNMwbDDJdVrLdTdXAIyWqLsQen",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6858936224556616454",
+        "title": "Sweet Caroline",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6858936182441511685.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0d228f41c1973edd26300ecf56f11578~c5_100x100.jpeg?x-expires=1647900000&x-signature=A6GJR%2FWVPaZ75qj5TfYpajqy7tE%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0d228f41c1973edd26300ecf56f11578~c5_720x720.jpeg?x-expires=1647900000&x-signature=ooljR8lLfxyQtXAmOp3F1JHUJzw%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0d228f41c1973edd26300ecf56f11578~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=b%2FSiKUF6y1iUutgkEC3RLxokPgM%3D",
+        "authorName": "Hi:)",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 36
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Whiteboard",
+            "ID": "644651"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 22,
+        "followerCount": 7,
+        "heartCount": 15,
+        "videoCount": 19,
+        "diggCount": 3,
+        "heart": 15
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Ukraine ",
+                "Russia ",
+                "Who will win"
+            ]
+        }
+    ],
+    "isAd": false
+}
