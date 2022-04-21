@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6666837080134090754",
+        "shortId": "",
+        "uniqueId": "anikina1",
+        "nickname": "Anikina",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654742475804677~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=Y6A7XfYvUQWM%2FLXC4uRVVpz07fQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654742475804677~c5_720x720.jpeg?x-expires=1650664800&x-signature=Urc31PbyTkXC%2Fjux36laBvDWEY4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654742475804677~c5_100x100.jpeg?x-expires=1650664800&x-signature=R605fuLVCaft0pwtbxRn36GvVig%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARErYUIKlrQoq_1nwlUfbhnzASr46oXVkqUQ6KaETLh8qnk5z970vbz11GfQjFeuQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2365,
+        "followingCount": 211,
+        "heart": 151100,
+        "heartCount": 151100,
+        "videoCount": 40,
+        "diggCount": 0
+    },
+    "itemList": []
+}

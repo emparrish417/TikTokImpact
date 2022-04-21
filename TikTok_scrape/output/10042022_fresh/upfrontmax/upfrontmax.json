@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7051218207705515013",
+        "shortId": "",
+        "uniqueId": "upfrontmax",
+        "nickname": "Upfront Max",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d99f2b213e184a7d469ae8a24b3957ac~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=iaq27nD36%2BsI3iiUqUyYc1LArrk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d99f2b213e184a7d469ae8a24b3957ac~c5_720x720.jpeg?x-expires=1649714400&x-signature=6IHL0rP%2FcRgP%2FEYB3SUJ6i%2Fvo%2F0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d99f2b213e184a7d469ae8a24b3957ac~c5_100x100.jpeg?x-expires=1649714400&x-signature=FnUEEqFbhtWch4GWvPmHjYp2fRw%3D",
+        "signature": "I am sad",
+        "createTime": 1642865854,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAquHc_DbcqgKiXfMRGOjNbNRbO7z_PXqHeaQ5gu1k6fGQqWgqevFk5TtYnoKlgTAN",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 809,
+        "followingCount": 467,
+        "heart": 1519,
+        "heartCount": 1519,
+        "videoCount": 45,
+        "diggCount": 0
+    },
+    "itemList": []
+}

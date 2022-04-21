@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6842698817038074885",
+        "shortId": "",
+        "uniqueId": "ssoph1s",
+        "nickname": "sophie \ud83d\udc8b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96b3c43b716eb092c9c3de0a4427dc78~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=isvJcd1t%2Fio%2FLD%2BPgYpd67IYhXQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96b3c43b716eb092c9c3de0a4427dc78~c5_720x720.jpeg?x-expires=1650481200&x-signature=B5VlGEH8f3%2FQdaTQ8lIG8aFB5Lw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96b3c43b716eb092c9c3de0a4427dc78~c5_100x100.jpeg?x-expires=1650481200&x-signature=vcKPSqb94XLFrQx3aZcmeYfpR1I%3D",
+        "signature": "some interesting",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5ecQRu_cdiFmHdHmdSpOEFeY4kBR15CAbd7Kabl69aUkpVp_vA7h5BALLFoa0mhn",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1201,
+        "followingCount": 267,
+        "heart": 31600,
+        "heartCount": 31600,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

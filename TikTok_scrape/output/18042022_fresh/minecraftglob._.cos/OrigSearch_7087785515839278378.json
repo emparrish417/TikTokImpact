@@ -1,0 +1,96 @@
+{
+    "id": "7087785515839278378",
+    "desc": "",
+    "createTime": 1650253665,
+    "video": {
+        "id": "7087785515839278378",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5c31f2a98ae94d2ea6434a6f9cf3e694?x-expires=1650330000&x-signature=ddnkSb%2BMv7tB5SSw1iNuBi3Jjmw%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/65611abc7c154f57a62569574e657bb0_1650253665?x-expires=1650330000&x-signature=c0RkM4cwQUse%2BWaZXiuWJN5d6%2BM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/575db21f9f9d479c8a1779b3c27f76cf_1650253666?x-expires=1650330000&x-signature=NSBbLLCELrrE3fIa6ChYPr%2FnU5Y%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/68d2bcee815a1bc15a4308b905fd50e8/625e0d6e/video/tos/useast5/tos-useast5-pve-0068-tx/7d12bd02bd5048f388bda59fc950e54f/?a=1988&br=2810&bt=1405&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z.zxwwe2Nd2yfl7Gb&l=2022041819161501011300621802F01B05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdvOTs6ZnFnPDMzZzczNEApO2VmZTY3OmVlNzZmZmg0aWcvZ29zcjRfcmJgLS1kMS9zc15hMGMzNS01NGI2MWIwLmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/68d2bcee815a1bc15a4308b905fd50e8/625e0d6e/video/tos/useast5/tos-useast5-pve-0068-tx/7d12bd02bd5048f388bda59fc950e54f/?a=1988&br=2810&bt=1405&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z.zxwwe2Nd2yfl7Gb&l=2022041819161501011300621802F01B05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdvOTs6ZnFnPDMzZzczNEApO2VmZTY3OmVlNzZmZmg0aWcvZ29zcjRfcmJgLS1kMS9zc15hMGMzNS01NGI2MWIwLmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/65611abc7c154f57a62569574e657bb0_1650253665~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=rl7y9%2BaF%2Biyukv42pHOmaGGXR4g%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/65611abc7c154f57a62569574e657bb0_1650253665~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=U07AgR3nWy8FkfEXKsD5XTi%2FSF4%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5c31f2a98ae94d2ea6434a6f9cf3e694?x-expires=1650330000&x-signature=d2cvO%2FfUdD10VpAH0vSDeoOAxSM%3D",
+        "bitrate": 1439718,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6970482622498341893",
+        "uniqueId": "minecraftglob._.cos",
+        "nickname": "I stand with Ukraine.",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efbfc1a470d3f26caffd816503c41c44~c5_100x100.jpeg?x-expires=1650481200&x-signature=Tq5%2FAoURvDPeyZDu8CIGKpJaFX4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efbfc1a470d3f26caffd816503c41c44~c5_720x720.jpeg?x-expires=1650481200&x-signature=mc4OXDNbFL8kV%2BxpijaesdWwvcI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efbfc1a470d3f26caffd816503c41c44~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=lTD0UcoAE0jdMjkE9OUIyxMspW0%3D",
+        "signature": "\u2022^cosplayer^\u2022\n\u1855\u1835\u180a\u1843\u085a\u0822\u0818\u0ec8 \u2e1d\u0ec8\u0821\u0823\u180a\u07ef\u1806\u0823\u0818\u1841\u0823\u0818\u180a\u180a\u0822\u0818\ud802\udc4f~\u2661\n\u2022Chicago\u2022\nI\u2019m just a lost little boy",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAL8Tu9h73UVku2TrICcWCQTWyRvdL-3oy0Av8_VAxQU3ZzmAKrf7WFdfyRCydrNIU",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6929584537064213253",
+        "title": "bubblegum bitch",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6929584528746973958.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efe5e47d93dbef957a938f222c0c414f~c5_100x100.jpeg?x-expires=1650481200&x-signature=S3uYaglWykcZnNhoVgt%2BKqTBKdk%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efe5e47d93dbef957a938f222c0c414f~c5_720x720.jpeg?x-expires=1650481200&x-signature=%2B0Ez%2BymF0HJ%2FvZke1pD6OYYcJIg%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efe5e47d93dbef957a938f222c0c414f~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=pp1olnOqDrvGgYicMsUITZ%2BU%2BTQ%3D",
+        "authorName": "TATUMMM",
+        "original": true,
+        "duration": 21,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 15,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 76
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Vibrant Colors",
+            "ID": "1483180"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 2405,
+        "followerCount": 1818,
+        "heartCount": 41200,
+        "videoCount": 186,
+        "diggCount": 5343,
+        "heart": 41200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6558125857663352834",
+        "shortId": "",
+        "uniqueId": "milesmmo",
+        "nickname": "M",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=to5%2FELkGC7CrtC%2FAzGeveNVrMQA%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_720x720.jpeg?x-expires=1650481200&x-signature=6s9O50A0RizJWKpgMF30q1VuGkM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/268209fe9c0f234d41a7a0219b765678~c5_100x100.jpeg?x-expires=1650481200&x-signature=lnM3vjyOljC6o33f6wGNIrP6uws%3D",
+        "signature": "Cowboy bebop enthusiast",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWaBvB7HTQrSugj_BvS0ZAWVXPIgY5U8uhg86sZ-gSBY2DsHmIZMSlxZpPreD1DjQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 41400,
+        "followingCount": 299,
+        "heart": 5800000,
+        "heartCount": 5800000,
+        "videoCount": 139,
+        "diggCount": 38100
+    },
+    "itemList": []
+}

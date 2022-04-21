@@ -1,0 +1,111 @@
+{
+    "id": "7085873802034597166",
+    "desc": "",
+    "createTime": 1649808559,
+    "video": {
+        "id": "7085873802034597166",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3757cc5b612d466eaafbb8572ebf9507?x-expires=1649840400&x-signature=VznVqcdooh%2F09j4ot8saYEcZgZM%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a1353b65e4d94b3685df8284f5178195_1649808560?x-expires=1649840400&x-signature=kylXdy8dbVDVkmvWn9sKxutNcMA%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/22b13833b90e4e1e8774daf95095a48a_1649808560?x-expires=1649840400&x-signature=sp11Rh4I7Qc07ygLpj71zy0u1ZU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/3d825ef6a5ea6fcb6180a23a1bcfc907/625691a5/video/tos/useast5/tos-useast5-ve-0068c001-tx/61c547d8032c4d0a9e9ffb4259528ac6/?a=1988&br=950&bt=475&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8J4aDXq&l=202204130302240101131352140AB511E6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRwaGg6ZmQ0PDMzZzczNEApaTczOTc2aTw8N2VkOGlmZGc2Y2o1cjRfNF9gLS1kMS9zc2MvLzU1L19hMmJeYjJgM2A6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/3d825ef6a5ea6fcb6180a23a1bcfc907/625691a5/video/tos/useast5/tos-useast5-ve-0068c001-tx/61c547d8032c4d0a9e9ffb4259528ac6/?a=1988&br=950&bt=475&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8J4aDXq&l=202204130302240101131352140AB511E6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRwaGg6ZmQ0PDMzZzczNEApaTczOTc2aTw8N2VkOGlmZGc2Y2o1cjRfNF9gLS1kMS9zc2MvLzU1L19hMmJeYjJgM2A6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a1353b65e4d94b3685df8284f5178195_1649808560~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=3MPmnoEessiJvhWgiUHjO07vt2A%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a1353b65e4d94b3685df8284f5178195_1649808560~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=MD4TsX8Aemgt05jxMPGXYI0v4kw%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3757cc5b612d466eaafbb8572ebf9507?x-expires=1649840400&x-signature=epPkJ2FT335Bup0igNEIRJBc%2FBI%3D",
+        "bitrate": 487122,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910215971848356869",
+        "uniqueId": "adambozek8",
+        "nickname": "@ Ukraine \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6411e36e3934ed35a4826c5caffaa539~c5_100x100.jpeg?x-expires=1649905200&x-signature=%2Bt3ro5zJ5FpEEDXRYyOwZJa3kBU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6411e36e3934ed35a4826c5caffaa539~c5_720x720.jpeg?x-expires=1649905200&x-signature=r3%2FYiXGaLE1v0KG63nFj8Ng3X9g%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6411e36e3934ed35a4826c5caffaa539~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=64pNpFVSa8NVw5IPtxC1Jq5qPps%3D",
+        "signature": "@ Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATI4C2DUeYsMbROFP1t2vOoLAuh99hbk8wxdLd4hFPwaUk_o7OlKmjMigepJofjsR",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085133846450047770",
+        "title": "original sound - Zach the crybaby",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7085133893237590810.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b1f767da62ebecf701c14bd1a07864ca~c5_100x100.jpeg?x-expires=1649905200&x-signature=fWGTtK2OCZULBqOoRwdkczE6DYA%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b1f767da62ebecf701c14bd1a07864ca~c5_720x720.jpeg?x-expires=1649905200&x-signature=EU76Ywzmm0UMJCJCh0vNWOIOSZU%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b1f767da62ebecf701c14bd1a07864ca~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=LFBAGxin8m2tSngpOi2%2FGiEQb8M%3D",
+        "authorName": "Zach the crybaby",
+        "original": true,
+        "duration": 5,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 8
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 9954,
+        "followerCount": 1256,
+        "heartCount": 1184,
+        "videoCount": 419,
+        "diggCount": 39000,
+        "heart": 1184
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\udd35",
+                "\u26aa\ufe0f",
+                "\u26aa\ufe0f",
+                "\ud83d\udfe0",
+                "\ud83d\udfe0",
+                "D",
+                "\ud83d\udd34",
+                "\u26aa\ufe0f",
+                "\u26aa\ufe0f",
+                "D",
+                "\ud83d\udd35",
+                "\ud83d\udcf1",
+                "\ud83d\udc9c",
+                "\ud83d\udc9c"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6787397225339110406",
+        "shortId": "",
+        "uniqueId": "mikemorgancomedy",
+        "nickname": "Mike Morgan Comedy",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/683c184594312d9681b5173cc5a0cded~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=Yfmz2oqMTen9tEou9gGeNaPsDiU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/683c184594312d9681b5173cc5a0cded~c5_720x720.jpeg?x-expires=1649372400&x-signature=1g2Vz4At3KceyQIgH9GBdMygWYA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/683c184594312d9681b5173cc5a0cded~c5_100x100.jpeg?x-expires=1649372400&x-signature=icEndAMWu%2F81O2gh7z35rbbf490%3D",
+        "signature": "Tickets for my live show in Cork this Saturday in my link \ud83d\udc47",
+        "createTime": 1580285391,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYXGLx_2TX7VyymwKNpTaQn8jh7lDVI_o3bIvY_OCajDNtWLJibvpkaaHH1ClHBVb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/MikeMorganComedy",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 191800,
+        "followingCount": 174,
+        "heart": 3600000,
+        "heartCount": 3600000,
+        "videoCount": 176,
+        "diggCount": 0
+    },
+    "itemList": []
+}

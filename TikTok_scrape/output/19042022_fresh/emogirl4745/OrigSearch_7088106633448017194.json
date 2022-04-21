@@ -1,0 +1,96 @@
+{
+    "id": "7088106633448017194",
+    "desc": "",
+    "createTime": 1650328430,
+    "video": {
+        "id": "7088106633448017194",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b9645c0ab3b44c329d2a97202e9e16f9?x-expires=1650427200&x-signature=Al231c6CKuvKCFFKO22PPebSSFA%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/15982b649b324741833c014dbe305974_1650328431?x-expires=1650427200&x-signature=iqt6iuj9nnmNWbfDPTGDtgRX6%2BU%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/81b13f55fc5144f38580bfe0740d3de7_1650328432?x-expires=1650427200&x-signature=Oiz1YF5ULt%2BV7c%2BcBlr3AsyE1q4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c15e3b2b23970f0c8e4e063cd0c61a72/625f8a5e/video/tos/useast5/tos-useast5-ve-0068c004-tx/0c01f7ddceb34cb48aea129516237ddc/?a=1988&br=1756&bt=878&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIQiwwe2NaF~fl7Gb&l=202204192221350101130061350117FD62&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25uOjc6Zm4zPDMzZzczNEApaDc8Zzw6Z2QzN2Y7ZTY7OWdpLWVscjRvM2NgLS1kMS9zc180MTRjMDVjL15eNjNeNjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c15e3b2b23970f0c8e4e063cd0c61a72/625f8a5e/video/tos/useast5/tos-useast5-ve-0068c004-tx/0c01f7ddceb34cb48aea129516237ddc/?a=1988&br=1756&bt=878&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIQiwwe2NaF~fl7Gb&l=202204192221350101130061350117FD62&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25uOjc6Zm4zPDMzZzczNEApaDc8Zzw6Z2QzN2Y7ZTY7OWdpLWVscjRvM2NgLS1kMS9zc180MTRjMDVjL15eNjNeNjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/15982b649b324741833c014dbe305974_1650328431~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=IySSDz3gB9zVtqrkdcDYLxDoErw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/15982b649b324741833c014dbe305974_1650328431~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=J3BLMJAEpXm61Lzs3ug4euZwMBY%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b9645c0ab3b44c329d2a97202e9e16f9?x-expires=1650427200&x-signature=Al231c6CKuvKCFFKO22PPebSSFA%3D",
+        "bitrate": 900087,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6708879673303516165",
+        "uniqueId": "emogirl4745",
+        "nickname": "Ireland Deshazo",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/43344f9bb461488f884867560ae41199~c5_100x100.jpeg?x-expires=1650578400&x-signature=iwN%2Fb8piugfyfv5ftP5YtIYHRLc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/43344f9bb461488f884867560ae41199~c5_720x720.jpeg?x-expires=1650578400&x-signature=dV6%2F%2BIFzU7uUZwaxqpSVc0109mk%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/43344f9bb461488f884867560ae41199~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=mt9ystTbV1k%2BvWahSIQgUaAqHsI%3D",
+        "signature": "15 year old",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKAM-hRiXgAiWdgcE-39WlZzHjENfvYNOhRq16VR_fBlNDqHqhkjv07mzcF1SCDgR",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6689709288727923462",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1633253622585381.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4ea2d70df07364a6b9261c202ef61e3c~c5_100x100.jpeg?x-expires=1650578400&x-signature=%2FveJewGHkzDu9hUP%2BSX6SDSYXWM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4ea2d70df07364a6b9261c202ef61e3c~c5_720x720.jpeg?x-expires=1650578400&x-signature=7%2FLnlbR9So70MuCbdRiKXG5nmLk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4ea2d70df07364a6b9261c202ef61e3c~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=seE9PEv8vJpnLDVh33%2FkKA9Au7k%3D",
+        "authorName": "Juicy Juice",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 20
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Glow Look",
+            "ID": "1055594"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1384,
+        "followerCount": 99,
+        "heartCount": 242,
+        "videoCount": 117,
+        "diggCount": 46300,
+        "heart": 242
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

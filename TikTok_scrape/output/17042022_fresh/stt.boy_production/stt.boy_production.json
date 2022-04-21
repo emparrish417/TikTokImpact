@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6843107316334969861",
+        "shortId": "",
+        "uniqueId": "stt.boy_production",
+        "nickname": "Illya Motrunchik",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/971e85e808784ea782a8e401b474f057~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=ZLKYTVken8a9clgTfPkxISApUJo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/971e85e808784ea782a8e401b474f057~c5_720x720.jpeg?x-expires=1650412800&x-signature=IWZg4vZv%2FqScbY1JxadPeTqZXX4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/971e85e808784ea782a8e401b474f057~c5_100x100.jpeg?x-expires=1650412800&x-signature=OF8OcDBIIEH0GLEM69pO2P1QMmg%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYY6pSDKS1ssw7a_WJfC0UcWA_Az5yAqRCGDc_R0Ba9iVHrugifSI_qLShpMO8Yw5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 31,
+        "followingCount": 9,
+        "heart": 621,
+        "heartCount": 621,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

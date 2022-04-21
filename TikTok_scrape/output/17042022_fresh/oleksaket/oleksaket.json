@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6919372398383481858",
+        "shortId": "",
+        "uniqueId": "oleksaket",
+        "nickname": "\u041a\u0441\u044e\u0448\u0430",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/2212d1556ae2899068ece37bfa546564.jpeg?x-expires=1650412800&x-signature=O6q0v0jnFiys4uE%2F3RLRA01%2FOrk%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/2212d1556ae2899068ece37bfa546564.jpeg?x-expires=1650412800&x-signature=lTfkMpJG%2FkupRbfQhDYUtqspbsY%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2212d1556ae2899068ece37bfa546564.jpeg?x-expires=1650412800&x-signature=vdmT6eVfk0fLLN361NFwI6boLRU%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyd4NA78z06hYXbzJrv4IlzXze96OhaHhHhYKcxW59o_Ocg_ZCjjK1eYupus5tVHZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2891,
+        "followingCount": 106,
+        "heart": 55300,
+        "heartCount": 55300,
+        "videoCount": 1295,
+        "diggCount": 0
+    },
+    "itemList": []
+}

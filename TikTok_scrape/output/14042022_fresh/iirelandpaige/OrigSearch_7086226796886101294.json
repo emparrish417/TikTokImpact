@@ -1,0 +1,90 @@
+{
+    "id": "7086226796886101294",
+    "desc": ":)",
+    "createTime": 1649890747,
+    "video": {
+        "id": "7086226796886101294",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8189a4aabb87430da8dd77cee4ca3b57_1649890748?x-expires=1649962800&x-signature=bnrkj7tE0Qa9XHU00zmmK5fSmG0%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1ba672328cbf4291a2df83fdc76551eb_1649890747?x-expires=1649962800&x-signature=14mGfA5m2QatvKoxWyAo9SgUE4Y%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1638a67168cf46d0a552e6b85dcd369d_1649890748?x-expires=1649962800&x-signature=JKJaYA4WDt0iKwXiFyxI%2FObns4o%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4eb8a1388f4ebc43cc685942514cef39/625873eb/video/tos/useast5/tos-useast5-ve-0068c004-tx/aa846efce6af46beafa845ceaa6de8dc/?a=1988&br=3968&bt=1984&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZZlKLwe2NmvRfl7Gb&l=2022041413200101011313508213EF866D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2QzaDc6ZnRvPDMzZzczNEApNjY2NjxoNGRnNzs0ZTY2ZGcwZl8ucjRfM19gLS1kMS9zczAxMjZjXi1jXy0xXl5eM146Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4eb8a1388f4ebc43cc685942514cef39/625873eb/video/tos/useast5/tos-useast5-ve-0068c004-tx/aa846efce6af46beafa845ceaa6de8dc/?a=1988&br=3968&bt=1984&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZZlKLwe2NmvRfl7Gb&l=2022041413200101011313508213EF866D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2QzaDc6ZnRvPDMzZzczNEApNjY2NjxoNGRnNzs0ZTY2ZGcwZl8ucjRfM19gLS1kMS9zczAxMjZjXi1jXy0xXl5eM146Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1ba672328cbf4291a2df83fdc76551eb_1649890747~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=GCSLiFswEckFbgSKy3UPWf%2B4MFc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1ba672328cbf4291a2df83fdc76551eb_1649890747~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=1o7LZ6NjylrWckijdlsdpYdrHTs%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8189a4aabb87430da8dd77cee4ca3b57_1649890748?x-expires=1649962800&x-signature=bnrkj7tE0Qa9XHU00zmmK5fSmG0%3D",
+        "bitrate": 2031675,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7066500157111354414",
+        "uniqueId": "iirelandpaige",
+        "nickname": "ireland\u2661",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f65b0597f128f1cc893a1bb9fa98416d~c5_100x100.jpeg?x-expires=1650114000&x-signature=%2Fbw%2BVL4M1DwG%2FcxJHUDHuyypCHQ%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f65b0597f128f1cc893a1bb9fa98416d~c5_720x720.jpeg?x-expires=1650114000&x-signature=MaZcUQWliYBvbiZ1vWcR3Sq8WGA%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f65b0597f128f1cc893a1bb9fa98416d~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=FU9M5AqVahwn581x7M%2Btkjm8mcQ%3D",
+        "signature": "<3",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAL2nemLj5Wuk5OGMxGSvxHk54W5xYmyEV67EeeYEz9FXqcbjR2Xvv1STKBXv5TpIC",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "5000000000385802012",
+        "title": "It Never Rains in Southern California",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/2f3d9b3df2f84ad2baeb4b6f88f59ed5",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/1660a118f4a84615a587f1d48807b4b2.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/1660a118f4a84615a587f1d48807b4b2.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/1660a118f4a84615a587f1d48807b4b2.jpeg",
+        "authorName": "Albert Hammond",
+        "original": false,
+        "duration": 30,
+        "album": "It  Never Rains In Southern California"
+    },
+    "stats": {
+        "diggCount": 46,
+        "shareCount": 0,
+        "commentCount": 19,
+        "playCount": 284
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 146,
+        "followerCount": 173,
+        "heartCount": 1065,
+        "videoCount": 5,
+        "diggCount": 9585,
+        "heart": 1065
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

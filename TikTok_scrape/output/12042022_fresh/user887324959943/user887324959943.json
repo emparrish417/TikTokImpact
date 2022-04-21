@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7051225674028188678",
+        "shortId": "",
+        "uniqueId": "user887324959943",
+        "nickname": "\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a7116ee4caaaa229135436bd958f6fd0~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=tVDcaPeXRIkbMNPtcMemsk%2FktpE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a7116ee4caaaa229135436bd958f6fd0~c5_720x720.jpeg?x-expires=1649905200&x-signature=1Qty8vJYmZVJiJlVu8RuJwACUE8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a7116ee4caaaa229135436bd958f6fd0~c5_100x100.jpeg?x-expires=1649905200&x-signature=TSHbgiTpo5D4VWeuOMsLPCQnVTM%3D",
+        "signature": "Always stand with Ukraine\ud83d\udc9b\ud83d\udc99",
+        "createTime": 1641741552,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAC2TtF8o5f2ZDTuwyZJd9Tk5UMslsbOfD2zGso3vZ1owagIUkjHMX_rn1h6syXUex",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7845,
+        "followingCount": 0,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7086139314647698694",
+    "desc": "",
+    "createTime": 1649870378,
+    "video": {
+        "id": "7086139314647698694",
+        "height": 1024,
+        "width": 576,
+        "duration": 19,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/eefdbe97e2104e2aa381b6416d90cdef?x-expires=1649962800&x-signature=AmHUfCGBqOYR9iH1C0NySYgaUyo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3abefde9f6384f5e8109f81ac042920d_1649870380?x-expires=1649962800&x-signature=X7fK7nzVSCNoGKWQyjSDEhUQ0OE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1eefcbefacab4ce189e4c7fa51465193_1649870380?x-expires=1649962800&x-signature=y8%2FMiY79omM8toM%2BelGabot9J4U%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/015224755d1a8cb6438c35921ef169d1/6258740f/video/tos/useast2a/tos-useast2a-ve-0068c003/29b6a71b8e1b4b098efbd63a0b143d83/?a=1988&br=1152&bt=576&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z2lKLwe2NTdufl7Gb&l=202204141320280101130062330E0CFB2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzY3Zmc6ZjZqPDMzNzczM0ApOjtoaTc0Njw0NzNpZTlkOWdpLi42cjRfYF9gLS1kMTZzczE1MDJjNTBjXjI0NTQuMDY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/015224755d1a8cb6438c35921ef169d1/6258740f/video/tos/useast2a/tos-useast2a-ve-0068c003/29b6a71b8e1b4b098efbd63a0b143d83/?a=1988&br=1152&bt=576&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z2lKLwe2NTdufl7Gb&l=202204141320280101130062330E0CFB2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzY3Zmc6ZjZqPDMzNzczM0ApOjtoaTc0Njw0NzNpZTlkOWdpLi42cjRfYF9gLS1kMTZzczE1MDJjNTBjXjI0NTQuMDY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3abefde9f6384f5e8109f81ac042920d_1649870380~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=tIuWOnmJebrdL7XGgrw7SkkUdmA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3abefde9f6384f5e8109f81ac042920d_1649870380~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=FZKLMclbPenJVqSKIIMITw4IBwY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/eefdbe97e2104e2aa381b6416d90cdef?x-expires=1649962800&x-signature=AmHUfCGBqOYR9iH1C0NySYgaUyo%3D",
+        "bitrate": 589952,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910273099826037766",
+        "uniqueId": "morejstu11",
+        "nickname": "Helpukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271b90b0890464542b24858e31ae5b7~c5_100x100.jpeg?x-expires=1650114000&x-signature=5%2BwdXn71lPGO%2BalJh3k5pmUw0BU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271b90b0890464542b24858e31ae5b7~c5_720x720.jpeg?x-expires=1650114000&x-signature=H9AT2L5pwINwiy297XVjXpnvkJY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271b90b0890464542b24858e31ae5b7~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=qPHpyKQJ6RxURN7k7vmw38OrWX4%3D",
+        "signature": "Fortunate . Com",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFC0c36vwKs8xKYS_XCU_z_u0hId6LYUnlP609SYGpvtrkNz7B-UFIHrjubbo5gJI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7086139316501515014",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7086139295085431558.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271b90b0890464542b24858e31ae5b7~c5_100x100.jpeg?x-expires=1650114000&x-signature=5%2BwdXn71lPGO%2BalJh3k5pmUw0BU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271b90b0890464542b24858e31ae5b7~c5_720x720.jpeg?x-expires=1650114000&x-signature=H9AT2L5pwINwiy297XVjXpnvkJY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7271b90b0890464542b24858e31ae5b7~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=qPHpyKQJ6RxURN7k7vmw38OrWX4%3D",
+        "authorName": "Helpukrain",
+        "original": true,
+        "duration": 19,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 67
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 698,
+        "followerCount": 149,
+        "heartCount": 288,
+        "videoCount": 128,
+        "diggCount": 5320,
+        "heart": 288
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

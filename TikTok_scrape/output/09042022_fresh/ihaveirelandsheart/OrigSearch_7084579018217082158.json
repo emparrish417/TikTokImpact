@@ -1,0 +1,136 @@
+{
+    "id": "7084579018217082158",
+    "desc": "#greenscreen",
+    "createTime": 1649507096,
+    "video": {
+        "id": "7084579018217082158",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b7c9bdbe903748bc9ad02df48cdb158f?x-expires=1649574000&x-signature=3c1Hq0V8kls8ABX45QJHOPNnD8w%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/dddc8f9a1f454f87a1a66bb27f030320_1649507097?x-expires=1649574000&x-signature=2ggnuRZhUKtaluz1byEhx4uqbbA%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d3209e0c48a648f9936bb0892f3aa090_1649507097?x-expires=1649574000&x-signature=f9hMJb53x5632cegLLP3s1eXg7g%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ebf36245614bc8858b9e9d3e7dce8cb6/62528cb7/video/tos/useast5/tos-useast5-ve-0068c004-tx/9ad648c412654eaa86a9df7a3ad8cc46/?a=1988&br=586&bt=293&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th154IDXq&l=20220410015211010113006254061BA165&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdnZTs6ZjNxPDMzZzczNEApOTZkaTM7N2Q3N2k2NzxnZWdhaC02cjRvaTVgLS1kMS9zczFgLS1jYmAuYWBjYWIzLzM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ebf36245614bc8858b9e9d3e7dce8cb6/62528cb7/video/tos/useast5/tos-useast5-ve-0068c004-tx/9ad648c412654eaa86a9df7a3ad8cc46/?a=1988&br=586&bt=293&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th154IDXq&l=20220410015211010113006254061BA165&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdnZTs6ZjNxPDMzZzczNEApOTZkaTM7N2Q3N2k2NzxnZWdhaC02cjRvaTVgLS1kMS9zczFgLS1jYmAuYWBjYWIzLzM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dddc8f9a1f454f87a1a66bb27f030320_1649507097~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=NvLzxtt%2BpZFFuHIEDspXiwSLBNo%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dddc8f9a1f454f87a1a66bb27f030320_1649507097~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=zdX47BJKmDwf%2BoikOGsSpOhwa7I%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b7c9bdbe903748bc9ad02df48cdb158f?x-expires=1649574000&x-signature=3c1Hq0V8kls8ABX45QJHOPNnD8w%3D",
+        "bitrate": 301053,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6645042991814066181",
+        "uniqueId": "ihaveirelandsheart",
+        "nickname": "S | 3 |\\| |\\| A",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c62fa21cd4b24c20518e842901037e58~c5_100x100.jpeg?x-expires=1649638800&x-signature=mba8sn6fQOGvDePSdxVDlCiMd3o%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c62fa21cd4b24c20518e842901037e58~c5_720x720.jpeg?x-expires=1649638800&x-signature=zUK8MmAbvv8eEkOhDF8mzx8Bc90%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c62fa21cd4b24c20518e842901037e58~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=5HIwaghcDfvGHn%2B3wSCPzU75MF0%3D",
+        "signature": "#22\ud83e\udd4e\n#31 and 22\ud83c\udfc0\nIreland <3",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAH4k0YrjoQPFqPk41Q9a36Fq5KRhVuKAc2VJepmtGzRSVoW0bCEfED5Q1ri0hE5dH",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081404214387148802",
+        "title": "As It Was",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e1711e8dc2054a62b8fa2550c5e6d0f3",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/bbfd260dd24a448ca20211537dabd475.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/bbfd260dd24a448ca20211537dabd475.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/bbfd260dd24a448ca20211537dabd475.jpeg",
+        "authorName": "Harry Styles",
+        "original": false,
+        "duration": 60,
+        "album": "As It Was"
+    },
+    "challenges": [
+        {
+            "id": "801886",
+            "title": "greenscreen",
+            "desc": "Try out the #GreenScreen Creative Effect! Check out the latest trends using #greenscreen for some inspiration. Just pick an image from your camera roll, stand in front of a plain background, and make the next TikTok masterpiece.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 14,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 86
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "greenscreen",
+            "hashtagId": "801886",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1386,
+        "followerCount": 1081,
+        "heartCount": 25200,
+        "videoCount": 1572,
+        "diggCount": 45400,
+        "heart": 25200
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "2022",
+                "2021",
+                "2020",
+                "2019"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6625724007605190658",
+        "shortId": "",
+        "uniqueId": "mariberd",
+        "nickname": "mamarie",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/09ff223080b6984ad8a26a2db9e2cfb1~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=yXxDJKgTaDqAhXyWSJTSfEl9cxA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/09ff223080b6984ad8a26a2db9e2cfb1~c5_720x720.jpeg?x-expires=1650664800&x-signature=y5r5qI2oyBc7fQ6ct2TKICQDB3c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/09ff223080b6984ad8a26a2db9e2cfb1~c5_100x100.jpeg?x-expires=1650664800&x-signature=FdPJYnXSwTzKmoNeIWcPAZmyApQ%3D",
+        "signature": "23 y.o. \n\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQYbB8orsDyUV2EdD0umL2zqmpe47ln-sfGHr77DS1MmmI06yDJCOrmkjeXpPHL9a",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17600,
+        "followingCount": 51,
+        "heart": 2000000,
+        "heartCount": 2000000,
+        "videoCount": 229,
+        "diggCount": 0
+    },
+    "itemList": []
+}

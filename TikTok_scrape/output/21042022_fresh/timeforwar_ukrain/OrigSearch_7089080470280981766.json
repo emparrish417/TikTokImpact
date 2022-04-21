@@ -1,0 +1,90 @@
+{
+    "id": "7089080470280981766",
+    "desc": "",
+    "createTime": 1650555170,
+    "video": {
+        "id": "7089080470280981766",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6d0a1a35604c4182836e9fa6208cf1ec?x-expires=1650600000&x-signature=DDFzh1H%2F6MFmk21HiT1oX04YW5k%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/13e13c8f8c154f0e8838b3383dba5695_1650555171?x-expires=1650600000&x-signature=9nZ9lDwvtk%2Bxn5lpXDbqw69O5Fw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5b156fcfd0874a9ba1e7252581634dbd_1650555172?x-expires=1650600000&x-signature=Sgg5QJT1Unv50HRpp%2FUb6s5S%2FiQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/48fa3b6c21fdacb3b6dd04ba81d6e6c1/626232bd/video/tos/useast2a/tos-useast2a-ve-0068c001/2393f34f3e8243a2a42e2f1e10799dc1/?a=1988&br=362&bt=181&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWPZNwe2Nb-efl7Gb&l=202204212244350101130061940CD3B48C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dnO2c6ZjtxPDMzNzczM0ApNTk2NjRmZWVmNzhoZzhmZGdgMGFqcjQwZmRgLS1kMTZzczJhNjAwYjAwMzM2LzY0LzA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/48fa3b6c21fdacb3b6dd04ba81d6e6c1/626232bd/video/tos/useast2a/tos-useast2a-ve-0068c001/2393f34f3e8243a2a42e2f1e10799dc1/?a=1988&br=362&bt=181&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWPZNwe2Nb-efl7Gb&l=202204212244350101130061940CD3B48C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dnO2c6ZjtxPDMzNzczM0ApNTk2NjRmZWVmNzhoZzhmZGdgMGFqcjQwZmRgLS1kMTZzczJhNjAwYjAwMzM2LzY0LzA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/13e13c8f8c154f0e8838b3383dba5695_1650555171~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=Uulb8qFSzY%2BH5v4q33d7gF16o4A%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/13e13c8f8c154f0e8838b3383dba5695_1650555171~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=ovH6d3%2Bz9ATPEQJ197OeeLqLkNE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6d0a1a35604c4182836e9fa6208cf1ec?x-expires=1650600000&x-signature=DDFzh1H%2F6MFmk21HiT1oX04YW5k%3D",
+        "bitrate": 186225,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7023841230271529989",
+        "uniqueId": "timeforwar_ukrain",
+        "nickname": "War",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa4b4f2ea4d96fa55d7e1855c623aa72~c5_100x100.jpeg?x-expires=1650751200&x-signature=dKnHxdM9NzUk7GUFqcUALk8wX3Q%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/aa4b4f2ea4d96fa55d7e1855c623aa72~c5_720x720.jpeg?x-expires=1650751200&x-signature=uI1fjNAUYtpLNAbP%2BD3oNkTsjvM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa4b4f2ea4d96fa55d7e1855c623aa72~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=hLaIg9Rpz0jQ2Hdt5Kg3XSqn9CA%3D",
+        "signature": "Ukrain will win",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmKS0L22S-ApsBAlX4eGDCkrp3uDc45qO6NSC3MZiyvqYroqMV0MTgzV55NjqFviU",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089080459745135366",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7089080467051399942.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa4b4f2ea4d96fa55d7e1855c623aa72~c5_100x100.jpeg?x-expires=1650751200&x-signature=dKnHxdM9NzUk7GUFqcUALk8wX3Q%3D",
+        "coverMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/aa4b4f2ea4d96fa55d7e1855c623aa72~c5_720x720.jpeg?x-expires=1650751200&x-signature=uI1fjNAUYtpLNAbP%2BD3oNkTsjvM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa4b4f2ea4d96fa55d7e1855c623aa72~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=hLaIg9Rpz0jQ2Hdt5Kg3XSqn9CA%3D",
+        "authorName": "War",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 6
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 67,
+        "followerCount": 4,
+        "heartCount": 13,
+        "videoCount": 13,
+        "diggCount": 38,
+        "heart": 13
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

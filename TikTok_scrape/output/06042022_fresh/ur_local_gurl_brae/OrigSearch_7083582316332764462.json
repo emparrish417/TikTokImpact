@@ -1,0 +1,133 @@
+{
+    "id": "7083582316332764462",
+    "desc": "#voiceeffects",
+    "createTime": 1649275031,
+    "video": {
+        "id": "7083582316332764462",
+        "height": 1024,
+        "width": 576,
+        "duration": 137,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5b7c52870a2f443484208edba0ec2953?x-expires=1649307600&x-signature=DsRj8dUh5LElZYtmkOXYTUyy6T4%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/409e66558005416fad66238e7a24cc41_1649275033?x-expires=1649307600&x-signature=3ArbKip2zR4rgUmLG2oGUIMWCtI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d8ad09db748a4c7baaa4d08e411041ca_1649275032?x-expires=1649307600&x-signature=y6nlWyAI7gtMG8ti%2BVkY26u8ves%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c45598a498d43a9b87b9e296f264de88/624e74c1/video/tos/useast5/tos-useast5-ve-0068c003-tx/e998865e878e429da87a262f8957eb3f/?a=1988&br=3838&bt=1919&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThMwSSDXq&l=2022040623184701011313507805523474&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzpwdjk6Znd4PDMzZzczNEApNWVpMztlaDxpN2Q4Omk3OWcxXjNucjRvcjNgLS1kMS9zczUwMmFeXzQtNV41LzYwL2A6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c45598a498d43a9b87b9e296f264de88/624e74c1/video/tos/useast5/tos-useast5-ve-0068c003-tx/e998865e878e429da87a262f8957eb3f/?a=1988&br=3838&bt=1919&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThMwSSDXq&l=2022040623184701011313507805523474&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzpwdjk6Znd4PDMzZzczNEApNWVpMztlaDxpN2Q4Omk3OWcxXjNucjRvcjNgLS1kMS9zczUwMmFeXzQtNV41LzYwL2A6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/409e66558005416fad66238e7a24cc41_1649275033~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=f2%2FhJQo4wUP7%2BXH6kJ%2FtUP%2BC%2Foo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/409e66558005416fad66238e7a24cc41_1649275033~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=vZghf0I2COVH7lKb1fe7sjJls9M%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5b7c52870a2f443484208edba0ec2953?x-expires=1649307600&x-signature=EODHXDIbNAXzyCPRMq8C%2BOObecA%3D",
+        "bitrate": 1965334,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7066253028258858031",
+        "uniqueId": "ur_local_gurl_brae",
+        "nickname": "\ud83d\udc95I stand with Ukraine\ud83d\udc95",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d9b841f9516265622b6523cb11970c2~c5_100x100.jpeg?x-expires=1649372400&x-signature=zPozOatKfIpo9TL0R2ZD2c4Zn7A%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d9b841f9516265622b6523cb11970c2~c5_720x720.jpeg?x-expires=1649372400&x-signature=1dG0xlsfFGdwW%2BHJbQzq5XBFDbY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d9b841f9516265622b6523cb11970c2~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=E%2BOnxxsW0MQp6hpHzZRPcoLMVgs%3D",
+        "signature": "\ud83d\udc99I cheer\ud83d\udc99\n\ud83d\ude3dhate = blocked\ud83d\ude3d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6tq69yK3h6lKIamU3jCy2zFfVlsjltUYXprF2b-mgUhGogKaO-0zuUWDMEleht1Y",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7083582320518646570",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7083582341771217706.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d9b841f9516265622b6523cb11970c2~c5_100x100.jpeg?x-expires=1649372400&x-signature=zPozOatKfIpo9TL0R2ZD2c4Zn7A%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d9b841f9516265622b6523cb11970c2~c5_720x720.jpeg?x-expires=1649372400&x-signature=1dG0xlsfFGdwW%2BHJbQzq5XBFDbY%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d9b841f9516265622b6523cb11970c2~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=E%2BOnxxsW0MQp6hpHzZRPcoLMVgs%3D",
+        "authorName": "\ud83d\udc95I stand with Ukraine\ud83d\udc95",
+        "original": true,
+        "duration": 137,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1361074",
+            "title": "voiceeffects",
+            "desc": "TikTok has new #VoiceEffects, made just for you! Record your video, hit the checkmark and change your voice with new presets, whether you want to sound like a chipmunk or love the autotune life.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c58edc827be2fd0ebe5cb011764b3f35",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c58edc827be2fd0ebe5cb011764b3f35",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c58edc827be2fd0ebe5cb011764b3f35",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/95dce3164582d8f6f960128e0fa2acb5",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/95dce3164582d8f6f960128e0fa2acb5",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/95dce3164582d8f6f960128e0fa2acb5",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 12
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 13,
+            "hashtagName": "voiceeffects",
+            "hashtagId": "1361074",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Gold Coast",
+            "ID": "1109212"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 102,
+        "followerCount": 39,
+        "heartCount": 1067,
+        "videoCount": 13,
+        "diggCount": 759,
+        "heart": 1067
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                " POV YOU OPEND TAKIES AT LUCH"
+            ]
+        }
+    ],
+    "isAd": false
+}

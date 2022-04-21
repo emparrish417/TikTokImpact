@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "262666316862619648",
+        "shortId": "",
+        "uniqueId": "darikoo",
+        "nickname": "\u10d3\u10d0\u10e0\u10d8\u10d9\u10dd",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ecc4a1a858b0c3c4348e23599e29b2f~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=XO2vRrB5vKDdrA8Ti5ujZ4P3yrY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ecc4a1a858b0c3c4348e23599e29b2f~c5_720x720.jpeg?x-expires=1650412800&x-signature=JhFsgNw8tI3JBnvnWh1qoUX17Js%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ecc4a1a858b0c3c4348e23599e29b2f~c5_100x100.jpeg?x-expires=1650412800&x-signature=%2Fo1YDeulp%2BtA6DkcBQI9MOdUMVE%3D",
+        "signature": "\ud83c\uddec\ud83c\uddea\ud83c\uddfa\ud83c\udde6\ud83c\udde7\ud83c\uddec",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAzY3PFfAuJ3AM8IKRL05rcjX3bKe33L2FXlsDsvtX0JLWqF5ljPZQKtL4NmWSKrXc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 285,
+        "followingCount": 164,
+        "heart": 3460,
+        "heartCount": 3460,
+        "videoCount": 50,
+        "diggCount": 0
+    },
+    "itemList": []
+}

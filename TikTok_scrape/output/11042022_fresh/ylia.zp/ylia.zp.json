@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6777673129831597062",
+        "shortId": "",
+        "uniqueId": "ylia.zp",
+        "nickname": "ylia.zp",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96376a1d916c269a4d856c5fa3f98d2e~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=%2FBJx39IAen%2BnWqg0F0DTrYdkEcY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96376a1d916c269a4d856c5fa3f98d2e~c5_720x720.jpeg?x-expires=1649800800&x-signature=DaYQWI90%2FX6hm%2BPhPObIAstscRQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96376a1d916c269a4d856c5fa3f98d2e~c5_100x100.jpeg?x-expires=1649800800&x-signature=0xbc3IbGC4qKTJe6J9FM2LFpu5c%3D",
+        "signature": "",
+        "createTime": 1578037020,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAHq6JDTSX14EBxTzBZcpJoP4jNHsKIKk5VlnJBHsFVzK5dev5zpZyv8rhgqujxq5t",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 842,
+        "followingCount": 25,
+        "heart": 9989,
+        "heartCount": 9989,
+        "videoCount": 34,
+        "diggCount": 0
+    },
+    "itemList": []
+}

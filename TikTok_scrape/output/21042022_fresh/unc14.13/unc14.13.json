@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "7019762578428216325",
+        "shortId": "",
+        "uniqueId": "unc14.13",
+        "nickname": "unc14.13",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/53eb0445341d04926180b236ba164536~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=ArSHpR5dyOZvZ%2BrlpKAgOhzIwTQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/53eb0445341d04926180b236ba164536~c5_720x720.jpeg?x-expires=1650751200&x-signature=BT2wEtnsBHqzPvIRHCM7N3OfTUU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/53eb0445341d04926180b236ba164536~c5_100x100.jpeg?x-expires=1650751200&x-signature=Zdv2tgN%2FSCQafDPYEiji4y3Q2gw%3D",
+        "signature": "\u041a\u0443\u0442\u043e\u0447\u043e\u043a \u0440\u0443\u0441\u043e\u0444\u043e\u0431\u0456\u0457\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0430 \u0421\u043f\u0456\u043b\u043a\u0430\n   (\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f \u043d\u0430 \u043d\u0430\u0441 \u0437\u043d\u0438\u0437\u0443)",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAq5zKpDwWgIw9EilbQpNyvLpazRgZ6JX7LvhupBGCpBJZj08K-oGMuzLztNtOIGP8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/+ukRFisyqWDZhZWIy",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8812,
+        "followingCount": 29,
+        "heart": 213200,
+        "heartCount": 213200,
+        "videoCount": 52,
+        "diggCount": 0
+    },
+    "itemList": []
+}

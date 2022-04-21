@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6824068188599485446",
+        "shortId": "",
+        "uniqueId": "sadiecats",
+        "nickname": "Anonymous",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/75c26d808d3afb39943c4b5284a0b2d6~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=E8TKR3VJWTSOb7u0y%2BN9V0FMepg%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/75c26d808d3afb39943c4b5284a0b2d6~c5_720x720.jpeg?x-expires=1650240000&x-signature=yKJpw3V0VT%2BzQINUORPdPZhM3v8%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/75c26d808d3afb39943c4b5284a0b2d6~c5_100x100.jpeg?x-expires=1650240000&x-signature=vd%2BZURTk3lAeSG5TzYj%2FKuwER%2B8%3D",
+        "signature": "World governments, you should have expected us.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFn9yAKpcZiQiyGWhxQyuTk7YvXXxEPPgr4L3zLZJcpg8ekTR2NaVsBQNEQdaWQeC",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "discord.gg/thecollective",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 574400,
+        "followingCount": 1,
+        "heart": 8100000,
+        "heartCount": 8100000,
+        "videoCount": 104,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6994483450691617798",
+        "shortId": "",
+        "uniqueId": "melon_playground_top",
+        "nickname": "\u0430\u0432\u0442\u043e\u0440 \u043a\u043e\u0440\u043d",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a95bb8110365f57f29cadcae9b2b7bc5~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=vQzfuxnMaQsQrmcPrYYWLZIfB3E%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a95bb8110365f57f29cadcae9b2b7bc5~c5_720x720.jpeg?x-expires=1649905200&x-signature=gDfhsnGssP78nKTgc%2BFnjmpoLXU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a95bb8110365f57f29cadcae9b2b7bc5~c5_100x100.jpeg?x-expires=1649905200&x-signature=JhDQxSimLXyzk6Kkz1XsGpfEASI%3D",
+        "signature": "\ud83c\udf3d\u0441\u043e\u044e\u0437 \u043a\u043e\u0440\u043d\u043e\u0432\ud83c\udf3d\n\ud83c\uddfa\ud83c\udde6 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \u0442\u043e\u043f \ud83c\uddfa\ud83c\udde6",
+        "createTime": 1628530140,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvsPdpE2pD3bboh5L4gZ7lWi6ZAnEQ9v1oRwsjGxwolYLn5Ud_6fwBPmWhisdTqin",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5,
+        "followingCount": 18,
+        "heart": 3,
+        "heartCount": 3,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,98 @@
+{
+    "id": "7084644238583008554",
+    "desc": "",
+    "createTime": 1649522279,
+    "video": {
+        "id": "7084644238583008554",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5495a77a4a0c4996bf3980047052b26b?x-expires=1649574000&x-signature=WHqzgit4Ym1Igh7ftMLmdLAVo64%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/56fa562bbf7a41e8adcf4e02005bdc77_1649522280?x-expires=1649574000&x-signature=4VAMS6BM4evC%2Bvm3scddFGYOrtI%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a47077a0a8fa459985bf01d2b44859c8_1649522280?x-expires=1649574000&x-signature=3RyrrpcUCX%2B%2BZ%2F0hZdBR1JzszKE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7512795791f10dfdbb0d1f343af1df30/62528c1e/video/tos/useast5/tos-useast5-ve-0068c004-tx/96dc83e9b9424a4f8feb21a7e39d95f5/?a=1988&br=790&bt=395&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThfQ4IDXq&l=20220410014943010113135174180DF31C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF5aTw6ZjZ1PDMzZzczNEApZjM2ZzY1N2RlNzczOjtkNGdgcXM0cjRvYDVgLS1kMS9zczYxM182NmMxMmFeYGNiNjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7512795791f10dfdbb0d1f343af1df30/62528c1e/video/tos/useast5/tos-useast5-ve-0068c004-tx/96dc83e9b9424a4f8feb21a7e39d95f5/?a=1988&br=790&bt=395&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThfQ4IDXq&l=20220410014943010113135174180DF31C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF5aTw6ZjZ1PDMzZzczNEApZjM2ZzY1N2RlNzczOjtkNGdgcXM0cjRvYDVgLS1kMS9zczYxM182NmMxMmFeYGNiNjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/56fa562bbf7a41e8adcf4e02005bdc77_1649522280~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=MU98CfuvrBSDcJIJpBFUQ7XpXME%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/56fa562bbf7a41e8adcf4e02005bdc77_1649522280~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=Nx%2FcU5qZ42nvmC%2Bx4yKGAa8qJU8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5495a77a4a0c4996bf3980047052b26b?x-expires=1649574000&x-signature=ZDvO7%2BN5MYdwlRRGGXlqG%2FqhvvI%3D",
+        "bitrate": 404799,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6733132959707497478",
+        "uniqueId": "ireland430",
+        "nickname": "Ireland430",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/303affc5a56bbdfe005c9a7a48aec85a~c5_100x100.jpeg?x-expires=1649638800&x-signature=QpAJLWstbpNspyiplhK2BFqlPVw%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/303affc5a56bbdfe005c9a7a48aec85a~c5_720x720.jpeg?x-expires=1649638800&x-signature=VLQM9SOIwo8WdIh%2FqLz5gv2LKSE%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/303affc5a56bbdfe005c9a7a48aec85a~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=xT6nAX6TW8CwngVHesJTX1VYQP8%3D",
+        "signature": "Hi guys I\u2019m a Taurus\ud83c\udf33\ud83c\udf0d\u2649\ufe0f\ud83d\udc9a\ud83d\udc99",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0zu6hKq8LC7yrEbTPH7yMv_5Gp5iL2JCy-dZV4FNBJCT4b6qsAmK84ic9bbOUluL",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7072113888715606827",
+        "title": "famous ppl usin my sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7072113907824905003.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ac37ca7a1b9b8c96aeaad6e5392e4d23~c5_100x100.jpeg?x-expires=1649638800&x-signature=ohR5AtwlOirReOraQwwbqkY8goU%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ac37ca7a1b9b8c96aeaad6e5392e4d23~c5_720x720.jpeg?x-expires=1649638800&x-signature=zYbtPkQRry9d9rUBh2qG4TXpeTg%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ac37ca7a1b9b8c96aeaad6e5392e4d23~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=GYOKnGA05nV0YuqfXQ%2FUnmfEpKc%3D",
+        "authorName": "a <3",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 35
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1703,
+        "followerCount": 135,
+        "heartCount": 413,
+        "videoCount": 228,
+        "diggCount": 7511,
+        "heart": 413
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Me going to the movies to see sonic two\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

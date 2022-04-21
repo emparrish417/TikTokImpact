@@ -1,0 +1,104 @@
+{
+    "id": "7088327909668179246",
+    "desc": "I saw this and I was like OwO",
+    "createTime": 1650379951,
+    "video": {
+        "id": "7088327909668179246",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/022c4df0395244d599c97f06d146fd59_1650379952?x-expires=1650427200&x-signature=%2BS12vtJXtnPlOJCAUJXe%2B2OnC7c%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/adeba3629494471eb42938628a2a5687_1650379952?x-expires=1650427200&x-signature=DT4Wgex2l2gSrkbnWlghFu1DndQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2ebf7ffe1b184ca8848a0d4b2b721061_1650379952?x-expires=1650427200&x-signature=LGpgifPI4SWqq98GGwni8aSD%2Fgw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/effd3879d5966a1a4ab2147913d62fe8/625f89f4/video/tos/useast5/tos-useast5-pve-0068-tx/4b38752849c44402875be4e3f979ae72/?a=1988&br=3180&bt=1590&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoGiwwe2NeE~fl7Gb&l=202204192219580101131350200D0EADBA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRkNjY6ZjtmPDMzZzczNEApPDY8N2dlPGUzNzQ8Njk6ZWdjZWRscjRva2NgLS1kMS9zc2NeNTEuXzZiNi5eXjNhMWE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/effd3879d5966a1a4ab2147913d62fe8/625f89f4/video/tos/useast5/tos-useast5-pve-0068-tx/4b38752849c44402875be4e3f979ae72/?a=1988&br=3180&bt=1590&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoGiwwe2NeE~fl7Gb&l=202204192219580101131350200D0EADBA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRkNjY6ZjtmPDMzZzczNEApPDY8N2dlPGUzNzQ8Njk6ZWdjZWRscjRva2NgLS1kMS9zc2NeNTEuXzZiNi5eXjNhMWE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/adeba3629494471eb42938628a2a5687_1650379952~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=qd%2BXHp3EuX148Gqw%2BPTmniJmPxA%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/adeba3629494471eb42938628a2a5687_1650379952~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=b7D7oSmF9LkGLPoXFQO%2BM4vcFvc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/022c4df0395244d599c97f06d146fd59_1650379952?x-expires=1650427200&x-signature=dektjdCvOrflbE0qu9TzcZigUbk%3D",
+        "bitrate": 1628622,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7020110618469204997",
+        "uniqueId": "irelandtempted",
+        "nickname": "IrelandTempted",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78d317da1b6c2943ac2a73d2bc44c1a8~c5_100x100.jpeg?x-expires=1650578400&x-signature=0DlmcO8oSnwSPPHyP0IAlGuUTfM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78d317da1b6c2943ac2a73d2bc44c1a8~c5_720x720.jpeg?x-expires=1650578400&x-signature=2YjZ%2FQ0HqiF3NcHasjWx3yFm1Nw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78d317da1b6c2943ac2a73d2bc44c1a8~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=EcpM7NF1%2Fnnjj66KTcBTeh1YrLM%3D",
+        "signature": "I just wanna stay busy",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6lVGtWGaIbPG0bAqtkiCN8GMo-g_eyUCfWQAIbf6ejSgx38BfsWjvreoE77Wo8BO",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7047706338058619653",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7047706360196107014.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fec479fe59b704fd08cdb0b59ded425b~c5_100x100.jpeg?x-expires=1650578400&x-signature=%2B7a1OGXXah3iP7YyM%2BLVrgWEOSo%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fec479fe59b704fd08cdb0b59ded425b~c5_720x720.jpeg?x-expires=1650578400&x-signature=P2jYRLEKs9tjKypHvNmJe7lFGJU%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fec479fe59b704fd08cdb0b59ded425b~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=91nF9CSBHfXcCwWgy1obTJsRS%2FU%3D",
+        "authorName": "\ud80c\udc79\ud80c\udc8f\ud80c\udc79",
+        "original": true,
+        "duration": 11,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 6
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Video",
+            "ID": "454747"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 528,
+        "followerCount": 2214,
+        "heartCount": 52900,
+        "videoCount": 723,
+        "diggCount": 25600,
+        "heart": 52900
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "///OwO///"
+            ]
+        }
+    ],
+    "isAd": false
+}

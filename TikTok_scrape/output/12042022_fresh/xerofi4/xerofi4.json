@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6752579399001031686",
+        "shortId": "",
+        "uniqueId": "xerofi4",
+        "nickname": "xerofi4",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/235211d02471b3f1c1c881bb9775e390~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=0kSAf7hwsliIwGEDdN7ud5FEviA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/235211d02471b3f1c1c881bb9775e390~c5_720x720.jpeg?x-expires=1649905200&x-signature=epnvbLhVQG2BAiK3GuUEBG0ugG0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/235211d02471b3f1c1c881bb9775e390~c5_100x100.jpeg?x-expires=1649905200&x-signature=rkyHyfvvf3oF6V5IuVfYk54hRbQ%3D",
+        "signature": "",
+        "createTime": 1572207644,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsNBA7n_xIGpsl3TmxHujm9kUsj1VqXmMGurTDvkr24oRvjPryAAld23QmV9ljU6D",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 18,
+        "followingCount": 10,
+        "heart": 69,
+        "heartCount": 69,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

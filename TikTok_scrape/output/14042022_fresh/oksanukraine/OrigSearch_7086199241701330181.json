@@ -1,0 +1,202 @@
+{
+    "id": "7086199241701330181",
+    "desc": "#\u043c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c #\u0443\u043a\u0440\u0430\u0457\u043d\u0430\ud83c\uddfa\ud83c\udde6 #\u0432\u043e\u0439\u043d\u0430 #\u0430\u043a\u0443\u043f\u0430\u0446\u044b\u044f",
+    "createTime": 1649884331,
+    "video": {
+        "id": "7086199241701330181",
+        "height": 640,
+        "width": 360,
+        "duration": 92,
+        "ratio": "360p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/eb36255bc1114cf18e96fb5c1ea33c58?x-expires=1649962800&x-signature=wEyFosQmoKsl7lIKPXi4Ega2S7w%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bf9e5ea81cca4e14a9973a73636f8e00_1649884334?x-expires=1649962800&x-signature=jhHWVaGh2vlLVAB8TijqJLbo6xE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/488d8135d82f424b8a150bbcb93da814_1649884334?x-expires=1649962800&x-signature=WlYo%2FsUc33KkGUH0PzDVSAy62a4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fed02e75f36ecbb9168aba8c04025da5/625874a2/video/tos/useast2a/tos-useast2a-ve-0068c004/260b7be67ef744289d8dcd85ff7bd3eb/?a=1988&br=492&bt=246&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=ebtHKH-qMyq8ZFCKLwe2NReufl7Gb&l=202204141321420101131350241DEF0479&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k3bmc6ZnNtPDMzNzczM0ApOjNpZWkzO2VpN2Y2ZDY2OWdfMi8vcjQwa19gLS1kMTZzcy02Yy01LS8yMjRiMGJeMTY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fed02e75f36ecbb9168aba8c04025da5/625874a2/video/tos/useast2a/tos-useast2a-ve-0068c004/260b7be67ef744289d8dcd85ff7bd3eb/?a=1988&br=492&bt=246&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=ebtHKH-qMyq8ZFCKLwe2NReufl7Gb&l=202204141321420101131350241DEF0479&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k3bmc6ZnNtPDMzNzczM0ApOjNpZWkzO2VpN2Y2ZDY2OWdfMi8vcjQwa19gLS1kMTZzcy02Yy01LS8yMjRiMGJeMTY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bf9e5ea81cca4e14a9973a73636f8e00_1649884334~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=yIbrk8wChKf4eExGajpiBZ8azHs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bf9e5ea81cca4e14a9973a73636f8e00_1649884334~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=rg0%2BtKIgrRGFtRL%2Bb%2FNL7zrIfI0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/eb36255bc1114cf18e96fb5c1ea33c58?x-expires=1649962800&x-signature=wEyFosQmoKsl7lIKPXi4Ega2S7w%3D",
+        "bitrate": 252852,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "lowest",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6947749526879847430",
+        "uniqueId": "oksanukraine",
+        "nickname": "\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c \u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4ec6b24dbadd4f7600b0a67ec190b7e9~c5_100x100.jpeg?x-expires=1650114000&x-signature=4m5uws4bV3q746vOS3VC1khDXIY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4ec6b24dbadd4f7600b0a67ec190b7e9~c5_720x720.jpeg?x-expires=1650114000&x-signature=%2BFQ5JClnxth8M7CANOOMjl8QdDc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4ec6b24dbadd4f7600b0a67ec190b7e9~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=skVdTvNLQkiIeJL%2FBhl0PVnho24%3D",
+        "signature": "24.02.2022 \u0432 4:45 \u043c\u043e\u044f \u0436\u0438\u0437\u043d\u044c \u043f\u043e\u0434\u0435\u043b\u0438\u043b\u0430\u0441\u044c \u043d\u0430 \u0414\u041e \u0438 \u041f\u043e\u0441\u043b\u0435",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5EF2fpSlgHVpUE-1LuVziipKSU6f58JKHr0IR1pjGRR0YpzxcHN5RPLeziJbQPmm",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6874239216272803853",
+        "title": "Gustavo Santaolalla-Babel",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/52df1aa88212450db1fa225b1de6c27d",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/598099a866a64481b3113ff066fb8056.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/598099a866a64481b3113ff066fb8056.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/598099a866a64481b3113ff066fb8056.jpeg",
+        "authorName": "\u9648\u79cb\u79cb",
+        "original": false,
+        "duration": 204,
+        "album": "\u8863\u51a0\u4e0d\u6574 \u6055\u4e0d\u62db\u5f85"
+    },
+    "challenges": [
+        {
+            "id": "83161282",
+            "title": "\u043c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1618292853536773",
+            "title": "\u0443\u043a\u0440\u0430\u0457\u043d\u0430\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "11141269",
+            "title": "\u0432\u043e\u0439\u043d\u0430",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1677932315184130",
+            "title": "\u0430\u043a\u0443\u043f\u0430\u0446\u044b\u044f",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 9,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 343
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 11,
+            "hashtagName": "\u043c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c",
+            "hashtagId": "83161282",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 12,
+            "end": 24,
+            "hashtagName": "\u0443\u043a\u0440\u0430\u0457\u043d\u0430\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "1618292853536773",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 25,
+            "end": 31,
+            "hashtagName": "\u0432\u043e\u0439\u043d\u0430",
+            "hashtagId": "11141269",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 32,
+            "end": 41,
+            "hashtagName": "\u0430\u043a\u0443\u043f\u0430\u0446\u044b\u044f",
+            "hashtagId": "1677932315184130",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 20,
+        "followerCount": 65,
+        "heartCount": 511,
+        "videoCount": 43,
+        "diggCount": 267,
+        "heart": 511
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0442\u043e\u043c\u0443 \u0449\u043e \u043c\u0438 \u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u2764\ufe0f"
+            ]
+        }
+    ],
+    "isAd": false
+}

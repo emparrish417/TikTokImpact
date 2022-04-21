@@ -1,0 +1,90 @@
+{
+    "id": "7087753320018005294",
+    "desc": "AAAAH!",
+    "createTime": 1650246168,
+    "video": {
+        "id": "7087753320018005294",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/41744af2e5244987a5d162bf850cd0c6?x-expires=1650330000&x-signature=AMLb6W6jOXyNLMC9xucKD4PsdyI%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d2db16fe9c4b4f73b124d4fe7c2e3076_1650246169?x-expires=1650330000&x-signature=RYzO53Ctjmf7Ncatrkzly3e%2FMr8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5c0185c3ffb6478491ae189db8e734e8_1650246169?x-expires=1650330000&x-signature=Mo517IoE%2FZRRdQXch7oi7i4RtMw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5bd22710f6cb3a7d26940f0cb1ebcd97/625e0d8b/video/tos/useast5/tos-useast5-ve-0068c001-tx/f19055e4825e43cc8dff04102033ce2f/?a=1988&br=1608&bt=804&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~Oxwwe2NnOofl7Gb&l=2022041819165201011313513502F98D22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNoO2c6Zm5mPDMzZzczNEApNjc4OmZmPDtnNzM2ODc3NGdhNGNncjRfMGJgLS1kMS9zczQ1YzYxYmMyLi8yL19iLi86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5bd22710f6cb3a7d26940f0cb1ebcd97/625e0d8b/video/tos/useast5/tos-useast5-ve-0068c001-tx/f19055e4825e43cc8dff04102033ce2f/?a=1988&br=1608&bt=804&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~Oxwwe2NnOofl7Gb&l=2022041819165201011313513502F98D22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNoO2c6Zm5mPDMzZzczNEApNjc4OmZmPDtnNzM2ODc3NGdhNGNncjRfMGJgLS1kMS9zczQ1YzYxYmMyLi8yL19iLi86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d2db16fe9c4b4f73b124d4fe7c2e3076_1650246169~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=oKgzrAIoA3P338XFN4lojBrRAIc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d2db16fe9c4b4f73b124d4fe7c2e3076_1650246169~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=NGmHUsjH0NgVdqWT3OCvnYiimVU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/41744af2e5244987a5d162bf850cd0c6?x-expires=1650330000&x-signature=AMLb6W6jOXyNLMC9xucKD4PsdyI%3D",
+        "bitrate": 823346,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7049869706966975493",
+        "uniqueId": "viper_tiktoks",
+        "nickname": "Good luck Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6f279969621c9594b229da4bd0cbfbce~c5_100x100.jpeg?x-expires=1650481200&x-signature=uKO0g9HiXIWLf2TL8LKa33PsgnI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6f279969621c9594b229da4bd0cbfbce~c5_720x720.jpeg?x-expires=1650481200&x-signature=KcWaUJXx8tpQLxENGlqgRn%2FsPiU%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6f279969621c9594b229da4bd0cbfbce~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=z2Jxq8yyTYDj73gKCpC%2Fln3QXrA%3D",
+        "signature": "Hi I am a small creator making content cause I am bored",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAq4Fp1RSi12HXg1bsKmVdjmcAGB58WdZyz70H61BOE0l0GAJxc7uffPFI4WT5TALw",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6933713079226092293",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6933713097592982278.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5979d5ca936397ff4a91b62b3eddc7a~c5_100x100.jpeg?x-expires=1650481200&x-signature=W%2FDixvnodV2PGbmaREgwHYqoOrw%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5979d5ca936397ff4a91b62b3eddc7a~c5_720x720.jpeg?x-expires=1650481200&x-signature=xHRWsLAalXOiIqe1wUr2EG%2FUjTY%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5979d5ca936397ff4a91b62b3eddc7a~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=BXZaIEy1oxwXxH4SDFEailAi1jE%3D",
+        "authorName": "use code vietkong at greyshop",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 14
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 62,
+        "followerCount": 51,
+        "heartCount": 357,
+        "videoCount": 156,
+        "diggCount": 8891,
+        "heart": 357
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6612390038280601606",
+        "shortId": "",
+        "uniqueId": "saxcy",
+        "nickname": "saxcy",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/19905895a0ef7f5eed4ceef62a01fbfe.jpeg?x-expires=1650412800&x-signature=eVwy8Ua5PbE3ocmCZG7IqYO8JZ8%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/19905895a0ef7f5eed4ceef62a01fbfe.jpeg?x-expires=1650412800&x-signature=xsstchvkQeOpU88PkDJBJO8LCxI%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/19905895a0ef7f5eed4ceef62a01fbfe.jpeg?x-expires=1650412800&x-signature=oBBaLH%2BwJE2jUuzWTPZLhSdvbn8%3D",
+        "signature": "Esports + Gaming\nEmail: kobi@kobibrown.com\n\ud83d\udc46 Full Videos on YouTube\ud83d\udc46",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaltfL3JfemWTWjCV4s1G82hI5HsoofYf8J0gAWxmdnRhAPKlbJRBrULAK1Tvau5m",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Solo.to/saxcy",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 760000,
+        "followingCount": 2048,
+        "heart": 32100000,
+        "heartCount": 32100000,
+        "videoCount": 396,
+        "diggCount": 0
+    },
+    "itemList": []
+}

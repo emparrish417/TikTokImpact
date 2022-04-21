@@ -1,0 +1,100 @@
+{
+    "id": "7087869838659554565",
+    "desc": "",
+    "createTime": 1650273299,
+    "video": {
+        "id": "7087869838659554565",
+        "height": 960,
+        "width": 540,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c0f966bd76a848af88cdf15c0af99f36_1650273300?x-expires=1650330000&x-signature=NC05lY6qo8f1WG36%2FOAHl7SZtcM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7da8bef9c4d949dd8c5b09382f9dc633_1650273300?x-expires=1650330000&x-signature=mgSRqy5A0VEkey%2FNLwvCFSn4xxw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bc37b8da87ff444fb8066294cf41710d_1650273301?x-expires=1650330000&x-signature=XToDa1bNtTIThcy4mQjKebDSz%2F4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7d9fb43e35ec72e4a0871f9fd3e2f124/625e0d85/video/tos/useast2a/tos-useast2a-ve-0068c001/a8af4120a31f4d8686246dd4ad1b3721/?a=1988&br=1466&bt=733&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZeOxwwe2NSyyfl7Gb&l=2022041819164101011300621821FF5D2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3hqaWY6ZmhsPDMzNzczM0ApZzs4OTo5NjtpNzkzZWg1OGdoMHFecjRfZGJgLS1kMTZzc19hLjYyXjQvLzJhYl8uMDE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7d9fb43e35ec72e4a0871f9fd3e2f124/625e0d85/video/tos/useast2a/tos-useast2a-ve-0068c001/a8af4120a31f4d8686246dd4ad1b3721/?a=1988&br=1466&bt=733&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZeOxwwe2NSyyfl7Gb&l=2022041819164101011300621821FF5D2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3hqaWY6ZmhsPDMzNzczM0ApZzs4OTo5NjtpNzkzZWg1OGdoMHFecjRfZGJgLS1kMTZzc19hLjYyXjQvLzJhYl8uMDE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7da8bef9c4d949dd8c5b09382f9dc633_1650273300~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=fxxCSu0f%2Fv5yItKhoDVw6HDpCtc%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7da8bef9c4d949dd8c5b09382f9dc633_1650273300~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=0moeVNajVhnkBBWUlz2enWz1saw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c0f966bd76a848af88cdf15c0af99f36_1650273300?x-expires=1650330000&x-signature=NC05lY6qo8f1WG36%2FOAHl7SZtcM%3D",
+        "bitrate": 751560,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7049036991369102342",
+        "uniqueId": "upthereds_1158_ukraine",
+        "nickname": "liverpool1158",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a8a2ba47ccb867cd38f503c288dbc6dc~c5_100x100.jpeg?x-expires=1650481200&x-signature=n0ULvZWqBBe%2BEL4Yv32g9QgW1Zk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a8a2ba47ccb867cd38f503c288dbc6dc~c5_720x720.jpeg?x-expires=1650481200&x-signature=lcqe4Rb%2FGcSpdm1xusMuxGSMxic%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a8a2ba47ccb867cd38f503c288dbc6dc~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=oGPiUWJmltGIXMFy7TyhIVzE3F8%3D",
+        "signature": "Liverpool for life \nUp the reds",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVh7_qPuWat8WnFWSn7ikmDUc4tZpNZlyXqxgH0YcnLe-Ku3u-DQcV6CA2MrYwE8j",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087544833707625221",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7087544829747464966.mp3",
+        "coverThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/a16d68cb37a7bceee7eb07a530a647a7~c5_100x100.jpeg?x-expires=1650481200&x-signature=b7ZOvZpV4Z1P%2BXtRURdF%2FmQawyA%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a16d68cb37a7bceee7eb07a530a647a7~c5_720x720.jpeg?x-expires=1650481200&x-signature=%2BtMzu87aXWkGZYUhlHdRehphx3I%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a16d68cb37a7bceee7eb07a530a647a7~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=t3lMA5Vqmz9KlHO%2Fj0M8Wb7ZLco%3D",
+        "authorName": "Get well soon David brooks",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 13
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 179,
+        "followerCount": 56,
+        "heartCount": 454,
+        "videoCount": 105,
+        "diggCount": 859,
+        "heart": 454
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Saturday May 14th 2022\nFa cup final. \nWembley stadium London ",
+                "Liverpool.                         Vs                       Chelsea ",
+                "Come on the reds "
+            ]
+        }
+    ],
+    "isAd": false
+}

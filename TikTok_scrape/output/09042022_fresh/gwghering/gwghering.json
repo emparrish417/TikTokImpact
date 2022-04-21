@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6730228475171406853",
+        "shortId": "",
+        "uniqueId": "gwghering",
+        "nickname": "Mr. Ghering",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc0a1bcd5167f64f18c5e00624df0453~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=sd802Fhq%2FC20vlwWrbR4Oq1xxTw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc0a1bcd5167f64f18c5e00624df0453~c5_720x720.jpeg?x-expires=1649638800&x-signature=BcKPVSK%2BgR9Vd9Yy7ZVxDkOVcLs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc0a1bcd5167f64f18c5e00624df0453~c5_100x100.jpeg?x-expires=1649638800&x-signature=kLiSBMH2T5FdmszJ3QhTxsA9K1E%3D",
+        "signature": "I\u2019m bored\nCar page: @gheringgarage",
+        "createTime": 1567003736,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0VH0YoRUgxQ4mQNW5152k9cUTnu-0PfUSoRe3hhnantKbfmtixXxF8_sIBJigIVp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.tiktok.com/@gheringgarage",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 9680,
+        "followingCount": 174,
+        "heart": 891700,
+        "heartCount": 891700,
+        "videoCount": 58,
+        "diggCount": 0
+    },
+    "itemList": []
+}

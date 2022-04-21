@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6978586723350184966",
+        "shortId": "",
+        "uniqueId": "vasilcz",
+        "nickname": "Vasil",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/56e18662ab7cbe9e4b6ea5bcd14a7f26~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=M5RtJW3sJf2iCG2KkXDIOTGN4Mw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/56e18662ab7cbe9e4b6ea5bcd14a7f26~c5_720x720.jpeg?x-expires=1650481200&x-signature=V2qzuss6otyDHS6t4YVy6s8yups%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/56e18662ab7cbe9e4b6ea5bcd14a7f26~c5_100x100.jpeg?x-expires=1650481200&x-signature=XzNjbIb7WT4ttkLqOxjWzJHdIlc%3D",
+        "signature": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u0445\u043e\u0447\u0443 \u043e\u0434\u0438\u043d \ud83c\udf4b \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "verified": false,
+        "secUid": "MS4wLjABAAAABQajDidWBHoYLJa5fZ6kfCqCFRK9ThO59rJi4pgt1PxhmEpmPQkkpqboUgtzd9nj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1215,
+        "followingCount": 1357,
+        "heart": 12300,
+        "heartCount": 12300,
+        "videoCount": 240,
+        "diggCount": 0
+    },
+    "itemList": []
+}

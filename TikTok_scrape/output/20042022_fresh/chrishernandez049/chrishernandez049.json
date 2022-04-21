@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7081714522248709166",
+        "shortId": "",
+        "uniqueId": "chrishernandez049",
+        "nickname": "chrishernandez049",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/222c220d5e0afb973b92ce2bfab7a8cf~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=722B7sTSAyb0m%2F9sBItyEDl%2Bc8k%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/222c220d5e0afb973b92ce2bfab7a8cf~c5_720x720.jpeg?x-expires=1650664800&x-signature=hG9c99WaYc7zrZY%2FnnVf5q9cnyo%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/222c220d5e0afb973b92ce2bfab7a8cf~c5_100x100.jpeg?x-expires=1650664800&x-signature=kcw4U7poj2UcXXQAJfeXAqAaGzA%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlkK7VJ8KMw4iNEuY2e1tB6JtLOnY6sm_C9GQcq4DeiR9clLkN0CwEMDF9zmN1Zju",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8,
+        "followingCount": 15,
+        "heart": 16,
+        "heartCount": 16,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

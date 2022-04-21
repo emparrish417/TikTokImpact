@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6771123890765759493",
+        "shortId": "",
+        "uniqueId": "_frixxlis_",
+        "nickname": "frixxlis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92bf3e07f345ec3cc7ec76021d7f62af~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=1IkJ%2FSIeBHcAMCjLYmtTRQ9%2Ba2U%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92bf3e07f345ec3cc7ec76021d7f62af~c5_720x720.jpeg?x-expires=1649905200&x-signature=1GoZDxm7xRT6yfYH3vqjTbthaJk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92bf3e07f345ec3cc7ec76021d7f62af~c5_100x100.jpeg?x-expires=1649905200&x-signature=98V15r7X2mq2XgzW4zF6YjSNK9Q%3D",
+        "signature": "",
+        "createTime": 1576496532,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV7zWpmFpKdHqs9sTTNO5PDdJksIo-wXZg1SL1J5rvd1O5RP5SkeL6TVCGPLlaDZj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 280,
+        "followingCount": 106,
+        "heart": 19400,
+        "heartCount": 19400,
+        "videoCount": 102,
+        "diggCount": 0
+    },
+    "itemList": []
+}

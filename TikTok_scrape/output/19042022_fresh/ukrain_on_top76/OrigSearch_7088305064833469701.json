@@ -1,0 +1,105 @@
+{
+    "id": "7088305064833469701",
+    "desc": "",
+    "createTime": 1650374632,
+    "video": {
+        "id": "7088305064833469701",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8a1e5ca5ab684e5c8b73a4004e966050?x-expires=1650427200&x-signature=V87k60B15ebLujXugzojuKvPjMk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c4795cccea79440d868ad50c5c371c3d_1650374633?x-expires=1650427200&x-signature=GZJHG%2B4BC1J8vEPOkZXSKzlX2rE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3038ecd1f0524d6ea12fd25c620cb643_1650374634?x-expires=1650427200&x-signature=0SZH%2BgXX82ko0RKK1o7p5oJuTaw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/1c77064cae4b9efff64d4c0c58fc9435/625f8a7b/video/tos/useast2a/tos-useast2a-ve-0068c001/d1c0431a887040ec81dbe9728ce47e11/?a=1988&br=1370&bt=685&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zk1iwwe2NPq~fl7Gb&l=202204192222060101130061320102FF0C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajl2eTQ6ZmtlPDMzNzczM0ApNGc4aTdlZmRmNzVpZTozZmdoYWMxcjQwYmNgLS1kMTZzczIxYTYyNS4xMGA1NWM0YTQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/1c77064cae4b9efff64d4c0c58fc9435/625f8a7b/video/tos/useast2a/tos-useast2a-ve-0068c001/d1c0431a887040ec81dbe9728ce47e11/?a=1988&br=1370&bt=685&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zk1iwwe2NPq~fl7Gb&l=202204192222060101130061320102FF0C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajl2eTQ6ZmtlPDMzNzczM0ApNGc4aTdlZmRmNzVpZTozZmdoYWMxcjQwYmNgLS1kMTZzczIxYTYyNS4xMGA1NWM0YTQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4795cccea79440d868ad50c5c371c3d_1650374633~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=FbYZtOl6GyWnGIkcuLLnwG%2FKD4M%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4795cccea79440d868ad50c5c371c3d_1650374633~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=0C%2Fo2dAvYGtp%2F9weSLVJN91ZRbY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8a1e5ca5ab684e5c8b73a4004e966050?x-expires=1650427200&x-signature=V87k60B15ebLujXugzojuKvPjMk%3D",
+        "bitrate": 701572,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6958049564805792773",
+        "uniqueId": "ukrain_on_top76",
+        "nickname": "Markus Kristofer Sinivee",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/963c7a2a89d0c7b44791041414c6a271~c5_100x100.jpeg?x-expires=1650578400&x-signature=8I79VrLQ6wR5vcvCaTz4%2BIbUkJ8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/963c7a2a89d0c7b44791041414c6a271~c5_720x720.jpeg?x-expires=1650578400&x-signature=WuGr3F66ZZbRTJcRhYVL9kvbiw0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/963c7a2a89d0c7b44791041414c6a271~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=XbKx6Bn%2FCmoD48xq01zBan783xk%3D",
+        "signature": "i have 2172 kids in my basement",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjbP4a5vboBAsYLD58GIko43o1dGPQfSl4s_eWLJSzs3D5eRE0omuLkKqwk-ua1B9",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7071345533616540458",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7071345554160126766.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e71d03c26cd1c736ebb1eb2b96b7c349~c5_100x100.jpeg?x-expires=1650578400&x-signature=8prUkCdB2syz5RO6hterloQ3lAU%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e71d03c26cd1c736ebb1eb2b96b7c349~c5_720x720.jpeg?x-expires=1650578400&x-signature=nEaNiuv98hGeGYKiPQdqyhsGPrY%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e71d03c26cd1c736ebb1eb2b96b7c349~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=n00eW%2B4JCE2X0L01f%2FJTjNZdSg8%3D",
+        "authorName": "Follow fw.mrblocku",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 54,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1240
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "TapTap Emoji 2 by Jan",
+            "ID": "1902926"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9996,
+        "followerCount": 2210,
+        "heartCount": 5041,
+        "videoCount": 112,
+        "diggCount": 43800,
+        "heart": 5041
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "before the aaaaaaaaaah",
+                "trying to get \u2708"
+            ]
+        }
+    ],
+    "isAd": false
+}

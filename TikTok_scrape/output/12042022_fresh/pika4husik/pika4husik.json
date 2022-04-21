@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6519327290411717632",
+        "shortId": "",
+        "uniqueId": "pika4husik",
+        "nickname": "Pika4husik",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1611220594461702~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=EyaFR7bZVcdA8vdKyFcrsPGH%2FKM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1611220594461702~c5_720x720.jpeg?x-expires=1649905200&x-signature=jIyjliRo8W2bPPpiovVF0eWiK18%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1611220594461702~c5_100x100.jpeg?x-expires=1649905200&x-signature=BXLu%2B7hGrcfv3wg1%2BzrtdJLdb%2BI%3D",
+        "signature": "",
+        "createTime": 1517927969,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiBtkF7UExoTXiV61NzKhWQ_wacvhn41lXWAUKEw3kD4fnPyETmSb44zM8y2BtwP1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 62,
+        "followingCount": 32,
+        "heart": 1182,
+        "heartCount": 1182,
+        "videoCount": 53,
+        "diggCount": 0
+    },
+    "itemList": []
+}

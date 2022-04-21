@@ -1,0 +1,128 @@
+{
+    "id": "7086091173269441798",
+    "desc": "#voiceeffects",
+    "createTime": 1649859170,
+    "video": {
+        "id": "7086091173269441798",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5eacc3ca8acb43388a12235165cfa6e2?x-expires=1649962800&x-signature=0HSTiGVYjhLgX0%2BJokVp0yk1TzY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f2455d9ea2d54df7a615123db121c34d_1649859170?x-expires=1649962800&x-signature=oNZIdWILV2ZdVBVu8%2BRoOnRJqpA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/848683aecf134a7cad38c4e4a3dfe6dc_1649859171?x-expires=1649962800&x-signature=umLZgyB7GnMJBtg%2B9kEmPNmDLas%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/09d97f2b3164040fcd497479cf1d3887/62587440/video/tos/useast2a/tos-useast2a-ve-0068c003/6492fa5103eb46fdb8bd0e97ac97ab86/?a=1988&br=810&bt=405&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZVCKLwe2NRrGfl7Gb&l=2022041413212701011300621027B9B343&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJxOzc6ZnBnPDMzNzczM0ApZDg4Ojo3NmU3N2ZpZWRoNmctNGhrcjRnaF9gLS1kMTZzc2BeMDBeLV41YjJgNjEwMTE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/09d97f2b3164040fcd497479cf1d3887/62587440/video/tos/useast2a/tos-useast2a-ve-0068c003/6492fa5103eb46fdb8bd0e97ac97ab86/?a=1988&br=810&bt=405&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZVCKLwe2NRrGfl7Gb&l=2022041413212701011300621027B9B343&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJxOzc6ZnBnPDMzNzczM0ApZDg4Ojo3NmU3N2ZpZWRoNmctNGhrcjRnaF9gLS1kMTZzc2BeMDBeLV41YjJgNjEwMTE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f2455d9ea2d54df7a615123db121c34d_1649859170~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=XA4A3MxOny3rOcvusLLmaKljRcM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f2455d9ea2d54df7a615123db121c34d_1649859170~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=nuqY8QNLPIEfpPXktD4ByGTOARw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5eacc3ca8acb43388a12235165cfa6e2?x-expires=1649962800&x-signature=0HSTiGVYjhLgX0%2BJokVp0yk1TzY%3D",
+        "bitrate": 415589,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6989677918289855493",
+        "uniqueId": "ukraine_win_top1",
+        "nickname": "\u0423\u041a\u0420\u0410\u0407\u041d\u0415\u0426\u042c",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9321222497ec98e19a8c27400a0c3f4~c5_100x100.jpeg?x-expires=1650114000&x-signature=7JFaGgFC4dlqOEgS%2Fn1LOzmSQ54%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9321222497ec98e19a8c27400a0c3f4~c5_720x720.jpeg?x-expires=1650114000&x-signature=Dbdd9%2FF%2F6BcPwLRhkj2tXhFrA4g%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9321222497ec98e19a8c27400a0c3f4~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=KF5ClASb2QCLSnS%2BfU66Bkm2XnA%3D",
+        "signature": "\u23ec\u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u23ec",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfobFnKh6CiT8sB3j4MIBac-AvYeiJFmyzRoZfoOI9FIIRcNDMiFrSBp9koGL2N-q",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7086091152029518598",
+        "title": "\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7086091144396000005.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9321222497ec98e19a8c27400a0c3f4~c5_100x100.jpeg?x-expires=1650114000&x-signature=7JFaGgFC4dlqOEgS%2Fn1LOzmSQ54%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9321222497ec98e19a8c27400a0c3f4~c5_720x720.jpeg?x-expires=1650114000&x-signature=Dbdd9%2FF%2F6BcPwLRhkj2tXhFrA4g%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9321222497ec98e19a8c27400a0c3f4~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=KF5ClASb2QCLSnS%2BfU66Bkm2XnA%3D",
+        "authorName": "\u0423\u041a\u0420\u0410\u0407\u041d\u0415\u0426\u042c",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1361074",
+            "title": "voiceeffects",
+            "desc": "TikTok has new #VoiceEffects, made just for you! Record your video, hit the checkmark and change your voice with new presets, whether you want to sound like a chipmunk or love the autotune life.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c58edc827be2fd0ebe5cb011764b3f35",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c58edc827be2fd0ebe5cb011764b3f35",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c58edc827be2fd0ebe5cb011764b3f35",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/95dce3164582d8f6f960128e0fa2acb5",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/95dce3164582d8f6f960128e0fa2acb5",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/95dce3164582d8f6f960128e0fa2acb5",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 119
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 13,
+            "hashtagName": "voiceeffects",
+            "hashtagId": "1361074",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 4697,
+        "followerCount": 2128,
+        "heartCount": 8749,
+        "videoCount": 390,
+        "diggCount": 8384,
+        "heart": 8749
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0445\u0430\u0445\u0430\u0445\u0430\u0445\u0445\u0430",
+                " \u043f\u0456\u0434 \u0446\u0435\u0439 \u0437\u0432\u0443\u043a \u043b\u0430\u0439\u043a\u0430\u044e"
+            ]
+        }
+    ],
+    "isAd": false
+}

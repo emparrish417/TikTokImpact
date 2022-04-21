@@ -1,0 +1,98 @@
+{
+    "id": "7087529284528639237",
+    "desc": "",
+    "createTime": 1650194007,
+    "video": {
+        "id": "7087529284528639237",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/015366e6b2fa480ca9a73dcc2dc277f8?x-expires=1650261600&x-signature=y0V5KV6P%2FQPwvyHzcGyiQSWQsr0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2ea4c989f58144eb9b0d7803bb6b03d4_1650194008?x-expires=1650261600&x-signature=NVIbPFubc7YZYDr1uS%2BX6dv1BHQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5da5519da59c41049291170f0fe77f23_1650194009?x-expires=1650261600&x-signature=G00vA%2BcJ5pX1DGWKD3mauuwCQsc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/412cfd76e55655b18ff1b227e1ac708f/625d02af/video/tos/useast2a/tos-useast2a-ve-0068c001/2348e5ad06384ec58a51ab91c90cd06e/?a=1988&br=804&bt=402&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZfPuwwe2N63Gfl7Gb&l=202204180018170101131351491564F68A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xkdjY6Zm95PDMzNzczM0ApNzg4NGVnOjs6Nzk5OTlpPGdpaW9kcjRnXmFgLS1kMTZzc2E0NjEyMy00LjUzLTY1NDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/412cfd76e55655b18ff1b227e1ac708f/625d02af/video/tos/useast2a/tos-useast2a-ve-0068c001/2348e5ad06384ec58a51ab91c90cd06e/?a=1988&br=804&bt=402&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZfPuwwe2N63Gfl7Gb&l=202204180018170101131351491564F68A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xkdjY6Zm95PDMzNzczM0ApNzg4NGVnOjs6Nzk5OTlpPGdpaW9kcjRnXmFgLS1kMTZzc2E0NjEyMy00LjUzLTY1NDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2ea4c989f58144eb9b0d7803bb6b03d4_1650194008~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=Sf4XAH6YKwXZnqgTJH7jUw9zpk8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2ea4c989f58144eb9b0d7803bb6b03d4_1650194008~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=9eVfLTvd2umtvye4wDkOVg0Vnd8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/015366e6b2fa480ca9a73dcc2dc277f8?x-expires=1650261600&x-signature=y0V5KV6P%2FQPwvyHzcGyiQSWQsr0%3D",
+        "bitrate": 412087,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6887906709273756674",
+        "uniqueId": "_official5624_boy1",
+        "nickname": "stand for ukraine.",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/debaaad01c1ddaf0668f0c6c82222b07~c5_100x100.jpeg?x-expires=1650412800&x-signature=J%2FetuTkc0kynaY7wXkhByln%2BUtc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/debaaad01c1ddaf0668f0c6c82222b07~c5_720x720.jpeg?x-expires=1650412800&x-signature=9WBv9ORvikBHg%2FTi5COK9oSAO1s%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/debaaad01c1ddaf0668f0c6c82222b07~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=rVwom66jsv66eWbrEQY%2BNFt8ehw%3D",
+        "signature": "20k please",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQDhXqEmlyf_SKFSP-ZaeBB8zaNCPQs9NaPjOdXCQ0uPuVoRnhd8c2bTcg60ExulJ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7070632434768807938",
+        "title": "Glad U Came (feat. ZieZie)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/444ec34781bf4a3499afd7a6f7d8ee03",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/52574d1f2a3944d3b2938f891b13e7fd.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/52574d1f2a3944d3b2938f891b13e7fd.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/52574d1f2a3944d3b2938f891b13e7fd.jpeg",
+        "authorName": "Liilz",
+        "original": false,
+        "duration": 60,
+        "album": "Glad U Came (feat. ZieZie)"
+    },
+    "stats": {
+        "diggCount": 486,
+        "shareCount": 10,
+        "commentCount": 13,
+        "playCount": 5399
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 111,
+        "followerCount": 27900,
+        "heartCount": 66800,
+        "videoCount": 60,
+        "diggCount": 2679,
+        "heart": 66800
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "when my girlfriend Says she pregnant \ud83e\udd23\ud83d\ude06\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

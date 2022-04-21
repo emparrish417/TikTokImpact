@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "7044587260604089350",
+        "shortId": "",
+        "uniqueId": "anton_low2021",
+        "nickname": "Anton Low",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7aa7e23d87ee6609db01c47c540c5659~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=THZ96At1jrW%2FTGY4G%2FoA3AXf1vg%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7aa7e23d87ee6609db01c47c540c5659~c5_720x720.jpeg?x-expires=1650578400&x-signature=WS%2FOBQLakWGenmmQvm5THyk57hI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7aa7e23d87ee6609db01c47c540c5659~c5_100x100.jpeg?x-expires=1650578400&x-signature=aqp2Unm3udgAlmWXkcBmIHAm8Y8%3D",
+        "signature": "Bio is loading\u2026",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2iDwfLv-xjQdXdCOYrxLNCTnGakypWAQ_IG38xLuGVEpZsJTVX4DoPRn4Y4baLqE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Education & Training",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11100,
+        "followingCount": 585,
+        "heart": 370,
+        "heartCount": 370,
+        "videoCount": 14,
+        "diggCount": 0
+    },
+    "itemList": []
+}

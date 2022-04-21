@@ -1,0 +1,90 @@
+{
+    "id": "7085450547997707525",
+    "desc": "",
+    "createTime": 1649710013,
+    "video": {
+        "id": "7085450547997707525",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/72ffb18ff26643fba9ebf228d156e616?x-expires=1649736000&x-signature=c2Zrk7M7ZRmTKwrQi9tZ8vX6l6k%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5f822ef87d2746b8bd126bfdc0fa00c7_1649710015?x-expires=1649736000&x-signature=LHcRGmRuYxyZKTPSP6ukeSwamA4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f467f9d02f1948638c14899c5f1e4dd8_1649710015?x-expires=1649736000&x-signature=KRyHkGC2OlGoHjyfSJJyOeDYjnU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/aeae1e5c5006ed1386da48bfe8e3e176/6254fd60/video/tos/useast2a/tos-useast2a-ve-0068c001/254e9327aa854a1faaf728760b00885f/?a=1988&br=336&bt=168&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3_jaDXq&l=20220411221721010113006038147DE6C4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2pzbDU6Zng8PDMzNzczM0ApNTQ8OjUzZzw4NzhmNmg3O2dmNjVocjRfM15gLS1kMTZzczYyYDEvLV41MDJgL19fYzE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/aeae1e5c5006ed1386da48bfe8e3e176/6254fd60/video/tos/useast2a/tos-useast2a-ve-0068c001/254e9327aa854a1faaf728760b00885f/?a=1988&br=336&bt=168&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3_jaDXq&l=20220411221721010113006038147DE6C4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2pzbDU6Zng8PDMzNzczM0ApNTQ8OjUzZzw4NzhmNmg3O2dmNjVocjRfM15gLS1kMTZzczYyYDEvLV41MDJgL19fYzE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5f822ef87d2746b8bd126bfdc0fa00c7_1649710015~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=nMNLUBdP6EfEMP46XW5e5Wxfijk%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5f822ef87d2746b8bd126bfdc0fa00c7_1649710015~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=h%2BPeFYQXkw0WqDOjIlfVDLVRGLc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/72ffb18ff26643fba9ebf228d156e616?x-expires=1649736000&x-signature=c2Zrk7M7ZRmTKwrQi9tZ8vX6l6k%3D",
+        "bitrate": 172911,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6985652432622339078",
+        "uniqueId": "westandforukrainian2",
+        "nickname": "Green on top \ud83d\udc9a\ud83d\udc9a",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/108dfe2f865f66f8a6c14a2004db8973~c5_100x100.jpeg?x-expires=1649800800&x-signature=ujRp%2BHk5QUkSOM8dHMbEkGaHsdQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/108dfe2f865f66f8a6c14a2004db8973~c5_720x720.jpeg?x-expires=1649800800&x-signature=0CbTyzN76wImvRMSo8Sm4CX1zqo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/108dfe2f865f66f8a6c14a2004db8973~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=rVbiU3xK7do6EwGDO9Rd7llI56g%3D",
+        "signature": "Green\ud83d\udc9a\ud83d\udc9a",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAy9kCnPHKD2S-xFOv5JlaG8CJ8_wz7-RB64K7ntx7j8MNETvmQFDruYIPXp47pqvc",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6828652898839201794",
+        "title": "Green Gang",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3dbeb3b3c537486c8cb9367157f16af1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/94c73ba3672444d0aa3af6c3ab7af43e.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/94c73ba3672444d0aa3af6c3ab7af43e.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/94c73ba3672444d0aa3af6c3ab7af43e.jpeg",
+        "authorName": "Lil Eli",
+        "original": false,
+        "duration": 60,
+        "album": "Green Gang"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 2
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 892,
+        "followerCount": 149,
+        "heartCount": 369,
+        "videoCount": 56,
+        "diggCount": 1133,
+        "heart": 369
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

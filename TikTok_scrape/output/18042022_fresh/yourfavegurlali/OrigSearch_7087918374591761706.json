@@ -1,0 +1,90 @@
+{
+    "id": "7087918374591761706",
+    "desc": "",
+    "createTime": 1650284600,
+    "video": {
+        "id": "7087918374591761706",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cb2cc31435654bd6812816cadb60e2b8?x-expires=1650330000&x-signature=Y5T%2FHB1tCKSyaOx7Ryu%2BK58dqe4%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/deaf35faf76d4bea944816d1fb6962da_1650284601?x-expires=1650330000&x-signature=GQQncExoUB0CnwSE9accD5eqmBM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e63a6b4c0bcb49628e8ddbd15ff38c9a_1650284601?x-expires=1650330000&x-signature=uYRG2aheMm%2BVHg5FEPiGAok%2B0l8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c3fe40445983ef9371358700569d0308/625e0d4c/video/tos/useast5/tos-useast5-ve-0068c001-tx/6489751cd285472fa73ca3ef77983c3a/?a=1988&br=2692&bt=1346&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~zxwwe2NV87fl7Gb&l=202204181915480101131352070C026909&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzR0azY6ZmVvPDMzZzczNEApZjVoNWYzaGVnNzY8Zzs6OWdyXmUucjQwZGJgLS1kMS9zcy4wLTRiNDIxLy8wLzJjYy86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c3fe40445983ef9371358700569d0308/625e0d4c/video/tos/useast5/tos-useast5-ve-0068c001-tx/6489751cd285472fa73ca3ef77983c3a/?a=1988&br=2692&bt=1346&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~zxwwe2NV87fl7Gb&l=202204181915480101131352070C026909&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzR0azY6ZmVvPDMzZzczNEApZjVoNWYzaGVnNzY8Zzs6OWdyXmUucjQwZGJgLS1kMS9zcy4wLTRiNDIxLy8wLzJjYy86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/deaf35faf76d4bea944816d1fb6962da_1650284601~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=yz9esG%2Bygl1FXqiy5HkqBJ7A0Mc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/deaf35faf76d4bea944816d1fb6962da_1650284601~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=vdzvfm9BRhW3UtTsC7OW2p1XhUk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cb2cc31435654bd6812816cadb60e2b8?x-expires=1650330000&x-signature=Y5T%2FHB1tCKSyaOx7Ryu%2BK58dqe4%3D",
+        "bitrate": 1378932,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7064011721149891631",
+        "uniqueId": "yourfavegurlali",
+        "nickname": "stand for Ukraine\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99b3b567d7490ceea33dbde9c625d5b8~c5_100x100.jpeg?x-expires=1650481200&x-signature=x5tV8jytVEvZvqFZoG9ZSLFgbrE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99b3b567d7490ceea33dbde9c625d5b8~c5_720x720.jpeg?x-expires=1650481200&x-signature=ARd6VURJkEzp2DxQMIQqD%2FdclCs%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99b3b567d7490ceea33dbde9c625d5b8~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=7IVbWt58Oo6TWDJPMRTQH4%2BqdPM%3D",
+        "signature": "i like to play Toca world and i hope you enjoy my vids",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArexI1sZZjQTqq2Q3OhrIIGgEL6iPZbj48DS0hDN-YHkNiiZ98YyadBJwdH6AEDj1",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069738073092852523",
+        "title": "Quagotjuicee5 on TikTok",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7069738107087784750.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/142d092fe76cc55e0f862e6673de3b80~c5_100x100.jpeg?x-expires=1650481200&x-signature=MR0%2B%2Byd%2F7ISSluGLX%2F2SdgQOYH0%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/142d092fe76cc55e0f862e6673de3b80~c5_720x720.jpeg?x-expires=1650481200&x-signature=cvIutjNjcWu3OVUEPwR0lMmMx7A%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/142d092fe76cc55e0f862e6673de3b80~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=2jHegBB2fJEk%2BvXLUKoHDqbP2m0%3D",
+        "authorName": "DEUCE NOT DUECE \u203c\ufe0f",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 73,
+        "followerCount": 10,
+        "heartCount": 142,
+        "videoCount": 111,
+        "diggCount": 347,
+        "heart": 142
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

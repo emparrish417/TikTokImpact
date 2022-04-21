@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6999631285816017921",
+        "shortId": "",
+        "uniqueId": "goldenlandofficial",
+        "nickname": "GOLDENLAND OFFICIAl",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/8423147d79741c1f0d92207ac93b1ba9~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=SgJQHMZfpwFNK%2Bc4XqOQFVojaLk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/8423147d79741c1f0d92207ac93b1ba9~c5_720x720.jpeg?x-expires=1650240000&x-signature=02Mu2mngR7ImJZH8aG5lKG0nSpM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/8423147d79741c1f0d92207ac93b1ba9~c5_100x100.jpeg?x-expires=1650240000&x-signature=p1AkKeFXyUUVyy8OXsXjCtTiOKQ%3D",
+        "signature": "https://goldenlandteris.vn/",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFTN9O-Q4bhrPTa82VzIaZXNxgQIE1ARELsLupICIvATBbKWQkgnjEDiGhv64OsX6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://goldenlandteris.vn/",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6978,
+        "followingCount": 842,
+        "heart": 67900,
+        "heartCount": 67900,
+        "videoCount": 338,
+        "diggCount": 0
+    },
+    "itemList": []
+}

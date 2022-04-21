@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "7036335064024876037",
+        "shortId": "",
+        "uniqueId": "lsm.lv",
+        "nickname": "LSM.lv zi\u0146u port\u0101ls",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d330b02d3212411028013f5af5167088~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=g14DKeV3flMP2pXMqu2ayYumCuQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d330b02d3212411028013f5af5167088~c5_720x720.jpeg?x-expires=1650664800&x-signature=0FuaSsLVQtFtvn4tz2v4ejdHpK0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d330b02d3212411028013f5af5167088~c5_100x100.jpeg?x-expires=1650664800&x-signature=KArTk9Hjoy%2Fg9fmd9SXP86Jer0E%3D",
+        "signature": "Uzticamas zi\u0146as - par svari\u0304ga\u0304ko Latvija\u0304 un pasaule\u0304.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-emrlO1ZH6hzxQIqfvDudgkThuuTiS_G3-OXkmGDnG7dqUV2mDg9PeHOS0g7s5XB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.lsm.lv",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1972,
+        "followingCount": 20,
+        "heart": 21500,
+        "heartCount": 21500,
+        "videoCount": 129,
+        "diggCount": 0
+    },
+    "itemList": []
+}

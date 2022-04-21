@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6670941642150723590",
+        "shortId": "",
+        "uniqueId": "grace.sigler",
+        "nickname": "gracesigler",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8b6c5c3372b19393fc61bfbecc1fde59~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=9cnEDZbhxJcZmEMSONde5Kx0haY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8b6c5c3372b19393fc61bfbecc1fde59~c5_720x720.jpeg?x-expires=1650664800&x-signature=f8LoAn9HNHqFzsdZyE50AQAWfb8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8b6c5c3372b19393fc61bfbecc1fde59~c5_100x100.jpeg?x-expires=1650664800&x-signature=IjcVfYCBq1l0wi9JNE0YggMUYzM%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2uBLEnWUOw7I0fixpKUFXVWWOu2i2tJlBeaenY8lcGhkahmNYYxNZGQXSnwTu1wV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 128,
+        "followingCount": 84,
+        "heart": 2503,
+        "heartCount": 2503,
+        "videoCount": 155,
+        "diggCount": 0
+    },
+    "itemList": []
+}

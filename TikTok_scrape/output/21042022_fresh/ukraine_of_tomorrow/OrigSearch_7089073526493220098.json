@@ -1,0 +1,90 @@
+{
+    "id": "7089073526493220098",
+    "desc": "\u041a\u0443\u044e\u043d \u0422\u043e\u043f\u043b\u0438\u0432\u043e",
+    "createTime": 1650553552,
+    "video": {
+        "id": "7089073526493220098",
+        "height": 1024,
+        "width": 576,
+        "duration": 36,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ec502ca30d9e491ca44e66461451b3bd?x-expires=1650600000&x-signature=w%2BYNvrnT4ImNhp4OD1J9PSHbMcw%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/97c90ccd6fef4730a1dc65e91587f23d_1650553554?x-expires=1650600000&x-signature=ZWVq4E4tTPrghmvDvFeBmtx5MeA%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/06ff26baf84342f7a86b09e571dabfa4_1650553556?x-expires=1650600000&x-signature=KbOOSjHUyYnKUmGThrBmBLdIG0c%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/35f4bacfb63e6d5eb5dd64f2e83cc6d0/626232d8/video/tos/alisg/tos-alisg-pve-0037/c38a97f90a484418a1493439b7f129be/?a=1988&br=396&bt=198&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWPZNwe2Nb-efl7Gb&l=202204212244350101130061940CD3B48C&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anM6cTM6ZmlxPDMzODgzNEApOTxmODo8ZmQ5Nzk2aGY1M2djbGplcjRfMmRgLS1kLy1zczA0LS0uNTE1NWBeXzMxMDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/35f4bacfb63e6d5eb5dd64f2e83cc6d0/626232d8/video/tos/alisg/tos-alisg-pve-0037/c38a97f90a484418a1493439b7f129be/?a=1988&br=396&bt=198&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWPZNwe2Nb-efl7Gb&l=202204212244350101130061940CD3B48C&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anM6cTM6ZmlxPDMzODgzNEApOTxmODo8ZmQ5Nzk2aGY1M2djbGplcjRfMmRgLS1kLy1zczA0LS0uNTE1NWBeXzMxMDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/97c90ccd6fef4730a1dc65e91587f23d_1650553554~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=186rYHPBtWsgxYXquoKIcpUIyFI%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/97c90ccd6fef4730a1dc65e91587f23d_1650553554~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=7u25njZQWjfOrhNe3%2FdENlk2glg%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ec502ca30d9e491ca44e66461451b3bd?x-expires=1650600000&x-signature=w%2BYNvrnT4ImNhp4OD1J9PSHbMcw%3D",
+        "bitrate": 203193,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7089044155418526722",
+        "uniqueId": "ukraine_of_tomorrow",
+        "nickname": "Rob Ellenberg",
+        "avatarThumb": "https://p58-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d042a78e6e0e12e9491497578764d972.jpeg?x-expires=1650751200&x-signature=dCuNfY1Ex%2FAAICCpGHkyKO%2FcJFY%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/d042a78e6e0e12e9491497578764d972.jpeg?x-expires=1650751200&x-signature=qB0Qjot995lvfQqOchse0CTnYJ8%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/d042a78e6e0e12e9491497578764d972.jpeg?x-expires=1650751200&x-signature=0IQV2cw1IUyiiRvP3Wslt%2BAS04M%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAY_WeQOdRu9QsRMfA98SJRklQ2rF_2urHETp5vX68EfuzuwRFTNytuPoLmDrNGuhh",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089073539647163138",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a - Rob Ellenberg",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7089073527923559169.mp3",
+        "coverThumb": "https://p58-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d042a78e6e0e12e9491497578764d972.jpeg?x-expires=1650751200&x-signature=dCuNfY1Ex%2FAAICCpGHkyKO%2FcJFY%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/d042a78e6e0e12e9491497578764d972.jpeg?x-expires=1650751200&x-signature=qB0Qjot995lvfQqOchse0CTnYJ8%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/d042a78e6e0e12e9491497578764d972.jpeg?x-expires=1650751200&x-signature=0IQV2cw1IUyiiRvP3Wslt%2BAS04M%3D",
+        "authorName": "Rob Ellenberg",
+        "original": true,
+        "duration": 36,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 4
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 0,
+        "heartCount": 0,
+        "videoCount": 10,
+        "diggCount": 0,
+        "heart": 0
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

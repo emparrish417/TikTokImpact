@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6728542958570521606",
+        "shortId": "",
+        "uniqueId": "breakwithbaila",
+        "nickname": "break with baila",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/872c6fb604f0dae4793d0e480a260c00~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=ViH1UQIOt%2FS1l1a3mjUmX2z%2F%2BRo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/872c6fb604f0dae4793d0e480a260c00~c5_720x720.jpeg?x-expires=1649372400&x-signature=BXNNZ%2FStn4SIEgZO%2FnTCku9kO0Q%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/872c6fb604f0dae4793d0e480a260c00~c5_100x100.jpeg?x-expires=1649372400&x-signature=UN%2FXBdN7%2FwgTt%2BAc3UeFyPJUXZs%3D",
+        "signature": "the moderate in me",
+        "createTime": 1566582316,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAle1z-KeXMuKKr-EtJvqMuBb3Q0qzRaZfQnfbR99785YuWUlMlJK4eLGPvQfms-lk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.twitter.com/@breakwithbaila",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13700,
+        "followingCount": 8,
+        "heart": 297200,
+        "heartCount": 297200,
+        "videoCount": 864,
+        "diggCount": 0
+    },
+    "itemList": []
+}

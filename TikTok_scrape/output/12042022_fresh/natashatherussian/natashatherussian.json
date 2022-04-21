@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7018580265015034886",
+        "shortId": "",
+        "uniqueId": "natashatherussian",
+        "nickname": "Natasha from Russia",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d38ff341310b30e4a2893960c1a3ba3~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=dYrsnQ2ulzg51twDlS2lptXxR6c%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d38ff341310b30e4a2893960c1a3ba3~c5_720x720.jpeg?x-expires=1649905200&x-signature=kCMAaZ%2BP7YXJsxtL8HjuiJEfrCM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4d38ff341310b30e4a2893960c1a3ba3~c5_100x100.jpeg?x-expires=1649905200&x-signature=XOWG5Z8t4J7IGLT3MwLVxVyR%2Fes%3D",
+        "signature": "Born\ud83c\uddf0\ud83c\uddffraised\ud83c\uddf7\ud83c\uddfahome\ud83c\uddfa\ud83c\uddf8",
+        "createTime": 1634140619,
+        "verified": false,
+        "secUid": "MS4wLjABAAAALhIGSh9o0D4P50FnubWk_q_zmJvalbpY5bcJqwAj-DyDUnfyNAaGKqW8zTNcuS30",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Linktr.ee/Natashatherussian/",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 612100,
+        "followingCount": 0,
+        "heart": 6200000,
+        "heartCount": 6200000,
+        "videoCount": 159,
+        "diggCount": 0
+    },
+    "itemList": []
+}

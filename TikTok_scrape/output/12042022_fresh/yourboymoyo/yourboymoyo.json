@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6809716600485790726",
+        "shortId": "",
+        "uniqueId": "yourboymoyo",
+        "nickname": "Moyo",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f1a9faf49b1e4ea96b6014f3fb407c6~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=9aiyfRSyMTQoGDPgulTUROQKNEI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f1a9faf49b1e4ea96b6014f3fb407c6~c5_720x720.jpeg?x-expires=1649905200&x-signature=DKMXykda29f%2BreFdQPIZd%2FjPJUE%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f1a9faf49b1e4ea96b6014f3fb407c6~c5_100x100.jpeg?x-expires=1649905200&x-signature=smyJtwDGme4vWtBZuQWXpWSzlPE%3D",
+        "signature": "Instagram: @YourBoyMoyo\nYouTube: YourBoyMoyo\nClick it!\ud83d\udc47\ud83c\udffe",
+        "createTime": 1585482102,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtSv53H_wFKaWwoHitrbl6vjYohcxz16FlJHvemhtZQ-R4WeugCsRo4h-bllkgloP",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtu.be/hNV4I1KtAfE",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1800000,
+        "followingCount": 320,
+        "heart": 65400000,
+        "heartCount": 65400000,
+        "videoCount": 1015,
+        "diggCount": 0
+    },
+    "itemList": []
+}

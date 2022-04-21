@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7019155158950282246",
+        "shortId": "",
+        "uniqueId": "pyscho_gavin",
+        "nickname": "pyscho_gavin",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e799c1795f4a9e7eebd91e56a888a10~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=CNLJNF0f4FmBKRo8k1aZf3x0OL0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e799c1795f4a9e7eebd91e56a888a10~c5_720x720.jpeg?x-expires=1650481200&x-signature=33eNJQn5npLN24Zsdne5%2B7nRUXA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e799c1795f4a9e7eebd91e56a888a10~c5_100x100.jpeg?x-expires=1650481200&x-signature=qz27N5O8x2m5PB5rTkdR%2FSTx%2F1o%3D",
+        "signature": "Gamer",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVQAK7Qi0cGQ8gXsRgr0Z7pMjystegTV6z7OTyNH_2IvGlMkgPRs6NH04JzVuKdve",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 96,
+        "followingCount": 848,
+        "heart": 42,
+        "heartCount": 42,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

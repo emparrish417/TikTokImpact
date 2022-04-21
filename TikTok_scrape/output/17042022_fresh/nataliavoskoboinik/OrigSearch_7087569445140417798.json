@@ -1,0 +1,105 @@
+{
+    "id": "7087569445140417798",
+    "desc": "\u041e\u0442\u0432\u0435\u0442 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044e @ukraine_top_45",
+    "createTime": 1650203357,
+    "video": {
+        "id": "7087569445140417798",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/48d1eb2187ac4d029e8832b9ad651f91?x-expires=1650261600&x-signature=SO66YS9G8bu5NzTZmksjWYvWw3U%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/455756d3b74e4f9a9a9fc9f2dc2ce3e9_1650203359?x-expires=1650261600&x-signature=chZyLPiUMQAM9YuOkn86qhj4Jjg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d2a763b0953c410c80abe236957b01db_1650203359?x-expires=1650261600&x-signature=H9XMqiM7MEBeNnp%2FDfAlDWHrLFA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/702b602025f77af8f566e722061e6b13/625d02f0/video/tos/useast2a/tos-useast2a-ve-0068c001/69255c34dab245949a94c70086bac776/?a=1988&br=6976&bt=3488&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZaLuwwe2NHPefl7Gb&l=2022041800191501011313525316370169&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anFkaWQ6Zmo0PDMzNzczM0ApOjw3NGk7N2Q8N2Q3OzQ0M2cxZmIxcjQwaWJgLS1kMTZzc14yMDQxXi1fY2JjYi8zLjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/702b602025f77af8f566e722061e6b13/625d02f0/video/tos/useast2a/tos-useast2a-ve-0068c001/69255c34dab245949a94c70086bac776/?a=1988&br=6976&bt=3488&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZaLuwwe2NHPefl7Gb&l=2022041800191501011313525316370169&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anFkaWQ6Zmo0PDMzNzczM0ApOjw3NGk7N2Q8N2Q3OzQ0M2cxZmIxcjQwaWJgLS1kMTZzc14yMDQxXi1fY2JjYi8zLjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/455756d3b74e4f9a9a9fc9f2dc2ce3e9_1650203359~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=XeL0Ez6upSB%2BijqSPtebMFGQxFc%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/455756d3b74e4f9a9a9fc9f2dc2ce3e9_1650203359~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=EMt91NVoKNWVlerZy2ugqrkfTEY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/48d1eb2187ac4d029e8832b9ad651f91?x-expires=1650261600&x-signature=SO66YS9G8bu5NzTZmksjWYvWw3U%3D",
+        "bitrate": 3572348,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7001902017925694470",
+        "uniqueId": "nataliavoskoboinik",
+        "nickname": "\u041d\u0430\u0442\u0430\u0448\u0430",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/84904473bfaac15f946737e995ad72a7~c5_100x100.jpeg?x-expires=1650412800&x-signature=TFJILj%2FYDnbgNzNid3hxKNAVvME%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/84904473bfaac15f946737e995ad72a7~c5_720x720.jpeg?x-expires=1650412800&x-signature=A484N74%2BcEnbrY2HOYjDHpLB7tc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/84904473bfaac15f946737e995ad72a7~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=%2F8hcXWqDfNnozIYCtWAM5LoEtA4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEVNtEm2WtbvUWwWG2BK6SdQIENNCUwYZpBx92-dGvxmIupt1aMLqgvRXKXZfE2QH",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7061990216110131969",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7061990199450290946.mp3",
+        "coverThumb": "https://p58-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ea2b9fd7fddb0d6a9e3e3e7baddaa317.jpeg?x-expires=1650412800&x-signature=qafQYEfBC3QcTi%2FG6KMSSZKuMbE%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/ea2b9fd7fddb0d6a9e3e3e7baddaa317.jpeg?x-expires=1650412800&x-signature=xH224aamfT%2FL1fcJ7ma95rquPWM%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/ea2b9fd7fddb0d6a9e3e3e7baddaa317.jpeg?x-expires=1650412800&x-signature=Qu9JvGbkT86%2FrW1k9DPEflauNtA%3D",
+        "authorName": "Welcome to Baby\ud83d\ude08",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 45,
+        "shareCount": 0,
+        "commentCount": 7,
+        "playCount": 424
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 19,
+            "end": 34,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7057231975460357126",
+            "isCommerce": false,
+            "userUniqueId": "ukraine_top_45",
+            "secUid": "MS4wLjABAAAATIJWOtUrYftH79-YN15i0gDJqxU36Qpywj98MDcDHGbutyLgHje-quvUWMJCX7eZ",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 4489,
+        "followerCount": 8158,
+        "heartCount": 190100,
+        "videoCount": 41,
+        "diggCount": 572,
+        "heart": 190100
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

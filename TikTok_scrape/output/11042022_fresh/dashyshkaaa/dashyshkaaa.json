@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6592266939023278085",
+        "shortId": "",
+        "uniqueId": "dashyshkaaa",
+        "nickname": "Dashyshkaaa",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b7f94323a3b370da5f46851dfea91d8~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=KjXASiBmhzMNJ4olcVXPzitpBdY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b7f94323a3b370da5f46851dfea91d8~c5_720x720.jpeg?x-expires=1649800800&x-signature=MQZMvfCJSHtnRs2OCf%2BmrJ2mt8Q%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7b7f94323a3b370da5f46851dfea91d8~c5_100x100.jpeg?x-expires=1649800800&x-signature=khYcSHQm1ZK2WC4JQLJBvJ%2FYmI4%3D",
+        "signature": "",
+        "createTime": 1534911021,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbozgPn5ETn8lAWJocGPes194-26GUX547s2njFsqxSPKAtuNAHn2cbUalwhkPe17",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 222,
+        "followingCount": 553,
+        "heart": 17800,
+        "heartCount": 17800,
+        "videoCount": 245,
+        "diggCount": 0
+    },
+    "itemList": []
+}

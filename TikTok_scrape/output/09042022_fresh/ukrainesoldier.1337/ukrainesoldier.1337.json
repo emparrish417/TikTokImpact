@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6803311606748939269",
+        "shortId": "",
+        "uniqueId": "ukrainesoldier.1337",
+        "nickname": "dimusion",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/91ce044077897e8206af7442e01b845d~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=yYCWHC881YBjCR1%2BBFRxmTWW3fs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/91ce044077897e8206af7442e01b845d~c5_720x720.jpeg?x-expires=1649638800&x-signature=8rfRGSQ6FvkVNlkAqo27aK6GnQ8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/91ce044077897e8206af7442e01b845d~c5_100x100.jpeg?x-expires=1649638800&x-signature=69lKteBSuBzT7C9EhrDDtEG0xMY%3D",
+        "signature": "",
+        "createTime": 1584020967,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyUjeLhow6gSmZs-q52_OglZt2BWVweUiC5cBo9T55qr5vjBPsnNVXzRBiD1z0DS0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 133,
+        "followingCount": 642,
+        "heart": 152,
+        "heartCount": 152,
+        "videoCount": 23,
+        "diggCount": 0
+    },
+    "itemList": []
+}

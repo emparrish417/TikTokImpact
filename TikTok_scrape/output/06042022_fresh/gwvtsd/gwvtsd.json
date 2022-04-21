@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6891242782629331969",
+        "shortId": "",
+        "uniqueId": "gwvtsd",
+        "nickname": "\u270b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f9b629541f836389d6eb4c69bfe572c7~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=qnymOv1QoF29GrCVVYP9f20D0Pg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f9b629541f836389d6eb4c69bfe572c7~c5_720x720.jpeg?x-expires=1649372400&x-signature=7%2FEGmK%2BFUBb09UJb7Q9cjjRjeHw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f9b629541f836389d6eb4c69bfe572c7~c5_100x100.jpeg?x-expires=1649372400&x-signature=sJGGHEwd0QQj5ffOF6YWIksqKlE%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\ud83e\udd0d",
+        "createTime": 1604492656,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAF21YkhwEEZhaA9t72j91nmIWJulWlOh3gAK8iuzKxL5jltjnWP-7nSOhBF8a6DEr",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 51,
+        "followingCount": 32,
+        "heart": 3739,
+        "heartCount": 3739,
+        "videoCount": 26,
+        "diggCount": 0
+    },
+    "itemList": []
+}

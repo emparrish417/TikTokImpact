@@ -1,0 +1,302 @@
+{
+    "id": "7084855039700831534",
+    "desc": "#solidaritywithukraine #4clipsandgiggles #teammarypride #billengvall #billengvallcomedy #bluecollarcomedy #seanrice47 #4cllpsandgiggles",
+    "createTime": 1649571361,
+    "video": {
+        "id": "7084855039700831534",
+        "height": 1024,
+        "width": 576,
+        "duration": 160,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/170e32e30b3e4408b0c6158fd8085d58?x-expires=1649649600&x-signature=FpBl7qsci0KVIjAD0%2FiD8f9splA%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8b29cbf67acb4245ae052f09567c6e8b_1649571362?x-expires=1649649600&x-signature=9I13m1rRgaw%2B0zM%2BgLD4XHy%2BF34%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7b878ee195f644bbbe04713d9032d7cd_1649571362?x-expires=1649649600&x-signature=2r9YceTnTe%2BVECRPGJIrP1qKOKQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/11e2d79a474687d2971714a2ec8a62df/6253aee9/video/tos/useast5/tos-useast5-pve-0068-tx/2c982283119e4d18b897820d23fb7242/?a=1988&br=714&bt=357&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ.EIDXq&l=2022041022275201011313523304F4371D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVyZmc6ZmY6PDMzZzczNEApZWQ0N2RnZDxpNzk4ZDY4Z2cuLWVhcjRvXzZgLS1kMS9zczExLTAxNl4tLWE1MV82LmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/11e2d79a474687d2971714a2ec8a62df/6253aee9/video/tos/useast5/tos-useast5-pve-0068-tx/2c982283119e4d18b897820d23fb7242/?a=1988&br=714&bt=357&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ.EIDXq&l=2022041022275201011313523304F4371D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVyZmc6ZmY6PDMzZzczNEApZWQ0N2RnZDxpNzk4ZDY4Z2cuLWVhcjRvXzZgLS1kMS9zczExLTAxNl4tLWE1MV82LmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8b29cbf67acb4245ae052f09567c6e8b_1649571362~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=eZ0UXQ7egsGTEcXxJ432z80hSWg%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8b29cbf67acb4245ae052f09567c6e8b_1649571362~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=pJHGfosD0FthhQ7ESBz1qCTvBT0%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/170e32e30b3e4408b0c6158fd8085d58?x-expires=1649649600&x-signature=FpBl7qsci0KVIjAD0%2FiD8f9splA%3D",
+        "bitrate": 365569,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6957425903740978181",
+        "uniqueId": "4clipsandgiggles",
+        "nickname": "4 Clips and Giggles \ud83c\udfa5",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3d34727dcb2ccbaa00eb58ed505870c3~c5_100x100.jpeg?x-expires=1649714400&x-signature=hKE142%2B7Q5mFJhRvYnzxAAFVW2s%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3d34727dcb2ccbaa00eb58ed505870c3~c5_720x720.jpeg?x-expires=1649714400&x-signature=Ay1yiHjNLCqm6uYf45n2VJrnbvo%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3d34727dcb2ccbaa00eb58ed505870c3~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=momBM8FwwlSAXob1LeQPHIBVoa8%3D",
+        "signature": "Clips of movies and tv shows I like.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7AgBBwgEQT5H2ebqu-M1907ppvFuEJukkqQDcnptuI9CQ0qQgXvGdVo-drB4K1eo",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6817459604574701570",
+        "title": "Quiet song",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3b4c2be5dc12482b8515653e98898ec9",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/43faa110cb7545508bcb8448e005da2d.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/43faa110cb7545508bcb8448e005da2d.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/43faa110cb7545508bcb8448e005da2d.jpeg",
+        "authorName": "STAR GATE",
+        "original": false,
+        "duration": 64,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1708979688879110",
+            "title": "solidaritywithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "7050562978071986222",
+            "title": "4clipsandgiggles",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1707854588910597",
+            "title": "teammarypride",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "579647",
+            "title": "billengvall",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1676044440228869",
+            "title": "billengvallcomedy",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "341664",
+            "title": "bluecollarcomedy",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1694067900421125",
+            "title": "seanrice47",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "7042930382999666734",
+            "title": "4cllpsandgiggles",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 247,
+        "shareCount": 9,
+        "commentCount": 3,
+        "playCount": 3593
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 22,
+            "hashtagName": "solidaritywithukraine",
+            "hashtagId": "1708979688879110",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 23,
+            "end": 40,
+            "hashtagName": "4clipsandgiggles",
+            "hashtagId": "7050562978071986222",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 41,
+            "end": 55,
+            "hashtagName": "teammarypride",
+            "hashtagId": "1707854588910597",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 56,
+            "end": 68,
+            "hashtagName": "billengvall",
+            "hashtagId": "579647",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 69,
+            "end": 87,
+            "hashtagName": "billengvallcomedy",
+            "hashtagId": "1676044440228869",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 88,
+            "end": 105,
+            "hashtagName": "bluecollarcomedy",
+            "hashtagId": "341664",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 106,
+            "end": 117,
+            "hashtagName": "seanrice47",
+            "hashtagId": "1694067900421125",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 118,
+            "end": 135,
+            "hashtagName": "4cllpsandgiggles",
+            "hashtagId": "7042930382999666734",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 7738,
+        "followerCount": 71600,
+        "heartCount": 1000000,
+        "videoCount": 3031,
+        "diggCount": 13800,
+        "heart": 1000000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Part 2"
+            ]
+        }
+    ],
+    "isAd": false
+}

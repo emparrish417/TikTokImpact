@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6553978441854795782",
+        "shortId": "",
+        "uniqueId": "kkkraoany",
+        "nickname": "\u043a\u0440\u0430\u043e\u0435\u043d\u0438",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b2d8254cb0179155de176c4af0684a28~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=ebDaXCQVLgJfE%2FjCYP28GRkM5kQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b2d8254cb0179155de176c4af0684a28~c5_720x720.jpeg?x-expires=1650240000&x-signature=Vg4O7CVl057Wfc9wQWJzoYJO5Oc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b2d8254cb0179155de176c4af0684a28~c5_100x100.jpeg?x-expires=1650240000&x-signature=PIOkV5Y%2BgL7dqaK%2FnQtAX90x8KI%3D",
+        "signature": "\u2728\u0432\u0441\u0451 \u043e\u0447\u0435\u043d\u044c \u043c\u0438\u043b\u0435\u043d\u044c\u043a\u043e \u2728",
+        "verified": false,
+        "secUid": "MS4wLjABAAAApgyt0AANOcWc3tc5GGa4Awx1xsIbol07fScmcGOaqF8X8gfOjRBBEcWWV0O2_dha",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 113,
+        "followingCount": 28,
+        "heart": 13000,
+        "heartCount": 13000,
+        "videoCount": 83,
+        "diggCount": 258800
+    },
+    "itemList": []
+}

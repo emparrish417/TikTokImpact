@@ -1,0 +1,125 @@
+{
+    "id": "7083330705098280234",
+    "desc": "#greenscreen",
+    "createTime": 1649216448,
+    "video": {
+        "id": "7083330705098280234",
+        "height": 1024,
+        "width": 576,
+        "duration": 57,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/386cd87fec514b1e895995901c04fcb5?x-expires=1649307600&x-signature=bdlkIRcRz3DjX82DS2n9L8d7nBY%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/83ff6ce628444e81a4480c8fc65ef4ca_1649216449?x-expires=1649307600&x-signature=ORADGgMXNqWMUrt2v3MFvQQwUFs%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/32c50623e90146e0a8bd95146d311755_1649216449?x-expires=1649307600&x-signature=cdA4ARq3eTsUgSoMmU8jzh4SdO8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d780c54c86fdbf4509d2a038b08f7704/624e7491/video/tos/useast5/tos-useast5-ve-0068c002-tx/866e78b10fd948149725ddca2d2194d2/?a=1988&br=522&bt=261&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwwSSDXq&l=202204062319200101130061512499349D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajw3cmc6ZnZqPDMzZzczNEApNWk6ZDc4MztmNzw2Z2k0NGdsZDJncjRfajNgLS1kMS9zczUzY2JiMDBhMDEzLmExNmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d780c54c86fdbf4509d2a038b08f7704/624e7491/video/tos/useast5/tos-useast5-ve-0068c002-tx/866e78b10fd948149725ddca2d2194d2/?a=1988&br=522&bt=261&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwwSSDXq&l=202204062319200101130061512499349D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajw3cmc6ZnZqPDMzZzczNEApNWk6ZDc4MztmNzw2Z2k0NGdsZDJncjRfajNgLS1kMS9zczUzY2JiMDBhMDEzLmExNmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/83ff6ce628444e81a4480c8fc65ef4ca_1649216449~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=xvJG3WRa42U1h%2Fbe%2Fm6GO2gExqU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/83ff6ce628444e81a4480c8fc65ef4ca_1649216449~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=j706I6KHsadOzl9PvkOi%2Bq6d0Qs%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/386cd87fec514b1e895995901c04fcb5?x-expires=1649307600&x-signature=bdlkIRcRz3DjX82DS2n9L8d7nBY%3D",
+        "bitrate": 268082,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7071468214505948202",
+        "uniqueId": "diehard_lions_fan",
+        "nickname": "Save Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c63cbe7df33cb515d338213566ac8707~c5_100x100.jpeg?x-expires=1649372400&x-signature=tUevFCMCNVhk0EcLYbTLFQoVTnM%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c63cbe7df33cb515d338213566ac8707~c5_720x720.jpeg?x-expires=1649372400&x-signature=smR3%2FSoY53eLjorRr5rn1ZwUenE%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c63cbe7df33cb515d338213566ac8707~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=nDBR%2BakYpxbZs0sQXVWPuISfDwI%3D",
+        "signature": "What is ur favorite football team",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgB1KPBDzMYYPtE6y4AqTSbmDfRnQF87axrtNrpbsGWy7HUcgOXKnAS0_4W5y466T",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6913674887987038982",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6913674880839928581.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/715ed0de765e0f44b5b5bab6a531a3c2~c5_100x100.jpeg?x-expires=1649372400&x-signature=%2FpCZl42I3l6tANHc68n5Nuwi%2ByE%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/715ed0de765e0f44b5b5bab6a531a3c2~c5_720x720.jpeg?x-expires=1649372400&x-signature=5wY8gHu2csc5nBBzjkMvy3uHhFg%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/715ed0de765e0f44b5b5bab6a531a3c2~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=X4bhsms4ruQp0uw8mz61KmtThes%3D",
+        "authorName": "ZAY___15",
+        "original": true,
+        "duration": 57,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "801886",
+            "title": "greenscreen",
+            "desc": "Try out the #GreenScreen Creative Effect! Check out the latest trends using #greenscreen for some inspiration. Just pick an image from your camera roll, stand in front of a plain background, and make the next TikTok masterpiece.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 15
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "greenscreen",
+            "hashtagId": "801886",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 313,
+        "followerCount": 112,
+        "heartCount": 325,
+        "videoCount": 63,
+        "diggCount": 2196,
+        "heart": 325
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

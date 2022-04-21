@@ -1,0 +1,90 @@
+{
+    "id": "7087342722830404907",
+    "desc": "",
+    "createTime": 1650150568,
+    "video": {
+        "id": "7087342722830404907",
+        "height": 576,
+        "width": 1024,
+        "duration": 69,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b9705c22ec8c44b981481c3f465b51f3?x-expires=1650261600&x-signature=bjAxvkC8IDrgUnI6bEwOq3sM6o8%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3cd016caf23443b199096bcbc8a84b06_1650150569?x-expires=1650261600&x-signature=Ss980kckUG8U%2BQEGxs8tlB1uJTs%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6182e7405e184ed083d4ab5050523581_1650150570?x-expires=1650261600&x-signature=HvrBcDCCyvD3CqaNonYQfanaVbQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/dc7a95cb596abb53740b136ef992f329/625d033b/video/tos/useast5/tos-useast5-ve-0068c001-tx/e7483ba11cc04ccdb0cb018c01a5d01f/?a=1988&br=960&bt=480&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZtLuwwe2Nwzufl7Gb&l=2022041800193401011313519318647D1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anloOTs6ZnduPDMzZzczNEApZWdnZWZmN2Q0N2RkZmY2OGc0a25zcjRfbGFgLS1kMS9zczE2YmJhXmI1MzBiYjYyYjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/dc7a95cb596abb53740b136ef992f329/625d033b/video/tos/useast5/tos-useast5-ve-0068c001-tx/e7483ba11cc04ccdb0cb018c01a5d01f/?a=1988&br=960&bt=480&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZtLuwwe2Nwzufl7Gb&l=2022041800193401011313519318647D1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anloOTs6ZnduPDMzZzczNEApZWdnZWZmN2Q0N2RkZmY2OGc0a25zcjRfbGFgLS1kMS9zczE2YmJhXmI1MzBiYjYyYjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3cd016caf23443b199096bcbc8a84b06_1650150569~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=YgAF8s8PQYDojASbz2626Ki4ZUE%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3cd016caf23443b199096bcbc8a84b06_1650150569~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=Hp2c72fO88i0Ln6M5efzfcObbRM%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b9705c22ec8c44b981481c3f465b51f3?x-expires=1650261600&x-signature=bjAxvkC8IDrgUnI6bEwOq3sM6o8%3D",
+        "bitrate": 492072,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7087295887592424491",
+        "uniqueId": "car_hub_ukrainian1",
+        "nickname": "Mark_Car_Hub_Kam",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/24df471d31702f7c584ed3a3c04cb98a~c5_100x100.jpeg?x-expires=1650412800&x-signature=HbxpozQQSMhydAq8lYrFXzAE8I0%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/24df471d31702f7c584ed3a3c04cb98a~c5_720x720.jpeg?x-expires=1650412800&x-signature=qI3oZCM4HaIpQzQ7hd%2FT8o9aTDE%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/24df471d31702f7c584ed3a3c04cb98a~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=l8Z30V7bowZTx%2FnXVhXEFFXckLo%3D",
+        "signature": "CarHub\n\ud83c\uddfa\ud83c\udde6\n@m_nedbalskyi\n\n@vamp..lxserkam",
+        "verified": false,
+        "secUid": "MS4wLjABAAAACMFZELPNkDCb_RbUHGndq9nCcPc3vGafHeLXUWoPtxU1JaAhBOZsZ2GMZpb94lN5",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6803571105387792386",
+        "title": "WHATS POPPIN",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/36996544fcc446ffa164fd8b311660c9",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/ded60085105c4cb4b1cf6cc6391be697.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/ded60085105c4cb4b1cf6cc6391be697.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/ded60085105c4cb4b1cf6cc6391be697.jpeg",
+        "authorName": "Jack Harlow",
+        "original": false,
+        "duration": 60,
+        "album": "Sweet Action"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 7
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2,
+        "followerCount": 2,
+        "heartCount": 12,
+        "videoCount": 8,
+        "diggCount": 27,
+        "heart": 12
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

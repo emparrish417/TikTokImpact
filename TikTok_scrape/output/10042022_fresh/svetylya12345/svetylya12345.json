@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6831848986066060293",
+        "shortId": "",
+        "uniqueId": "svetylya12345",
+        "nickname": "Olga Yakovleva",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c7fa294b476db428ba7d65d662eee6f0~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=T%2FEhFqBfU78TJwizgJKk1yCclPg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c7fa294b476db428ba7d65d662eee6f0~c5_720x720.jpeg?x-expires=1649714400&x-signature=iciHXxNpTu7EaM5maVx%2FY9GxRaU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c7fa294b476db428ba7d65d662eee6f0~c5_100x100.jpeg?x-expires=1649714400&x-signature=1Qd0NiRVjduVZon7FT4SnTV7UZE%3D",
+        "signature": "",
+        "createTime": 1598469126,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA8wPaVVF1MBSbBIOLuwiUEjsB5wi_rcftYJg5D7I4SNdtPB6A6NL-ccgPt24RFpHU",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2980,
+        "followingCount": 462,
+        "heart": 33000,
+        "heartCount": 33000,
+        "videoCount": 44,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7046077413101667334",
+        "shortId": "",
+        "uniqueId": "evtages",
+        "nickname": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0415\u0432\u0441\u043a\u0438\u0439",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6053cdcfe1a7b11b6240d4732a494ae8~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=0TStie9VND%2BIbHfFO05mFbkdNlk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6053cdcfe1a7b11b6240d4732a494ae8~c5_720x720.jpeg?x-expires=1650114000&x-signature=aOydqOnjD%2BmOkpjN54YbrxIEHOc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6053cdcfe1a7b11b6240d4732a494ae8~c5_100x100.jpeg?x-expires=1650114000&x-signature=aXXn%2BZD%2BJlb%2BqheB0RUQ5p4ZAAk%3D",
+        "signature": "\ud83c\udfa5 \u0416\u0438\u0432\u0443 \u043f\u043e\u0441\u0440\u0435\u0434\u0438 \u0432\u043e\u0439\u043d\u044b \u0438 \u0432\u0435\u0449\u0430\u044e \u043e\u0431 \u044d\u0442\u043e\u043c \n\u0411\u043e\u043b\u044c\u0448\u0435 \u0432\u0441\u044f\u0447\u0438\u043d\u044b \u0432 \u0438\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c\u0435 \u2b07\ufe0f",
+        "createTime": 1640542945,
+        "verified": false,
+        "secUid": "MS4wLjABAAAARdAmTNOfG_F7VvKHxviDwLUZgK9gpzjtD2yyj-uy1GDtcEJnIVq9wzh1wPID7emY",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "instagram.com/evskiye",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": "7086445959034604294"
+    },
+    "stats": {
+        "followerCount": 48000,
+        "followingCount": 1,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 37,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7079239718319719467",
+        "shortId": "",
+        "uniqueId": "ukrainiansmile2",
+        "nickname": "ukrainiansmile2",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a52d081ecf9def06ee8fdb17a9a4aef0~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=%2FcWPiOBUYw3LIprXxYmeoyzGpws%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a52d081ecf9def06ee8fdb17a9a4aef0~c5_720x720.jpeg?x-expires=1650412800&x-signature=8P4y4Spj0KiCy09a2VKibIF0Tjg%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a52d081ecf9def06ee8fdb17a9a4aef0~c5_100x100.jpeg?x-expires=1650412800&x-signature=oltABao7Y5D8VBu8Yngty14PWXE%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3X9BmbKKk026cwJzw9IRzxTfQQAABpeGR-1AtFxjZc3a5LYRBkCPtvXZjroXkCTJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15,
+        "followingCount": 61,
+        "heart": 101,
+        "heartCount": 101,
+        "videoCount": 32,
+        "diggCount": 0
+    },
+    "itemList": []
+}

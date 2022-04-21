@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6999211959490102278",
+        "shortId": "",
+        "uniqueId": "triggerpod",
+        "nickname": "TRIGGERnometry",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6d7d8383e1f4a9b42b37a3b93801c12~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=wiEKTk4zQY2hV7GITPFrWwsYtgY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6d7d8383e1f4a9b42b37a3b93801c12~c5_720x720.jpeg?x-expires=1649714400&x-signature=lfJXogQxQVrm7NPPXedfzbc%2FBO4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6d7d8383e1f4a9b42b37a3b93801c12~c5_100x100.jpeg?x-expires=1649714400&x-signature=gcahwhrvCsvj6PY9WnIHe5RVUvE%3D",
+        "signature": "No bio yet",
+        "createTime": 1629642390,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAL20Mc24Cxbk40LkjkK30Tli6USXOraCGwOR6ZiXJdTufzzzh2SgWsBZe4b04iI5a",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://lnk.bio/bTRc",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 145900,
+        "followingCount": 1,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 130,
+        "diggCount": 0
+    },
+    "itemList": []
+}

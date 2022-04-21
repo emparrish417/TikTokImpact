@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6808313305264309254",
+        "shortId": "",
+        "uniqueId": "blakepfeil",
+        "nickname": "Blake Pfeil",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96395be166b6733d9f2a3007e61e907c~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=RRj3SJbIoKVx8TJ%2FmueYwtzB2XQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96395be166b6733d9f2a3007e61e907c~c5_720x720.jpeg?x-expires=1650240000&x-signature=%2BKZXF%2BlS4fzMVGBT9MSgEdRQCE4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96395be166b6733d9f2a3007e61e907c~c5_100x100.jpeg?x-expires=1650240000&x-signature=f7eGikbH5%2FJNhr258p3GoNF1lg4%3D",
+        "signature": "Activist\u2022Aloudmouth\u2022Artist\u2022Adventurer            \ud83d\udd4a\ud83d\udde3\ud83c\udfb5\ud83c\udfda",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvojFGfkImUyppLFAozVRKgsMvD95rf9F7P-8b-ZKcvpXGDRqlW7EXvPazIyGsalY",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.allamericanruins.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2754,
+        "followingCount": 2423,
+        "heart": 28500,
+        "heartCount": 28500,
+        "videoCount": 52,
+        "diggCount": 0
+    },
+    "itemList": []
+}

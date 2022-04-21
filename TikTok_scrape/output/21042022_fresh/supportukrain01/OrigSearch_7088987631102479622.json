@@ -1,0 +1,98 @@
+{
+    "id": "7088987631102479622",
+    "desc": "",
+    "createTime": 1650533555,
+    "video": {
+        "id": "7088987631102479622",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0b72cb76e12f4ec4a442f188cf61f5df?x-expires=1650600000&x-signature=E0oYnh5LXk3q4phZ6D6KuL3BmKo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/24d2b436144041979c957438392af719_1650533556?x-expires=1650600000&x-signature=5OcSnLWlcgcu3jR%2BWu56VKH6y2A%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/780048be6a5a4ed5813f9783a180cdd3_1650533556?x-expires=1650600000&x-signature=42K%2F3lnLu22rcXCVywN3PQXfgAs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9bf028c062956ba87f0ac90db4ce8130/626232cf/video/tos/useast2a/tos-useast2a-ve-0068c003/07630472ef0a4f219ae600d03e247349/?a=1988&br=316&bt=158&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z5PZNwe2ND3ufl7Gb&l=2022042122444701011300603815E18191&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anhlbDU6ZjNsPDMzNzczM0ApNjo4ZmU0OjtnN2VoZmVmPGdzZGducjRvNmRgLS1kMTZzczYzXjI1LjY0LTYtMDVhMTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9bf028c062956ba87f0ac90db4ce8130/626232cf/video/tos/useast2a/tos-useast2a-ve-0068c003/07630472ef0a4f219ae600d03e247349/?a=1988&br=316&bt=158&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z5PZNwe2ND3ufl7Gb&l=2022042122444701011300603815E18191&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anhlbDU6ZjNsPDMzNzczM0ApNjo4ZmU0OjtnN2VoZmVmPGdzZGducjRvNmRgLS1kMTZzczYzXjI1LjY0LTYtMDVhMTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/24d2b436144041979c957438392af719_1650533556~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=EnIvnYQ2ILHX80ZzPkv%2FGtWcFKs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/24d2b436144041979c957438392af719_1650533556~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=00dHbHddpyYE9fsiVL9kSb3%2FzVg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0b72cb76e12f4ec4a442f188cf61f5df?x-expires=1650600000&x-signature=E0oYnh5LXk3q4phZ6D6KuL3BmKo%3D",
+        "bitrate": 162400,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7085745838564082694",
+        "uniqueId": "supportukrain01",
+        "nickname": "Logansibley38",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c6204f39c2b489d5345e62d808588ea~c5_100x100.jpeg?x-expires=1650751200&x-signature=bfK6kdXx4uBiF%2FFRLoRomZQMADg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c6204f39c2b489d5345e62d808588ea~c5_720x720.jpeg?x-expires=1650751200&x-signature=FRqvaTwu9uasnUAKO5ClWrakET0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9c6204f39c2b489d5345e62d808588ea~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=hQUYnDHQ2RoiuIguRnedoVioQNU%3D",
+        "signature": "Play football and 1k followers",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_FwiwDpATBaNdvbwvqvVms1p6Qallc5jOM_NMU67vUO_ZcQwhNAj8tSI2pFtkOi5",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6899307006495033346",
+        "title": "RIP",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6f176b4f5bd34e28b052e41765e9eccd",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/f9e24ccde14c402f8be8fd2019b49685.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/f9e24ccde14c402f8be8fd2019b49685.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/f9e24ccde14c402f8be8fd2019b49685.jpeg",
+        "authorName": "Croosh",
+        "original": false,
+        "duration": 60,
+        "album": "RIP"
+    },
+    "stats": {
+        "diggCount": 15,
+        "shareCount": 0,
+        "commentCount": 7,
+        "playCount": 88
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 759,
+        "followerCount": 1043,
+        "heartCount": 344,
+        "videoCount": 20,
+        "diggCount": 1192,
+        "heart": 344
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Don\u2019t scroll without like and saying R.I.P to his son"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7068700373096006661",
+        "shortId": "",
+        "uniqueId": "ukraineslavu",
+        "nickname": "\u0421\u041b\u0410\u0412\u0410 \u0423\u041a\u0420\u0410\u0418\u041d\u0415",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/069dcb6fd4dc10262c41acc0e8cc3409~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=yNkUgMEiOMmvpKhB1IvG1m0Iq9o%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/069dcb6fd4dc10262c41acc0e8cc3409~c5_720x720.jpeg?x-expires=1649372400&x-signature=tQ8zLdMlkcnD%2FBRJEDrdSxzABnQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/069dcb6fd4dc10262c41acc0e8cc3409~c5_100x100.jpeg?x-expires=1649372400&x-signature=x0KPu5dN2GAsLvYasZsLpPvnKeI%3D",
+        "signature": "No bio yet",
+        "createTime": 1645810074,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_udWLtilK2qrZrN6aBK_CKPM9fdPj7ZsRfzHK_vz4FGvc87IhgRSQ8Tln3uNwEoC",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/Ukraineonlainpravda",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 27200,
+        "followingCount": 0,
+        "heart": 375700,
+        "heartCount": 375700,
+        "videoCount": 321,
+        "diggCount": 0
+    },
+    "itemList": []
+}

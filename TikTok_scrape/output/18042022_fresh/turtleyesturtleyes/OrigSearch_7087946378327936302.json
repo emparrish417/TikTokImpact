@@ -1,0 +1,98 @@
+{
+    "id": "7087946378327936302",
+    "desc": "Like if you support Ukraine \ud83c\uddfa\ud83c\udde6",
+    "createTime": 1650291122,
+    "video": {
+        "id": "7087946378327936302",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1089c69df3b8474a95b6e8db6c896874?x-expires=1650330000&x-signature=wWRMX6p1q9OqPPS8B1AQcn4Z1Lc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9ab58a292d8b4bd3ad703904e26fb7a6_1650291123?x-expires=1650330000&x-signature=ltCL3arEdfzlYFnBBdkR8G%2Bznxo%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e78d9c63a613456b92ea56d7bfec1243_1650291123?x-expires=1650330000&x-signature=tnG0HynyxxuXlRG49e981InCrtE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8c12a1b7c1ba2b7778ed26a4ab49d38e/625e0d2a/video/tos/useast5/tos-useast5-ve-0068c003-tx/1c931e3df4a3473ea071fe6942f7e959/?a=1988&br=1066&bt=533&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZNzxwwe2NOZqfl7Gb&l=202204181915120101131350430D031E2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzc2Zzk6ZjxxPDMzZzczNEApN2hnNjdnZWQ8N2dpNTo8NWdhamVecjQwLmJgLS1kMS9zc2FjNWBfYl5eMTVfMy9fYTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8c12a1b7c1ba2b7778ed26a4ab49d38e/625e0d2a/video/tos/useast5/tos-useast5-ve-0068c003-tx/1c931e3df4a3473ea071fe6942f7e959/?a=1988&br=1066&bt=533&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZNzxwwe2NOZqfl7Gb&l=202204181915120101131350430D031E2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzc2Zzk6ZjxxPDMzZzczNEApN2hnNjdnZWQ8N2dpNTo8NWdhamVecjQwLmJgLS1kMS9zc2FjNWBfYl5eMTVfMy9fYTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9ab58a292d8b4bd3ad703904e26fb7a6_1650291123~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=%2BUfY0Vc31n3VcFk2ttmAqQ7%2BFO4%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9ab58a292d8b4bd3ad703904e26fb7a6_1650291123~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=2cWLVh5re6pNFy5dt5yLSLIva3w%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1089c69df3b8474a95b6e8db6c896874?x-expires=1650330000&x-signature=x7i%2FHPp%2FtmrpiYiqiz6TU7wlI0Y%3D",
+        "bitrate": 546740,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7086160318361011246",
+        "uniqueId": "turtleyesturtleyes",
+        "nickname": "Military Mayham\u2026",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9584392524b4fe3fc18e423eeee92db1~c5_100x100.jpeg?x-expires=1650481200&x-signature=ta3pvyBHvmS9EgTMG9nO6qBL%2FBs%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9584392524b4fe3fc18e423eeee92db1~c5_720x720.jpeg?x-expires=1650481200&x-signature=Iga00pJRYL7mFu7tTKxTvUZgjUI%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9584392524b4fe3fc18e423eeee92db1~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=NKb%2FAkBoqxs%2Bef3iKFz8IMYWdDU%3D",
+        "signature": "A turtle \ud83d\udc4d\ud83c\udffb",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXOO0arH46kCO-xPEWc4oVrNy0AATtIO8PAuyNhQDfzo1rDbzVsoFd95W0QPOBkve",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6596848528763390721",
+        "title": "The Nights",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/cd21208408604069940d210359821244",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/f154b662c9be4616b2fbb7f9baac49f1.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/f154b662c9be4616b2fbb7f9baac49f1.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/f154b662c9be4616b2fbb7f9baac49f1.jpeg",
+        "authorName": "Avicii",
+        "original": false,
+        "duration": 46,
+        "album": "The Days / Nights - EP"
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 82
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 115,
+        "followerCount": 48,
+        "heartCount": 57,
+        "videoCount": 14,
+        "diggCount": 147,
+        "heart": 57
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Like if u support Ukraine \ud83c\uddfa\ud83c\udde6 \ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

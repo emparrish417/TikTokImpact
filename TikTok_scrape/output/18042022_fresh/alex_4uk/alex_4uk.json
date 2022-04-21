@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6926275801235457029",
+        "shortId": "",
+        "uniqueId": "alex_4uk",
+        "nickname": "alexandra",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f7d39ae0a8d061519629249d6245aebd~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=FUg7708xGt%2F%2BbpAOMj6H1YqiSbY%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f7d39ae0a8d061519629249d6245aebd~c5_720x720.jpeg?x-expires=1650481200&x-signature=BQ%2FotY3xErGUA5OxrYJSzpf5LWc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f7d39ae0a8d061519629249d6245aebd~c5_100x100.jpeg?x-expires=1650481200&x-signature=WdgJ5j1jNIUdVnKbhIpdskAxgTY%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArrCIxZIduP8dF1BTPLg_QUpfLygfuw7UHjjnk4f3ycswyQ7VkxM_URCSAyMxqfyk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22,
+        "followingCount": 51,
+        "heart": 474,
+        "heartCount": 474,
+        "videoCount": 14,
+        "diggCount": 0
+    },
+    "itemList": []
+}

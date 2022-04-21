@@ -1,0 +1,99 @@
+{
+    "id": "7086779118615907589",
+    "desc": "",
+    "createTime": 1650019346,
+    "video": {
+        "id": "7086779118615907589",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fb73774e9903426ba3c94a9fda7fb6e6?x-expires=1650088800&x-signature=g2U1FF5DAuiLZr7E8pkoMk66yD8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/64a1388af5104acdb8eb91fd61415ed4_1650019347?x-expires=1650088800&x-signature=FMBVcTIdnQLA56rslxiNiuB6qig%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/cc778585d87b4a0d8b1ddc2121ad63fa_1650019347?x-expires=1650088800&x-signature=P%2BhuvX7OTjxYqLIoFmxY21ozTDQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2fbc42d04cd8f7f1dfd382c8eda36ba2/625a6563/video/tos/useast2a/tos-useast2a-ve-0068c004/9de02efeb6d4416d8f80b12f56b1a8e7/?a=1988&br=3350&bt=1675&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZggGLwe2N~1ufl7Gb&l=20220416004229010113135143209AE553&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M21vZ2Q6ZjluPDMzNzczM0ApOGhkOGQ6Ojw6Nzk3PDc2OGdpb142cjRfamBgLS1kMTZzc2IyYC8wNDI2MF82XzJeMTU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2fbc42d04cd8f7f1dfd382c8eda36ba2/625a6563/video/tos/useast2a/tos-useast2a-ve-0068c004/9de02efeb6d4416d8f80b12f56b1a8e7/?a=1988&br=3350&bt=1675&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZggGLwe2N~1ufl7Gb&l=20220416004229010113135143209AE553&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M21vZ2Q6ZjluPDMzNzczM0ApOGhkOGQ6Ojw6Nzk3PDc2OGdpb142cjRfamBgLS1kMTZzc2IyYC8wNDI2MF82XzJeMTU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/64a1388af5104acdb8eb91fd61415ed4_1650019347~tplv-tiktok-play.jpeg?x-expires=1650672000&x-signature=jXdQpxQn4qbldsYweCBrzxp022A%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/64a1388af5104acdb8eb91fd61415ed4_1650019347~tplv-tiktokx-share-play.jpeg?x-expires=1650672000&x-signature=OESPvmgnASdjuuL5pD9UnQq32Ms%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fb73774e9903426ba3c94a9fda7fb6e6?x-expires=1650088800&x-signature=g2U1FF5DAuiLZr7E8pkoMk66yD8%3D",
+        "bitrate": 1715950,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7070203492237755398",
+        "uniqueId": "x.ukraine.x.besties.x",
+        "nickname": "Ukraine",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55fdbbce89e30af0ca00cb3693a4bf73~c5_100x100.jpeg?x-expires=1650240000&x-signature=DYpO37oh0VN%2BN%2FxSDa5A3CDkW5Q%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55fdbbce89e30af0ca00cb3693a4bf73~c5_720x720.jpeg?x-expires=1650240000&x-signature=mx4CgpJ5iqMLgaU%2F5MozP8%2BZ6AM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55fdbbce89e30af0ca00cb3693a4bf73~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=IDVlorHhzJW%2F9LMRpHwtJzVcQ%2FE%3D",
+        "signature": "Owner 1\nOwner 2",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyI2OAnhnlsn0veQmD8EzPtiTlPX8NJrI3JUHk0ikVuRN8Ud6eh4ren0I3UGQuKl5",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069738073092852523",
+        "title": "Quagotjuicee5 on TikTok",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7069738107087784750.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/142d092fe76cc55e0f862e6673de3b80~c5_100x100.jpeg?x-expires=1650240000&x-signature=W7tFPTtjflvFA4G0PwwSJa%2BpHFU%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/142d092fe76cc55e0f862e6673de3b80~c5_720x720.jpeg?x-expires=1650240000&x-signature=j%2B9AXAbyrFbB%2F086%2FFaVjVzH%2FD0%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/142d092fe76cc55e0f862e6673de3b80~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=1mshzkXeZEVS7UT6pN%2B7VNxjmLI%3D",
+        "authorName": "DEUCE NOT DUECE \u203c\ufe0f",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 46
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 382,
+        "followerCount": 64,
+        "heartCount": 67,
+        "videoCount": 16,
+        "diggCount": 2444,
+        "heart": 67
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Me wanting braces for years",
+                "Needs to get braces "
+            ]
+        }
+    ],
+    "isAd": false
+}

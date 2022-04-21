@@ -1,0 +1,90 @@
+{
+    "id": "7083566530398735662",
+    "desc": "",
+    "createTime": 1649271356,
+    "video": {
+        "id": "7083566530398735662",
+        "height": 536,
+        "width": 360,
+        "duration": 27,
+        "ratio": "360p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0284373b554e4c579e40ae0c40fb467a?x-expires=1649307600&x-signature=6sJKyATN%2FcHn8A8kHCMF39qwa6s%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a22acf37d61848b6ab56632083fd959f_1649271356?x-expires=1649307600&x-signature=5hIVZZUsRLZ1e%2F6wTHoTARzfKvs%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1f939127d1444bb2acfcd0f57dbe847e_1649271357?x-expires=1649307600&x-signature=d8PFaYRRct5Tpz%2BApE2a%2BFcdp%2Bw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/115a1298b1af035e0ae4d228c7d80fea/624e7462/video/tos/useast5/tos-useast5-pve-0068-tx/fa6abb6954f94f4dabf8ef5bb8c0f9d9/?a=1988&br=698&bt=349&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7ThdwSSDXq&l=202204062319030101131352140D8E2F05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2VxeWc6ZmZ4PDMzZzczNEApPGlpZmU0aGU2NzQ4NWU2aWdpNGVtcjRvMTNgLS1kMS9zczFeXzAtXzRiNjAzYGMvYzA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/115a1298b1af035e0ae4d228c7d80fea/624e7462/video/tos/useast5/tos-useast5-pve-0068-tx/fa6abb6954f94f4dabf8ef5bb8c0f9d9/?a=1988&br=698&bt=349&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7ThdwSSDXq&l=202204062319030101131352140D8E2F05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2VxeWc6ZmZ4PDMzZzczNEApPGlpZmU0aGU2NzQ4NWU2aWdpNGVtcjRvMTNgLS1kMS9zczFeXzAtXzRiNjAzYGMvYzA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a22acf37d61848b6ab56632083fd959f_1649271356~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=xo%2FoY%2BbE9XcuE%2BAHm%2BLnvflBbrE%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a22acf37d61848b6ab56632083fd959f_1649271356~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=nGa95zz%2F%2FZ0wDycV1msTGSxLH3o%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0284373b554e4c579e40ae0c40fb467a?x-expires=1649307600&x-signature=A%2FDLu%2F2ag0Tfii1vn0oyRYAlMQs%3D",
+        "bitrate": 357798,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "lowest",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7070348848554542126",
+        "uniqueId": "ukrainegang6",
+        "nickname": "Dahoodstar",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/450160f80d7ad98b817391df2e451ff5~c5_100x100.jpeg?x-expires=1649372400&x-signature=un%2FnZbSzIq1fcjiE3VmdIIk%2FJVs%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/450160f80d7ad98b817391df2e451ff5~c5_720x720.jpeg?x-expires=1649372400&x-signature=DLNr9ZOM4Uz2sdePnCrpSGUGlyY%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/450160f80d7ad98b817391df2e451ff5~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=7Sl1yW4x%2Fgq9JJz8kkvLKTkp99E%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxtjEQZDrf7j7HIrcsJ1697_DPCDfvZoW-gICLBAaUS6ltLzuC3Hpc7_ptsOE685d",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7083566482927618862",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7083566516096011051.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/450160f80d7ad98b817391df2e451ff5~c5_100x100.jpeg?x-expires=1649372400&x-signature=un%2FnZbSzIq1fcjiE3VmdIIk%2FJVs%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/450160f80d7ad98b817391df2e451ff5~c5_720x720.jpeg?x-expires=1649372400&x-signature=DLNr9ZOM4Uz2sdePnCrpSGUGlyY%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/450160f80d7ad98b817391df2e451ff5~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=7Sl1yW4x%2Fgq9JJz8kkvLKTkp99E%3D",
+        "authorName": "Dahoodstar",
+        "original": true,
+        "duration": 27,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 10
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 179,
+        "followerCount": 54,
+        "heartCount": 112,
+        "videoCount": 38,
+        "diggCount": 337,
+        "heart": 112
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

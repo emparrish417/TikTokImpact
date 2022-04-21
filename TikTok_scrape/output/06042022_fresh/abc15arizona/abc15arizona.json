@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6997138053585355781",
+        "shortId": "",
+        "uniqueId": "abc15arizona",
+        "nickname": "ABC15Arizona",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6997170074171736069~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=kPv40%2Bnr7xGo3H2B6EWsvVorV%2Fw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6997170074171736069~c5_720x720.jpeg?x-expires=1649372400&x-signature=%2F6ue2quwKoAIxUFsJe%2FMQG3iyrA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6997170074171736069~c5_100x100.jpeg?x-expires=1649372400&x-signature=SsRSQNasiDAbRXrR40HibJqnNSM%3D",
+        "signature": "Your #1 source for #news in Arizona.\ud83c\udf35\ud83c\udfa5\nJoin our conversation with #abc15",
+        "createTime": 1629155612,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAWBVeMghkWMrdYtQJfavD8LmIgBe0tHMgtd0NhsF5YPGEEM9PITxASURSs8yLpaZr",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.abc15.com/",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 94100,
+        "followingCount": 138,
+        "heart": 3300000,
+        "heartCount": 3300000,
+        "videoCount": 470,
+        "diggCount": 0
+    },
+    "itemList": []
+}

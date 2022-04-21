@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6780075248185754629",
+        "shortId": "",
+        "uniqueId": "eden_ng",
+        "nickname": "EDEN",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f33ce0adeba3e66a9439c26a559fbcd1~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=qphHBRqAzT75xphLEfcIwA4G3J0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f33ce0adeba3e66a9439c26a559fbcd1~c5_720x720.jpeg?x-expires=1649714400&x-signature=uIwiL30d6D73zrWhnIjY5OqFyiU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f33ce0adeba3e66a9439c26a559fbcd1~c5_100x100.jpeg?x-expires=1649714400&x-signature=Uz7eKab8m%2F3q4uAbR%2Bdwv9CqFrk%3D",
+        "signature": "EDEN",
+        "createTime": 1578580780,
+        "verified": false,
+        "secUid": "MS4wLjABAAAALW_2rndVwgv1cGXvEKUrol9ozJUnhjtF-KQFGa6UEHMLSw6-iQbPqCSKwOSzjqn1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 279,
+        "followingCount": 67,
+        "heart": 4925,
+        "heartCount": 4925,
+        "videoCount": 148,
+        "diggCount": 202
+    },
+    "itemList": []
+}

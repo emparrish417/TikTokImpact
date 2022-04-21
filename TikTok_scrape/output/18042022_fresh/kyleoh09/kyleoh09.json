@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6910656304244573189",
+        "shortId": "",
+        "uniqueId": "kyleoh09",
+        "nickname": "Kyle",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/273a1c86e27a8eb5e5d8fb67c97be69d~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=%2BtjisxGur0Kj5Yx41ro2Y4js%2Bck%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/273a1c86e27a8eb5e5d8fb67c97be69d~c5_720x720.jpeg?x-expires=1650481200&x-signature=tLfT6q29xNqofuF%2BhX0Cv%2Ful2UM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/273a1c86e27a8eb5e5d8fb67c97be69d~c5_100x100.jpeg?x-expires=1650481200&x-signature=NzoGBkoNPNWw70Diyg25Kv3Abc4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADJep9qM98TDzUioAmTBbA8DsXNLJg-23sULFFwY177gjvR1zAUuMgoflRFvMlBl7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12800,
+        "followingCount": 522,
+        "heart": 430300,
+        "heartCount": 430300,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

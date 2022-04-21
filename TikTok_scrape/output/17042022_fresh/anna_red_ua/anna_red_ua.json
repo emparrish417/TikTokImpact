@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7000778832257893381",
+        "shortId": "",
+        "uniqueId": "anna_red_ua",
+        "nickname": "Ann@_ReD",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96028acae79063303d419ff24d610cb4~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=PZZ%2FhQVTTXE6CdxI6YqvkYmo9oQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96028acae79063303d419ff24d610cb4~c5_720x720.jpeg?x-expires=1650412800&x-signature=cFhXOSUfn1NDWGpMCfxikPSPWRg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96028acae79063303d419ff24d610cb4~c5_100x100.jpeg?x-expires=1650412800&x-signature=tZqxvzKpBEwOjyJ%2FcJmZdOkQvMc%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\u2764\ufe0f\u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456\u2764\ufe0f \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqNMpaZ5TzgrulIgru--Crd5MWgXLPn416jC8H_ynByIk4JPHact6zgiH812SiFHb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1293,
+        "followingCount": 467,
+        "heart": 13400,
+        "heartCount": 13400,
+        "videoCount": 316,
+        "diggCount": 0
+    },
+    "itemList": []
+}

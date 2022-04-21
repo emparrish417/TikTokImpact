@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "7022364283779007494",
+        "shortId": "",
+        "uniqueId": "kv.music.ua",
+        "nickname": "UA only\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3ce0223cb7d2f10a3c91d55d78c00fd~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=fw4EWQ%2B9MasNfjSqGqUjG7dMqR8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3ce0223cb7d2f10a3c91d55d78c00fd~c5_720x720.jpeg?x-expires=1650240000&x-signature=xXmUhbN2PqMgseaaglhrDhJZvXk%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d3ce0223cb7d2f10a3c91d55d78c00fd~c5_100x100.jpeg?x-expires=1650240000&x-signature=Ciz5Z1brp3fgi4Fnok%2Bn2ayZGWo%3D",
+        "signature": "\u041b\u0438\u0448\u0435 \u0443\u043a\u0440\u0430\u0457\u043d\u043e\u043c\u043e\u0432\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430\ud83c\uddfa\ud83c\udde6\ud83c\udfb5\n\u0423\u0441\u0456 \u043f\u0456\u0441\u043d\u0456 \u0442\u0443\u0442\ud83d\udc47",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAznD7QZqe-CT5vafRFNigXimPlWGMCTkRpPVl5X5ZWbaAvdXmMVelnmXNh7iBKdyx",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/kvua_music",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 48200,
+        "followingCount": 130,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 539,
+        "diggCount": 0
+    },
+    "itemList": []
+}

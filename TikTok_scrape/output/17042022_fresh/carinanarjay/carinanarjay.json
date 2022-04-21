@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6555766701802422274",
+        "shortId": "",
+        "uniqueId": "carinanarjay",
+        "nickname": "Arjay Carinan",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c264465ac62d9a526bc1d228f46ad355~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=DgsuGZ53bjG6qpZ80u5w1SDl7Fg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c264465ac62d9a526bc1d228f46ad355~c5_720x720.jpeg?x-expires=1650412800&x-signature=PmeekwpTazzQJyguUdkOjyQl%2BaY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c264465ac62d9a526bc1d228f46ad355~c5_100x100.jpeg?x-expires=1650412800&x-signature=397SROax7BjwIvm5mfKATWLDb44%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6oPMZEIQlyHkWm2QsizTMgDISQHl662eYu_nBQv227OnT0hLms9pjqPiLYcIs97n",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCak7on5oRWhk0BXxUc1Ihfw",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 159100,
+        "followingCount": 8115,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 359,
+        "diggCount": 51800
+    },
+    "itemList": []
+}

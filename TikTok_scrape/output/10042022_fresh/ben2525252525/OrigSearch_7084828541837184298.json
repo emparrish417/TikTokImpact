@@ -1,0 +1,103 @@
+{
+    "id": "7084828541837184298",
+    "desc": "",
+    "createTime": 1649565190,
+    "video": {
+        "id": "7084828541837184298",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c8227591e12f468080070c0fa9a9ccff?x-expires=1649649600&x-signature=9myxmaJHrLAISl2ZbgpRhMIWwHQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/216f55e3027a43d3bd382ab1837cb618_1649565191?x-expires=1649649600&x-signature=E9SfZt4akdA8L9Nl9LWafTpDj6A%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e14c93894448479e9acd474af35bfb17_1649565191?x-expires=1649649600&x-signature=SKn1gAM0EVPbERIYTC0NmkpOgIo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/66cccc83127cb1a5f56000d940d7055b/6253ae6d/video/tos/useast5/tos-useast5-ve-0068c003-tx/7190a29a0e514fb7a491b1aec76e8cdc/?a=1988&br=420&bt=210&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.EIDXq&l=2022041022281401011300615605B6BC0A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVpbTM6ZmU4PDMzZzczNEApNGZlNGg0OTw0Nzc7ZTU0M2cuL2dicjRvbjZgLS1kMS9zcy80LmA0Xi5iXjRiMC1eNS86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/66cccc83127cb1a5f56000d940d7055b/6253ae6d/video/tos/useast5/tos-useast5-ve-0068c003-tx/7190a29a0e514fb7a491b1aec76e8cdc/?a=1988&br=420&bt=210&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.EIDXq&l=2022041022281401011300615605B6BC0A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVpbTM6ZmU4PDMzZzczNEApNGZlNGg0OTw0Nzc7ZTU0M2cuL2dicjRvbjZgLS1kMS9zcy80LmA0Xi5iXjRiMC1eNS86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/216f55e3027a43d3bd382ab1837cb618_1649565191~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=9uM%2FRN0kuTrFDLA0gNuNKzxzXJs%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/216f55e3027a43d3bd382ab1837cb618_1649565191~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=iCUebdi53JPrlavFVSx2CCJVDSI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c8227591e12f468080070c0fa9a9ccff?x-expires=1649649600&x-signature=MbQXsoOOxR%2BY9bFF6rNy4G34ado%3D",
+        "bitrate": 215793,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7079137939893339182",
+        "uniqueId": "ben2525252525",
+        "nickname": "ben2525252525",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/778655166a20c929c6248fa148f229f7~c5_100x100.jpeg?x-expires=1649714400&x-signature=JWF2Ko5nTnxqdSadgHv%2BkIbGJ1Q%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/778655166a20c929c6248fa148f229f7~c5_720x720.jpeg?x-expires=1649714400&x-signature=lGPxENIen7QI4gQE7vWHyqCm0yw%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/778655166a20c929c6248fa148f229f7~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=hwaivHrLy12qVz9mCtwbnSSsvSc%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbkZdvrTpyEDdxuBUHGQ-Jpw4pJNL5Y4Nv1lhvHdt1TbEU6lR_8ZJOd8HoHdixV1E",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6838059590286837761",
+        "title": "The Chicken Wing Beat",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/93a919fd7ecf46fe9079c727fe25fb06",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/0f4551e4bb1b4240bfa1d6c62475af6f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/0f4551e4bb1b4240bfa1d6c62475af6f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/0f4551e4bb1b4240bfa1d6c62475af6f.jpeg",
+        "authorName": "Ricky Desktop",
+        "original": false,
+        "duration": 60,
+        "album": "The Chicken Wing Beat"
+    },
+    "stats": {
+        "diggCount": 153,
+        "shareCount": 0,
+        "commentCount": 14,
+        "playCount": 725
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 156,
+        "followerCount": 1826,
+        "heartCount": 6533,
+        "videoCount": 58,
+        "diggCount": 156,
+        "heart": 6533
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Hey ukrain",
+                "Hey",
+                "Wanna battle ",
+                "Bet",
+                "I m comments and share",
+                "I m follow likes "
+            ]
+        }
+    ],
+    "isAd": false
+}

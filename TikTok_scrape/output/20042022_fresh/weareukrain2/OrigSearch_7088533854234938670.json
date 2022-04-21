@@ -1,0 +1,98 @@
+{
+    "id": "7088533854234938670",
+    "desc": "",
+    "createTime": 1650427901,
+    "video": {
+        "id": "7088533854234938670",
+        "height": 1024,
+        "width": 576,
+        "duration": 44,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/003fbfc2e5874f24b00b4070d7061fa8?x-expires=1650513600&x-signature=VbxygfMZRj3wGJCFS%2Fij00%2FeOP0%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d5fba560aaf4473cb5c8b9871c758fae_1650427901?x-expires=1650513600&x-signature=It7%2BpfCjMB0zFg1hyELMc1FtuZk%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d7ca6b7d155a43f5aa3203d1b0696355_1650427902?x-expires=1650513600&x-signature=AbBI9EHF4lFQOwK2l%2Bvtvl4xFGs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/703ebae4e01c895ba07104b7dc48141a/6260dc89/video/tos/useast5/tos-useast5-ve-0068c002-tx/7aa66a3ff58f4379b96faa09040cb5bd/?a=1988&br=1534&bt=767&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZTMANwe2Ncdufl7Gb&l=2022042022235701011300623406E1280F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2c8Njk6ZmpyPDMzZzczNEApOmY1aGZmZmU8Nzg7ZTxnNmdgZmI1cjQwY2NgLS1kMS9zc2IzLy00NmA0MTJhYTY1MzU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/703ebae4e01c895ba07104b7dc48141a/6260dc89/video/tos/useast5/tos-useast5-ve-0068c002-tx/7aa66a3ff58f4379b96faa09040cb5bd/?a=1988&br=1534&bt=767&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZTMANwe2Ncdufl7Gb&l=2022042022235701011300623406E1280F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2c8Njk6ZmpyPDMzZzczNEApOmY1aGZmZmU8Nzg7ZTxnNmdgZmI1cjQwY2NgLS1kMS9zc2IzLy00NmA0MTJhYTY1MzU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d5fba560aaf4473cb5c8b9871c758fae_1650427901~tplv-tiktok-play.jpeg?x-expires=1651096800&x-signature=l%2FdSPysgrB59iftXPEmb13GYyhY%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d5fba560aaf4473cb5c8b9871c758fae_1650427901~tplv-tiktokx-share-play.jpeg?x-expires=1651096800&x-signature=jkPm6MwGsn0Qe0so4HMYnj8tb58%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/003fbfc2e5874f24b00b4070d7061fa8?x-expires=1650513600&x-signature=VbxygfMZRj3wGJCFS%2Fij00%2FeOP0%3D",
+        "bitrate": 785483,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7016707285502313478",
+        "uniqueId": "weareukrain2",
+        "nickname": "LANA \ud83c\uddfa\ud83c\uddf8 USA\ud83d\udc99UKRAINE \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/69f4eff7fff6cc5488c36b02be348a0a~c5_100x100.jpeg?x-expires=1650664800&x-signature=2gXF6E1EJZbVVi2HCT4yF4Z7Gbo%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/69f4eff7fff6cc5488c36b02be348a0a~c5_720x720.jpeg?x-expires=1650664800&x-signature=0k%2BB2AeKB5HYXaKTCN89DnagX2E%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/69f4eff7fff6cc5488c36b02be348a0a~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=FO5bZsbrwZZmNK2YvFNP2iD%2FraY%3D",
+        "signature": "\u041f\u0440\u0438\u0432\u0435\u0442\u043e\u0441\u0438\u043a\u0438 ! \u0421\u0442\u0430\u0432\u044c\u0442\u0435 \u043b\u0430\u0439\u043a\u0438 \u0437\u0430 \u0432\u0438\u0434\u043e\u0441\u0438\u043a\u0438 ! \ud83e\udd70\u2764\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAshLXZWyburA27ot3C5_C9rzrAINPo9jfuMFGXqtE4euvTH5hI2fxzu4Z9CxWsMpu",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7088533809435609898",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7088533855463836458.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/69f4eff7fff6cc5488c36b02be348a0a~c5_100x100.jpeg?x-expires=1650664800&x-signature=2gXF6E1EJZbVVi2HCT4yF4Z7Gbo%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/69f4eff7fff6cc5488c36b02be348a0a~c5_720x720.jpeg?x-expires=1650664800&x-signature=0k%2BB2AeKB5HYXaKTCN89DnagX2E%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/69f4eff7fff6cc5488c36b02be348a0a~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=FO5bZsbrwZZmNK2YvFNP2iD%2FraY%3D",
+        "authorName": "LANA \ud83c\uddfa\ud83c\uddf8 USA\ud83d\udc99UKRAINE \ud83c\uddfa\ud83c\udde6",
+        "original": true,
+        "duration": 44,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 45
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 461,
+        "followerCount": 188,
+        "heartCount": 670,
+        "videoCount": 174,
+        "diggCount": 1283,
+        "heart": 670
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\udcaa\ud83c\uddfa\ud83c\udde6"
+            ]
+        }
+    ],
+    "isAd": false
+}

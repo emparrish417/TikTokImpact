@@ -1,0 +1,99 @@
+{
+    "id": "7084425188884139310",
+    "desc": "",
+    "createTime": 1649471279,
+    "video": {
+        "id": "7084425188884139310",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8c40191229dc449facf3ae15bef99f4a?x-expires=1649574000&x-signature=UXWVKY5u%2BrYgjXixUZNXp1EYgQI%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/91ce12d5c73e4a72a8a4834b1e053f4c_1649471279?x-expires=1649574000&x-signature=1EIrm5xiaWjrn1nLndkhZ31VVCE%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7d82d34d585f448e8787eb3e0d3d6f1f_1649471280?x-expires=1649574000&x-signature=TWa7VC0z4tXCbJZytQmOW5jTjek%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/3a4c34cd8833a656ed2f936fbbf31ded/62528c2c/video/tos/useast5/tos-useast5-ve-0068c001-tx/1d8e22ea3ee54e0484ae89ded695bc60/?a=1988&br=272&bt=136&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thjn4IDXq&l=20220410014955010113006118137727DE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3A5NDQ6ZjhoPDMzZzczNEApaTg1aGVpNGU4NzxkN2Q5ZGdtMjVncjRncjVgLS1kMS9zczA1YzIwY15iNjNjM2NeMGM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/3a4c34cd8833a656ed2f936fbbf31ded/62528c2c/video/tos/useast5/tos-useast5-ve-0068c001-tx/1d8e22ea3ee54e0484ae89ded695bc60/?a=1988&br=272&bt=136&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thjn4IDXq&l=20220410014955010113006118137727DE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3A5NDQ6ZjhoPDMzZzczNEApaTg1aGVpNGU4NzxkN2Q5ZGdtMjVncjRncjVgLS1kMS9zczA1YzIwY15iNjNjM2NeMGM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/91ce12d5c73e4a72a8a4834b1e053f4c_1649471279~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=Ihz%2BtD0SYftjxEMgr9O%2BPGRtClQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/91ce12d5c73e4a72a8a4834b1e053f4c_1649471279~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=rY89bk%2BOudiuWISxmUgWx3JgE%2Bw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8c40191229dc449facf3ae15bef99f4a?x-expires=1649574000&x-signature=UXWVKY5u%2BrYgjXixUZNXp1EYgQI%3D",
+        "bitrate": 139927,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6945257347527083013",
+        "uniqueId": "ukraine_shallwin",
+        "nickname": "Terrance",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/37690a7361dfd6d724788b60ee03fb76~c5_100x100.jpeg?x-expires=1649638800&x-signature=kzSBBAvH37tA3xK7VO0r%2F7jicp8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/37690a7361dfd6d724788b60ee03fb76~c5_720x720.jpeg?x-expires=1649638800&x-signature=8Ns0BkFsj6ilBu5QayPrAvldeVU%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/37690a7361dfd6d724788b60ee03fb76~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=WqCna0U2N4DsqS4M6gZ%2BHVchWsI%3D",
+        "signature": "100\u2705200\u2705100\u27052000\u274c3000\u274c4000\u274c1,000,000 will never happen :(",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJmRYil2kiqZ8U0EMynX4vU0d9WI7JCatzyExhERscSsoVdJSmYaAFvuc-ld-RM-o",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7080325815694576427",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7080325817447828267.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfad4accbe4666e6e1fe8cc1afc8182e~c5_100x100.jpeg?x-expires=1649638800&x-signature=RFYDn3qvmlkh98X%2BwjjbRLDZbcc%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfad4accbe4666e6e1fe8cc1afc8182e~c5_720x720.jpeg?x-expires=1649638800&x-signature=QWsI%2F3az5UTPKOAI022XE%2BICdYY%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfad4accbe4666e6e1fe8cc1afc8182e~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=wd5LXhy7SLLSkFwHIZ8%2BNYC8esI%3D",
+        "authorName": "Jayden Cook",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 59
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2844,
+        "followerCount": 1226,
+        "heartCount": 930,
+        "videoCount": 77,
+        "diggCount": 13600,
+        "heart": 930
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I only like one girl",
+                "And her name has 3 letters"
+            ]
+        }
+    ],
+    "isAd": false
+}

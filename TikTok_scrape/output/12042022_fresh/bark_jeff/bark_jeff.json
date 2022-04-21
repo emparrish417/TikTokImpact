@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6843449810415879170",
+        "shortId": "",
+        "uniqueId": "bark_jeff",
+        "nickname": "JEF\u00acF\u00b0",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/8f3bcf7d5653059668df314cab691ae0~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=Id75MsM%2FcChO2oDDiFDdgAkj9QE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/8f3bcf7d5653059668df314cab691ae0~c5_720x720.jpeg?x-expires=1649905200&x-signature=jxIjxcTVz0gMMn38knalOHpGjus%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/8f3bcf7d5653059668df314cab691ae0~c5_100x100.jpeg?x-expires=1649905200&x-signature=0k8otmylarUUvLrl2rpBbu1VNEc%3D",
+        "signature": "",
+        "createTime": 1598506962,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAT4n4f8Sxx-kNnc7irCTyTGt7Gw2ec9Nb7ngoXQpgPTEHZ7noahnS5O4g2i3HKStT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 29,
+        "followingCount": 137,
+        "heart": 156,
+        "heartCount": 156,
+        "videoCount": 15,
+        "diggCount": 426
+    },
+    "itemList": []
+}

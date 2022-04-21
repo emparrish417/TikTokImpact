@@ -1,0 +1,96 @@
+{
+    "id": "7083595357267037445",
+    "desc": "",
+    "createTime": 1649278068,
+    "video": {
+        "id": "7083595357267037445",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d312dc648f6e42a381b2d2394917b390?x-expires=1649307600&x-signature=CMYuMJynM7YTSKiL8OwQamQnpEQ%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/885f3d5181b449aa8616f2086dcab5d6_1649278069?x-expires=1649307600&x-signature=2hjZssmRzPT%2FkFLyzpd48S4pg5M%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/cfbdac83d5f144889f3a8d2d71b88d75_1649278069?x-expires=1649307600&x-signature=CW5idh6b853THDhE2Eh4Io%2FWYog%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/348118f102750e46433ab93216e27af0/624e7430/video/tos/useast2a/tos-useast2a-ve-0068c001/7a55e8e2961b4657ade59e53f926452b/?a=1988&br=1552&bt=776&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThNwSSDXq&l=202204062318340101130061320090E4BD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9vdjc6Zmt5PDMzNzczM0ApODlpaDQ7Mzw7NzZmNjM2ZWctXzUtcjRfbDNgLS1kMTZzczIwNS81M19eYTUxL2BjXl46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/348118f102750e46433ab93216e27af0/624e7430/video/tos/useast2a/tos-useast2a-ve-0068c001/7a55e8e2961b4657ade59e53f926452b/?a=1988&br=1552&bt=776&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThNwSSDXq&l=202204062318340101130061320090E4BD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9vdjc6Zmt5PDMzNzczM0ApODlpaDQ7Mzw7NzZmNjM2ZWctXzUtcjRfbDNgLS1kMTZzczIwNS81M19eYTUxL2BjXl46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/885f3d5181b449aa8616f2086dcab5d6_1649278069~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=jT%2FCbkfb9V2o4JPmuU88idazSqM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/885f3d5181b449aa8616f2086dcab5d6_1649278069~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=rwimwM2e44wXZBvp0J%2FRMdjtkUw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d312dc648f6e42a381b2d2394917b390?x-expires=1649307600&x-signature=CMYuMJynM7YTSKiL8OwQamQnpEQ%3D",
+        "bitrate": 794686,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6988396764333327366",
+        "uniqueId": "harry57580",
+        "nickname": "Ukraine \ud83c\uddfa\ud83c\udde6 stay safe",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0703cbf9a92431a3000a7d7d5a0aaeef~c5_100x100.jpeg?x-expires=1649372400&x-signature=HWvX19OXDUOBFmBQhOLJ3O3KxCo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0703cbf9a92431a3000a7d7d5a0aaeef~c5_720x720.jpeg?x-expires=1649372400&x-signature=dZcPvn5DqNLrZYxJxyFk5nHc6mI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0703cbf9a92431a3000a7d7d5a0aaeef~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=JVK2AzbW7HeELkxlqBU4vcS0g%2FU%3D",
+        "signature": "Leo \u264c\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-pO39LvPMx7KiASYVLDHRj8wdvFz4_Fw-ExhC9QlpYhWj1ikJxvDndp4n-uHsGK8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7079996207291992838",
+        "title": "Happy frog has a mango on a fork",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7079996205534644998.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/906b8978a03f0779679671aed93610a1~c5_100x100.jpeg?x-expires=1649372400&x-signature=I90dP3zvYLmUUibWoFe4Wa73flE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/906b8978a03f0779679671aed93610a1~c5_720x720.jpeg?x-expires=1649372400&x-signature=WPROfYvswI9J90eMJFEoy2tQjks%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/906b8978a03f0779679671aed93610a1~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=fusuVbqX4v33iw51ZxX9C0uJohg%3D",
+        "authorName": "xsuyuu",
+        "original": true,
+        "duration": 6,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 10
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "World Warp",
+            "ID": "1590914"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 23,
+        "followerCount": 200,
+        "heartCount": 720,
+        "videoCount": 118,
+        "diggCount": 557,
+        "heart": 720
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

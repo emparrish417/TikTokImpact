@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6865205542438323205",
+        "shortId": "",
+        "uniqueId": "shamaltomynya",
+        "nickname": "Tomynya",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/caf479e289e20275df0e7d88864cb3d1~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=ahjjtB7lieemmnYhfzkxOk6Npec%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/caf479e289e20275df0e7d88864cb3d1~c5_720x720.jpeg?x-expires=1650751200&x-signature=HtZjQqwHVSuSCflAsaS3tsxPhtk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/caf479e289e20275df0e7d88864cb3d1~c5_100x100.jpeg?x-expires=1650751200&x-signature=45SNVymDH1FZij0uqsdSNyVwkrI%3D",
+        "signature": "\ud83e\uddf8\ud83e\uddf8",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4vaZZAMUJ5E_vcYiJ5e7_d_7TsqyM5Z-LjMxCREzetgOdVRkLhBtOQkGYeoexc25",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 172,
+        "followingCount": 206,
+        "heart": 1284,
+        "heartCount": 1284,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

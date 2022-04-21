@@ -1,0 +1,98 @@
+{
+    "id": "7087842750757899546",
+    "desc": "T\u01b0\u1edbng Nga t\u1eed tr\u1eadn t\u1ea1i ukraine",
+    "createTime": 1650266990,
+    "video": {
+        "id": "7087842750757899546",
+        "height": 1024,
+        "width": 576,
+        "duration": 56,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/d69221d16976489ca9fd6b1247453179?x-expires=1650330000&x-signature=jm04SGZlRCCR5Je7U6lEOTuSjEM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/4ed004408d2b447fafe840cbb486ae34_1650266992?x-expires=1650330000&x-signature=aD9d%2F53RvMegtoHXpWa8wC3QpmA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/130108aa8214462e92af77898e1051cf_1650266993?x-expires=1650330000&x-signature=y2tOm39eha%2BFCaePbeAckJNzlWY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2641e94dd1dda31dede36dadc74ca53a/625e0d88/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/e2e5119dd4774580bcc9e584c262bdfa/?a=1988&br=744&bt=372&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zhzxwwe2Nme7fl7Gb&l=2022041819160001011313521115FA046C&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M243eWk6ZjprPDMzZjgzM0ApaTs4ZjtpNzs3N2RlOTQ3ZWcycTNecjRvMWJgLS1kL2Nzc2BfX2AxLV9fL14wNDJgMTY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2641e94dd1dda31dede36dadc74ca53a/625e0d88/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/e2e5119dd4774580bcc9e584c262bdfa/?a=1988&br=744&bt=372&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zhzxwwe2Nme7fl7Gb&l=2022041819160001011313521115FA046C&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M243eWk6ZjprPDMzZjgzM0ApaTs4ZjtpNzs3N2RlOTQ3ZWcycTNecjRvMWJgLS1kL2Nzc2BfX2AxLV9fL14wNDJgMTY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/4ed004408d2b447fafe840cbb486ae34_1650266992~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=rulU08VNBZkSZBe9wJnsdKndrb4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/4ed004408d2b447fafe840cbb486ae34_1650266992~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=laqzgYGHjuEzvI58Y4F93Y0WJNU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/d69221d16976489ca9fd6b1247453179?x-expires=1650330000&x-signature=jm04SGZlRCCR5Je7U6lEOTuSjEM%3D",
+        "bitrate": 381830,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6671132472832475138",
+        "uniqueId": "xsmn24h",
+        "nickname": "Chuy\u00ean Gia XS",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3976877348b87672eb83416dd95d5a8~c5_100x100.jpeg?x-expires=1650481200&x-signature=fDFdOL9y7LFbTdrOwpR57jJQE6c%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3976877348b87672eb83416dd95d5a8~c5_720x720.jpeg?x-expires=1650481200&x-signature=tnVajfuHca8QHfp0cXV58mUV8QQ%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3976877348b87672eb83416dd95d5a8~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=a68WSiXuQpfWPZlWJ0HzfxowoK4%3D",
+        "signature": "Chuy\u00ean Gia XS B\u1eafc Nam",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0inGVwuMB-S7uyr36Sb1wx-5BR4WkjtB7crCL5OptmocPL6hUwBrDKINmmBg1XPi",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087842756088924955",
+        "title": "nh\u1ea1c n\u1ec1n - Chuy\u00ean Gia XS",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7087842771206114075.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3976877348b87672eb83416dd95d5a8~c5_100x100.jpeg?x-expires=1650481200&x-signature=fDFdOL9y7LFbTdrOwpR57jJQE6c%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3976877348b87672eb83416dd95d5a8~c5_720x720.jpeg?x-expires=1650481200&x-signature=tnVajfuHca8QHfp0cXV58mUV8QQ%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b3976877348b87672eb83416dd95d5a8~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=a68WSiXuQpfWPZlWJ0HzfxowoK4%3D",
+        "authorName": "Chuy\u00ean Gia XS",
+        "original": true,
+        "duration": 56,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 39,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 4557
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 130,
+        "followerCount": 1804,
+        "heartCount": 21200,
+        "videoCount": 171,
+        "diggCount": 3452,
+        "heart": 21200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "T\u01b0\u1edbng Nga t\u1eed tr\u1eadn t\u1ea1i ukraine"
+            ]
+        }
+    ],
+    "isAd": false
+}

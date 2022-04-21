@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6986924592972776454",
+        "shortId": "",
+        "uniqueId": "homa.508",
+        "nickname": "Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/47b7d516fb4fffed28357f4720dcea8d.jpeg?x-expires=1650240000&x-signature=R%2BlL122IXSbf1nYx8IYj7BA0sFo%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/47b7d516fb4fffed28357f4720dcea8d.jpeg?x-expires=1650240000&x-signature=fOAtBrSBdUiCtQym6A0hWETP7OY%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/47b7d516fb4fffed28357f4720dcea8d.jpeg?x-expires=1650240000&x-signature=eogcI87kXT2OiLnlHIjrcV1ctow%3D",
+        "signature": "name: \u10da\u10d8\u10d6\u10d8\nage: 11\n\u10e1\u10d0\u10e7\u10d5\u10d0\u10e0\u10d4\u10da\u10d8  \u10d4\u10db\u10dd\u10ef\u10d8\ud83e\udd8b\ud83e\udd40\ud83d\udda4\n\u10d2\u10d7\u10ee\u10dd\u10d5\u10d7  \u10d3\u10d0\u10db\u10d0\u10e4\u10dd\u10da\u10dd\u10d5\u10d4\u10d7",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfeJcNlNasMMLgZYbqA1v9kyNJy7jQgG02ncNI0KpoL_o4ApKzj_rh0ZUVaZQy9Om",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "\u10de",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Baby",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2144,
+        "followingCount": 2793,
+        "heart": 6217,
+        "heartCount": 6217,
+        "videoCount": 169,
+        "diggCount": 0
+    },
+    "itemList": []
+}

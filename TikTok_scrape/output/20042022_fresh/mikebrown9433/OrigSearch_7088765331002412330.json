@@ -1,0 +1,96 @@
+{
+    "id": "7088765331002412330",
+    "desc": "",
+    "createTime": 1650481798,
+    "video": {
+        "id": "7088765331002412330",
+        "height": 1024,
+        "width": 576,
+        "duration": 25,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/acf99362aaee449b9b9bd3f018f5761d?x-expires=1650513600&x-signature=LzjP3BizS%2BxstdPtSkDO9dHjwE4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5182b210f7e6436fafa10fc925473538_1650481799?x-expires=1650513600&x-signature=1CqJIoBy%2Fv8ZF2r30sNjEaaom3k%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/834b23b4d98e4a6a850e22b1f468d1e5_1650481800?x-expires=1650513600&x-signature=HyhB786yUttTup2SNSnUPhQRM4c%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a0905368a28c8e1de635eef30e2e39fe/6260dce7/video/tos/useast5/tos-useast5-ve-0068c001-tx/09bacff1fb8b4b6b8503a3559b3b70bf/?a=1988&br=2826&bt=1413&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZMtANwe2N.-7fl7Gb&l=202204202225490101131350981AE06318&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzVkZDk6Znk4PDMzZzczNEApOzUzZjY2M2Q7N2ZlaTk0N2dxbS5rcjQwaGRgLS1kMS9zczQ2LTYuXjFhMTU0NjUuXjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a0905368a28c8e1de635eef30e2e39fe/6260dce7/video/tos/useast5/tos-useast5-ve-0068c001-tx/09bacff1fb8b4b6b8503a3559b3b70bf/?a=1988&br=2826&bt=1413&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZMtANwe2N.-7fl7Gb&l=202204202225490101131350981AE06318&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzVkZDk6Znk4PDMzZzczNEApOzUzZjY2M2Q7N2ZlaTk0N2dxbS5rcjQwaGRgLS1kMS9zczQ2LTYuXjFhMTU0NjUuXjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/5182b210f7e6436fafa10fc925473538_1650481799~tplv-tiktok-play.jpeg?x-expires=1651096800&x-signature=VGuZlNKWYSgkvQroADssygJuYMQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/5182b210f7e6436fafa10fc925473538_1650481799~tplv-tiktokx-share-play.jpeg?x-expires=1651096800&x-signature=dfGNLw0wGxtxP6JcHFJOC5jhDM0%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/acf99362aaee449b9b9bd3f018f5761d?x-expires=1650513600&x-signature=LzjP3BizS%2BxstdPtSkDO9dHjwE4%3D",
+        "bitrate": 1447330,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055884826352174085",
+        "uniqueId": "mikebrown9433",
+        "nickname": "WE STAND UKRAIN!\u270a",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1650664800&x-signature=tpmn3GexgTR1nnTOq%2B6U7vpeu64%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1650664800&x-signature=DngN4szUxcjHoh%2FZr7FEvbg13qg%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=Zaspn5%2BcB8nEww8Vum5fXm6ipRQ%3D",
+        "signature": "https://orangsa.bar/13274aa?s1=kri$ten\nYou're about to open an external website.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGgAQEHqHu61EVzvb_SDCl5X-7FhqqEbp78nzWkWPPuRgwuKVqleUMHU_fUlwdhNW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7074978602726574890",
+        "title": "10 Things I Hate About You",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fc6fff3c5f043c39e8a2ef479bbae15",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/30ff0f16b472438fb5497fbb798e8922.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/30ff0f16b472438fb5497fbb798e8922.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/30ff0f16b472438fb5497fbb798e8922.jpeg",
+        "authorName": "Leah Kate",
+        "original": false,
+        "duration": 25,
+        "album": "10 Things I Hate About You"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 6
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "grey aesthetic",
+            "ID": "1199634"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 164,
+        "followerCount": 49,
+        "heartCount": 272,
+        "videoCount": 180,
+        "diggCount": 712,
+        "heart": 272
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

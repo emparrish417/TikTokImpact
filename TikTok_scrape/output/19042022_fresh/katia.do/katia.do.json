@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6579232395764105221",
+        "shortId": "",
+        "uniqueId": "katia.do",
+        "nickname": "\u041a\u0430\u0442\u044f \u0414\u043e\u043b\u0436\u0435\u043d\u043a\u043e\u0432\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/059b6b189d0f4daa28ca9228852055a4~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=BMuGrbCd%2FPNxH6KkQl2FFPi5a4k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/059b6b189d0f4daa28ca9228852055a4~c5_720x720.jpeg?x-expires=1650578400&x-signature=yav8f7zUG8p4DAzC6rL44YJdQLI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/059b6b189d0f4daa28ca9228852055a4~c5_100x100.jpeg?x-expires=1650578400&x-signature=8csBsiRoZJn%2BTUZc3TmpQ6OYJcQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjtFhIkqnCUdD12TevhXOsJ7u-mMz5EILRjM_Atfm2mYr677qIPYIHUcLw-dX3cg7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 115,
+        "followingCount": 237,
+        "heart": 670,
+        "heartCount": 670,
+        "videoCount": 38,
+        "diggCount": 0
+    },
+    "itemList": []
+}

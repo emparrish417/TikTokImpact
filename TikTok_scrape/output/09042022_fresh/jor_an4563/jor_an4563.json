@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7033642682231637039",
+        "shortId": "",
+        "uniqueId": "jor_an4563",
+        "nickname": "\ud83d\ude45\u200d\u2642\ufe0f",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/171019cb0ce5bd4ab1c4e061eb3b2a39~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=iAD1wmzbPoCzOSGO4abUl5ki5yU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/171019cb0ce5bd4ab1c4e061eb3b2a39~c5_720x720.jpeg?x-expires=1649638800&x-signature=SbbK2Zl5Idd14%2FaW32upvOG8mes%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/171019cb0ce5bd4ab1c4e061eb3b2a39~c5_100x100.jpeg?x-expires=1649638800&x-signature=GluYywL0CpvQSnDvNdsjX7L4SdE%3D",
+        "signature": "Athlete \ud83c\udfc8 #24",
+        "createTime": 1637648117,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAq0bk8PSTltbd_ScTzwXvL4bEpV7xSRWfUdwsX9WQT5TALsPb7qzyqL3JQmNq4vTZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 37,
+        "followingCount": 23,
+        "heart": 43,
+        "heartCount": 43,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

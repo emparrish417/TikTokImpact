@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7077114848957580294",
+        "shortId": "",
+        "uniqueId": "vlados15_",
+        "nickname": "KroCeR",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7077115059100450821~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=oC%2BD3p0QJMn02tLRAY9Tl1AhJm4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7077115059100450821~c5_720x720.jpeg?x-expires=1649905200&x-signature=vieuZJHTrVLa1oW1IBFxKIKcnI8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7077115059100450821~c5_100x100.jpeg?x-expires=1649905200&x-signature=PTuE9%2BErEY4UJxBtzF1zLqb1qfI%3D",
+        "signature": "",
+        "createTime": 1647769254,
+        "verified": false,
+        "secUid": "MS4wLjABAAAApxLPDxz3E5bOvfcnY9084eBkAzKPlUawBwf0Z-AbZaLBR4KyugsOCzFLRrdQakkw",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 84,
+        "followingCount": 5,
+        "heart": 1315,
+        "heartCount": 1315,
+        "videoCount": 33,
+        "diggCount": 0
+    },
+    "itemList": []
+}

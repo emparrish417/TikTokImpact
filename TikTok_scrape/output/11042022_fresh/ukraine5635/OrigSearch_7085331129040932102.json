@@ -1,0 +1,169 @@
+{
+    "id": "7085331129040932102",
+    "desc": "#rqe #elbruso #pyf",
+    "createTime": 1649682209,
+    "video": {
+        "id": "7085331129040932102",
+        "height": 1042,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4f22eeed532d4d6da1b28857f1b87325?x-expires=1649736000&x-signature=FM6jGCU3V%2FfoJ2HA%2F417YiBMOfg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/aae366adbffd42fe8329b98418267452_1649682210?x-expires=1649736000&x-signature=tojhKPg2%2FC7miNzfIiV87%2Fpfh5g%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1843d2daccf14efbbd816cf98c103abe_1649682210?x-expires=1649736000&x-signature=e15wE%2F%2Bgs%2BftpjAQTqtvutSPyUA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d8b74b449aec186565aa2abc3c15f65d/6254fd59/video/tos/useast2a/tos-useast2a-ve-0068c004/3f43e4ef75d84a0ea9330a845c0291d4/?a=1988&br=940&bt=470&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3_jaDXq&l=20220411221721010113006038147DE6C4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztxZTg6ZmU1PDMzNzczM0ApOmk3ZjpoODs3NzQ5Omk3aGdiLTVycjRnYV5gLS1kMTZzcy8xMWJiYDBhLzQzLTMtNTY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d8b74b449aec186565aa2abc3c15f65d/6254fd59/video/tos/useast2a/tos-useast2a-ve-0068c004/3f43e4ef75d84a0ea9330a845c0291d4/?a=1988&br=940&bt=470&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3_jaDXq&l=20220411221721010113006038147DE6C4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztxZTg6ZmU1PDMzNzczM0ApOmk3ZjpoODs3NzQ5Omk3aGdiLTVycjRnYV5gLS1kMTZzcy8xMWJiYDBhLzQzLTMtNTY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/aae366adbffd42fe8329b98418267452_1649682210~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=XnaySQOKzX0rSTeLQ8YSCJZYiT0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/aae366adbffd42fe8329b98418267452_1649682210~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=rxO7ZTrqMCSfU6e1wiwlbDpLifg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4f22eeed532d4d6da1b28857f1b87325?x-expires=1649736000&x-signature=FM6jGCU3V%2FfoJ2HA%2F417YiBMOfg%3D",
+        "bitrate": 481569,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7077884137457288197",
+        "uniqueId": "ukraine5635",
+        "nickname": "\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ca038c9c82f71aa4d608faa372615687~c5_100x100.jpeg?x-expires=1649800800&x-signature=l7NqE1W4%2FQCy7fZZiIXDldXQS6Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ca038c9c82f71aa4d608faa372615687~c5_720x720.jpeg?x-expires=1649800800&x-signature=NOJgpNRTLlcv1cW8ZH8lrLFHfME%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ca038c9c82f71aa4d608faa372615687~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=UfOKyJgJn%2FZXHuxl0UVJCpcvNiQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAANsUo9KdC8yiwbBKVtNRo-s7sZ7sJZ80u-g6hDGYFwV2d9hqB2n3M1nP8AqiUwXaO",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7016773558680438786",
+        "title": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/dca16b7ed1f0415d9700b10c5a3b5439",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "authorName": "PROBASS \u2206 HARDI",
+        "original": false,
+        "duration": 60,
+        "album": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From"
+    },
+    "challenges": [
+        {
+            "id": "85983802",
+            "title": "rqe",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "7049772613748391937",
+            "title": "elbruso",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "21754154",
+            "title": "pyf",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 5
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 4,
+            "hashtagName": "rqe",
+            "hashtagId": "85983802",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 5,
+            "end": 13,
+            "hashtagName": "elbruso",
+            "hashtagId": "7049772613748391937",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 14,
+            "end": 18,
+            "hashtagName": "pyf",
+            "hashtagId": "21754154",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1,
+        "followerCount": 2,
+        "heartCount": 0,
+        "videoCount": 1,
+        "diggCount": 14,
+        "heart": 0
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

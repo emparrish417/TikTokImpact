@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7083967551990006790",
+        "shortId": "",
+        "uniqueId": "team_tesco_uk",
+        "nickname": "team_tesco_uk",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/852caf1f7b74048669fcb313755a280a~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=pBIKwX89FPAs%2BSoqC9aQCnh5ErQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/852caf1f7b74048669fcb313755a280a~c5_720x720.jpeg?x-expires=1650240000&x-signature=uDLwzu%2BYahzHRtyXiRwRr6IFdYY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/852caf1f7b74048669fcb313755a280a~c5_100x100.jpeg?x-expires=1650240000&x-signature=AEmYQbyG%2B84k3MBagPKjS%2Ba1vAs%3D",
+        "signature": "every little helps",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAD9HGvOpXMlU5a_j8jPxuW9NnFSGJeq-75ZraU54jzoPU4QJ1Ka9T9Y9erYT3rTo9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 27,
+        "followingCount": 3,
+        "heart": 19,
+        "heartCount": 19,
+        "videoCount": 8,
+        "diggCount": 0
+    },
+    "itemList": []
+}

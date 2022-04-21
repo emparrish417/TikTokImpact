@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6637516913922883590",
+        "shortId": "",
+        "uniqueId": "ostashchuk_m",
+        "nickname": "\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fad4095e3aee0cf02e54311b7918ac8c~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=Ur6SIFrZiiwQYcQjItYA4svhtMY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fad4095e3aee0cf02e54311b7918ac8c~c5_720x720.jpeg?x-expires=1650751200&x-signature=kuTSJLKqEoShys3YAXZ3ZTQFrqY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fad4095e3aee0cf02e54311b7918ac8c~c5_100x100.jpeg?x-expires=1650751200&x-signature=7AU7mSrn54towuW001AanzrS2EY%3D",
+        "signature": "based in Lviv , Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADnoMt4Fx3M0xsSPN-rGjuT28sFVj_QQSshTPiYYRoecnLg1u2TSJplCKwFysxnNt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 46,
+        "followingCount": 145,
+        "heart": 1161,
+        "heartCount": 1161,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7019384318041195525",
+        "shortId": "",
+        "uniqueId": "ekobari4",
+        "nickname": "ekobari4",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/190cc660d81388aa20faefcb36e61623~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=ey8mxI02AKrGL5PfbuaGVDfCa%2Bo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/190cc660d81388aa20faefcb36e61623~c5_720x720.jpeg?x-expires=1650114000&x-signature=ooyNrKpeMsyvkGNlZtC7q2IFwgA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/190cc660d81388aa20faefcb36e61623~c5_100x100.jpeg?x-expires=1650114000&x-signature=oWVmCLS7XbhVYqg0C%2FokqzxgHFc%3D",
+        "signature": "\u041d\u0430\u0431\u043e\u0440 \u0432 \u0445\u0430\u0443\u0441 \u043e\u0442\u043a\u0440\u0438\u0442 3/10",
+        "createTime": 1634328210,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAeqLglWBcRYsugLnKoXyGjRHjh4hH1OVcCc_Gf0bU82tSolYMhcSSm_lgJwNEVLoK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "\u0423\u0442\u043e\u0447\u043a\u0430",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1607,
+        "followingCount": 3196,
+        "heart": 5513,
+        "heartCount": 5513,
+        "videoCount": 331,
+        "diggCount": 0
+    },
+    "itemList": []
+}

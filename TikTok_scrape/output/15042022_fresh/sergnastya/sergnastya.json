@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6912103854352942085",
+        "shortId": "",
+        "uniqueId": "sergnastya",
+        "nickname": "Anastasia Sergeev620",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a03441397cf49b769628c2d06c2ca2b~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=wKYyqNACAUfoGmVqmGDNRrGQnhQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a03441397cf49b769628c2d06c2ca2b~c5_720x720.jpeg?x-expires=1650240000&x-signature=FTaf7dqLzibo25QEZzePAM1Qo0s%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a03441397cf49b769628c2d06c2ca2b~c5_100x100.jpeg?x-expires=1650240000&x-signature=Hn3PSaeXowi89l%2B2KuXyAUFE4Jk%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbSSKvBos4GOhxxhkA9qUhSc6PbPCfWgGGzFMbmkl68nH0btYfOjoLW1H8_2MdJL9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 64,
+        "followingCount": 67,
+        "heart": 1248,
+        "heartCount": 1248,
+        "videoCount": 40,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6619803859961937925",
+        "shortId": "",
+        "uniqueId": "tikkitikki_tyty",
+        "nickname": "Ty Green",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/16f27ab0af5af8d57f16c820f42b47f7~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=OTi1CVSVzcfFREOroderOH9MgeQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/16f27ab0af5af8d57f16c820f42b47f7~c5_720x720.jpeg?x-expires=1650481200&x-signature=tL8fw5s5D3Hf7UlYFuWTxrExliA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/16f27ab0af5af8d57f16c820f42b47f7~c5_100x100.jpeg?x-expires=1650481200&x-signature=iuanibNg1%2FyEdspBkGpHVSJV%2B4Y%3D",
+        "signature": "19 \nMichigan \nYou\u2019re either a fart smella or a smart fella",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxwDjLmz05uHQZQlL5EatmWuZP1lw0VQ4j0fEdu12j47CgGk87TNK2TSYb_YTevQ4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 44900,
+        "followingCount": 20,
+        "heart": 6300000,
+        "heartCount": 6300000,
+        "videoCount": 58,
+        "diggCount": 0
+    },
+    "itemList": []
+}

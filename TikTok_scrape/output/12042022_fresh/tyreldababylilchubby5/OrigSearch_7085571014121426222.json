@@ -1,0 +1,105 @@
+{
+    "id": "7085571014121426222",
+    "desc": "Reply to @alexmaybeanonymous.2",
+    "createTime": 1649738061,
+    "video": {
+        "id": "7085571014121426222",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/adb7ead9737441858e3b9b41eb8c8138?x-expires=1649840400&x-signature=FfblaBRa2B2GTJglZMR1aBxlkWQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f1966f08aec247f884aa18b389839ba7_1649738062?x-expires=1649840400&x-signature=CXt28ro6NBUKKKugfeK3m4FMIQU%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ed74a9fc8c63497ea2ee8aff03809d35_1649738062?x-expires=1649840400&x-signature=VObw2yqSxqXdE9tiodkWiMyO9oQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/82bb5410ba2d9fa98c097bfe68760118/625691ef/video/tos/useast5/tos-useast5-ve-0068c001-tx/f9a0c38e0dfc425c9498ef8316555922/?a=1988&br=2982&bt=1491&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8E4aDXq&l=20220413030328010113006221031CFAD1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZtZDY6ZmpqPDMzZzczNEApOzQ2ZmY7Ojw1N2k7NzpoZGdsZnNucjRfL15gLS1kMS9zczIwXmE0LTQtYzMuLjFfYC86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/82bb5410ba2d9fa98c097bfe68760118/625691ef/video/tos/useast5/tos-useast5-ve-0068c001-tx/f9a0c38e0dfc425c9498ef8316555922/?a=1988&br=2982&bt=1491&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8E4aDXq&l=20220413030328010113006221031CFAD1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZtZDY6ZmpqPDMzZzczNEApOzQ2ZmY7Ojw1N2k7NzpoZGdsZnNucjRfL15gLS1kMS9zczIwXmE0LTQtYzMuLjFfYC86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f1966f08aec247f884aa18b389839ba7_1649738062~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=rQHvBmWvM1j2jXm2Ky93j6ySyLI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f1966f08aec247f884aa18b389839ba7_1649738062~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=geTOhpr6jCCAxNa7nANStW7iI44%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/adb7ead9737441858e3b9b41eb8c8138?x-expires=1649840400&x-signature=FfblaBRa2B2GTJglZMR1aBxlkWQ%3D",
+        "bitrate": 1527385,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6863172748095030278",
+        "uniqueId": "tyreldababylilchubby5",
+        "nickname": "Pray for Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6e12700ab1ba044d18f69a1b1d47f6f~c5_100x100.jpeg?x-expires=1649905200&x-signature=g6VNQycA%2B2unY%2F3M6vf2dipoWLg%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6e12700ab1ba044d18f69a1b1d47f6f~c5_720x720.jpeg?x-expires=1649905200&x-signature=%2BOqCDBCL9LdsegqXFK1xqBDva0g%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6e12700ab1ba044d18f69a1b1d47f6f~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=8Bu6eW8ciL%2BsQZy8gVkVFHlnC4k%3D",
+        "signature": "Tyrelsmerch.com/Prime",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASdOql9BrqoXWOj54XW26rpumFKj9_ys-giKplCfjqo55cH1xjPWfMKAx35594QWf",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085570962703321898",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7085570999843883819.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6e12700ab1ba044d18f69a1b1d47f6f~c5_100x100.jpeg?x-expires=1649905200&x-signature=g6VNQycA%2B2unY%2F3M6vf2dipoWLg%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6e12700ab1ba044d18f69a1b1d47f6f~c5_720x720.jpeg?x-expires=1649905200&x-signature=%2BOqCDBCL9LdsegqXFK1xqBDva0g%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6e12700ab1ba044d18f69a1b1d47f6f~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=8Bu6eW8ciL%2BsQZy8gVkVFHlnC4k%3D",
+        "authorName": "Pray for Ukraine",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 4,
+        "playCount": 23
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 9,
+            "end": 30,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7061464057257509893",
+            "isCommerce": false,
+            "userUniqueId": "alexmaybeanonymous.2",
+            "secUid": "MS4wLjABAAAA68kslivMXzFQnrhquQJ7heIV1DgxorUACnOOVNmJb5iWAFOg0ce7hj3vgzSW8t3R",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 531,
+        "followerCount": 119,
+        "heartCount": 856,
+        "videoCount": 136,
+        "diggCount": 383,
+        "heart": 856
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

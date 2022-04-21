@@ -1,0 +1,138 @@
+{
+    "id": "7083347679748656426",
+    "desc": "#fyp",
+    "createTime": 1649220401,
+    "video": {
+        "id": "7083347679748656426",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7298fcd6a5b74f2fa167941c66b8405e?x-expires=1649307600&x-signature=AkAEIghPEiCXdFwQX3YwJrfqD2E%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6424d3b2036849bb8ee78361796f9a2f_1649220402?x-expires=1649307600&x-signature=NN9c3wLtM4J7LICR812VCpjwjXU%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b37345950dca4568ac4f0812b3f357ad_1649220402?x-expires=1649307600&x-signature=4CyWRtUd%2FpOnU9d6%2FLefMJyT3XA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c744e1532519de282bdefa0d6ba7d84d/624e7466/video/tos/useast5/tos-useast5-ve-0068c003-tx/ae44a605ceb3456cbfc36dd3afe8b525/?a=1988&br=2968&bt=1484&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwwSSDXq&l=202204062319200101130061512499349D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajg0N2k6ZjprPDMzZzczNEApZDY2NDQ6M2RpN2U3OmVoM2cxNmxscjQwaTNgLS1kMS9zc2FfLl5hMTI1YDEtNGMuNDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c744e1532519de282bdefa0d6ba7d84d/624e7466/video/tos/useast5/tos-useast5-ve-0068c003-tx/ae44a605ceb3456cbfc36dd3afe8b525/?a=1988&br=2968&bt=1484&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwwSSDXq&l=202204062319200101130061512499349D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajg0N2k6ZjprPDMzZzczNEApZDY2NDQ6M2RpN2U3OmVoM2cxNmxscjQwaTNgLS1kMS9zc2FfLl5hMTI1YDEtNGMuNDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6424d3b2036849bb8ee78361796f9a2f_1649220402~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=NiNyDFMwEPbf4M54atXaSnI7KSg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6424d3b2036849bb8ee78361796f9a2f_1649220402~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=9Edype%2Bg5Sy6CbO6bo139pH0Rpk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7298fcd6a5b74f2fa167941c66b8405e?x-expires=1649307600&x-signature=AkAEIghPEiCXdFwQX3YwJrfqD2E%3D",
+        "bitrate": 1520349,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7073703052533105706",
+        "uniqueId": "ukrain._.russia",
+        "nickname": "I_\u2764\ufe0furmom",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/50c315fe3716cbc9011ac7c51dabe3fa~c5_100x100.jpeg?x-expires=1649372400&x-signature=x27Cnf6TU%2F9XcVF%2BaUPAgHLhxng%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/50c315fe3716cbc9011ac7c51dabe3fa~c5_720x720.jpeg?x-expires=1649372400&x-signature=G1bMOwNl4x5NuFGAwsR07yO77a0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/50c315fe3716cbc9011ac7c51dabe3fa~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=EKH2jZ4tWZpJ21HcUqMqv%2FBDltg%3D",
+        "signature": "I \u2764\ufe0f hot moms",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADxJA6-L68Wt6Bbbw3XJT5zFnTL9vEoKBBSIqfYRmihw2IlBweo-WYOJNHXb28XJb",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7072113888715606827",
+        "title": "famous ppl usin my sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7072113907824905003.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ac37ca7a1b9b8c96aeaad6e5392e4d23~c5_100x100.jpeg?x-expires=1649372400&x-signature=ADGJ1EsAhwLcpm9tlE49%2F%2BemBdM%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ac37ca7a1b9b8c96aeaad6e5392e4d23~c5_720x720.jpeg?x-expires=1649372400&x-signature=Ic7lMWzJqbJQDLVqdSqzND2OK0k%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ac37ca7a1b9b8c96aeaad6e5392e4d23~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=cu9nwSYhYsmJOc8LX%2Bo1Gh7jmos%3D",
+        "authorName": "a <3",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 14,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 55
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 4,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        },
+        {
+            "name": "Green Screen Video",
+            "ID": "454747"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 46,
+        "followerCount": 75,
+        "heartCount": 1070,
+        "videoCount": 19,
+        "diggCount": 441,
+        "heart": 1070
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "77 more days till this come back\ud83d\ude0d",
+                "Daddy westy\ud83e\udd75"
+            ]
+        }
+    ],
+    "isAd": false
+}

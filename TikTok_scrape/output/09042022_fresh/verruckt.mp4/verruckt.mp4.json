@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7060776952551097350",
+        "shortId": "",
+        "uniqueId": "verruckt.mp4",
+        "nickname": "verruckt.mp4",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fad2934e0b6110d1c75f7d1bcddf7dfd~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=2was%2FG5SIDei80MrDrxrngWOor4%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/fad2934e0b6110d1c75f7d1bcddf7dfd~c5_720x720.jpeg?x-expires=1649638800&x-signature=sPnRGT%2Fqq4ZDQV9QIFSKB0V61ho%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fad2934e0b6110d1c75f7d1bcddf7dfd~c5_100x100.jpeg?x-expires=1649638800&x-signature=%2BZc2zdp%2BBNLWkaRixAviw4O7kkM%3D",
+        "signature": "",
+        "createTime": 1643965485,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEPnxCm0jgylOi0W3x8gu3a0znAsfnT_kZoZ45R5BFXUJAlb4cGir-NzyXebIZLyk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 37900,
+        "followingCount": 0,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

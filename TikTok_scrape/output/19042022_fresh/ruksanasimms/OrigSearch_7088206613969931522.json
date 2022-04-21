@@ -1,0 +1,90 @@
+{
+    "id": "7088206613969931522",
+    "desc": "",
+    "createTime": 1650351710,
+    "video": {
+        "id": "7088206613969931522",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/39108d895b9d42b38527bde548e54c21?x-expires=1650427200&x-signature=i739tt8NGMvn%2B8jXVzn7xovq6mI%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/17c5172a107b419495e88f041afa965d_1650351711?x-expires=1650427200&x-signature=bavQgiembWS0hxnxw5%2BSRzjVT%2F8%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d1a49745d1654963b4d7be943ccb1622_1650351712?x-expires=1650427200&x-signature=AvTs%2BoM4xursDIjui2r%2BpqJqGN8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5831230f614860b4ea90aa5087d272a1/625f8a5b/video/tos/alisg/tos-alisg-pve-0037c001/47977eb643b04846a8603a5c2bc6fbd0/?a=1988&br=2428&bt=1214&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIQiwwe2NaF~fl7Gb&l=202204192221350101130061350117FD62&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztoZDM6Zmw4PDMzODczNEApZTk1M2Y1ZGVnN2UzZzs3aGcxY2QvcjQwb2NgLS1kMS1zczAtL2EzXjIzLzJhYV4yLy06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5831230f614860b4ea90aa5087d272a1/625f8a5b/video/tos/alisg/tos-alisg-pve-0037c001/47977eb643b04846a8603a5c2bc6fbd0/?a=1988&br=2428&bt=1214&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIQiwwe2NaF~fl7Gb&l=202204192221350101130061350117FD62&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztoZDM6Zmw4PDMzODczNEApZTk1M2Y1ZGVnN2UzZzs3aGcxY2QvcjQwb2NgLS1kMS1zczAtL2EzXjIzLzJhYV4yLy06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/17c5172a107b419495e88f041afa965d_1650351711~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=cOFWvSI2w%2FYKzCQSOXwOoe2jH2o%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/17c5172a107b419495e88f041afa965d_1650351711~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=igIKAZSDezZ1lq3FziIEWQnMhr8%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/39108d895b9d42b38527bde548e54c21?x-expires=1650427200&x-signature=i739tt8NGMvn%2B8jXVzn7xovq6mI%3D",
+        "bitrate": 1244090,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6970017958789710850",
+        "uniqueId": "ruksanasimms",
+        "nickname": "DAVID LIKE UKRAIN",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/68cdd97475eedefcb6a640b8e1a4a5ae.jpeg?x-expires=1650578400&x-signature=rHTX2rXGPOZRa7iwNv%2BvszmT6NA%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/68cdd97475eedefcb6a640b8e1a4a5ae.jpeg?x-expires=1650578400&x-signature=TRlDn8ZaBzBZikoQF0NQKd1%2FwlM%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/68cdd97475eedefcb6a640b8e1a4a5ae.jpeg?x-expires=1650578400&x-signature=2oaudcI2vpaXsfkkV36gyJ1SH40%3D",
+        "signature": "5000 SUBSCRAIBER AND LIVE",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG6be-6uYTzPOhbse-x1l7A0DgeUT2MR_wpNlUE43NaOsKzTdq7zSFskGcE3yjApr",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7026792865289029633",
+        "title": "Material Girl (Bass Boosted)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3fa01be9b3ec4ae1b59d69c066d08727",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/ad9062edca8b42b2833565c55d2466db.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/ad9062edca8b42b2833565c55d2466db.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/ad9062edca8b42b2833565c55d2466db.jpeg",
+        "authorName": "Saucy Santana",
+        "original": false,
+        "duration": 60,
+        "album": "Material Girl (Bass Boosted)"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 6
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 250,
+        "followerCount": 57,
+        "heartCount": 170,
+        "videoCount": 156,
+        "diggCount": 1934,
+        "heart": 170
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

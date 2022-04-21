@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6729587439721513989",
+        "shortId": "",
+        "uniqueId": "cbsmornings",
+        "nickname": "CBS Mornings",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8caec48ffb58b275f25c86279977bec3~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=oP5e2Z%2B3QVizWAE%2BOPhV4TdSwMA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8caec48ffb58b275f25c86279977bec3~c5_720x720.jpeg?x-expires=1649714400&x-signature=A5cMWXtRu9%2FCZklOt8X57MGE7xU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8caec48ffb58b275f25c86279977bec3~c5_100x100.jpeg?x-expires=1649714400&x-signature=lWMR5%2BFqyxPRIU13X%2FPylEYFxnU%3D",
+        "signature": "Impactful journalism + exquisite storytelling. \nWatch 7-9 a.m. on CBS \ud83c\udf1e",
+        "createTime": 1566826805,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAxC-Rhe-XAB0S8SSbWiX2IN_PPgqOB__LMswvKPCdY9IErqycWsSjYveMdYf2vDnS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "CBSMornings.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 782100,
+        "followingCount": 19,
+        "heart": 25600000,
+        "heartCount": 25600000,
+        "videoCount": 1364,
+        "diggCount": 0
+    },
+    "itemList": []
+}

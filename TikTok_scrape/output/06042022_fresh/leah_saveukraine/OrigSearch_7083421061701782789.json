@@ -1,0 +1,90 @@
+{
+    "id": "7083421061701782789",
+    "desc": "",
+    "createTime": 1649237489,
+    "video": {
+        "id": "7083421061701782789",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/110bcfb5c0b746c992bf371b2f9ca124?x-expires=1649307600&x-signature=e%2FwqP2U3mOZ3jbzG3Yk%2BxvwH%2B6s%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/460a4ca647994156abfe3f01f83fe53e_1649237490?x-expires=1649307600&x-signature=YY%2BPS0t5nxwyrjh2J5cQZ%2Baekz8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a8394e12bf3f4501b203bc005d47347e_1649237490?x-expires=1649307600&x-signature=QFCsrr4Zzk49qDTg04nNgJ0G8LM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ee6382e5616cc2aee646e76cc7270463/624e7456/video/tos/useast2a/tos-useast2a-ve-0068c003/f0b05598dc51410488a480057cad3992/?a=1988&br=5300&bt=2650&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdwSSDXq&l=202204062319030101131352140D8E2F05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajh3dWY6ZjdvPDMzNzczM0ApNzU1aTg8NTw1N2gzO2dkNmcxXl5xcjRfbzNgLS1kMTZzc2FgLzEvMzY1Yi02NWE1XzQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ee6382e5616cc2aee646e76cc7270463/624e7456/video/tos/useast2a/tos-useast2a-ve-0068c003/f0b05598dc51410488a480057cad3992/?a=1988&br=5300&bt=2650&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdwSSDXq&l=202204062319030101131352140D8E2F05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajh3dWY6ZjdvPDMzNzczM0ApNzU1aTg8NTw1N2gzO2dkNmcxXl5xcjRfbzNgLS1kMTZzc2FgLzEvMzY1Yi02NWE1XzQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/460a4ca647994156abfe3f01f83fe53e_1649237490~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=NHCuESGOmnsHYOnOs585paFI54M%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/460a4ca647994156abfe3f01f83fe53e_1649237490~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=PZjR45GKsnTZYAh1eQm3pB83d6I%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/110bcfb5c0b746c992bf371b2f9ca124?x-expires=1649307600&x-signature=e%2FwqP2U3mOZ3jbzG3Yk%2BxvwH%2B6s%3D",
+        "bitrate": 2714480,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6959806584235394054",
+        "uniqueId": "leah_saveukraine",
+        "nickname": "Leah",
+        "avatarThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/ce07be3747693ab0a0e29cc014682705~c5_100x100.jpeg?x-expires=1649372400&x-signature=foDaq7pFvBoJJzHrtnmLOw6BfoE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce07be3747693ab0a0e29cc014682705~c5_720x720.jpeg?x-expires=1649372400&x-signature=KPTQEyaeOdyeIOVCeO%2Bqyv2jjLQ%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce07be3747693ab0a0e29cc014682705~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=LjHJrdvOfoJAkOxp41sZLBdnQf0%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAE4FvAtYdIfv9TawPIxUnMnHq6R7n79ec8-OQ77tudOmt1fDN5WNrS2we2fM8Jo3",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6761759820828641281",
+        "title": "Love Is Gone (feat. Dylan Matthew) (Acoustic)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/f01b0f11a9c94069bfa2ee3d9d59517d",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/570ab2b387cc4b0b897c24a375998e85.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/570ab2b387cc4b0b897c24a375998e85.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/570ab2b387cc4b0b897c24a375998e85.jpeg",
+        "authorName": "SLANDER, Dylan Matthew",
+        "original": false,
+        "duration": 60,
+        "album": "Love Is Gone (Acoustic)"
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 4,
+        "playCount": 87
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 162,
+        "followerCount": 38,
+        "heartCount": 158,
+        "videoCount": 46,
+        "diggCount": 316,
+        "heart": 158
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

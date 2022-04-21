@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "157168581460463616",
+        "shortId": "",
+        "uniqueId": "narnian_penguin",
+        "nickname": "\ud83e\udd8b\u041d\u0430\u0433\u043b\u044b\u0439 \u044d\u043b\u044c\u0444\ud83e\udd8b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a1fcd7bf4040882edbc8038a4e9b48e5~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=PfhEcGkeF5%2FdYv%2B7kN5HtYjtwfU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a1fcd7bf4040882edbc8038a4e9b48e5~c5_720x720.jpeg?x-expires=1650240000&x-signature=xGw7Md%2F%2FRZgJ%2BkjGV4%2BoXEAMDIg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a1fcd7bf4040882edbc8038a4e9b48e5~c5_100x100.jpeg?x-expires=1650240000&x-signature=upopTUBF4aezsBMAzuHlguqab8g%3D",
+        "signature": "\ud83d\udd25\u041f\u041e\u0414\u041f\u0418\u0428\u0418\u0421\u042c \u041d\u0410 \u0418\u041d\u0421\u0422\u0423\ud83d\udd25\n\u2728\u0425\u0443\u0434\u043e\u0436\u043d\u0438\u0446\u0430\u2728 \n\ud83c\udf38\u041a\u043e\u0441\u043f\u043b\u0435\u0435\u0440\ud83c\udf38\n\u041a\u0438\u0435\u0432\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxfV88ramziKzxnmOBFXuUJOAUzBlvyoyAQkTrYL30m-nE7Pbp1QlSVzafqjgah_w",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://instagram.com/narnian_penguin?utm_medium=copy_link",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 42800,
+        "followingCount": 188,
+        "heart": 1900000,
+        "heartCount": 1900000,
+        "videoCount": 1008,
+        "diggCount": 0
+    },
+    "itemList": []
+}

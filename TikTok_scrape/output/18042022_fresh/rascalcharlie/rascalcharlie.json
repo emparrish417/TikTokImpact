@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7014521260756059142",
+        "shortId": "",
+        "uniqueId": "rascalcharlie",
+        "nickname": "rascalcharlie",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8df4931855479583878ab38d80697ffc~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=HhH7TMLmBswXDTLxS3oyEkoKbac%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8df4931855479583878ab38d80697ffc~c5_720x720.jpeg?x-expires=1650481200&x-signature=Y7jqk9IyZjM6NcnvkpnbWTExoP0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8df4931855479583878ab38d80697ffc~c5_100x100.jpeg?x-expires=1650481200&x-signature=RDQV47%2B%2Fx3ZKT6oP9OyjCQSIXsk%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAk2JMSt7CKLeWCwl2CwzoKysgD6d4e1wCqZhNEihElmCtpKkQq4yjOz_RJuF0BKwf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12,
+        "followingCount": 8,
+        "heart": 29,
+        "heartCount": 29,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

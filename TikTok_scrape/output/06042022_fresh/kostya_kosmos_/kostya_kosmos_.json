@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6812345724446508038",
+        "shortId": "",
+        "uniqueId": "kostya_kosmos_",
+        "nickname": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0278b790c34276d0d38c529aa1994202~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=khjfj%2FgZBGmUkkUaOA0X%2Flb5Krw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0278b790c34276d0d38c529aa1994202~c5_720x720.jpeg?x-expires=1649372400&x-signature=ca%2FMb%2BW7j7qWoO3LByLkBGpgbiw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0278b790c34276d0d38c529aa1994202~c5_100x100.jpeg?x-expires=1649372400&x-signature=zB%2BS1iElvcgpX%2FOMT6ugutZuWcc%3D",
+        "signature": "",
+        "createTime": 1586094184,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5qL1vcHQjvqZ2CzQrvtLFsQuf6vdmb-VdP1RGMUSfaTZ2749XJQWIREPA8nvxmZn",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 57,
+        "followingCount": 247,
+        "heart": 783,
+        "heartCount": 783,
+        "videoCount": 38,
+        "diggCount": 0
+    },
+    "itemList": []
+}

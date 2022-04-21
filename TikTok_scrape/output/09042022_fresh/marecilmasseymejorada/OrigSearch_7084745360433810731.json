@@ -1,0 +1,90 @@
+{
+    "id": "7084745360433810731",
+    "desc": "we support  Ukraine \ud83c\uddfa\ud83c\udde6",
+    "createTime": 1649545823,
+    "video": {
+        "id": "7084745360433810731",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/17c3ae72890d4d159fe849f482ac0ec2?x-expires=1649574000&x-signature=Ak9bbowvbqmakdEoSagRjpxjK2Q%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3e8867ee5ea14786ae1f885964448550_1649545824?x-expires=1649574000&x-signature=5o%2BC2VxEuRrWalDOHcmAV0Lm5jU%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6772c266384941d1b3a6fa50e972f4ae_1649545824?x-expires=1649574000&x-signature=fCCQ%2F5giL0z5eds5MP5446eWY5Q%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0960de0fccb16bca28d7c4f78daba5fc/62528bd0/video/tos/useast5/tos-useast5-ve-0068c004-tx/a7a9af50fda24006823c22913f26cd42/?a=1988&br=966&bt=483&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdT4IDXq&l=202204100148230101131350771D82A16A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ang3NTQ6Zjw0PDMzZzczNEApZjszODVoNDs7N2g7OTU4ZWdpZi5jcjRfMTZgLS1kMS9zc2BfYmEuYi4zYzE1LS4vYy46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0960de0fccb16bca28d7c4f78daba5fc/62528bd0/video/tos/useast5/tos-useast5-ve-0068c004-tx/a7a9af50fda24006823c22913f26cd42/?a=1988&br=966&bt=483&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdT4IDXq&l=202204100148230101131350771D82A16A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ang3NTQ6Zjw0PDMzZzczNEApZjszODVoNDs7N2g7OTU4ZWdpZi5jcjRfMTZgLS1kMS9zc2BfYmEuYi4zYzE1LS4vYy46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3e8867ee5ea14786ae1f885964448550_1649545824~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=f6rYL5CU2jayIGy2Zms9UBAxbnQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3e8867ee5ea14786ae1f885964448550_1649545824~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=DbJjERh2abcvxs%2BInHEkR4K0ZGI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/17c3ae72890d4d159fe849f482ac0ec2?x-expires=1649574000&x-signature=Ak9bbowvbqmakdEoSagRjpxjK2Q%3D",
+        "bitrate": 494945,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6818894466179646470",
+        "uniqueId": "marecilmasseymejorada",
+        "nickname": "Marecil Massey Mejor",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664769425889285~c5_100x100.jpeg?x-expires=1649638800&x-signature=1foJ9eEWWDJdZlWntsxTp8sHtjc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664769425889285~c5_720x720.jpeg?x-expires=1649638800&x-signature=OofhsnmQOxuw7tCRrCZcsgxf50o%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1664769425889285~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=JMNaGd2%2F89XNJFwn05sepcA7JaI%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAMPYlntMDzf28CcCYzcm0jZb_0Y8ATaK7N2kVnFHx9f0gqDsd2_1rnj4kHOBYhDo",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6740248251825391617",
+        "title": "Forever",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/76620b22fa6148fc8a0f236baff8f4b8",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg",
+        "authorName": "Labrinth",
+        "original": false,
+        "duration": 60,
+        "album": "Euphoria (Original Score from the HBO Series)"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 130
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 34,
+        "followerCount": 136,
+        "heartCount": 2474,
+        "videoCount": 104,
+        "diggCount": 1995,
+        "heart": 2474
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7072287357353231365",
+        "shortId": "",
+        "uniqueId": "faktenundtransparenz",
+        "nickname": "FaktenundTransparenz",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=heTKxaCyPYpa2%2BZ6A7wOkCsL5LQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_720x720.jpeg?x-expires=1650751200&x-signature=NnozYI4R20FAlE%2FI6ngSVfavb24%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_100x100.jpeg?x-expires=1650751200&x-signature=m0SdaisRLyYZsI2qt4xkyRD38rE%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAf0QvpIqUbrbLIGCM1Rdq7gbc4L2isFS6yArZ-UvYjQmblOWEoXYPfwKCxuVizo2N",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1105,
+        "followingCount": 57,
+        "heart": 12200,
+        "heartCount": 12200,
+        "videoCount": 115,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6955126514954552325",
+        "shortId": "",
+        "uniqueId": "jamierob2",
+        "nickname": "Jamie Robinson",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4a19dd88264c66fdb92b737722fce394~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=oSQGyLz4Dp74BaTy%2FFwRf6RMPsE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4a19dd88264c66fdb92b737722fce394~c5_720x720.jpeg?x-expires=1650114000&x-signature=ihAgq%2Fft9NxMev%2BpSKqpeweFlmc%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4a19dd88264c66fdb92b737722fce394~c5_100x100.jpeg?x-expires=1650114000&x-signature=BN4njILhcKqHH4SypoNU%2Fb8OxJY%3D",
+        "signature": "\ud83d\udce7 Jamie02rob@yahoo.com\ud83d\udce7",
+        "createTime": 1619366705,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAE0SEY-rjxVXXBubssoMT7PbkIM1JMUYFoMtHQaOF6p39M_cHwQPxsRL3NgmiKKW1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCo_503zqWtY3z0BIt2MhgZA",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 73600,
+        "followingCount": 126,
+        "heart": 1400000,
+        "heartCount": 1400000,
+        "videoCount": 443,
+        "diggCount": 0
+    },
+    "itemList": []
+}

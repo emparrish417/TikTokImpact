@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7040426295091545093",
+        "shortId": "",
+        "uniqueId": "www.wtf.com74",
+        "nickname": "\u203c\ufe0fH\u203c\ufe0f",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c161a899a616437a86556f36179aeeb6~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=mJhL2gGxKGfwgPf6O89p0nivU2c%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c161a899a616437a86556f36179aeeb6~c5_720x720.jpeg?x-expires=1650240000&x-signature=bHSqsRUfiQINdpECQapvn0q%2BO00%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c161a899a616437a86556f36179aeeb6~c5_100x100.jpeg?x-expires=1650240000&x-signature=WlPO%2F3DV8WazulXQqDHv5amF0K0%3D",
+        "signature": "\ud83d\ude0b",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAH6cbtRvXYTG9nrDiaCuPLvYwlEB92I9HGe1ek3us8Iq3wYIQBYeFDSOmpUcezJJy",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 212,
+        "followingCount": 61,
+        "heart": 9685,
+        "heartCount": 9685,
+        "videoCount": 66,
+        "diggCount": 0
+    },
+    "itemList": []
+}

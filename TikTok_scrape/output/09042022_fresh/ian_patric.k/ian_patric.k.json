@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "53399570486931456",
+        "shortId": "",
+        "uniqueId": "ian_patric.k",
+        "nickname": "IAN",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/725965232d95fa793e23c2cfdce1e53e~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=8uXfnj0kAB0TCuoeVT8AHdRhMd8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/725965232d95fa793e23c2cfdce1e53e~c5_720x720.jpeg?x-expires=1649638800&x-signature=c%2B9n58RMAkxhbz7z5vCz83B8Vuo%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/725965232d95fa793e23c2cfdce1e53e~c5_100x100.jpeg?x-expires=1649638800&x-signature=48VgF2xomexBOimTbKi217XmAUo%3D",
+        "signature": "No bio yet",
+        "createTime": 1453102965,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmQnpgnDKJTJv4giBO8xlHGVOLzzYw_KpSUIUtMmcl8IPYsfgmsMSsUbp1dpjUfvL",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1176,
+        "followingCount": 1311,
+        "heart": 171800,
+        "heartCount": 171800,
+        "videoCount": 17,
+        "diggCount": 0
+    },
+    "itemList": []
+}

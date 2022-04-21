@@ -1,0 +1,104 @@
+{
+    "id": "7084755348233456938",
+    "desc": "",
+    "createTime": 1649548149,
+    "video": {
+        "id": "7084755348233456938",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a88e33ab69694002ab0dffe3cc89c049?x-expires=1649649600&x-signature=abBeRTzEGo8Bz%2FApuiMAdL5Too8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/322097f2305643d6986a4693aa4cf37d_1649548149?x-expires=1649649600&x-signature=m0O57cx57YbxNKpMzECgDFi%2F3WM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/866ce375ffd144e6a59a095fab5d4fc7_1649548150?x-expires=1649649600&x-signature=qlXB2YxGQQvwuY5LWvLC7kYTmGA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/3fdea798f3a4a4ca69c3e2e2a5de0967/6253ae76/video/tos/useast5/tos-useast5-pve-0068-tx/1c0a2daa1349498e89c7b7dbfdf3dad1/?a=1988&br=3888&bt=1944&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThEbEIDXq&l=20220410222829010113006210169BDC64&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJnOmk6Zjk0PDMzZzczNEApOmU3NDg3MzwzN2Y3aDVpOWc2M2JicjRfajZgLS1kMS9zc2EwYTEvYmJeYGE1LmIuLzA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/3fdea798f3a4a4ca69c3e2e2a5de0967/6253ae76/video/tos/useast5/tos-useast5-pve-0068-tx/1c0a2daa1349498e89c7b7dbfdf3dad1/?a=1988&br=3888&bt=1944&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThEbEIDXq&l=20220410222829010113006210169BDC64&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJnOmk6Zjk0PDMzZzczNEApOmU3NDg3MzwzN2Y3aDVpOWc2M2JicjRfajZgLS1kMS9zc2EwYTEvYmJeYGE1LmIuLzA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/322097f2305643d6986a4693aa4cf37d_1649548149~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=PStlvvPHW1dLOyJuTiRx%2BYVL6eM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/322097f2305643d6986a4693aa4cf37d_1649548149~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=UpAI7caoeYxVyVZ%2BF2cPSQ4nelE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a88e33ab69694002ab0dffe3cc89c049?x-expires=1649649600&x-signature=dlywr4mqvo6u0kGam1gZUFpAcSs%3D",
+        "bitrate": 1991585,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6669072293090656262",
+        "uniqueId": "0sabrina_gurll",
+        "nickname": "Stand with Ukraine",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1877db6c82c19b50d298fab6b7279253~c5_100x100.jpeg?x-expires=1649714400&x-signature=ZFvYo7sfXA7LavvvrmAoDZj16KU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1877db6c82c19b50d298fab6b7279253~c5_720x720.jpeg?x-expires=1649714400&x-signature=C7l6np0bq8YpS11UXGv%2FZm5n3fA%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1877db6c82c19b50d298fab6b7279253~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=chSs3WWZGKW8FYHmu1TYCafgdeI%3D",
+        "signature": "Follow me pls pretty pls I follow back only for good people",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAdSjpROUzDmKUZXLgbpEsR43oOrmbtxhnlW-gjCLsoQ3LDuKIk2i7U1EEf0B13qbn",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7044413101160106758",
+        "title": "sonido original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7044413111474572038.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80498baabe211533f5381f3080346f8c~c5_100x100.jpeg?x-expires=1649714400&x-signature=%2BneoQmnPkbswHRLWGGI9R5dzv4w%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80498baabe211533f5381f3080346f8c~c5_720x720.jpeg?x-expires=1649714400&x-signature=e88cKiLihR5L1j3TP8NNryus6jg%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80498baabe211533f5381f3080346f8c~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=j5CRa5k80ndVBNPT%2F1VhB1AlEms%3D",
+        "authorName": "Esteve <3",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 22
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Spring Glow",
+            "ID": "1679530"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 4558,
+        "followerCount": 1253,
+        "heartCount": 2577,
+        "videoCount": 821,
+        "diggCount": 75300,
+        "heart": 2577
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "With my friend in Connecticut "
+            ]
+        }
+    ],
+    "isAd": false
+}

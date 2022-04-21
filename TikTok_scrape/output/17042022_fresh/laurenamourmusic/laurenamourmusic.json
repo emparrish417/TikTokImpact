@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "29191552",
+        "shortId": "",
+        "uniqueId": "laurenamourmusic",
+        "nickname": "Lauren Amour",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/beda3c3ed85b7162370f5d2e81924cb1~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=CktZmnPZQaulb4bYv0IdYftUl1o%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/beda3c3ed85b7162370f5d2e81924cb1~c5_720x720.jpeg?x-expires=1650412800&x-signature=eAOnlm1gIviq9jSpbCzBbXK7%2Bf8%3D",
+        "avatarThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/beda3c3ed85b7162370f5d2e81924cb1~c5_100x100.jpeg?x-expires=1650412800&x-signature=dpFxG2A6NdjgjcviUpf9qNcK3x0%3D",
+        "signature": "Singer songwriter \ud83c\udfb6 & Pancakes, Pomeranian lover \ud83e\udd5e\ud83d\udc51\ud83d\udc95",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAF04qDEcsXpge64_dgftfIO4jmaDMbVl0lDo90R9gPVk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/laurenamourmusic",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 328000,
+        "followingCount": 372,
+        "heart": 2200000,
+        "heartCount": 2200000,
+        "videoCount": 190,
+        "diggCount": 0
+    },
+    "itemList": []
+}

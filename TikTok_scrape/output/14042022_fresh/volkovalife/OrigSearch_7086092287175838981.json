@@ -1,0 +1,208 @@
+{
+    "id": "7086092287175838981",
+    "desc": "#espa\u00f1a #\u0438\u0441\u043f\u0430\u043d\u0438\u044f #\u0443\u043a\u0440\u0430\u0438\u043d\u0430 #ukraine\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1649859429,
+    "video": {
+        "id": "7086092287175838981",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d9695477bf97453f88825c41b5f8d951?x-expires=1649962800&x-signature=9m1X3t58BdVpALUpp9mAK8tJceA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/eb9c130678074293b644160d5a951c57_1649859430?x-expires=1649962800&x-signature=iNTb46%2FgliF3pP32XDAnjpNiD1o%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5a63128121fe4912b2782e2708b7490a_1649859431?x-expires=1649962800&x-signature=hsHDcAIZB9%2FPvwWO37p5gbLFYH4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8597a0fdd91b1248a84677e3c198d983/625873e1/video/tos/useast2a/tos-useast2a-ve-0068c003/79a415e96860411799ecbe2f5c31edaf/?a=1988&br=2504&bt=1252&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z3hKLwe2N1u7fl7Gb&l=2022041413194901011300624406F8A058&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Q6a2Y6Zm9nPDMzNzczM0ApODo7ZDtoODtmN2Y8NjhlaGdjcjZfcjRval9gLS1kMTZzc18vL2FiYy4vMF9jNmJjYV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8597a0fdd91b1248a84677e3c198d983/625873e1/video/tos/useast2a/tos-useast2a-ve-0068c003/79a415e96860411799ecbe2f5c31edaf/?a=1988&br=2504&bt=1252&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z3hKLwe2N1u7fl7Gb&l=2022041413194901011300624406F8A058&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Q6a2Y6Zm9nPDMzNzczM0ApODo7ZDtoODtmN2Y8NjhlaGdjcjZfcjRval9gLS1kMTZzc18vL2FiYy4vMF9jNmJjYV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/eb9c130678074293b644160d5a951c57_1649859430~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=zsaM0siabKreRBmqal9aneB5oig%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/eb9c130678074293b644160d5a951c57_1649859430~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=r70WfN92gIJrBUEqQi19Yr6WRxE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d9695477bf97453f88825c41b5f8d951?x-expires=1649962800&x-signature=9m1X3t58BdVpALUpp9mAK8tJceA%3D",
+        "bitrate": 1282404,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6885777689446646786",
+        "uniqueId": "volkovalife",
+        "nickname": "Volkova",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/45eb892bd983f9889fd9e5aebb92dc51~c5_100x100.jpeg?x-expires=1650114000&x-signature=ZeyeNuD7Krh%2Fj5uK4%2FFvh2cdQ10%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/45eb892bd983f9889fd9e5aebb92dc51~c5_720x720.jpeg?x-expires=1650114000&x-signature=vXa3f9SXzG8H2e8av8Y8miDqnUY%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/45eb892bd983f9889fd9e5aebb92dc51~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=t0Q62CVRD%2BNOROkfZdilYP6WcBs%3D",
+        "signature": "\ud83c\uddea\ud83c\uddf8 Madrid/Odessa \ud83c\uddfa\ud83c\udde6 \u264e\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaSRtkpSi9ar96uEr6EPao_22wOSuYMobsMdel5aL23_32VGyRM65hk1ZjYjifvTO",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7049751606758247169",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7049751604399966978.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bcdb71aff05503afd8c877adf9d6d770.jpeg?x-expires=1650114000&x-signature=qdTUlOlMyjxy3vkyto8DlPQW1Ss%3D",
+        "coverMedium": "https://p58-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/bcdb71aff05503afd8c877adf9d6d770.jpeg?x-expires=1650114000&x-signature=5csy%2BH6QCJP1Q5W9GfwcPzs02ac%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/bcdb71aff05503afd8c877adf9d6d770.jpeg?x-expires=1650114000&x-signature=BVEWCMY2J0x%2FCqD2dLG%2BUdRfQ%2BY%3D",
+        "authorName": "\ud83e\udd78\ud83d\udc51",
+        "original": true,
+        "duration": 11,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "76132",
+            "title": "espa\u00f1a",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "3019968",
+            "title": "\u0438\u0441\u043f\u0430\u043d\u0438\u044f",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "4476759",
+            "title": "\u0443\u043a\u0440\u0430\u0438\u043d\u0430",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1592381310170118",
+            "title": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 84,
+        "shareCount": 4,
+        "commentCount": 0,
+        "playCount": 1704
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "espa\u00f1a",
+            "hashtagId": "76132",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 8,
+            "end": 16,
+            "hashtagName": "\u0438\u0441\u043f\u0430\u043d\u0438\u044f",
+            "hashtagId": "3019968",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 17,
+            "end": 25,
+            "hashtagName": "\u0443\u043a\u0440\u0430\u0438\u043d\u0430",
+            "hashtagId": "4476759",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 26,
+            "end": 38,
+            "hashtagName": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "1592381310170118",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "pure eyes",
+            "ID": "1524198"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 51,
+        "followerCount": 1113,
+        "heartCount": 17100,
+        "videoCount": 329,
+        "diggCount": 2921,
+        "heart": 17100
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u041a\u043e\u0433\u0434\u0430 \u043f\u043e\u043d\u044f\u043b\u0430 , \u0447\u0442\u043e \u0443\u0436\u0435 \u043c\u0435\u0441\u044f\u0446 \u0436\u0438\u0432\u0435\u0448\u044c \u0432 \u0418\u0441\u043f\u0430\u043d\u0438\u0438 "
+            ]
+        }
+    ],
+    "isAd": false
+}

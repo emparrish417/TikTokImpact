@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6599144340160380933",
+        "shortId": "",
+        "uniqueId": "a.nagornaya",
+        "nickname": "alisa",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1d54e33eca2784615aa755ef373fb0f2~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=auuLzpUYuUkgP5waqJ7jbYSYG5I%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1d54e33eca2784615aa755ef373fb0f2~c5_720x720.jpeg?x-expires=1650240000&x-signature=7NhkXBLCvzVW1t6%2BpY4GoR0E0fc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1d54e33eca2784615aa755ef373fb0f2~c5_100x100.jpeg?x-expires=1650240000&x-signature=5Q0fGLco0vfbAVgdHI%2FKFoxVfNg%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAD2wUWSQ0SzQMjNYQQPBUI-PZ9pJnswLetbfYLQpmB1lmrALzsV8FPOZ2cMw8H0PM",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 202,
+        "followingCount": 98,
+        "heart": 8041,
+        "heartCount": 8041,
+        "videoCount": 48,
+        "diggCount": 0
+    },
+    "itemList": []
+}

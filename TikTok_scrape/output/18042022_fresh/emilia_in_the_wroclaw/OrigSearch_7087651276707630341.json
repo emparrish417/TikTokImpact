@@ -1,0 +1,119 @@
+{
+    "id": "7087651276707630341",
+    "desc": "#stanwithukraine",
+    "createTime": 1650222410,
+    "video": {
+        "id": "7087651276707630341",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6c58bb7d61ee4c469ea52a2ef5111bba?x-expires=1650330000&x-signature=W3NtqyjutF5w0AJATLikhbBgJYU%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0dab25b7f34545389fbed57f23527fca_1650222411?x-expires=1650330000&x-signature=5uocXRS7xKmYYp%2BbbPu0SLfRbeI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d0fba77b34ea4c309282117a223a898f_1650222411?x-expires=1650330000&x-signature=O3tYqAjfMWsHwFtLS48eBirh9fQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c81f6e4bbbbaf3be590d3853ecef7dda/625e0d46/video/tos/useast2a/tos-useast2a-ve-0068c001/9015d67ebfcd4c118bdc749151b4b469/?a=1988&br=3128&bt=1564&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZVzxwwe2NeeGfl7Gb&l=2022041819153501011300623421FB2AA2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI3NmQ6Zmk5PDMzNzczM0ApMzQ6aTQ2ZWRmN2czM2RoM2c2NmpmcjRnXmJgLS1kMTZzczIzNTUyYmEtNWMzLS9iYjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c81f6e4bbbbaf3be590d3853ecef7dda/625e0d46/video/tos/useast2a/tos-useast2a-ve-0068c001/9015d67ebfcd4c118bdc749151b4b469/?a=1988&br=3128&bt=1564&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZVzxwwe2NeeGfl7Gb&l=2022041819153501011300623421FB2AA2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI3NmQ6Zmk5PDMzNzczM0ApMzQ6aTQ2ZWRmN2czM2RoM2c2NmpmcjRnXmJgLS1kMTZzczIzNTUyYmEtNWMzLS9iYjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0dab25b7f34545389fbed57f23527fca_1650222411~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=vetN%2FZ3blxFBhYFvPAo3ISzKgcc%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0dab25b7f34545389fbed57f23527fca_1650222411~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=%2F8FXwNY84kHsOvn%2BjuxU7%2BmX%2FG8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6c58bb7d61ee4c469ea52a2ef5111bba?x-expires=1650330000&x-signature=W3NtqyjutF5w0AJATLikhbBgJYU%3D",
+        "bitrate": 1602457,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6756837902280328198",
+        "uniqueId": "emilia_in_the_wroclaw",
+        "nickname": "Emilia",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0eb22801042fa7ef23ce6785af109d70~c5_100x100.jpeg?x-expires=1650481200&x-signature=beyq%2B4M8Dnxdhi1f6COohkwz36k%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0eb22801042fa7ef23ce6785af109d70~c5_720x720.jpeg?x-expires=1650481200&x-signature=gL%2FXZthH%2BRs9JMfauTE01OIolHc%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0eb22801042fa7ef23ce6785af109d70~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=eE4CmeN%2BDawnqHdtit5VcZVoBrs%3D",
+        "signature": "Hi\u2764\nI'm Emilia.\nI live in Poland and this vlog about my life here like emigrate.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJF6QYRRl-poePdTwLHwLP4-TVXwhM3tsWpClGvNttPBXO6ETCWIuChevO9KC1THr",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087651270323997445",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7087651269367614214.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0eb22801042fa7ef23ce6785af109d70~c5_100x100.jpeg?x-expires=1650481200&x-signature=beyq%2B4M8Dnxdhi1f6COohkwz36k%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0eb22801042fa7ef23ce6785af109d70~c5_720x720.jpeg?x-expires=1650481200&x-signature=gL%2FXZthH%2BRs9JMfauTE01OIolHc%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0eb22801042fa7ef23ce6785af109d70~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=eE4CmeN%2BDawnqHdtit5VcZVoBrs%3D",
+        "authorName": "Emilia",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "7068504660147240966",
+            "title": "stanwithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 450
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 16,
+            "hashtagName": "stanwithukraine",
+            "hashtagId": "7068504660147240966",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 48,
+        "followerCount": 19,
+        "heartCount": 77,
+        "videoCount": 10,
+        "diggCount": 271,
+        "heart": 77
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

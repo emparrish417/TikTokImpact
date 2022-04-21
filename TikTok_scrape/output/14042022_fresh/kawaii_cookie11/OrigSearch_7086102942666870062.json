@@ -1,0 +1,90 @@
+{
+    "id": "7086102942666870062",
+    "desc": "Idc if I lose followers I am myself and no one can change me",
+    "createTime": 1649861911,
+    "video": {
+        "id": "7086102942666870062",
+        "height": 1024,
+        "width": 576,
+        "duration": 29,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3809a96222714909ad38dce07633f490?x-expires=1649962800&x-signature=PWupiwxVrNyfy%2FfnIKCouBCLB78%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d3574aa8234347a58804fdb38aec0e67_1649861911?x-expires=1649962800&x-signature=Pa4Q79FalSyv9VgsPkGKJ7vGt8M%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5ec2e52212864756b939b60af0ea5df9_1649861912?x-expires=1649962800&x-signature=hqLFAw15MQqJPLGkT%2FlPZT7uFIU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/418bb4d036fbbc8e778ff53f07adb9ec/62587435/video/tos/useast5/tos-useast5-ve-0068c003-tx/7d4aa566143c4234b4382bfdbe7a0454/?a=1988&br=608&bt=304&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZClKLwe2NckRfl7Gb&l=2022041413205601011300616408B70161&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdxaDc6Zm1oPDMzZzczNEApPGQ1Z2RpNmRpNzRnOzNmOWdtNF4ucjRfNV9gLS1kMS9zczU1MzE1MzIwLzAvYTUuL2A6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/418bb4d036fbbc8e778ff53f07adb9ec/62587435/video/tos/useast5/tos-useast5-ve-0068c003-tx/7d4aa566143c4234b4382bfdbe7a0454/?a=1988&br=608&bt=304&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZClKLwe2NckRfl7Gb&l=2022041413205601011300616408B70161&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdxaDc6Zm1oPDMzZzczNEApPGQ1Z2RpNmRpNzRnOzNmOWdtNF4ucjRfNV9gLS1kMS9zczU1MzE1MzIwLzAvYTUuL2A6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d3574aa8234347a58804fdb38aec0e67_1649861911~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=kP4sBor4z0efnI84W8dp4JlomsQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d3574aa8234347a58804fdb38aec0e67_1649861911~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=bbJ3sAxypasf5pBQ2YHhXGvP7uw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3809a96222714909ad38dce07633f490?x-expires=1649962800&x-signature=PWupiwxVrNyfy%2FfnIKCouBCLB78%3D",
+        "bitrate": 312067,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6992361441870676997",
+        "uniqueId": "kawaii_cookie11",
+        "nickname": "irelandpresta",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3313874d96a44a4903fa9e3a5d696226~c5_100x100.jpeg?x-expires=1650114000&x-signature=l4q9EAavwu8%2FvJwI%2Fqc2euTHOMs%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3313874d96a44a4903fa9e3a5d696226~c5_720x720.jpeg?x-expires=1650114000&x-signature=BWldlX2hiB0wJ%2BABwh77hVt30i8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3313874d96a44a4903fa9e3a5d696226~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=4e7nAKMTj8BevqJyUHYus1zY4aw%3D",
+        "signature": "I am just here to Entertain not put people down",
+        "verified": false,
+        "secUid": "MS4wLjABAAAACxASvEf27x7gj0Rj3AtWoZgsCv2x6_IJNFja8ISYxr_NUaLa1lwqKzWYIBluQwxm",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085629317425793834",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7085629419171187502.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/58f0700cfe325a1d8f3acd34e9cd687b~c5_100x100.jpeg?x-expires=1650114000&x-signature=9p0p9gO8N3BmPfVcOlN4ZIwzDb8%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/58f0700cfe325a1d8f3acd34e9cd687b~c5_720x720.jpeg?x-expires=1650114000&x-signature=gnI8krAdtHPmTsDVdHL9BRDK5Nk%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/58f0700cfe325a1d8f3acd34e9cd687b~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=3Yio64eeY8nycmurx51eMFQ4Eng%3D",
+        "authorName": "I stand with Ukraine\ud83d\udc99\ud83d\udc9b\ud83c\uddfa\ud83c\udde6",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 12
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 135,
+        "followerCount": 23,
+        "heartCount": 1,
+        "videoCount": 1,
+        "diggCount": 1994,
+        "heart": 1
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

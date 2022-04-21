@@ -1,0 +1,119 @@
+{
+    "id": "7085734533718379781",
+    "desc": "#CapCut",
+    "createTime": 1649776133,
+    "video": {
+        "id": "7085734533718379781",
+        "height": 1024,
+        "width": 576,
+        "duration": 19,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f1ebc6db1be64ace93381d473fa2a2b5?x-expires=1649840400&x-signature=K8HCSVM4pzAqpUl8v2E4LAHHO0U%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7a8a657cc0c949a19f29de2357043726_1649776135?x-expires=1649840400&x-signature=6n7wJaDrnj%2Fu2byt3q3cGAiwEKU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/009793ffcbbc487f9d073e8bacd60b29_1649776136?x-expires=1649840400&x-signature=OIjwPnPFZ2GOjwyeOZQ6Hh3EArk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/25f641a8cf152fa4099397435cee2c78/625691e3/video/tos/useast2a/tos-useast2a-ve-0068c002/883540288fc042cc91b472dc8e4eb8e7/?a=1988&br=2234&bt=1117&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3J4aDXq&l=202204130303120101130062070CDBDD8D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzp2Zjk6ZnJzPDMzNzczM0ApZGY3NDU1M2U7Nzc8ZjRoZGczX2QucjQwX15gLS1kMTZzczBeL2MuYWFgXzAyLTMzM2A6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/25f641a8cf152fa4099397435cee2c78/625691e3/video/tos/useast2a/tos-useast2a-ve-0068c002/883540288fc042cc91b472dc8e4eb8e7/?a=1988&br=2234&bt=1117&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3J4aDXq&l=202204130303120101130062070CDBDD8D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzp2Zjk6ZnJzPDMzNzczM0ApZGY3NDU1M2U7Nzc8ZjRoZGczX2QucjQwX15gLS1kMTZzczBeL2MuYWFgXzAyLTMzM2A6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7a8a657cc0c949a19f29de2357043726_1649776135~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=%2Bdz8WZ7TGdmOJZgJ5MWw62q9hV4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7a8a657cc0c949a19f29de2357043726_1649776135~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=gVn1J1KnrHg9dcayQdELO07b6rY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f1ebc6db1be64ace93381d473fa2a2b5?x-expires=1649840400&x-signature=K8HCSVM4pzAqpUl8v2E4LAHHO0U%3D",
+        "bitrate": 1143932,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7048304610867577862",
+        "uniqueId": "ukrain_zsu",
+        "nickname": "\u0417\u0421\u0423",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fec3a702b01d7c2366173995ea79089~c5_100x100.jpeg?x-expires=1649905200&x-signature=5ne2qIKORvm6JyJQqbMH8DkO7rE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fec3a702b01d7c2366173995ea79089~c5_720x720.jpeg?x-expires=1649905200&x-signature=6wZRp9176%2B7qnAcBVh1siXuLp6Y%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fec3a702b01d7c2366173995ea79089~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=4qR%2Fp5%2Bwhn2oEaHZ64vf9cb7QA4%3D",
+        "signature": "\u0417\u0421\u0423 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvgx-f1JStbfSRmHnB940Jt9sPSJ2MYwMVUpAx5zUUjAy4vG6MP8JxiXgrImP7ePc",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085734512470002437",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7085734510528072454.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fec3a702b01d7c2366173995ea79089~c5_100x100.jpeg?x-expires=1649905200&x-signature=5ne2qIKORvm6JyJQqbMH8DkO7rE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fec3a702b01d7c2366173995ea79089~c5_720x720.jpeg?x-expires=1649905200&x-signature=6wZRp9176%2B7qnAcBVh1siXuLp6Y%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3fec3a702b01d7c2366173995ea79089~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=4qR%2Fp5%2Bwhn2oEaHZ64vf9cb7QA4%3D",
+        "authorName": "\u0417\u0421\u0423",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1663935709411330",
+            "title": "capcut",
+            "desc": "CapCut is a new, easy-to-use video editing tool designed for mobile platforms. CapCut provides users with a wide range of video editing functions, filters, audio &amp; visual effects, video templates, while keeping it free of charge and ads-free. Everyone can be a creator by using CapCut.  \n\nStart creating your cool videos today: \nhttps://capcut.onelink.me/XKqI/228cad85",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 18,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 80
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "capcut",
+            "hashtagId": "1663935709411330",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 365,
+        "followerCount": 537,
+        "heartCount": 73,
+        "videoCount": 3,
+        "diggCount": 1933,
+        "heart": 73
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

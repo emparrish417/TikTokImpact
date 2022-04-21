@@ -1,0 +1,119 @@
+{
+    "id": "7088162972614348078",
+    "desc": "#ukrainwar",
+    "createTime": 1650341548,
+    "video": {
+        "id": "7088162972614348078",
+        "height": 1024,
+        "width": 576,
+        "duration": 45,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c84ad16480a844a096955c23c8f25c61?x-expires=1650427200&x-signature=upcnQhz2Gm6cGeWBXjuXOTRUaSU%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9c3fbf6089434d3db7abb3a0f5285194_1650341548?x-expires=1650427200&x-signature=lkoT8tLwiWsxb6AKPju2C6hW8V4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f7b492018a1c460db6adc12eceae761b_1650341549?x-expires=1650427200&x-signature=4xW8Mvhx1LkOfz80rjcf4bS7j%2FQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d83cacdac2a1f132ea8486cd45b62002/625f8997/video/tos/useast5/tos-useast5-ve-0068c001-tx/40e3cef130234cb48de4ee3a664a5613/?a=1988&br=744&bt=372&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZRHiwwe2NiSyfl7Gb&l=2022041922174501011300610418FC26C0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3doamU6ZnA2PDMzZzczNEApOjs2aGg3ZGVnNzRpZmlkOGdkX3BmcjRnYGNgLS1kMS9zczY0NTJgLS81Ly9fYDZjL2M6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d83cacdac2a1f132ea8486cd45b62002/625f8997/video/tos/useast5/tos-useast5-ve-0068c001-tx/40e3cef130234cb48de4ee3a664a5613/?a=1988&br=744&bt=372&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZRHiwwe2NiSyfl7Gb&l=2022041922174501011300610418FC26C0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3doamU6ZnA2PDMzZzczNEApOjs2aGg3ZGVnNzRpZmlkOGdkX3BmcjRnYGNgLS1kMS9zczY0NTJgLS81Ly9fYDZjL2M6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9c3fbf6089434d3db7abb3a0f5285194_1650341548~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=lnH7Y0SkNwRjxNkeO4fNrlIPGVc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9c3fbf6089434d3db7abb3a0f5285194_1650341548~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=GxUlhPGQ2LSPAdQcXk9Z7xGRGVU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c84ad16480a844a096955c23c8f25c61?x-expires=1650427200&x-signature=vJbmXxKL9rwnsKPv7MzLNoDGLI0%3D",
+        "bitrate": 381102,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6843416775892452358",
+        "uniqueId": "nicking645",
+        "nickname": "nic king",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d12c39cbd034f5fb2650b30795676231~c5_100x100.jpeg?x-expires=1650578400&x-signature=BKY4L6LHWPAzy%2Flyiu%2BBYhVzz1s%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d12c39cbd034f5fb2650b30795676231~c5_720x720.jpeg?x-expires=1650578400&x-signature=x4aPUVJk5Ilg2jGQGddC7FKgBRw%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d12c39cbd034f5fb2650b30795676231~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=79BiwDVTcI2gIW3O7Ck83%2FOHclQ%3D",
+        "signature": "LIVE LOVE LAUGH",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVkcngvdAE_4CqIbzJPFXWVGUUj84le1jppbzDF8-P8ZLnWkEgZvzcSf6tkRczfT4",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7088162944235686699",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7088162972513700651.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d12c39cbd034f5fb2650b30795676231~c5_100x100.jpeg?x-expires=1650578400&x-signature=BKY4L6LHWPAzy%2Flyiu%2BBYhVzz1s%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d12c39cbd034f5fb2650b30795676231~c5_720x720.jpeg?x-expires=1650578400&x-signature=x4aPUVJk5Ilg2jGQGddC7FKgBRw%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d12c39cbd034f5fb2650b30795676231~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=79BiwDVTcI2gIW3O7Ck83%2FOHclQ%3D",
+        "authorName": "nic king",
+        "original": true,
+        "duration": 45,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1697165479861254",
+            "title": "ukrainwar",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 174
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "ukrainwar",
+            "hashtagId": "1697165479861254",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 330,
+        "followerCount": 183,
+        "heartCount": 34,
+        "videoCount": 26,
+        "diggCount": 261,
+        "heart": 34
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

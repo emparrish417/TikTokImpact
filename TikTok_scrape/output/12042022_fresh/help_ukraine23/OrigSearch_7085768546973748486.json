@@ -1,0 +1,99 @@
+{
+    "id": "7085768546973748486",
+    "desc": "",
+    "createTime": 1649784052,
+    "video": {
+        "id": "7085768546973748486",
+        "height": 960,
+        "width": 540,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0515991300ad4e45ad709a92602ac8b3?x-expires=1649840400&x-signature=lHN7sAmUllXCOmYvSvYbpcv0mo0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/cb093b94115247618af5249330ae2e42_1649784054?x-expires=1649840400&x-signature=Qu8Wv4WMXelMPKKq4w89HJuaRK8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/05b2f5a4fd224c88927bc5e174a54ae6_1649784054?x-expires=1649840400&x-signature=LviKw1tzLaLvFTJCJNWvVD5iIGA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b513fdc3d9399cc7b2ebc665cd7ee70e/625691af/video/tos/useast2a/tos-useast2a-ve-0068c002/2cda23c2ae9748199bfe9e130a3225d2/?a=1988&br=640&bt=320&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8J4aDXq&l=202204130302240101131352140AB511E6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k8ajg6ZnN1PDMzNzczM0ApZmRlNzk5ZmU4NzVkOTk2OGcuczRycjRnNl5gLS1kMTZzczFiNjIwMTE2NmMzXl81LjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b513fdc3d9399cc7b2ebc665cd7ee70e/625691af/video/tos/useast2a/tos-useast2a-ve-0068c002/2cda23c2ae9748199bfe9e130a3225d2/?a=1988&br=640&bt=320&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8J4aDXq&l=202204130302240101131352140AB511E6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k8ajg6ZnN1PDMzNzczM0ApZmRlNzk5ZmU4NzVkOTk2OGcuczRycjRnNl5gLS1kMTZzczFiNjIwMTE2NmMzXl81LjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/cb093b94115247618af5249330ae2e42_1649784054~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=e92U6h5dg2H0X2XTLviUCxTnzUA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/cb093b94115247618af5249330ae2e42_1649784054~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=IoQotfXJ2PPoymmx5Eoglnu9d%2Fo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0515991300ad4e45ad709a92602ac8b3?x-expires=1649840400&x-signature=lHN7sAmUllXCOmYvSvYbpcv0mo0%3D",
+        "bitrate": 328303,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7085676429291045894",
+        "uniqueId": "help_ukraine23",
+        "nickname": "help_ukraine23",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a11e92467ac434daaa91a9895bceaa1c~c5_100x100.jpeg?x-expires=1649905200&x-signature=BtUL1U9T74Cn%2FxsRq98rHpZrBDM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a11e92467ac434daaa91a9895bceaa1c~c5_720x720.jpeg?x-expires=1649905200&x-signature=0bYtupxPNwd9cCch%2Fk8J3h284Gw%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a11e92467ac434daaa91a9895bceaa1c~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=3dIQWlmiLkHQ3QllquoFmHlKw%2F0%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyUSdK0rpT0hp0qmvSWLIOC6pSdguRa_rGCDTLBeq-W9SS85Hwm1YDuntSUTdEsnw",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6849412863094720514",
+        "title": "Fuck off and die",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/55ef8f802c0c43df81c0f9d37a9a49d9",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/89402c1de4204482b98bd6d3a9dfe0ac.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/89402c1de4204482b98bd6d3a9dfe0ac.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/89402c1de4204482b98bd6d3a9dfe0ac.jpeg",
+        "authorName": "Rasmus Gozzi",
+        "original": false,
+        "duration": 60,
+        "album": "ALBUM My Swedish Songs"
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 2,
+        "commentCount": 2,
+        "playCount": 25
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 30,
+        "followerCount": 5,
+        "heartCount": 9,
+        "videoCount": 3,
+        "diggCount": 66,
+        "heart": 9
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "To Russia hope \nyou enjoy the message ",
+                "\ud83d\udd95\ud83c\udffb"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7074251532966822955",
+        "shortId": "",
+        "uniqueId": "challenger_of_life",
+        "nickname": "Challenger of Life",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f0fc9bde4bc52cc428f02895a811e3dd~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=XU5OL9Dx7Jvpq9Fp%2FDnlESiZKAM%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f0fc9bde4bc52cc428f02895a811e3dd~c5_720x720.jpeg?x-expires=1649714400&x-signature=G9qNj9UIvHBb9AH6iLjpPGcy9Q8%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f0fc9bde4bc52cc428f02895a811e3dd~c5_100x100.jpeg?x-expires=1649714400&x-signature=a3XQqO2eMy1peZ%2FgwBFXaY2aFP8%3D",
+        "signature": "",
+        "createTime": 1647102623,
+        "verified": false,
+        "secUid": "MS4wLjABAAAACFChyiNJUpQzKwsKzCemYAc5xEBV1TimOkSYzo11_SurdEb35wJkKGnPwy4wSirk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 1,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 37,
+        "followingCount": 477,
+        "heart": 745,
+        "heartCount": 745,
+        "videoCount": 35,
+        "diggCount": 0
+    },
+    "itemList": []
+}

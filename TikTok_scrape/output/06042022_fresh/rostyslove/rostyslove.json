@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6746509963960566789",
+        "shortId": "",
+        "uniqueId": "rostyslove",
+        "nickname": "Rostyslove",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654646314196998~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=mT0aW1S3f%2FX2tVYPb3ZyFqFDLoc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654646314196998~c5_720x720.jpeg?x-expires=1649372400&x-signature=lAOXrAMmewvVxXPW984kzmNVh9I%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654646314196998~c5_100x100.jpeg?x-expires=1649372400&x-signature=Auz1e05NOLh2Noq%2BevE5WEWAHdE%3D",
+        "signature": "Artist",
+        "createTime": 1570765617,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA18bQwF1VIESV9wDO9FJr5GInpjcRGcbXjuUhbm07u43estdVuHv0sgPHGlivFec9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/c/kalatsynskyi2804",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 18000,
+        "followingCount": 52,
+        "heart": 131100,
+        "heartCount": 131100,
+        "videoCount": 312,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,119 @@
+{
+    "id": "7085711448562732294",
+    "desc": "#fyp",
+    "createTime": 1649770758,
+    "video": {
+        "id": "7085711448562732294",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/600c3eb21745447a97fd6389cc0c6592_1649770760?x-expires=1649840400&x-signature=H0Rf5ATJDZRQYlTBToWyev47Th4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ca5dd6da823942b89366aeac7e42f2d4_1649770760?x-expires=1649840400&x-signature=VBPrQCgTIEsPIYujbgD4cjROLQk%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/98c476feb6df4169be2180ca8e41e769_1649770761?x-expires=1649840400&x-signature=6YlZ5gWxVyC2bbc0MUVP%2BVjmxBY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/efc144727fde4aa0b95e5c28a7d36aa4/625691fb/video/tos/useast2a/tos-useast2a-ve-0068c001/08e35a70b1914a71a8a87a583334a70f/?a=1988&br=1134&bt=567&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThLE4aDXq&l=2022041303034301011300623408AC8EA6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZvdzU6ZnhyPDMzNzczM0ApNmlmaTk1aGQ8N2k4ODhlZGdyc3FlcjRvLl5gLS1kMTZzczZfYC1gMi1gMWFhMi8xXy06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/efc144727fde4aa0b95e5c28a7d36aa4/625691fb/video/tos/useast2a/tos-useast2a-ve-0068c001/08e35a70b1914a71a8a87a583334a70f/?a=1988&br=1134&bt=567&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThLE4aDXq&l=2022041303034301011300623408AC8EA6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZvdzU6ZnhyPDMzNzczM0ApNmlmaTk1aGQ8N2k4ODhlZGdyc3FlcjRvLl5gLS1kMTZzczZfYC1gMi1gMWFhMi8xXy06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ca5dd6da823942b89366aeac7e42f2d4_1649770760~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=TOo5NeokEbpDAn3r61Y%2FGlYpZPY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ca5dd6da823942b89366aeac7e42f2d4_1649770760~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=3RBHgvh1RYQ993qPl3p%2F43y4XdI%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/600c3eb21745447a97fd6389cc0c6592_1649770760?x-expires=1649840400&x-signature=H0Rf5ATJDZRQYlTBToWyev47Th4%3D",
+        "bitrate": 580694,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6986249544526824454",
+        "uniqueId": "ytnainyye1",
+        "nickname": "Nainyye",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3de88b6ebf93f9f0f836f4428d36fdc5~c5_100x100.jpeg?x-expires=1649905200&x-signature=DCgBH1q7zp1%2FgaoAgnc6rkY0Zww%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3de88b6ebf93f9f0f836f4428d36fdc5~c5_720x720.jpeg?x-expires=1649905200&x-signature=xULWB7Ln7%2Fto0LCFXuParN1%2BiXs%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3de88b6ebf93f9f0f836f4428d36fdc5~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=IN%2BkpRLCC%2Fx7Bd%2BxftVRXC9aT9w%3D",
+        "signature": "Hi everyone I'm nainyye Please follow me I upload when I can.\nAlso Thanx for 500",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlxLTxYvXRJN4MM90sKEtTQYQ_wvrM9N4JVLo7bomRNG5KhNePYowbEb6nHRTSl-4",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081567481631099653",
+        "title": "d\u017awi\u0119k oryginalny",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7081567454434003718.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dbd05cd8ef8728253f4f37e814ef98a4~c5_100x100.jpeg?x-expires=1649905200&x-signature=grkFmriXYMzkR5uuD2hufFX3txg%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dbd05cd8ef8728253f4f37e814ef98a4~c5_720x720.jpeg?x-expires=1649905200&x-signature=nuEoUXo%2BBpoLyMEF8LSQYmnEHjI%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dbd05cd8ef8728253f4f37e814ef98a4~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=%2FmG%2FgdLRqJe1nJfweMXPZ%2F%2BCxCc%3D",
+        "authorName": "Ronaldo the best \ud83d\udd25",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 49
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 4,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 5,
+        "followerCount": 617,
+        "heartCount": 32,
+        "videoCount": 13,
+        "diggCount": 1501,
+        "heart": 32
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

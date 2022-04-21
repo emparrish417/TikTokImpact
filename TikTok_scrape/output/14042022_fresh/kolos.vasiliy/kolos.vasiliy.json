@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6905435740018148354",
+        "shortId": "",
+        "uniqueId": "kolos.vasiliy",
+        "nickname": "Reddiesel",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/641f2acdbe4ebd3410171e2a7edeb30a~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=SjUQaIW%2FldexzbzRcum91rs1U4M%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/641f2acdbe4ebd3410171e2a7edeb30a~c5_720x720.jpeg?x-expires=1650114000&x-signature=zC7ajTU8lcUN17K787chw4WLRvM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/641f2acdbe4ebd3410171e2a7edeb30a~c5_100x100.jpeg?x-expires=1650114000&x-signature=9Xt0UUQcMs%2BbaeCaKyn2r3ek8Rg%3D",
+        "signature": "Hairdresser \nKiyv \ud83c\udf88",
+        "createTime": 1607797627,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA54RFW383O_k19bj7n9ph0gZhYa02O3cH69_sqEee-70DFCZBYL6fpOmI1ITcHy_J",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 193,
+        "followingCount": 66,
+        "heart": 20,
+        "heartCount": 20,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6956671783207339013",
+        "shortId": "",
+        "uniqueId": "theozata100",
+        "nickname": "theozata100",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/150f044f674a6edabd1cdc13521c38a4~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=%2BjaYRUIcHz35VCSCGVzUkzU082c%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/150f044f674a6edabd1cdc13521c38a4~c5_720x720.jpeg?x-expires=1650578400&x-signature=Y70kp2IRXP7esA630qLg1e3v%2Foo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/150f044f674a6edabd1cdc13521c38a4~c5_100x100.jpeg?x-expires=1650578400&x-signature=QjgZSAL7mA9K5u4i38P63JyNHKw%3D",
+        "signature": "Nichts als die Wahrheit.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7Z1VoAu_H8T4yqtOhXOyJYqPQNIcz8Kt5zIygJQREMXpqnOhJlj9MET6OCTCXAOb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "https://linktr.ee/THE_OZATA",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 393,
+        "followingCount": 90,
+        "heart": 2934,
+        "heartCount": 2934,
+        "videoCount": 214,
+        "diggCount": 528
+    },
+    "itemList": []
+}

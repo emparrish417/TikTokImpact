@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6857200384169427973",
+        "shortId": "",
+        "uniqueId": "1110bogausch",
+        "nickname": "Mike Bogausch",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2cdd53f85d355912384d09c2cf5d93c1~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=STGkN6d7AP8av3AaHmEdAewb%2ByQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2cdd53f85d355912384d09c2cf5d93c1~c5_720x720.jpeg?x-expires=1649714400&x-signature=qEYy5mlm%2F4qWtcjCe%2FQ0Hw7%2FXmM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2cdd53f85d355912384d09c2cf5d93c1~c5_100x100.jpeg?x-expires=1649714400&x-signature=HlMKusJKqnEbY%2BkC1R6moNW3AGk%3D",
+        "signature": "history is written by the victors",
+        "createTime": 1600952740,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVTrS8y5GIXf614mbW9k_mDAsx6OBSDf1SBFhspjflV5H6u6jq4dSXwzkYxn_wzXS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 31500,
+        "followingCount": 37,
+        "heart": 2000000,
+        "heartCount": 2000000,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

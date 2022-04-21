@@ -1,0 +1,104 @@
+{
+    "id": "7086070833940139270",
+    "desc": "",
+    "createTime": 1649854435,
+    "video": {
+        "id": "7086070833940139270",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d29ce77d65764da09143293443596fcf?x-expires=1649962800&x-signature=ZKTJcMeObZJG8oqq9cU0vWXx8Dk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c8dc1aaec67c48d7b75c61ebdad5b31a_1649854435?x-expires=1649962800&x-signature=le1HeKWt2e%2FyfwROt%2FUoh%2FsrBVc%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ea90ca13483b4849a7e35298b9f3c58a_1649854437?x-expires=1649962800&x-signature=EXFGeWzA0JE0dWVtFMtkM2Zp8rk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/26262be405669e134de3c26777556a0e/6258741a/video/tos/useast2a/tos-useast2a-ve-0068c004/2f9ee2186de442ed868ca9c9ed5ef2fa/?a=1988&br=3224&bt=1612&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZxlKLwe2No-efl7Gb&l=20220414132043010113135168100E2565&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3ZkdzU6ZjlmPDMzNzczM0ApZThmPDhmM2VmN2VkaThoZmdiMHJlcjRfY19gLS1kMTZzc2EuYGE2MDJfLTZiNDA2NWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/26262be405669e134de3c26777556a0e/6258741a/video/tos/useast2a/tos-useast2a-ve-0068c004/2f9ee2186de442ed868ca9c9ed5ef2fa/?a=1988&br=3224&bt=1612&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZxlKLwe2No-efl7Gb&l=20220414132043010113135168100E2565&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3ZkdzU6ZjlmPDMzNzczM0ApZThmPDhmM2VmN2VkaThoZmdiMHJlcjRfY19gLS1kMTZzc2EuYGE2MDJfLTZiNDA2NWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c8dc1aaec67c48d7b75c61ebdad5b31a_1649854435~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=XPcpA9jJ3BjB%2Bbo2AJ88ElJk50k%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c8dc1aaec67c48d7b75c61ebdad5b31a_1649854435~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=ZYq%2FNffpdUjPElzaPp2x%2BO19bI4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d29ce77d65764da09143293443596fcf?x-expires=1649962800&x-signature=ZKTJcMeObZJG8oqq9cU0vWXx8Dk%3D",
+        "bitrate": 1651086,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6670610673485938694",
+        "uniqueId": "leojude07",
+        "nickname": "leo Ireland",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fac30f364b4acde8d53a1793464e0fe3~c5_100x100.jpeg?x-expires=1650114000&x-signature=EarcRUTwAjvM25Gb2xMg4EZy8yc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fac30f364b4acde8d53a1793464e0fe3~c5_720x720.jpeg?x-expires=1650114000&x-signature=Z3pnJEVq2DD4B13YuY6jBwmqLGk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fac30f364b4acde8d53a1793464e0fe3~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=HdkeLl3OVzK4b5lh%2FaYyQxT1i10%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0o-O-_5P4NDlpw3K6Rwsac0Ng4aT7k7WiYlw_axP0FxRLsx7pmaOz-OeDQZChVu1",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "242872365183827968",
+        "title": "Papamericano",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/f89faa0549054767b77d46349c7fb2d4",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23ad48c754fc400cb6766ab628c6cb05.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/23ad48c754fc400cb6766ab628c6cb05.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/23ad48c754fc400cb6766ab628c6cb05.jpeg",
+        "authorName": "Papa Beat",
+        "original": false,
+        "duration": 30,
+        "album": "Papamericano"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 40
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "SHREK IN YOUR ROOM",
+            "ID": "1837378"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 218,
+        "followerCount": 48,
+        "heartCount": 596,
+        "videoCount": 190,
+        "diggCount": 1174,
+        "heart": 596
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I found this on my bed "
+            ]
+        }
+    ],
+    "isAd": false
+}

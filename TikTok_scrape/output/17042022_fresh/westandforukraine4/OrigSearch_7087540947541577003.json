@@ -1,0 +1,98 @@
+{
+    "id": "7087540947541577003",
+    "desc": "",
+    "createTime": 1650196723,
+    "video": {
+        "id": "7087540947541577003",
+        "height": 1024,
+        "width": 576,
+        "duration": 16,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ad2470742dd946be92ac829869a83ddc?x-expires=1650261600&x-signature=O809Q3Aalhvd%2BeNzYcTYBhr6hME%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a714dc00d8f24184aa8f6e56928b324e_1650196724?x-expires=1650261600&x-signature=DiaZqoYpnKF7QpO%2BIKZB2jmRXBg%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/427abde6012a4d83843594c0e92bae76_1650196724?x-expires=1650261600&x-signature=QhC%2BSnpA%2BSoidAA0gqLS2HRl%2BUw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5d8b2123db7665630321be27db4ff666/625d02a6/video/tos/useast5/tos-useast5-ve-0068c002-tx/148f551f289a44548b17d37afdd804bf/?a=1988&br=4078&bt=2039&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z3~uwwe2NnuFfl7Gb&l=20220418001758010113006244015610E5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBpODU6ZmwzPDMzZzczNEApO2g0Ozc8NGVlN2ZlNmc8PGdzMV9xcjRfLmJgLS1kMS9zc2AzNTQwMWIzM2A1L140YTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5d8b2123db7665630321be27db4ff666/625d02a6/video/tos/useast5/tos-useast5-ve-0068c002-tx/148f551f289a44548b17d37afdd804bf/?a=1988&br=4078&bt=2039&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z3~uwwe2NnuFfl7Gb&l=20220418001758010113006244015610E5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBpODU6ZmwzPDMzZzczNEApO2g0Ozc8NGVlN2ZlNmc8PGdzMV9xcjRfLmJgLS1kMS9zc2AzNTQwMWIzM2A1L140YTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a714dc00d8f24184aa8f6e56928b324e_1650196724~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=LNzbWX0jSrAjCup%2BPzfa5GZxP5Q%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a714dc00d8f24184aa8f6e56928b324e_1650196724~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=4DjtDKtzNHAj8Zq2IrvgiUkTVqU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ad2470742dd946be92ac829869a83ddc?x-expires=1650261600&x-signature=O809Q3Aalhvd%2BeNzYcTYBhr6hME%3D",
+        "bitrate": 2088658,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6981210968873419782",
+        "uniqueId": "westandforukraine4",
+        "nickname": "I stand for Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7394730e94aef75472043e9fe2a27873~c5_100x100.jpeg?x-expires=1650412800&x-signature=5s%2B2UJLPY89VeZ%2FvmMLE0aFUpK8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7394730e94aef75472043e9fe2a27873~c5_720x720.jpeg?x-expires=1650412800&x-signature=1Ed6pfStXV%2BS%2FHT%2FLMb1D%2FBpfe4%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7394730e94aef75472043e9fe2a27873~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=Jb8VhRChxwVRmRCcnO87s1gbz%2Fs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2Z2C45NAxRRtlEtzJzdvCtBAURNSl_8bvI0na4aWxRrhK0PHYNCjDCCnJm03cIpH",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6728562975734515713",
+        "title": "Love You So",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6a790bec1bf640c185753440ca131a7e",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b14b44e661ac4760918e327255dad09f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/b14b44e661ac4760918e327255dad09f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b14b44e661ac4760918e327255dad09f.jpeg",
+        "authorName": "The King Khan & BBQ Show",
+        "original": false,
+        "duration": 60,
+        "album": "The King Khan & BBQ Show"
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 84
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 801,
+        "followerCount": 145,
+        "heartCount": 421,
+        "videoCount": 77,
+        "diggCount": 13500,
+        "heart": 421
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Guess what I got for Easter\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

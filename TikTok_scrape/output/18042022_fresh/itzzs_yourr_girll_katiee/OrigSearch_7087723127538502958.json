@@ -1,0 +1,90 @@
+{
+    "id": "7087723127538502958",
+    "desc": "",
+    "createTime": 1650239138,
+    "video": {
+        "id": "7087723127538502958",
+        "height": 576,
+        "width": 880,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/856c6083de5a414cabe73d428f108b23?x-expires=1650330000&x-signature=kHBlrEHS0RCxBqp1PTjOrYqT1oE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9ae44d9d73b0438d9e1261140b7d7bbd_1650239139?x-expires=1650330000&x-signature=susgOkMeUo2ZeIoXbPsHB96EIx0%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f9acb3571b374fb987e73740a79f6da9_1650239140?x-expires=1650330000&x-signature=nscKtl%2Bpl4AnjFcijmcKvGjE71s%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/739e6259b271718a6acb40c377296401/625e0d57/video/tos/useast5/tos-useast5-pve-0068-tx/2c17a883bc554fe5a54e86968bbdb536/?a=1988&br=4376&bt=2188&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zhzxwwe2Nme7fl7Gb&l=2022041819160001011313521115FA046C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxoazY6Zm9kPDMzZzczNEApNGk7Ojc0aWQ4Nzw4NzM3OGdhYWUucjRvXmJgLS1kMS9zcy8yXzYzNS0zMi9eLzJfXjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/739e6259b271718a6acb40c377296401/625e0d57/video/tos/useast5/tos-useast5-pve-0068-tx/2c17a883bc554fe5a54e86968bbdb536/?a=1988&br=4376&bt=2188&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zhzxwwe2Nme7fl7Gb&l=2022041819160001011313521115FA046C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxoazY6Zm9kPDMzZzczNEApNGk7Ojc0aWQ4Nzw4NzM3OGdhYWUucjRvXmJgLS1kMS9zcy8yXzYzNS0zMi9eLzJfXjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9ae44d9d73b0438d9e1261140b7d7bbd_1650239139~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=ubbo%2FqhY18jsgfTyTm1WeQrJx7M%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9ae44d9d73b0438d9e1261140b7d7bbd_1650239139~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=cOI3jOP2%2FHHlcsdflkEl6H3QEds%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/856c6083de5a414cabe73d428f108b23?x-expires=1650330000&x-signature=u28oeCsf9cE%2Bi%2FyT0Wova3NcVqA%3D",
+        "bitrate": 2241447,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055797385361523758",
+        "uniqueId": "itzzs_yourr_girll_katiee",
+        "nickname": "we love Ukraine \ud83c\uddfa\ud83c\udde6\u2764\ud83d\udc95",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e89fdffa77bc7d13942f23cbf7c6fa0~c5_100x100.jpeg?x-expires=1650481200&x-signature=6EQIqBUttTcAaSVhRv9AEJUKgns%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e89fdffa77bc7d13942f23cbf7c6fa0~c5_720x720.jpeg?x-expires=1650481200&x-signature=NZaOGsY4uICjAXhocOc3r7Hzc9E%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e89fdffa77bc7d13942f23cbf7c6fa0~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=a4Ao%2F14CLO%2BjJ%2F4hSjSDzt25ybU%3D",
+        "signature": "(Birthday)-March 30 (Born) 2013-name-Alison",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3SWh6ttn4Hkc5_76Ol2sDd31-7ZU_EdfBOaNofIBgX3UfIurZbEKvMMhmBBCgQnG",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087723102590765867",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7087723128561896234.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e89fdffa77bc7d13942f23cbf7c6fa0~c5_100x100.jpeg?x-expires=1650481200&x-signature=6EQIqBUttTcAaSVhRv9AEJUKgns%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e89fdffa77bc7d13942f23cbf7c6fa0~c5_720x720.jpeg?x-expires=1650481200&x-signature=NZaOGsY4uICjAXhocOc3r7Hzc9E%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e89fdffa77bc7d13942f23cbf7c6fa0~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=a4Ao%2F14CLO%2BjJ%2F4hSjSDzt25ybU%3D",
+        "authorName": "we love Ukraine \ud83c\uddfa\ud83c\udde6\u2764\ud83d\udc95",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 9,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 64
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1803,
+        "followerCount": 305,
+        "heartCount": 1057,
+        "videoCount": 96,
+        "diggCount": 3766,
+        "heart": 1057
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

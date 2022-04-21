@@ -1,0 +1,90 @@
+{
+    "id": "7087983257769364779",
+    "desc": "R46 A train leaving Fulton street",
+    "createTime": 1650299705,
+    "video": {
+        "id": "7087983257769364779",
+        "height": 1024,
+        "width": 576,
+        "duration": 39,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/10419e24b16544959a02286b24cdac21?x-expires=1650330000&x-signature=7Y3pDxkXZU%2BOAwppwLxk0llWI4Y%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e5c72e0a553a441399f5ef4f517fe320_1650299706?x-expires=1650330000&x-signature=7jPE59M9NzD5nQJbiDTcQB9BDQw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/54dccab3a4b74ceb9a0d3dbd4564234d_1650299706?x-expires=1650330000&x-signature=GQzJipsYRNxbgOUwTRjnHCHzrTY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/aa3e236e249871aeef44a158790aadaa/625e0d86/video/tos/useast5/tos-useast5-pve-0068-tx/1e60a9a5fd9e4bd4830d3715fa2b0f4f/?a=1988&br=2936&bt=1468&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z.zxwwe2Nd2yfl7Gb&l=2022041819161501011300621802F01B05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajNkNGU6ZjxzPDMzZzczNEApNTw2aGgzODs4N2Q1ZDo7N2dkYnBocjRvM2JgLS1kMS9zc2IwMjI2YjYwMS4uYTVeMDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/aa3e236e249871aeef44a158790aadaa/625e0d86/video/tos/useast5/tos-useast5-pve-0068-tx/1e60a9a5fd9e4bd4830d3715fa2b0f4f/?a=1988&br=2936&bt=1468&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z.zxwwe2Nd2yfl7Gb&l=2022041819161501011300621802F01B05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajNkNGU6ZjxzPDMzZzczNEApNTw2aGgzODs4N2Q1ZDo7N2dkYnBocjRvM2JgLS1kMS9zc2IwMjI2YjYwMS4uYTVeMDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e5c72e0a553a441399f5ef4f517fe320_1650299706~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=zEFI5ONAGsjuPXNCWQGUO6sdprc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e5c72e0a553a441399f5ef4f517fe320_1650299706~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=6bfuGwEpTssZeenjkUIOVQzE8eU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/10419e24b16544959a02286b24cdac21?x-expires=1650330000&x-signature=MOvKJs8jMNdxGFZf6UFHn%2B490rE%3D",
+        "bitrate": 1503700,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7012813572020405253",
+        "uniqueId": "mta_railfanner47",
+        "nickname": "I support Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d15686670943d107c3d3a1f7741d204a~c5_100x100.jpeg?x-expires=1650481200&x-signature=JZLvehB7lH7UC9K3h212Qumn5Dk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d15686670943d107c3d3a1f7741d204a~c5_720x720.jpeg?x-expires=1650481200&x-signature=BKR4J6OVVXftxYPcfWJ4TqUNZ%2Bo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d15686670943d107c3d3a1f7741d204a~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=Lu%2BZvH5OPux0VITtmHZOIF6phZk%3D",
+        "signature": "Follow to join the Railfans he/him",
+        "verified": false,
+        "secUid": "MS4wLjABAAAApYOeyFErhkwfbXsNOHInbpsXNvxWaE6nbZGJ54r3IrVGEDe0yE3alBnHRysMnvqH",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087983231340907310",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7087983255797959466.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d15686670943d107c3d3a1f7741d204a~c5_100x100.jpeg?x-expires=1650481200&x-signature=JZLvehB7lH7UC9K3h212Qumn5Dk%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d15686670943d107c3d3a1f7741d204a~c5_720x720.jpeg?x-expires=1650481200&x-signature=BKR4J6OVVXftxYPcfWJ4TqUNZ%2Bo%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d15686670943d107c3d3a1f7741d204a~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=Lu%2BZvH5OPux0VITtmHZOIF6phZk%3D",
+        "authorName": "I support Ukraine \ud83c\uddfa\ud83c\udde6",
+        "original": true,
+        "duration": 39,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 13
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 53,
+        "followerCount": 142,
+        "heartCount": 1357,
+        "videoCount": 164,
+        "diggCount": 2783,
+        "heart": 1357
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7019845776907011077",
+        "shortId": "",
+        "uniqueId": "talkinknowledge",
+        "nickname": "Tik Toker",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=EvT79ceblQM6ui6vm1v36NoWVGs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1650481200&x-signature=sP%2FyQhNV3y0PgD%2FDhbbxo4p9JCc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1650481200&x-signature=9JB5MjMsJ6OiPJxrez9uDXCiT9w%3D",
+        "signature": "No bio yet",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFf-NSll4rqu0sk4C329FxnpstfC31aIIu62Ecueont0FvJMxD_JyJVicuXAksm3Y",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 122600,
+        "followingCount": 1340,
+        "heart": 880200,
+        "heartCount": 880200,
+        "videoCount": 114,
+        "diggCount": 0
+    },
+    "itemList": []
+}

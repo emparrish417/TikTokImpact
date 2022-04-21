@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6871603754120561669",
+        "shortId": "",
+        "uniqueId": "valera_moz",
+        "nickname": "\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041c\u043e\u0436\u0430\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/2f893d3d01771b9e1f5403f6c74b1f93.jpeg?x-expires=1650240000&x-signature=kauP3aPNyPiYGiQvKdT8fPXvfb4%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/2f893d3d01771b9e1f5403f6c74b1f93.jpeg?x-expires=1650240000&x-signature=B1hzbv1g2Y%2BFv267c6wmdvoiFok%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2f893d3d01771b9e1f5403f6c74b1f93.jpeg?x-expires=1650240000&x-signature=wl5cT0PfyCjsviiX8dDxIa8pYJU%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAuFCng15xJjRLwP5-iOrJK09LgOhlz1kuLCyN2ixJWlcYeiWdjXZ7lCfb3HUuVYUm",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 21,
+        "followingCount": 40,
+        "heart": 360,
+        "heartCount": 360,
+        "videoCount": 29,
+        "diggCount": 0
+    },
+    "itemList": []
+}

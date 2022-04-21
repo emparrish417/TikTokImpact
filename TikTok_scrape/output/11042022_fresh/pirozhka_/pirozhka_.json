@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6952393447841186821",
+        "shortId": "",
+        "uniqueId": "pirozhka_",
+        "nickname": "Karyna",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c893ad5a1158a14cb271c1cf9f2760fa~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=X1%2FY%2Fh2ZK1MaO7OzLEv0%2FwvXBKI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c893ad5a1158a14cb271c1cf9f2760fa~c5_720x720.jpeg?x-expires=1649800800&x-signature=XkFuyvbUPOD7RxTjSRZJa41JJ7M%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c893ad5a1158a14cb271c1cf9f2760fa~c5_100x100.jpeg?x-expires=1649800800&x-signature=5cMUqFIFAu5TOnyhye%2FlE6rUUVA%3D",
+        "signature": "\u0421\u043b\u0430\u0434\u043a\u0438\u0439 \u0434\u043e\u043c \u00ab\u041f\u0438\u0440\u043e\u0436\u041a\u0430\u00bb\ud83c\uddfa\ud83c\udde6\n\u0417\u0434\u0435\u0441\u044c \u0440\u043e\u0436\u0434\u0430\u044e\u0442\u0441\u044f \u0434\u0435\u0441\u0435\u0440\u0442\u044b\ud83e\uddc1\n\u0414\u043b\u044f \u0437\u0430\u043a\u0430\u0437\u0430-\u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438 \u0432 \u0418\u043d\u0441\u0442\u2b06\ufe0f",
+        "createTime": 1618730732,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoMltXwPy-s85DrW1zMdl1D_CqlSN89biFJJXb4qkFTHHyZTa58VVFA0ehDV6waUL",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Food & Beverage",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12,
+        "followingCount": 140,
+        "heart": 146,
+        "heartCount": 146,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

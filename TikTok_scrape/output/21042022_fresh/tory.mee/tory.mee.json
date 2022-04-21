@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6909589503208539138",
+        "shortId": "",
+        "uniqueId": "tory.mee",
+        "nickname": "TORY",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/a6998b75b04ee1ae04f3bddeb02fccbf.jpeg?x-expires=1650751200&x-signature=pjbAJ2CKornZ7UqOYIq0iJ037Ws%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/a6998b75b04ee1ae04f3bddeb02fccbf.jpeg?x-expires=1650751200&x-signature=ysltvRXR7zk2e0BtHluZQZuP3yg%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a6998b75b04ee1ae04f3bddeb02fccbf.jpeg?x-expires=1650751200&x-signature=9YFckGjUvcf7gFfo7j5qI7kwaZU%3D",
+        "signature": "\u0414\u043e\u0431\u0435\u0439\u0442\u0435 2\u043a\ud83d\ude4f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-RoRDbZRUL5jQArWWigX6L9QEDU0qHacR6VYVCn0bMxCeBUW95aRR3ZeoZqPl3gj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1727,
+        "followingCount": 1444,
+        "heart": 48300,
+        "heartCount": 48300,
+        "videoCount": 133,
+        "diggCount": 309
+    },
+    "itemList": []
+}

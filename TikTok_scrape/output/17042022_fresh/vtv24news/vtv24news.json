@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6802456532350485506",
+        "shortId": "",
+        "uniqueId": "vtv24news",
+        "nickname": "VTV24",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a3577016782281887e706ff7c5d28575~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=CkYKMJHDLJ%2FUsLBzbbwAccQw27Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a3577016782281887e706ff7c5d28575~c5_720x720.jpeg?x-expires=1650412800&x-signature=LlZPzKuY4pp6gNDgm%2Bv02kEjW%2FY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a3577016782281887e706ff7c5d28575~c5_100x100.jpeg?x-expires=1650412800&x-signature=mVMnmq2%2B6TP0EoA11oBI4o6z%2FGA%3D",
+        "signature": "Mang tin t\u1ee9c \u0111\u1ebfn g\u1ea7n h\u01a1n v\u1edbi gi\u1edbi tr\u1ebb",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAS-bcq1P_Fe7NMwMUBkk2KLBr7fmLNYS9WRJ07BPK3dZKK0XSgctVix4QfLvlN_Dw",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "vtv.vn",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4800000,
+        "followingCount": 1,
+        "heart": 129900000,
+        "heartCount": 129900000,
+        "videoCount": 7200,
+        "diggCount": 0
+    },
+    "itemList": []
+}

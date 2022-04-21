@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7008973504385975302",
+        "shortId": "",
+        "uniqueId": "yankagozun",
+        "nickname": "yankagozun",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c279e19d0d19dd67d843a05dd079169~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=Z0BIN4yS%2FoPu%2BBn49rTiv1fHflQ%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c279e19d0d19dd67d843a05dd079169~c5_720x720.jpeg?x-expires=1649800800&x-signature=cfGkdX4YmkJEUMpENZjzfJ%2B%2F93w%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c279e19d0d19dd67d843a05dd079169~c5_100x100.jpeg?x-expires=1649800800&x-signature=2jvpCzYCLasgIlcxQ9cgMlCadnE%3D",
+        "signature": "",
+        "createTime": 1631904362,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWkWGh5z9zIXuiBeulOaxsZVr6AOIPkxRKHusyphOU7Y_e58__Qw4fsxFbdezcM3h",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 0,
+        "heart": 72,
+        "heartCount": 72,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

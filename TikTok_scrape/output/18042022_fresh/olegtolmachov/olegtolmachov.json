@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7083785232465544198",
+        "shortId": "",
+        "uniqueId": "olegtolmachov",
+        "nickname": "olegtolmachov",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/af7993c2186e48ec069b1ffa58c90e4b~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=NL5fCFKVO2YnAg%2FDFQeKW0e8ez4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/af7993c2186e48ec069b1ffa58c90e4b~c5_720x720.jpeg?x-expires=1650481200&x-signature=W71BIKs%2BmYzd1JspRVbwl3Tm5to%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/af7993c2186e48ec069b1ffa58c90e4b~c5_100x100.jpeg?x-expires=1650481200&x-signature=6I1KxKz9EoOL4e7ag15Hdv%2BevkA%3D",
+        "signature": "Good afternoon, I'm from Ukraine.\nTruth at the 25 frames per second rate.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAApdVkr21VXcf3G4AeyGCBc5AL0M0jH7dGZbq_WSZkqxHzLq2wdL2xtOI8oxdbCdIH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22500,
+        "followingCount": 1,
+        "heart": 570100,
+        "heartCount": 570100,
+        "videoCount": 33,
+        "diggCount": 0
+    },
+    "itemList": []
+}

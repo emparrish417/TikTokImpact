@@ -1,0 +1,98 @@
+{
+    "id": "7085373945666424110",
+    "desc": "I would be terrified",
+    "createTime": 1649692177,
+    "video": {
+        "id": "7085373945666424110",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/afc38898f0e34b3c809a8d31e1032686?x-expires=1649736000&x-signature=E%2FjEzDTEDW2bo%2FXP1QPFWvNUEps%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c92cbbc47663419089eabbfc003ec38e_1649692178?x-expires=1649736000&x-signature=FpAEm88GQZA%2B%2BiH7nB9yA8JM9UI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/607c51b7a5744ad688c5d1dc7a349437_1649692178?x-expires=1649736000&x-signature=oYG5Jh0sdJufY7DOVT7AFH8GomU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/bde3f69dd3f29426a98028af01318d00/6254fd0e/video/tos/useast5/tos-useast5-ve-0068c002-tx/98051dc370e04215a82f04fcfe9c9a80/?a=1988&br=1786&bt=893&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThtojaDXq&l=2022041122160601011313513427CF545A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJ0dmY6ZjU3PDMzZzczNEApZTRpMzlkMzxoN2hoaTw0ZWcuXmYtcjRnb15gLS1kMS9zczYwYzUzNi0wMV8uYF8tNC06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/bde3f69dd3f29426a98028af01318d00/6254fd0e/video/tos/useast5/tos-useast5-ve-0068c002-tx/98051dc370e04215a82f04fcfe9c9a80/?a=1988&br=1786&bt=893&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThtojaDXq&l=2022041122160601011313513427CF545A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJ0dmY6ZjU3PDMzZzczNEApZTRpMzlkMzxoN2hoaTw0ZWcuXmYtcjRnb15gLS1kMS9zczYwYzUzNi0wMV8uYF8tNC06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c92cbbc47663419089eabbfc003ec38e_1649692178~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=yBxFJljh%2BHg7zwosvMcV5ly2uos%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c92cbbc47663419089eabbfc003ec38e_1649692178~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=HVoN1L8IREHDD%2F8IHqD3uHDsv9w%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/afc38898f0e34b3c809a8d31e1032686?x-expires=1649736000&x-signature=xvvjvNWmjDc7MB77LgD40xYIsvY%3D",
+        "bitrate": 914846,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6878595180217140229",
+        "uniqueId": "peanut_butter_gang",
+        "nickname": "peanut butter gang",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca356108d091fe661adca1f404de5f9c~c5_100x100.jpeg?x-expires=1649800800&x-signature=QFh0nwcwv5rtpX8QWQ7w%2Bkvwy24%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca356108d091fe661adca1f404de5f9c~c5_720x720.jpeg?x-expires=1649800800&x-signature=2VfPGwl5b4JcK1u9AwLeqn7IZPQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca356108d091fe661adca1f404de5f9c~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=ASBm0pK%2FEPIULbbYa8oDRi7KgFU%3D",
+        "signature": "male\nMinnesota\nI follow back\nL zoophiles and meowmid\nfollow?",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkyrDk4GOm60R6urtByIIPYD0zRfbuRLoFivL-mpQvjiCkz1XcH2Q6LnYPJEIPvnD",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085373893908679466",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7085373941669169962.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca356108d091fe661adca1f404de5f9c~c5_100x100.jpeg?x-expires=1649800800&x-signature=QFh0nwcwv5rtpX8QWQ7w%2Bkvwy24%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca356108d091fe661adca1f404de5f9c~c5_720x720.jpeg?x-expires=1649800800&x-signature=2VfPGwl5b4JcK1u9AwLeqn7IZPQ%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca356108d091fe661adca1f404de5f9c~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=ASBm0pK%2FEPIULbbYa8oDRi7KgFU%3D",
+        "authorName": "peanut butter gang",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 65
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2026,
+        "followerCount": 1309,
+        "heartCount": 25300,
+        "videoCount": 232,
+        "diggCount": 12100,
+        "heart": 25300
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "imagine some Ukraine mf made the batmobile and Russian military open up a garage and bros just sitting there in the batmobile shit would be terrifying"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "217351118132256768",
+        "shortId": "",
+        "uniqueId": "stasya_dv",
+        "nickname": "Stasya",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/28ed1272ab101b2c4509955e2e1e3aaf~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=4myBTxYrsU0nmN7giVcft2Ojyag%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/28ed1272ab101b2c4509955e2e1e3aaf~c5_720x720.jpeg?x-expires=1650751200&x-signature=%2Baoe%2FlFugqHC7%2F%2FBTRJG6cjo7o0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/28ed1272ab101b2c4509955e2e1e3aaf~c5_100x100.jpeg?x-expires=1650751200&x-signature=XRQrYIV%2FNVmao3C6ovitcXwZms8%3D",
+        "signature": "\ud83e\udd0d\u2728",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2hHTGZz-2vrB3EO-0yrTsKXV1rTPmnrelT8CW19OoFWhlUkubFGqElGemnmK1w0E",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 97,
+        "followingCount": 239,
+        "heart": 16300,
+        "heartCount": 16300,
+        "videoCount": 179,
+        "diggCount": 0
+    },
+    "itemList": []
+}

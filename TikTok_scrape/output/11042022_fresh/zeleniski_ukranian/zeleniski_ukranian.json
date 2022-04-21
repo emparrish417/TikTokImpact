@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6888755778528084994",
+        "shortId": "",
+        "uniqueId": "zeleniski_ukranian",
+        "nickname": "Zeleniski",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/3fa785a6cad849247056bbcbdd13bbcf.jpeg?x-expires=1649800800&x-signature=EOzx5xDq5k7BWA506wvfOPFN25I%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/3fa785a6cad849247056bbcbdd13bbcf.jpeg?x-expires=1649800800&x-signature=4pb6qQa3Rtv9q1D8kwRguSLphaI%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3fa785a6cad849247056bbcbdd13bbcf.jpeg?x-expires=1649800800&x-signature=Wfu%2FRaYBkvizWUBxvG06hnFMStY%3D",
+        "signature": "",
+        "createTime": 1605900472,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwN8h9wrqakIhkd6oBIauRDXrSA7CoI9OcHhFaByRkbKnkPR3c_gL4-lbRwl3rBRE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 48700,
+        "followingCount": 5,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 64,
+        "diggCount": 0
+    },
+    "itemList": []
+}

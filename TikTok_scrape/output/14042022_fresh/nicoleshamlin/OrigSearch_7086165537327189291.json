@@ -1,0 +1,150 @@
+{
+    "id": "7086165537327189291",
+    "desc": "Y\u2019all I\u2019m so excited for tomorrow! #disco #ukrain",
+    "createTime": 1649876484,
+    "video": {
+        "id": "7086165537327189291",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e715966542f440d4bf6c4351c5efe8a9?x-expires=1649962800&x-signature=jsh6dNnhj%2Fy6A8IiaLrTIC%2FwgwE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a3e607a13adb4c59ba300955e17fac4b_1649876485?x-expires=1649962800&x-signature=zldLOzUCeAKqwmP9zSSPVhyiiTI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/71787210f09b4db1be55647947f55584_1649876485?x-expires=1649962800&x-signature=73A9UGuco99EBdnZWtZzu7uzCzU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/724d45c0a97b2f29b56683aadd494446/625873e0/video/tos/useast5/tos-useast5-pve-0068-tx/55ffdff72e0342d7aab1bad1bfe4f652/?a=1988&br=4226&bt=2113&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z3hKLwe2N1u7fl7Gb&l=2022041413194901011300624406F8A058&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2treWc6ZndrPDMzZzczNEApZTo2OzM6Ozs8N2hlaTtkNGdwNmttcjRfb19gLS1kMS9zc18vMC9gY2AvNmBhMDY2YS86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/724d45c0a97b2f29b56683aadd494446/625873e0/video/tos/useast5/tos-useast5-pve-0068-tx/55ffdff72e0342d7aab1bad1bfe4f652/?a=1988&br=4226&bt=2113&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z3hKLwe2N1u7fl7Gb&l=2022041413194901011300624406F8A058&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2treWc6ZndrPDMzZzczNEApZTo2OzM6Ozs8N2hlaTtkNGdwNmttcjRfb19gLS1kMS9zc18vMC9gY2AvNmBhMDY2YS86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a3e607a13adb4c59ba300955e17fac4b_1649876485~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=V6I21k6RWoybBjWB9ZJ%2FyAT2BSk%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a3e607a13adb4c59ba300955e17fac4b_1649876485~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=0dQqvwnh%2BKsngqxGNMMb19AcNV8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e715966542f440d4bf6c4351c5efe8a9?x-expires=1649962800&x-signature=jsh6dNnhj%2Fy6A8IiaLrTIC%2FwgwE%3D",
+        "bitrate": 2164426,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6741161856792642566",
+        "uniqueId": "nicoleshamlin",
+        "nickname": "Nicole Shamlin",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9383f49679d6e7f29776deb593f44d80~c5_100x100.jpeg?x-expires=1650114000&x-signature=Vk%2BTVi62dkB2k2RQXfJciZwOEME%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9383f49679d6e7f29776deb593f44d80~c5_720x720.jpeg?x-expires=1650114000&x-signature=QgbQWtjfgGRsdG%2BQJgO6GZpudLA%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9383f49679d6e7f29776deb593f44d80~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=v%2BPcv2UQRNB7OKvvAZ4ma5wNUXI%3D",
+        "signature": "Mom to Rockwell\u2022Wifey\u2022Pregnant with Baby#2\n\nCollab\n  \u2b07\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAarTwFzDGdPl564ZVMoLD5wUgq05SMNDZ3uNdITgslnddnoFAlY-K_Cg0B4uTT3U",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7080084808461715457",
+        "title": "Next Generation (Disco for Peace (Cosmogony))",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/fe8e30894d974efb8994ed1bb413d5b9",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/9aa99dad080b480caf7bced6977d3c64.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/9aa99dad080b480caf7bced6977d3c64.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/9aa99dad080b480caf7bced6977d3c64.jpeg",
+        "authorName": "Bantunani",
+        "original": false,
+        "duration": 60,
+        "album": "Next Generation (Cosmogony - disco for Peace)"
+    },
+    "challenges": [
+        {
+            "id": "6368",
+            "title": "disco",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "2128165",
+            "title": "ukrain",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 274,
+        "shareCount": 1,
+        "commentCount": 13,
+        "playCount": 2830
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 35,
+            "end": 41,
+            "hashtagName": "disco",
+            "hashtagId": "6368",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 42,
+            "end": 49,
+            "hashtagName": "ukrain",
+            "hashtagId": "2128165",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Tan",
+            "ID": "1213820"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 180,
+        "followerCount": 280700,
+        "heartCount": 8500000,
+        "videoCount": 4245,
+        "diggCount": 3331,
+        "heart": 8500000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

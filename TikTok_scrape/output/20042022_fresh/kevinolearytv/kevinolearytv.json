@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6923547886569030661",
+        "shortId": "",
+        "uniqueId": "kevinolearytv",
+        "nickname": "Mr. Wonderful",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dfab8db5439568cf52131b95a158a4a9~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=PVQsjIlxUdET4OOKa2rwOxeiKS4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dfab8db5439568cf52131b95a158a4a9~c5_720x720.jpeg?x-expires=1650664800&x-signature=QLetR%2FddptF%2Bjo3HaJ22tMzgUAo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dfab8db5439568cf52131b95a158a4a9~c5_100x100.jpeg?x-expires=1650664800&x-signature=9%2FApS%2FpwJe6UrH%2B6UDoHm077jAw%3D",
+        "signature": "Mr. Wonderful from Shark Tank, \nVenture Capitalist, Author",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAqtP-4Xs4c2oOEAIaXHSejMJN9wJVqmJNJIgLK2RS6D--eyM6hM8GZYzcJAR2Jzmp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/c/kevinoleary",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 606000,
+        "followingCount": 48,
+        "heart": 10300000,
+        "heartCount": 10300000,
+        "videoCount": 457,
+        "diggCount": 0
+    },
+    "itemList": []
+}

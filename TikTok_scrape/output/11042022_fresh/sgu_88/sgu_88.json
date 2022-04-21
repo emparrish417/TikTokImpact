@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7084268332599559214",
+        "shortId": "",
+        "uniqueId": "sgu_88",
+        "nickname": "SGU",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/54e598b2e6007a07f63c7ef6909b8b48~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=nZFtmPniK9kU5ZahVLJZPZddQGQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/54e598b2e6007a07f63c7ef6909b8b48~c5_720x720.jpeg?x-expires=1649800800&x-signature=zioK5HGe75ikJ46%2Bgf6QvrpYcuE%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/54e598b2e6007a07f63c7ef6909b8b48~c5_100x100.jpeg?x-expires=1649800800&x-signature=MoKzQQisMg%2Bu5HtMkxMSf517mXc%3D",
+        "signature": "Stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+        "createTime": 1649510232,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxIA50UYbyffcyUl6T-L_ZScePI9IDSbvOcGQju5H35m0ThxJQAxQFfn3kkdqeLFx",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 850,
+        "followingCount": 44,
+        "heart": 7308,
+        "heartCount": 7308,
+        "videoCount": 21,
+        "diggCount": 0
+    },
+    "itemList": []
+}

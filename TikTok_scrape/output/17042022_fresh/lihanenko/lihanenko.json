@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6556608100518019077",
+        "shortId": "",
+        "uniqueId": "lihanenko",
+        "nickname": "Kseniia",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/856be69b2259a036b245444fd19bae98~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=5PV%2BUcmY%2FcXasgDGwyjMh1R0iMQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/856be69b2259a036b245444fd19bae98~c5_720x720.jpeg?x-expires=1650412800&x-signature=ErSKeDh3ux2TrefTf2g724RetgQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/856be69b2259a036b245444fd19bae98~c5_100x100.jpeg?x-expires=1650412800&x-signature=MB5ENKJT9TIsdK2liAwI2M4Gmao%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJAgfu1pCpEGGEmZQN0ihGwMOvdX-C05ozZPiOv8IwbiKmOLEMuZJJJTpiMkcYhlu",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 123,
+        "followingCount": 57,
+        "heart": 2203,
+        "heartCount": 2203,
+        "videoCount": 124,
+        "diggCount": 0
+    },
+    "itemList": []
+}

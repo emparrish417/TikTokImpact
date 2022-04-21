@@ -1,0 +1,104 @@
+{
+    "id": "7089138615640526123",
+    "desc": "",
+    "createTime": 1650568711,
+    "video": {
+        "id": "7089138615640526123",
+        "height": 1024,
+        "width": 576,
+        "duration": 54,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1c9cb1682c6749a397bb14096ce70620?x-expires=1650600000&x-signature=%2F%2FoE3V%2FtoiK3%2F8mVR5tekTZUrx8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ecbd5ffb23e44bc4be7811be94f9edb5_1650568712?x-expires=1650600000&x-signature=N9q7iq%2BuO5OCusxsvyyyg1%2Bi7l4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b2d5f6f2ccf4401e9268f8a810efab91_1650568712?x-expires=1650600000&x-signature=S7qznXfzMFgxiHu8unHYWD7z1tw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2e2bc907347c13a99212b338f24bae9b/626232c4/video/tos/useast5/tos-useast5-ve-0068c001-tx/a8c3c10fc23d4290956971ea4cbc8c7e/?a=1988&br=718&bt=359&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZM~ZNwe2NUm~fl7Gb&l=202204212243580101131351281EF7D2B1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF2dmU6ZnN0PDMzZzczNEApNmg6PDs8NTs4Nzw8aTtmO2dhaDVtcjRnbGRgLS1kMS9zc19fYjU1LzA1MTYzXzUyNTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2e2bc907347c13a99212b338f24bae9b/626232c4/video/tos/useast5/tos-useast5-ve-0068c001-tx/a8c3c10fc23d4290956971ea4cbc8c7e/?a=1988&br=718&bt=359&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZM~ZNwe2NUm~fl7Gb&l=202204212243580101131351281EF7D2B1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF2dmU6ZnN0PDMzZzczNEApNmg6PDs8NTs4Nzw8aTtmO2dhaDVtcjRnbGRgLS1kMS9zc19fYjU1LzA1MTYzXzUyNTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ecbd5ffb23e44bc4be7811be94f9edb5_1650568712~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=%2FRpsf%2BTjwvGHgsGSNbUg6yd4ecs%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ecbd5ffb23e44bc4be7811be94f9edb5_1650568712~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=iKTyXPLBZ047W2CJ0Mu4qi77pI8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1c9cb1682c6749a397bb14096ce70620?x-expires=1650600000&x-signature=%2F%2FoE3V%2FtoiK3%2F8mVR5tekTZUrx8%3D",
+        "bitrate": 368223,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6956010772225917958",
+        "uniqueId": "lululemonx56",
+        "nickname": "Team UKRAINE \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f3674e78f3dd106071e2c74c334236e0~c5_100x100.jpeg?x-expires=1650751200&x-signature=Ip9umj7IDTrNSlC9mw0hhdMJ3%2Bk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f3674e78f3dd106071e2c74c334236e0~c5_720x720.jpeg?x-expires=1650751200&x-signature=fBoXy1a7hMVZy8mxnHD8WBwd0ks%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f3674e78f3dd106071e2c74c334236e0~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=u58gJ0g5LsuxDLf2zWkk6%2BIYsn4%3D",
+        "signature": "Voice reveal at 200 followers",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQNQfUv7D3iYDgSvp2guRkbGGazR1lEgnGW7cf0h3h7oamyZCybR_S1YKTIW5JzaA",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6964965959120226306",
+        "title": "My head is spinning like a screw (\u041c\u043e\u044f \u0433\u043e\u043b\u043e\u0432\u0430 \u0432\u0438\u043d\u0442\u043e\u043c)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d5dc1b33ff1b4a69b773bc8709d0320e",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/563a9f24367d498c9da7602f3633730a.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/563a9f24367d498c9da7602f3633730a.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/563a9f24367d498c9da7602f3633730a.jpeg",
+        "authorName": "kostromin & Fivio Foreign",
+        "original": false,
+        "duration": 60,
+        "album": "My head is spinning like a screw (\u041c\u043e\u044f \u0433\u043e\u043b\u043e\u0432\u0430 \u0432\u0438\u043d\u0442\u043e\u043c)"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "TapTap Numbers1000 by Jan",
+            "ID": "1861626"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 80,
+        "followerCount": 185,
+        "heartCount": 844,
+        "videoCount": 116,
+        "diggCount": 1566,
+        "heart": 844
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Showing you how fast I got to where I am know"
+            ]
+        }
+    ],
+    "isAd": false
+}

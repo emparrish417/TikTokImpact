@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7084990158441890822",
+        "shortId": "",
+        "uniqueId": "ukrainewin2",
+        "nickname": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430 \u043f\u0435\u0440\u0435\u043c\u043e\u0436\u0435",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8282e8efeb40d34591eabadcdb5db8c8~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=hgrOyK2v5CGyVF%2FpxDMpPPFS0r0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8282e8efeb40d34591eabadcdb5db8c8~c5_720x720.jpeg?x-expires=1649800800&x-signature=%2BMhJ7OS%2FC4KriOBOVp68EVEpf0s%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8282e8efeb40d34591eabadcdb5db8c8~c5_100x100.jpeg?x-expires=1649800800&x-signature=UguQHe12DH26CQ4k1FSJd7%2FeddM%3D",
+        "signature": "\u043a\u0430\u043d\u0442\u0435",
+        "createTime": 1649682826,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjh6ubOF8-ixrePw8uJ4zEtwS9YHjN3D7_hIn96MFnUc46_HaZsc_4xmQIN6Z6aot",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4,
+        "followingCount": 6,
+        "heart": 30,
+        "heartCount": 30,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

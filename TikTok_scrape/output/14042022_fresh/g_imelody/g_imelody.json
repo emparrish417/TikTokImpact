@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6899050112090244102",
+        "shortId": "",
+        "uniqueId": "g_imelody",
+        "nickname": "Melody",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46896bf5a693942f67502e9575ea4a68~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=D8mOgkMmxNZ5oJoKpN8uzgE8THk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46896bf5a693942f67502e9575ea4a68~c5_720x720.jpeg?x-expires=1650114000&x-signature=jHroLodaWV0NRqTUA5zJ3T%2F19SI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46896bf5a693942f67502e9575ea4a68~c5_100x100.jpeg?x-expires=1650114000&x-signature=VXimimTTpXJD3sZ2xmhMWYdWGco%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6UKRAINE\ud83c\uddfa\ud83c\udde6\n\ud83d\udc99\ud83d\udc9b\u041a\u0438\u0457\u0432\ud83d\udc99\ud83d\udc9b",
+        "createTime": 1606330035,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA9iu1vQ4_xcoQXW2T_N-KqUMzGfJ-DoSWhYQeTSw9ZSZXsg6AuXZMN5Qy3U5lWqMg",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 105,
+        "followingCount": 129,
+        "heart": 1588,
+        "heartCount": 1588,
+        "videoCount": 49,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6849403081169011718",
+        "shortId": "",
+        "uniqueId": "m.hasnain2012",
+        "nickname": "mhasnain2012\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+        "avatarLarger": "https://p77-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/6301e6c5ecd507cc7d9648ab53fe072e.jpeg?x-expires=1649372400&x-signature=Qo%2FWhau1F0vT08e1tfTSDRdl670%3D",
+        "avatarMedium": "https://p77-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/6301e6c5ecd507cc7d9648ab53fe072e.jpeg?x-expires=1649372400&x-signature=xRMqQokkv%2B1MzagUreC0iQGoxEc%3D",
+        "avatarThumb": "https://p77-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6301e6c5ecd507cc7d9648ab53fe072e.jpeg?x-expires=1649372400&x-signature=WObp4A3aGx%2BKAnrFbtonuIgvYpY%3D",
+        "signature": "News/entertainment \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f \nFor Full videos please click on the YouTube channel!",
+        "createTime": 1594722389,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAR71HjfJeRN1VyDLeAF6NZQCj-eB-Te93UC4YPBqheHuJeudXIxKpYjOMhnLWudcm",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.youtube.com/channel/UCZhnZRvGgT8RvYLo_8x4pUQ",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 123100,
+        "followingCount": 34,
+        "heart": 2000000,
+        "heartCount": 2000000,
+        "videoCount": 511,
+        "diggCount": 0
+    },
+    "itemList": []
+}

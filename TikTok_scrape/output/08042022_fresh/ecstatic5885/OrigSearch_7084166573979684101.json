@@ -1,0 +1,102 @@
+{
+    "id": "7084166573979684101",
+    "desc": "Stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+    "createTime": 1649411066,
+    "video": {
+        "id": "7084166573979684101",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/df8f63e79e764423aaab59fa27a116c7?x-expires=1649473200&x-signature=C%2BQsh%2BfUs49KGLYgi97P7CODa3E%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2a8f6c44253048b8a9a4d4355bfd5479_1649411067?x-expires=1649473200&x-signature=6vIcDwESor4uLqX0N8YHx%2FR%2Fv5Q%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f966d2ef33064632836a0cd1d38f251a_1649411067?x-expires=1649473200&x-signature=a9T6Mlgej7w%2BlPAoST4dH%2Fz7krI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5380cc96e3758a44cd61434f0c5c23a4/6251006f/video/tos/useast2a/tos-useast2a-ve-0068c003/7c071586b85e401aacc733190872b687/?a=1988&br=480&bt=240&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQgjIDXq&l=2022040821412501011313513921E5F10A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2o3dWk6ZnczPDMzNzczM0ApNGg6PDgzaTs7NzxkZTs3OWduZi5qcjRvNDVgLS1kMTZzczFiMmE2YDBiXy8yXi1eMl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5380cc96e3758a44cd61434f0c5c23a4/6251006f/video/tos/useast2a/tos-useast2a-ve-0068c003/7c071586b85e401aacc733190872b687/?a=1988&br=480&bt=240&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQgjIDXq&l=2022040821412501011313513921E5F10A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2o3dWk6ZnczPDMzNzczM0ApNGg6PDgzaTs7NzxkZTs3OWduZi5qcjRvNDVgLS1kMTZzczFiMmE2YDBiXy8yXi1eMl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2a8f6c44253048b8a9a4d4355bfd5479_1649411067~tplv-tiktok-play.jpeg?x-expires=1650056400&x-signature=vpHKu6aC0sHqyS95WQpxyELT92s%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2a8f6c44253048b8a9a4d4355bfd5479_1649411067~tplv-tiktokx-share-play.jpeg?x-expires=1650056400&x-signature=jZszosj4krpoFNhwUjPFs7CaRIw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/df8f63e79e764423aaab59fa27a116c7?x-expires=1649473200&x-signature=C%2BQsh%2BfUs49KGLYgi97P7CODa3E%3D",
+        "bitrate": 246339,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7047574501346231301",
+        "uniqueId": "ecstatic5885",
+        "nickname": "Stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/353fff9fdb970969156cf2425634867c~c5_100x100.jpeg?x-expires=1649538000&x-signature=JQ6s6BxvPuatU4OhEywiQvwCkvk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/353fff9fdb970969156cf2425634867c~c5_720x720.jpeg?x-expires=1649538000&x-signature=rXgABLhBinZjNdkWckYQq1QBL8I%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/353fff9fdb970969156cf2425634867c~c5_1080x1080.jpeg?x-expires=1649538000&x-signature=qTVxp10AzMnLz7xAqi%2FIBMc1Myw%3D",
+        "signature": "Stand with Ukraine Be kind and help others that came from Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjG4CnmPzQmVDG5H83C8gnCiI2noWh6Np2LzN6HHfeEfImVwHU3mg8x5_8surWI_O",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068388549883611910",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7068388555776674565.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/beda3c3ed85b7162370f5d2e81924cb1~c5_100x100.jpeg?x-expires=1649538000&x-signature=XHZ%2BakIL2YfUNf2QMJYcUZzfCks%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/beda3c3ed85b7162370f5d2e81924cb1~c5_720x720.jpeg?x-expires=1649538000&x-signature=cTr80B7ELjuYukwly61oluhRvGQ%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/beda3c3ed85b7162370f5d2e81924cb1~c5_1080x1080.jpeg?x-expires=1649538000&x-signature=MtzebfJMv3Fvsjz3B8jXwF9ukKo%3D",
+        "authorName": "Lauren Amour",
+        "original": true,
+        "duration": 76,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 21,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 1048
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 283,
+        "followerCount": 33,
+        "heartCount": 75,
+        "videoCount": 138,
+        "diggCount": 4191,
+        "heart": 75
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Please \ud83d\ude4f for Ukraine \ud83c\uddfa\ud83c\udde6 \n\ufffc\ufffc",
+                "Be safe do not hate UKraine \nBecause UKraine is not \ufffc\ufffcbad",
+                "They are doing everything that they can\ufffc",
+                "Let\u2019s donate and help Ukraine\ufffc",
+                "\ud83c\uddfa\ud83c\udde6 \ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

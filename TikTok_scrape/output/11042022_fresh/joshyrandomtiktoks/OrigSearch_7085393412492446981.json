@@ -1,0 +1,96 @@
+{
+    "id": "7085393412492446981",
+    "desc": "Follow if you stand with with Ukraine \ud83d\ude01",
+    "createTime": 1649696709,
+    "video": {
+        "id": "7085393412492446981",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8a2c0e39002e4b208efee35d216efe01?x-expires=1649736000&x-signature=Sm5DUTA%2BXHB86sajTjmwxWNFfIE%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e70dca2817e34a168076c3e21c98c205_1649696711?x-expires=1649736000&x-signature=ie0AhuWTSHgHzfRuSUkvk76bZs8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8564cd330d0f4b24bcc1ff81a1e08118_1649696711?x-expires=1649736000&x-signature=k7kQuU8TcAY6yx3M8vPt9tTjTHE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c5823be100ac556a18f6394bbbd54b48/6254fcbb/video/tos/useast2a/tos-useast2a-ve-0068c001/cf07511b027741c9b2e0408a48681741/?a=1988&br=506&bt=253&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThB5jaDXq&l=202204112214420101130060430A8D0DC7&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZvZTY6Zms4PDMzNzczM0ApNzg5Ojc3Nzs5NzZkaGU2Nmdvc2FmcjRfcl5gLS1kMTZzcy02MGAvMS1fYmIyNGEvNmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c5823be100ac556a18f6394bbbd54b48/6254fcbb/video/tos/useast2a/tos-useast2a-ve-0068c001/cf07511b027741c9b2e0408a48681741/?a=1988&br=506&bt=253&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThB5jaDXq&l=202204112214420101130060430A8D0DC7&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZvZTY6Zms4PDMzNzczM0ApNzg5Ojc3Nzs5NzZkaGU2Nmdvc2FmcjRfcl5gLS1kMTZzcy02MGAvMS1fYmIyNGEvNmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e70dca2817e34a168076c3e21c98c205_1649696711~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=JjH9RnFbve9ir3q68RFbkT4St64%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e70dca2817e34a168076c3e21c98c205_1649696711~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=PsD8AfK3IMV7KJs%2Bpjr1TqUoSTE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8a2c0e39002e4b208efee35d216efe01?x-expires=1649736000&x-signature=Sm5DUTA%2BXHB86sajTjmwxWNFfIE%3D",
+        "bitrate": 259826,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7078336432204612613",
+        "uniqueId": "joshyrandomtiktoks",
+        "nickname": "JoshyRandomTiktoks",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e30b6b9ca41b14ac922ed0739935e968~c5_100x100.jpeg?x-expires=1649800800&x-signature=HBSFcgxA6PiCK%2BIrRTiwLoHfOPU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e30b6b9ca41b14ac922ed0739935e968~c5_720x720.jpeg?x-expires=1649800800&x-signature=cTMgwkrbJDS3H1GXXFTjgldF1MU%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e30b6b9ca41b14ac922ed0739935e968~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=JnFE%2B%2BmZxAgt3b3Y66BnKRGaHOM%3D",
+        "signature": "Hi , I'm Josh and I film random nonsense tiktoks I'm taken already by the way \ud83d\ude06",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlupt6SF0qVVH_tXrkA7Ff_p0l5pQvrEAj8BfT8WH3EyWGmy9I8S6m1MKlFQB_UwW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6858936224556616454",
+        "title": "Sweet Caroline",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6858936182441511685.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0d228f41c1973edd26300ecf56f11578~c5_100x100.jpeg?x-expires=1649800800&x-signature=7BVRyZDeuqWdHHTeV1BqGp%2FmySw%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0d228f41c1973edd26300ecf56f11578~c5_720x720.jpeg?x-expires=1649800800&x-signature=iiAZS0AjLiRXEqMS3fZomHMz1AE%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0d228f41c1973edd26300ecf56f11578~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=GERgwo2dwKHJKVEjEePCv%2BGyBcs%3D",
+        "authorName": "Hi:)",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 195
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Whiteboard",
+            "ID": "644651"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 12,
+        "followerCount": 11,
+        "heartCount": 51,
+        "videoCount": 15,
+        "diggCount": 12,
+        "heart": 51
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

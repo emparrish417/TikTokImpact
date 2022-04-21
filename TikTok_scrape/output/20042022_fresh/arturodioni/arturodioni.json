@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6941730596739007494",
+        "shortId": "",
+        "uniqueId": "arturodioni",
+        "nickname": "Mr. Dioni",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/872cb4f368d34158131e24199c4923e5~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=yK3ePjb6VLwWP7%2BNuVLljBt0U8I%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/872cb4f368d34158131e24199c4923e5~c5_720x720.jpeg?x-expires=1650664800&x-signature=na5RHtC%2FXlzv7bNqPt4zzgKfKGg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/872cb4f368d34158131e24199c4923e5~c5_100x100.jpeg?x-expires=1650664800&x-signature=s%2FwMLAxAcBWvsqWLKaVB4sZ12cU%3D",
+        "signature": "#STANDWITHUKRAINE",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGoP558aS3wCqEnR5EzI0rsj1muUkqK6II-saJdQxYl49GE3zXpMhNMNkvQNtkoiB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2758,
+        "followingCount": 23,
+        "heart": 30000,
+        "heartCount": 30000,
+        "videoCount": 46,
+        "diggCount": 0
+    },
+    "itemList": []
+}

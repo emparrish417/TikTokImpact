@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "175406084952633344",
+        "shortId": "",
+        "uniqueId": "elibruh112233",
+        "nickname": "Ginger\ud83e\udde1",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b7710ff3d582575aad9231d0249be02d~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=%2BX5K%2BMs6oxUPGRgkOTdkaYLmLIE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b7710ff3d582575aad9231d0249be02d~c5_720x720.jpeg?x-expires=1650481200&x-signature=gHYq4DUWnrAJgoXpg8D1Raagl08%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b7710ff3d582575aad9231d0249be02d~c5_100x100.jpeg?x-expires=1650481200&x-signature=hjJ6q7skaRy%2F%2FylrAhqwa8uMHOM%3D",
+        "signature": "Ginger\ud83e\udde1",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmbELpfRN9aIDVNFKsnDTdIJSKDeSQ-VLGMzwt5mZ0AgkgGLfkhgMEln7KeWLs_P2",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 91100,
+        "followingCount": 273,
+        "heart": 2600000,
+        "heartCount": 2600000,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

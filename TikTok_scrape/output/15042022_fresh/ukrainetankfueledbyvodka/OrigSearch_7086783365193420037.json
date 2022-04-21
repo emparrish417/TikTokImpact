@@ -1,0 +1,113 @@
+{
+    "id": "7086783365193420037",
+    "desc": "credit goes to @ghostfacecultvscharli",
+    "createTime": 1650020334,
+    "video": {
+        "id": "7086783365193420037",
+        "height": 1024,
+        "width": 576,
+        "duration": 38,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/224dd9f215fd4b36ae7bdd54b91418b4?x-expires=1650088800&x-signature=oDH9OtfN7zmJhQf6jVI83hAu4jw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a5d04fd13a294f49b3565a93fbf5fbaa_1650020335?x-expires=1650088800&x-signature=uVYPfbY%2Fdv%2BL5Gik6YKCTo6HjQk%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f4bccc277e1643429213665f9f7bacb7_1650020336?x-expires=1650088800&x-signature=nu4iWdnoGV1Z1fzjxWlsxlnMsUw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/59ec761b1d74f17cf4630d01931ae29d/625a6593/video/tos/useast2a/tos-useast2a-ve-0068c001/5cd6c718bdd242c6b9f89cd345b4ff19/?a=1988&br=1602&bt=801&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-sGLwe2NVZefl7Gb&l=202204160042520101131351681E9EEBA9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZzcDM6ZnFuPDMzNzczM0ApNjVkaThnZ2Q5N2k0Njk5NWcybjBzcjQwcmBgLS1kMTZzcy5gMC0uMC42MWIvNjQwXjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/59ec761b1d74f17cf4630d01931ae29d/625a6593/video/tos/useast2a/tos-useast2a-ve-0068c001/5cd6c718bdd242c6b9f89cd345b4ff19/?a=1988&br=1602&bt=801&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-sGLwe2NVZefl7Gb&l=202204160042520101131351681E9EEBA9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZzcDM6ZnFuPDMzNzczM0ApNjVkaThnZ2Q5N2k0Njk5NWcybjBzcjQwcmBgLS1kMTZzcy5gMC0uMC42MWIvNjQwXjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a5d04fd13a294f49b3565a93fbf5fbaa_1650020335~tplv-tiktok-play.jpeg?x-expires=1650672000&x-signature=ZtXh68fL12Y5%2BTC5x2rIcXlVBgA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a5d04fd13a294f49b3565a93fbf5fbaa_1650020335~tplv-tiktokx-share-play.jpeg?x-expires=1650672000&x-signature=vFEzfgLfvX9uTdhL%2Fy5vRgc319Q%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/224dd9f215fd4b36ae7bdd54b91418b4?x-expires=1650088800&x-signature=oDH9OtfN7zmJhQf6jVI83hAu4jw%3D",
+        "bitrate": 820248,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6915526672579380230",
+        "uniqueId": "ukrainetankfueledbyvodka",
+        "nickname": "uno backwards is no u",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f379ed343fe760914f2f6b3b56a1fcf~c5_100x100.jpeg?x-expires=1650240000&x-signature=gOVAWJQBZrh%2BpSuAh8hp3nd5wIY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f379ed343fe760914f2f6b3b56a1fcf~c5_720x720.jpeg?x-expires=1650240000&x-signature=mkljaS9P5gb23PmPm1%2F63AGwuMA%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f379ed343fe760914f2f6b3b56a1fcf~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=hNZMbG98gu9g0vHYrXAEKtpowm8%3D",
+        "signature": "changed name from Russian tank to Ukrainian tank because of the war",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJpVr0kxA6xWooNuJlnHCwC4xyrq6SYr-ilqhjnt90BgeH2Bt2DQrD2VQ5TlK8lMY",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7035854647743220527",
+        "title": "Revengeance Status",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7035854747634666286.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2b47833f0adbcd5150532d46fa6595f5~c5_100x100.jpeg?x-expires=1650240000&x-signature=rVtVU743ax6fB0lRGS99iSfy6jw%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2b47833f0adbcd5150532d46fa6595f5~c5_720x720.jpeg?x-expires=1650240000&x-signature=j2YuuzCG9tKK9E3KATe3V%2BLATn4%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2b47833f0adbcd5150532d46fa6595f5~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=YtiGNUYWCaoDN%2FCimRTP%2Blg39uI%3D",
+        "authorName": "I was here \ud83e\udd28",
+        "original": true,
+        "duration": 29,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 80
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 15,
+            "end": 37,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6998428015345320966",
+            "isCommerce": false,
+            "userUniqueId": "ghostfacecultvscharli",
+            "secUid": "MS4wLjABAAAA0tRqI2fepYK-vz0s71SubU1qCZ5ij_HuqWV4GMaVF5CRCseGltC8rHj18u7-wHA0",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 103,
+        "followerCount": 30,
+        "heartCount": 224,
+        "videoCount": 53,
+        "diggCount": 365,
+        "heart": 224
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "how tf did we run out"
+            ]
+        }
+    ],
+    "isAd": false
+}

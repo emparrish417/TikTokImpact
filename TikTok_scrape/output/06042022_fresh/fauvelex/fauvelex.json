@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "163355377093218304",
+        "shortId": "",
+        "uniqueId": "fauvelex",
+        "nickname": "Fauve Lex",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a94a2103975fccdfb8cc130947ebacfe~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=R9jHFNCpAJWlwPpOmdBQ99ucvO4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a94a2103975fccdfb8cc130947ebacfe~c5_720x720.jpeg?x-expires=1649372400&x-signature=0y0c6xmjPpdHqsguK5FaYCpkTOI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a94a2103975fccdfb8cc130947ebacfe~c5_100x100.jpeg?x-expires=1649372400&x-signature=279cugKQrG0y7B5zsnK4pdb%2FGD4%3D",
+        "signature": "TATTOOARTIST\nGermany;NRW",
+        "createTime": 1479289672,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_i1q1mOFzbe4bUv0IG16rA68kFb2AFoQSXtjV0kshYzlrzQwCY9tZo-6M3IJjz7Y",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.FAUVE-LEX.de",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15200,
+        "followingCount": 247,
+        "heart": 170400,
+        "heartCount": 170400,
+        "videoCount": 135,
+        "diggCount": 0
+    },
+    "itemList": []
+}

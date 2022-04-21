@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7062316137753674757",
+        "shortId": "",
+        "uniqueId": "fking.10",
+        "nickname": "King",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/24f0dc00cf2a1611f29949f23c9bfe7c~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=JvBNiLkz20WF8ozmLKX0M29Cms4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/24f0dc00cf2a1611f29949f23c9bfe7c~c5_720x720.jpeg?x-expires=1650578400&x-signature=jquU7AMwv8q6oguUMf6Rk5f%2BeE0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/24f0dc00cf2a1611f29949f23c9bfe7c~c5_100x100.jpeg?x-expires=1650578400&x-signature=9oZz%2FErvDoAKNN4hpM9gPBod2lo%3D",
+        "signature": "better to die than to kneel.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV_yES77qKxJL2hXdcYzH8ztgjaU5DXEBJYM-ghMCuGFtJ7dqIvuZDZf1a7UfWIdA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7692,
+        "followingCount": 0,
+        "heart": 65800,
+        "heartCount": 65800,
+        "videoCount": 51,
+        "diggCount": 0
+    },
+    "itemList": []
+}

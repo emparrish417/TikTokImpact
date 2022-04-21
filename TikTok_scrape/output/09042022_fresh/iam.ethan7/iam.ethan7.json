@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6671872837962350594",
+        "shortId": "",
+        "uniqueId": "iam.ethan7",
+        "nickname": "ETHAN\ud83c\uddf5\ud83c\udded\ud83c\uddf9\ud83c\udded",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/858fcd6f366e382ab10909c07d63fe45~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=TPFvvJIDfHpW3%2B6x2bCD39HphhM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/858fcd6f366e382ab10909c07d63fe45~c5_720x720.jpeg?x-expires=1649638800&x-signature=TqWrDHW1pIN7axyn8mkh024j4ms%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/858fcd6f366e382ab10909c07d63fe45~c5_100x100.jpeg?x-expires=1649638800&x-signature=teZ%2F3Sv%2BInTRk%2BD%2F2OY2Hgh2FTM%3D",
+        "signature": "FB\ud83d\udc49ETHAN ARTIAGA\ud83d\udc48\nBOHOL/BULACAN\ud83d\udcaa\nRANDOM CONTENT\ud83d\ude4b",
+        "createTime": 1553387807,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOn_RxT5Bwu6eIrVprsrduD8Q27wLhXyvCC2-Z_GoSsgvJedXX2Jm4Gj-eGePnDmV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCl9iqdGTCcAgfl1QG0_LXeQ",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 44300,
+        "followingCount": 2587,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 69,
+        "diggCount": 0
+    },
+    "itemList": []
+}

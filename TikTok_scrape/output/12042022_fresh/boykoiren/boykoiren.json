@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6942592532271694854",
+        "shortId": "",
+        "uniqueId": "boykoiren",
+        "nickname": "Boyko Iren",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef2f84712f880dcbe440bc05030c55b7~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=DPJr1Fp89c7jCUY6IwFZvSApQVs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef2f84712f880dcbe440bc05030c55b7~c5_720x720.jpeg?x-expires=1649905200&x-signature=uJQNMzMygtlj78EZWeNpYOye1Rk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef2f84712f880dcbe440bc05030c55b7~c5_100x100.jpeg?x-expires=1649905200&x-signature=ZGUbepIkcwTsuzS8Tpy7%2FC6VtD8%3D",
+        "signature": "",
+        "createTime": 1616448577,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAK7fmwAUICO8VVqGvijkCklyqvWv7Nt5LKZFk6kVxQ28la_EH9PpYx2IrNalb_LA-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 16,
+        "followingCount": 84,
+        "heart": 56,
+        "heartCount": 56,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

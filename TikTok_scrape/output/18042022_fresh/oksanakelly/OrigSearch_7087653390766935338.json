@@ -1,0 +1,96 @@
+{
+    "id": "7087653390766935338",
+    "desc": "",
+    "createTime": 1650222901,
+    "video": {
+        "id": "7087653390766935338",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7c7588fe9925498db32e8972b89a3cb0?x-expires=1650330000&x-signature=IL6r7TNP40KI7wLEvqwGInRDJRE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9cf29082e3804abd9907bdcf049b0423_1650222902?x-expires=1650330000&x-signature=rdrH15WgBxhTpExg34X2bRYfuR8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/19a1bed39b514206b73bb2d894448459_1650222903?x-expires=1650330000&x-signature=I2bwjGgW7JWcOlgxrBdwM%2FkLMbk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e0496e5f52eccec2a8f48e38d4d4825c/625e0d7c/video/tos/useast5/tos-useast5-pve-0068-tx/e549bb534975441cbfd6c91b4f1d03d0/?a=1988&br=1322&bt=661&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=andyZWU6Znk5PDMzZzczNEApNDY4NjZlOmQ3N2Y0MzkzZWdyL2BxcjRfXmJgLS1kMS9zc2NeNS5iNjFeXmAzMy4xXjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e0496e5f52eccec2a8f48e38d4d4825c/625e0d7c/video/tos/useast5/tos-useast5-pve-0068-tx/e549bb534975441cbfd6c91b4f1d03d0/?a=1988&br=1322&bt=661&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=andyZWU6Znk5PDMzZzczNEApNDY4NjZlOmQ3N2Y0MzkzZWdyL2BxcjRfXmJgLS1kMS9zc2NeNS5iNjFeXmAzMy4xXjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9cf29082e3804abd9907bdcf049b0423_1650222902~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=vfF4XVhK5J2WJaLmbcdpe0z20qI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9cf29082e3804abd9907bdcf049b0423_1650222902~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=cqQLn1Ju%2FHDvptdVRhcgmCZ2oic%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7c7588fe9925498db32e8972b89a3cb0?x-expires=1650330000&x-signature=1KzSOmO5zBr0OjV1XSS6cqh%2BmpI%3D",
+        "bitrate": 677165,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7012709492211074054",
+        "uniqueId": "oksanakelly",
+        "nickname": "Okssna Kelly",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/409d99b9db79009c558057ab1a9ece4e~c5_100x100.jpeg?x-expires=1650481200&x-signature=QL4SEPxezhXGEe6%2F0jtCwAcqlu4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/409d99b9db79009c558057ab1a9ece4e~c5_720x720.jpeg?x-expires=1650481200&x-signature=btsLJSi88gf5D8X6rrFDkU9Jgss%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/409d99b9db79009c558057ab1a9ece4e~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=taHd4XbGqZwgxUFrRujfWTkI7i8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwjPdVXWYJ2EMJql25t-8IsVJvYy7B8rpyH9qjaPBWuGeWaaSTOEby_gYZJNmj-gT",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075843541615790082",
+        "title": "Pray for Ukraine (Remix)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c44b8a95f0e84de9b2c87bee26c545a1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/90c682c924e046dfa2ce28525e07d9f9.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/90c682c924e046dfa2ce28525e07d9f9.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/90c682c924e046dfa2ce28525e07d9f9.jpeg",
+        "authorName": "Zlata Ognevich",
+        "original": false,
+        "duration": 60,
+        "album": "Pray for Ukraine (Remix)"
+    },
+    "stats": {
+        "diggCount": 12,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 384
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Marilyn Monroe Makeup",
+            "ID": "1807684"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 229,
+        "followerCount": 159,
+        "heartCount": 2392,
+        "videoCount": 59,
+        "diggCount": 3787,
+        "heart": 2392
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

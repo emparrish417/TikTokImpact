@@ -1,0 +1,145 @@
+{
+    "id": "7088420407761538350",
+    "desc": "@Slim Jim @carsondrae @addiebear693",
+    "createTime": 1650401487,
+    "video": {
+        "id": "7088420407761538350",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/728890c78d0a4798853ed5187d0aa5b3?x-expires=1650427200&x-signature=vmFqjlnOW%2FJYyxgN1SdMloo0eXs%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9b72ca0cc20e4216b5839c37d81e283d_1650401488?x-expires=1650427200&x-signature=VOjn7Mzp5snINd1YCY%2F5mnw8%2Bto%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/212304710f474331a11d8499929b8874_1650401488?x-expires=1650427200&x-signature=fCjph6%2BnX6R36wvdZTn79Xzs92M%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/024ec4d2254fef8b07e7acd6f165b12a/625f8a77/video/tos/useast5/tos-useast5-ve-0068c001-tx/a97411fd6c264ff7a17c98f5a486d7f1/?a=1988&br=464&bt=232&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zk1iwwe2NPq~fl7Gb&l=202204192222060101130061320102FF0C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2pydmQ6ZnhsPDMzZzczNEApaDdnN2VpZTszNzg6aWU0N2drcWsvcjQwLWNgLS1kMS9zc2EzNDYtYTMzNi1hLzFjLmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/024ec4d2254fef8b07e7acd6f165b12a/625f8a77/video/tos/useast5/tos-useast5-ve-0068c001-tx/a97411fd6c264ff7a17c98f5a486d7f1/?a=1988&br=464&bt=232&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zk1iwwe2NPq~fl7Gb&l=202204192222060101130061320102FF0C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2pydmQ6ZnhsPDMzZzczNEApaDdnN2VpZTszNzg6aWU0N2drcWsvcjQwLWNgLS1kMS9zc2EzNDYtYTMzNi1hLzFjLmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9b72ca0cc20e4216b5839c37d81e283d_1650401488~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=mtoewraqJMXmCLwOHk4EH5YNZMw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9b72ca0cc20e4216b5839c37d81e283d_1650401488~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=6bP3C0DVMEQLO7RMRQa%2Bo5gkQeE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/728890c78d0a4798853ed5187d0aa5b3?x-expires=1650427200&x-signature=vmFqjlnOW%2FJYyxgN1SdMloo0eXs%3D",
+        "bitrate": 237914,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6933643911648297990",
+        "uniqueId": "standwithukrain4life",
+        "nickname": "grace torres55",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/19518b54f948e03c8c5b7fe9d3adafb8~c5_100x100.jpeg?x-expires=1650578400&x-signature=%2BfVqZqv1daNGnkUrsWA4KRMgG9Y%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/19518b54f948e03c8c5b7fe9d3adafb8~c5_720x720.jpeg?x-expires=1650578400&x-signature=0HkxaxzXLFuQz2sr%2Bi3IuZ6Qgpo%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/19518b54f948e03c8c5b7fe9d3adafb8~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=9jUJ2pUpcB%2BbCWng729W0sa5Ans%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5QNk0Nd15dIk-2tfvsxucEJZzG4d5KiFvk7ho_Le6zxNbZrLOlt8Ht0YIGLna_E0",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7066529479883017007",
+        "title": "follow my ig saltyroast",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7066526860812831535.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2175d42e88d9367f6e692ded595f1cd1~c5_100x100.jpeg?x-expires=1650578400&x-signature=wwJeWYIfe6zAvu0ZNdFuTWt9dG8%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2175d42e88d9367f6e692ded595f1cd1~c5_720x720.jpeg?x-expires=1650578400&x-signature=UUbnMw402ZzeWsMllhVZIjaZCos%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2175d42e88d9367f6e692ded595f1cd1~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=MoSTOVNIC6Lx%2Bwq0Zg1Cue13u08%3D",
+        "authorName": "dev",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 4
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 9,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7053191765201355822",
+            "isCommerce": false,
+            "userUniqueId": "slimjim",
+            "secUid": "MS4wLjABAAAAfnTaPTwxHiA6YMLCG3F31Os2f0FVYnwwZYNAWT3QJPIJ6BVq_caP7E-PwAYjbKQB",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 10,
+            "end": 21,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "59807954098479104",
+            "isCommerce": false,
+            "userUniqueId": "carsondrae",
+            "secUid": "MS4wLjABAAAAlkU0Jx0wYycygBlh9P7Wx1uQi2Ozc1SYk1k8AlG1wZRSX0jVq3jL8v0Gijuq4iSo",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 35,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7085037180666283050",
+            "isCommerce": false,
+            "userUniqueId": "addiebear693",
+            "secUid": "MS4wLjABAAAAVqLbLVXZnkdNM52bZ7oWw6Llc4hQQTl-OgCm4K1WmdF2EE8QCeihzWGc4a5hNrfv",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "grey aesthetic",
+            "ID": "1199634"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 60,
+        "followerCount": 11,
+        "heartCount": 13,
+        "videoCount": 3,
+        "diggCount": 684,
+        "heart": 13
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I bet you slim Jim will comment in 24 hours "
+            ]
+        }
+    ],
+    "isAd": false
+}

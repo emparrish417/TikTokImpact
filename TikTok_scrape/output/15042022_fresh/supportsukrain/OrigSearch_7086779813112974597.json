@@ -1,0 +1,96 @@
+{
+    "id": "7086779813112974597",
+    "desc": "",
+    "createTime": 1650019508,
+    "video": {
+        "id": "7086779813112974597",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/41eca288612b41aebf28266ee7e867fe?x-expires=1650088800&x-signature=vEHrnews34fL%2Fvhtko4lfH9Vwj4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2890aa62fc164b4db51e31b163a1f50d_1650019509?x-expires=1650088800&x-signature=e158VCSpNhDz1BJr2oyuL1hSOQA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e12fe536ed9d4296b9cc1e04611a2d2b_1650019509?x-expires=1650088800&x-signature=TkV2zRMeaJOi6XXXLGrhKQdPtTw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e695865ea9023b9b31fa449bc0bf4758/625a6570/video/tos/useast2a/tos-useast2a-pve-0068/5ace8f61332440d9915c91d17cf2c688/?a=1988&br=2432&bt=1216&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZLsGLwe2NZE~fl7Gb&l=202204160042410101131351741F6C3277&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w2c2k6ZjluPDMzNzczM0ApNzU7OzZkODs7N2hmNmc7ZGc0bzUycjRfbWBgLS1kMTZzczVeYF5gMmBhXjI1LjI2Ll46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e695865ea9023b9b31fa449bc0bf4758/625a6570/video/tos/useast2a/tos-useast2a-pve-0068/5ace8f61332440d9915c91d17cf2c688/?a=1988&br=2432&bt=1216&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZLsGLwe2NZE~fl7Gb&l=202204160042410101131351741F6C3277&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w2c2k6ZjluPDMzNzczM0ApNzU7OzZkODs7N2hmNmc7ZGc0bzUycjRfbWBgLS1kMTZzczVeYF5gMmBhXjI1LjI2Ll46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2890aa62fc164b4db51e31b163a1f50d_1650019509~tplv-tiktok-play.jpeg?x-expires=1650672000&x-signature=NQ%2BmtIAX4gXWrPa4HhQFFmQd0%2Fg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2890aa62fc164b4db51e31b163a1f50d_1650019509~tplv-tiktokx-share-play.jpeg?x-expires=1650672000&x-signature=gwvcm6Dimtxo6EJE5nBQe9zm5V0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/41eca288612b41aebf28266ee7e867fe?x-expires=1650088800&x-signature=vEHrnews34fL%2Fvhtko4lfH9Vwj4%3D",
+        "bitrate": 1245544,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7071132238637581318",
+        "uniqueId": "supportsukrain",
+        "nickname": "Supportsukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df7d422f43549d3c0dd1d6a70efd320c~c5_100x100.jpeg?x-expires=1650240000&x-signature=2nOZr8rWfmvDd33MYse5bXuj%2FDg%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df7d422f43549d3c0dd1d6a70efd320c~c5_720x720.jpeg?x-expires=1650240000&x-signature=eSfbl0vN0sikDY4ZuZmCalL%2BW9E%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df7d422f43549d3c0dd1d6a70efd320c~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=gNfsmrtuXnt6Ymb%2FvhLV7YLxbzU%3D",
+        "signature": "Hi",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPwcNjvRTzMk2C-EobM3gkDCgPgmxT_4H1eIPMTPVs3Gp9kwgZ1_thhgiTIbiUaW9",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6755551662368098305",
+        "title": "No Lie",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/92d8b9ce3e4f44d083ca2182d4c90697",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c12d804a4f2542c2aee4a5f2259598da.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/c12d804a4f2542c2aee4a5f2259598da.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c12d804a4f2542c2aee4a5f2259598da.jpeg",
+        "authorName": "Sean Paul",
+        "original": false,
+        "duration": 30,
+        "album": "Mad Love The Prequel"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Kira Beauty",
+            "ID": "1056288"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 360,
+        "followerCount": 94,
+        "heartCount": 780,
+        "videoCount": 293,
+        "diggCount": 4903,
+        "heart": 780
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

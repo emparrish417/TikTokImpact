@@ -1,0 +1,90 @@
+{
+    "id": "7085848149507575083",
+    "desc": "",
+    "createTime": 1649802586,
+    "video": {
+        "id": "7085848149507575083",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5f5d4eed8a7417a988f4c9253950290?x-expires=1649840400&x-signature=tKdaAkBOmFBlhdqKj8Vujy3%2Fjtc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f0ebd56341864d4496a5d22ea8eecb0c_1649802587?x-expires=1649840400&x-signature=bIRI%2BtEX2p1dq66d9KEy4NB7Ajg%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d2d11a4c00e44ade86ec3ac6f0583716_1649802587?x-expires=1649840400&x-signature=pn9HU%2FU7F0ZCqEDhhcPBeZVFslI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b78635fe6470d7570b6b469c95a17545/625691df/video/tos/useast5/tos-useast5-ve-0068c001-tx/d710fc23671f45c29756e5994d714dca/?a=1988&br=2882&bt=1441&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3J4aDXq&l=202204130303120101130062070CDBDD8D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRsPDM6Zmp4PDMzZzczNEApNWlnZ2k1Ozs6NzM2ZWg0N2diXnNlcjRfbl5gLS1kMS9zcy4yXy9fYTUwNjUxXy40XzE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b78635fe6470d7570b6b469c95a17545/625691df/video/tos/useast5/tos-useast5-ve-0068c001-tx/d710fc23671f45c29756e5994d714dca/?a=1988&br=2882&bt=1441&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3J4aDXq&l=202204130303120101130062070CDBDD8D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRsPDM6Zmp4PDMzZzczNEApNWlnZ2k1Ozs6NzM2ZWg0N2diXnNlcjRfbl5gLS1kMS9zcy4yXy9fYTUwNjUxXy40XzE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f0ebd56341864d4496a5d22ea8eecb0c_1649802587~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=xJkcd78up0rjS4O1jTzNbCXK3IM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f0ebd56341864d4496a5d22ea8eecb0c_1649802587~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=CVTf5qERRdpU8SU9s1GickEXQDw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c5f5d4eed8a7417a988f4c9253950290?x-expires=1649840400&x-signature=PqbkWYAAq3bfDGECxKeL2dgMSvE%3D",
+        "bitrate": 1475702,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7064221057091208238",
+        "uniqueId": "luvhshxll7",
+        "nickname": "I stand with Ukrain",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/49116449760b2ebc6c7e94b487aac4fb~c5_100x100.jpeg?x-expires=1649905200&x-signature=9jCCBKGGwkJy9pbHzMhlyahtCLw%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/49116449760b2ebc6c7e94b487aac4fb~c5_720x720.jpeg?x-expires=1649905200&x-signature=tpPYxfqJZ%2BJg5rzctpIf%2BVpWaTs%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/49116449760b2ebc6c7e94b487aac4fb~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=GXFuObLar3mfxnXgM8ZTXn1lv7w%3D",
+        "signature": "\u2744\ufe0f\ud83e\udd0d goal 5,005 followers \u2744\ufe0f\ud83e\udd0d\n\u2744\ufe0f\ud83e\udd0d spam=block \u2744\ufe0f\ud83e\udd0d\n\u2744\ufe0f\ud83e\udd0d like \u2744\ufe0f\ud83e\udd0d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAa6zLiHDnYDPPDCCZS5WvPmhorbXmMj3i9zP-glBqAtQmKv05fLBrPlcMBZNjyAcX",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081420341813316395",
+        "title": "As It Was",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/341e9494b65d4cdf9b5800cd39b88d9f",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/bbfd260dd24a448ca20211537dabd475.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/bbfd260dd24a448ca20211537dabd475.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/bbfd260dd24a448ca20211537dabd475.jpeg",
+        "authorName": "Harry Styles",
+        "original": false,
+        "duration": 17,
+        "album": "As It Was"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 18
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 132,
+        "followerCount": 52,
+        "heartCount": 514,
+        "videoCount": 134,
+        "diggCount": 2384,
+        "heart": 514
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6909929378139423745",
+        "shortId": "",
+        "uniqueId": "lilivarn",
+        "nickname": "Lili Varn",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4cc6488c6ac7b95f5515208501757ff2~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=%2BRuz65LZzN7QF9OWckWhnp7CjCY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4cc6488c6ac7b95f5515208501757ff2~c5_720x720.jpeg?x-expires=1650481200&x-signature=F%2BWAzmRyA%2F%2B4IoeGt6hv%2FTQxoP8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4cc6488c6ac7b95f5515208501757ff2~c5_100x100.jpeg?x-expires=1650481200&x-signature=vKntrI40p8%2FVMy9PeE3rx6FW6cQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAa_oGSnTOkBM0_M4cmBHEJsJV9LNaBVL9_poy2JBmCXIU3wYCeOl0_VqpAkdHElzn",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12,
+        "followingCount": 14,
+        "heart": 127,
+        "heartCount": 127,
+        "videoCount": 14,
+        "diggCount": 0
+    },
+    "itemList": []
+}

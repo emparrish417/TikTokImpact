@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7073431334269994027",
+        "shortId": "",
+        "uniqueId": "wolfdung7",
+        "nickname": "Wolf Du\u0303ng",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/26df7ba4795928591db332abf5f9dae8~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=3p62VLUQsGCWiobbbrSeBBQJ4o8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/26df7ba4795928591db332abf5f9dae8~c5_720x720.jpeg?x-expires=1650481200&x-signature=SswU2CXfjyYCqEhHUTC%2FjG9YA%2Fk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/26df7ba4795928591db332abf5f9dae8~c5_100x100.jpeg?x-expires=1650481200&x-signature=VvZ458GAhkqCdB0RM8bj%2FNXam%2F4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAP9wrBPPLWmTgHcXSJR2IBs8FeW7wEIzJUJEa-NZWwelBDGbRqFanJRJsLQ_qwWj8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 0,
+        "heart": 3,
+        "heartCount": 3,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

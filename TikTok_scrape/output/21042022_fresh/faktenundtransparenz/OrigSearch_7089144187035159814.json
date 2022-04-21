@@ -1,0 +1,144 @@
+{
+    "id": "7089144187035159814",
+    "desc": "#News #Ukraine #Krieg",
+    "createTime": 1650570006,
+    "video": {
+        "id": "7089144187035159814",
+        "height": 576,
+        "width": 1024,
+        "duration": 600,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/89f503051f914143a82d569a0bf5c61c?x-expires=1650600000&x-signature=VobE1Aa8s7vx4Oa6D%2BDH7yIfmXg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/99c946ee2f0a4464ba1ac9f4d67cf4a0_1650570010?x-expires=1650600000&x-signature=KvZkefX%2BdaMYJNetJPpHlkKQY1Q%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/374eaede4fab42dd8bc916eff7fa1b22_1650570012?x-expires=1650600000&x-signature=B5aMP0T8w4abbcq79L4uLDpLED0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c4699d8e0b1073cef085f1b4888c5910/626234a8/video/tos/useast2a/tos-useast2a-ve-0068c003/ef38ce3173a042a9b2a679e39497ca84/?a=1988&br=1498&bt=749&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZhYZNwe2NJdGfl7Gb&l=2022042122425601011300624417BFF00B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZlO2c6ZnJ1PDMzNzczM0ApOmlnOjY7ZTw4NzdkODloM2c1X2dgcjRvLmRgLS1kMTZzcy82Mi0yXjY0XzVgYC9jLTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c4699d8e0b1073cef085f1b4888c5910/626234a8/video/tos/useast2a/tos-useast2a-ve-0068c003/ef38ce3173a042a9b2a679e39497ca84/?a=1988&br=1498&bt=749&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZhYZNwe2NJdGfl7Gb&l=2022042122425601011300624417BFF00B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZlO2c6ZnJ1PDMzNzczM0ApOmlnOjY7ZTw4NzdkODloM2c1X2dgcjRvLmRgLS1kMTZzcy82Mi0yXjY0XzVgYC9jLTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/99c946ee2f0a4464ba1ac9f4d67cf4a0_1650570010~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=rlC%2BoVROswuXyPuyF8liHoMhaEU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/99c946ee2f0a4464ba1ac9f4d67cf4a0_1650570010~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=wUYfkJ1%2FBgAEgVpzQXneLd46yMI%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/89f503051f914143a82d569a0bf5c61c?x-expires=1650600000&x-signature=VobE1Aa8s7vx4Oa6D%2BDH7yIfmXg%3D",
+        "bitrate": 767809,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7072287357353231365",
+        "uniqueId": "faktenundtransparenz",
+        "nickname": "FaktenundTransparenz",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_100x100.jpeg?x-expires=1650751200&x-signature=m0SdaisRLyYZsI2qt4xkyRD38rE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_720x720.jpeg?x-expires=1650751200&x-signature=NnozYI4R20FAlE%2FI6ngSVfavb24%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=heTKxaCyPYpa2%2BZ6A7wOkCsL5LQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAf0QvpIqUbrbLIGCM1Rdq7gbc4L2isFS6yArZ-UvYjQmblOWEoXYPfwKCxuVizo2N",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089144450538130181",
+        "title": "Originalton",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7089144433694149381.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_100x100.jpeg?x-expires=1650751200&x-signature=m0SdaisRLyYZsI2qt4xkyRD38rE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_720x720.jpeg?x-expires=1650751200&x-signature=NnozYI4R20FAlE%2FI6ngSVfavb24%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1dddfb6448c17b0300d13a0e0f502405~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=heTKxaCyPYpa2%2BZ6A7wOkCsL5LQ%3D",
+        "authorName": "FaktenundTransparenz",
+        "original": true,
+        "duration": 600,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "76414",
+            "title": "news",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 57,
+        "shareCount": 14,
+        "commentCount": 1,
+        "playCount": 1118
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 5,
+            "hashtagName": "news",
+            "hashtagId": "76414",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 6,
+            "end": 14,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 57,
+        "followerCount": 1105,
+        "heartCount": 12200,
+        "videoCount": 115,
+        "diggCount": 10,
+        "heart": 12200
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

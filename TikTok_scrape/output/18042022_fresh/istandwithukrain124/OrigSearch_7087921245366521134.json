@@ -1,0 +1,104 @@
+{
+    "id": "7087921245366521134",
+    "desc": "",
+    "createTime": 1650285268,
+    "video": {
+        "id": "7087921245366521134",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/41abbbbe5f4e400e8cbca2d4e275c0fd?x-expires=1650330000&x-signature=eNDH2iW9McT3abuEJ2tsImjaL5U%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bbdad19b9ab94784973a8fe6b52022f0_1650285269?x-expires=1650330000&x-signature=GeqTgzb8WFPVDokFnR%2BCOJwfiSc%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2fb1438869d4410fb56cbaf50cba7e2c_1650285269?x-expires=1650330000&x-signature=WXZtRKEam07qc8Vs3cawfGQ4jDI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/34e336b4986b2cb3b5ba0de52558cbfe/625e0d7c/video/tos/useast5/tos-useast5-ve-0068c003-tx/786a625824924d08809d90dbd4cc745c/?a=1988&br=282&bt=141&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dwcDQ6ZjdvPDMzZzczNEApPGg3ZTo3O2U5N2k1Ojs2M2dfbWsucjRvZ2JgLS1kMS9zc182XmFiY2BiL142MV8tYTE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/34e336b4986b2cb3b5ba0de52558cbfe/625e0d7c/video/tos/useast5/tos-useast5-ve-0068c003-tx/786a625824924d08809d90dbd4cc745c/?a=1988&br=282&bt=141&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2dwcDQ6ZjdvPDMzZzczNEApPGg3ZTo3O2U5N2k1Ojs2M2dfbWsucjRvZ2JgLS1kMS9zc182XmFiY2BiL142MV8tYTE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/bbdad19b9ab94784973a8fe6b52022f0_1650285269~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=zUwNEWi1W5YQLOTfo6DOBYl8a6E%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/bbdad19b9ab94784973a8fe6b52022f0_1650285269~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=NM2LCFRn9aOQETjALUZ5u%2FQFwjU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/41abbbbe5f4e400e8cbca2d4e275c0fd?x-expires=1650330000&x-signature=ckHaEOlCri%2FajTZUqxa4xLnmTxc%3D",
+        "bitrate": 144499,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910729712906699782",
+        "uniqueId": "istandwithukrain124",
+        "nickname": "Stand with Ukrainian",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/892ddbb33922775615c9f3bbbcfe3343~c5_100x100.jpeg?x-expires=1650481200&x-signature=l6oIgd1PA7SNuVdCo40O0fE3t3U%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/892ddbb33922775615c9f3bbbcfe3343~c5_720x720.jpeg?x-expires=1650481200&x-signature=hrRYYfOp2LjrMVmATr2vGSzcdPI%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/892ddbb33922775615c9f3bbbcfe3343~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=tAUGgqUANePtfIRUudHZc7LUEjI%3D",
+        "signature": "Stand with Ukraine with me",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJqHiofi1Ry3OotZRNVmSncxItFNcJfcAYoCb3fQa6yXvwLujBYrXFCz3J4CBLw9I",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081906670451837739",
+        "title": "Goofy ah British rap earrape",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7081895614358752042.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/129ccc2846b5dccdfbd5b5ea1d4a34d9~c5_100x100.jpeg?x-expires=1650481200&x-signature=Q4%2FjGWI99%2FfRR2RAjN1%2Bi1iUPZA%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/129ccc2846b5dccdfbd5b5ea1d4a34d9~c5_720x720.jpeg?x-expires=1650481200&x-signature=vVoee2Bbbs9HCCENFmviZiCIOvc%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/129ccc2846b5dccdfbd5b5ea1d4a34d9~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=LBdBJ1nw83U2dR0%2By3aT0lOYUO0%3D",
+        "authorName": "Xander\ud83d\udd25",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 38
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1387,
+        "followerCount": 361,
+        "heartCount": 2165,
+        "videoCount": 273,
+        "diggCount": 2730,
+        "heart": 2165
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "If I owned school ",
+                "40min recess\ufffc",
+                "30min learn time",
+                "Cussing \ufffc allowed\ufffc ",
+                "Phones allowed ",
+                "Watching YouTube all day ",
+                "Am I valid"
+            ]
+        }
+    ],
+    "isAd": false
+}

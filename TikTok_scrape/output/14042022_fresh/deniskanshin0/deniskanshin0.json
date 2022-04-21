@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6872295048022393861",
+        "shortId": "",
+        "uniqueId": "deniskanshin0",
+        "nickname": "denis kanshin",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=iif%2BS%2FKAhrzoU9EkC2AiI%2Fk5jbs%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=yHFReBTiANe6KRZDVajNexm4UOY%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=jxWD8ZsQd6IUQEGXfuFgRF0rLUU%3D",
+        "signature": "",
+        "createTime": 1600052998,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaI4dl69jrwaj9P7wsulVCvLSkpqe5qRRgHsbdFevezNDvHrL0Ntun6ObqSq5GsOW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 18,
+        "followingCount": 34,
+        "heart": 0,
+        "heartCount": 0,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

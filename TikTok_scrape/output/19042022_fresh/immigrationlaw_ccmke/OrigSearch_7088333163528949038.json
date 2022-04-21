@@ -1,0 +1,133 @@
+{
+    "id": "7088333163528949038",
+    "desc": "Ukraine TPS update #immigration",
+    "createTime": 1650381174,
+    "video": {
+        "id": "7088333163528949038",
+        "height": 1024,
+        "width": 576,
+        "duration": 79,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cc4c25d58f894cf5bb46fb3b6c0ae658_1650381176~tplv-dmt-logom:tos-useast5-p-0000-tx/04f2f734e770476d81405b3332a7547b.image?x-expires=1650427200&x-signature=MtiN%2Bd7oaEhi35SFEApaoFyHLZ4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/06981c6c32944ea8a19236e93aed21e0_1650381175?x-expires=1650427200&x-signature=VnM27vNWkijMwe9ziYo9QaHQuKU%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5b386ed247974ee8a93d94e46c1a18bc_1650381175?x-expires=1650427200&x-signature=w6YgO4MOoD86lFsi9Rc9VMxRqKI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/22d3fe7742245cbe501477fc12d9fe54/625f89a2/video/tos/useast5/tos-useast5-pve-0068-tx/b120ff7c728441d3b3e6eb3601201115/?a=1988&br=2104&bt=1052&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAXiwwe2N_1wfl7Gb&l=2022041922172301011313520021061FED&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZtOjY6ZjZnPDMzZzczNEApZmUzNTwzZmQzNzYzNTpoZmdqMmIvcjRnL2NgLS1kMS9zczM1YjI0Xi8tLzIuNDNiMDY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/22d3fe7742245cbe501477fc12d9fe54/625f89a2/video/tos/useast5/tos-useast5-pve-0068-tx/b120ff7c728441d3b3e6eb3601201115/?a=1988&br=2104&bt=1052&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAXiwwe2N_1wfl7Gb&l=2022041922172301011313520021061FED&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZtOjY6ZjZnPDMzZzczNEApZmUzNTwzZmQzNzYzNTpoZmdqMmIvcjRnL2NgLS1kMS9zczM1YjI0Xi8tLzIuNDNiMDY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/06981c6c32944ea8a19236e93aed21e0_1650381175~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=6dZgaxP8wyUbupGhoYjn08GQOnM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/06981c6c32944ea8a19236e93aed21e0_1650381175~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=xGGBgBt%2BqrO0Cg2CztFavDegb24%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cc4c25d58f894cf5bb46fb3b6c0ae658_1650381176?x-expires=1650427200&x-signature=av5iXpWROfvjuXULqIEohPp7N5s%3D",
+        "bitrate": 1077746,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7040029239705601029",
+        "uniqueId": "immigrationlaw_ccmke",
+        "nickname": "immigrationlaw_ccmke",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/64e498dcd92fe475ca3aca3d86837e50~c5_100x100.jpeg?x-expires=1650578400&x-signature=Y0rn4igUJueWtsmjCJ%2BhfrxeK6w%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/64e498dcd92fe475ca3aca3d86837e50~c5_720x720.jpeg?x-expires=1650578400&x-signature=JTxxVSt%2FOOL423OvYKOz1TdDAg0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/64e498dcd92fe475ca3aca3d86837e50~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=4QqSjBbzbws87U2ObmjapAM0MJw%3D",
+        "signature": "Catholic Charities Refugee and Immigration Services Milwaukee serves all faiths!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXk5gA-kbcMrRk-IlWpDZ5N7sMEGl0dloH94NBdqqApKRhpFbjlE5pqNzBPwagM_i",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7088333113503517486",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7088333164183276334.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/64e498dcd92fe475ca3aca3d86837e50~c5_100x100.jpeg?x-expires=1650578400&x-signature=Y0rn4igUJueWtsmjCJ%2BhfrxeK6w%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/64e498dcd92fe475ca3aca3d86837e50~c5_720x720.jpeg?x-expires=1650578400&x-signature=JTxxVSt%2FOOL423OvYKOz1TdDAg0%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/64e498dcd92fe475ca3aca3d86837e50~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=4QqSjBbzbws87U2ObmjapAM0MJw%3D",
+        "authorName": "immigrationlaw_ccmke",
+        "original": true,
+        "duration": 79,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1975918",
+            "title": "immigration",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 1,
+        "commentCount": 0,
+        "playCount": 453
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 19,
+            "end": 31,
+            "hashtagName": "immigration",
+            "hashtagId": "1975918",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 6877,
+        "heartCount": 13100,
+        "videoCount": 30,
+        "diggCount": 0,
+        "heart": 13100
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Ukraine TPS Posted"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "Ukraine TPS Posted"
+            ]
+        }
+    ],
+    "isAd": false
+}

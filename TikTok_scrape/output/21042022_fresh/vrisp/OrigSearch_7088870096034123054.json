@@ -1,0 +1,99 @@
+{
+    "id": "7088870096034123054",
+    "desc": "",
+    "createTime": 1650506188,
+    "video": {
+        "id": "7088870096034123054",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ad6eeced5ef74d1eb3f562e3bcca8bfe?x-expires=1650600000&x-signature=fb09%2FsqfEiORNVrFpQH6nerYY9o%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fa23781243a5496d8edc3b1c59395663_1650506191?x-expires=1650600000&x-signature=O2IiHm5xWXky9oMt59pyZWT7ck0%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/066cce5fe7ff4c72bef3f754f303b5e3_1650506189?x-expires=1650600000&x-signature=u1ijbb2WrBgaQ46RcNtDvuEfF8o%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8620ae2c0a67785b5f69f97b013233db/6262328b/video/tos/useast5/tos-useast5-ve-0068c004-tx/bee8a64543274dc7a8b0695dcd6b4cba/?a=1988&br=2616&bt=1308&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZX~ZNwe2NjAefl7Gb&l=202204212243440101131351280BE3D096&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2V2azY6ZnllPDMzZzczNEApNTU1aTZmZzw7NzhlOzY1N2dmZmcucjQwZmRgLS1kMS9zc2ItLjQ0LmJjNl9iL2IvYTU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8620ae2c0a67785b5f69f97b013233db/6262328b/video/tos/useast5/tos-useast5-ve-0068c004-tx/bee8a64543274dc7a8b0695dcd6b4cba/?a=1988&br=2616&bt=1308&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZX~ZNwe2NjAefl7Gb&l=202204212243440101131351280BE3D096&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2V2azY6ZnllPDMzZzczNEApNTU1aTZmZzw7NzhlOzY1N2dmZmcucjQwZmRgLS1kMS9zc2ItLjQ0LmJjNl9iL2IvYTU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fa23781243a5496d8edc3b1c59395663_1650506191~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=jRnUe8s7xdGEWaa3DIp6bTIb0tg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fa23781243a5496d8edc3b1c59395663_1650506191~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=bqqROCfkwVgnlKj2WeCztjdgeNc%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ad6eeced5ef74d1eb3f562e3bcca8bfe?x-expires=1650600000&x-signature=5iIhhP4QjwaCWF9do%2FlG4Vj96W8%3D",
+        "bitrate": 1339556,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6896954619085685765",
+        "uniqueId": "vrisp",
+        "nickname": "STAY STRONG UKRAINE",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/545c826c348381bce91319674219c3b8~c5_100x100.jpeg?x-expires=1650751200&x-signature=MSrUcK9oDQzPbp3vy4suHUkWS2Q%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/545c826c348381bce91319674219c3b8~c5_720x720.jpeg?x-expires=1650751200&x-signature=V3R4BO0cNjXnQpkwI13rqVzHAY8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/545c826c348381bce91319674219c3b8~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=c1OzAIJzynMcozglX0Jg%2BEPLQTg%3D",
+        "signature": "mi \u2022 mixed",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqlVgaXtn3SdqXVxBdExlSKTHMeRbqmVd7BhXYb3A-26680GcKAZ8grDEfOBXbIPi",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7071842974623386414",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7071843001701501739.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/56d4855f01e54a3a14a2218b6e796067~c5_100x100.jpeg?x-expires=1650751200&x-signature=pYTpwqsfluM9E9OWPRAhH2LVbZg%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/56d4855f01e54a3a14a2218b6e796067~c5_720x720.jpeg?x-expires=1650751200&x-signature=fLWarSKrQ49KFd01J7Mb3iIZhKw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/56d4855f01e54a3a14a2218b6e796067~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=EfJIwF%2FPeUON4kP0a2CKbi7axeQ%3D",
+        "authorName": "\u270c\ufe0e\ufe0e",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 30,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 349
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 3662,
+        "followerCount": 373,
+        "heartCount": 621,
+        "videoCount": 23,
+        "diggCount": 9074,
+        "heart": 621
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "shake what your momma gave you",
+                "trauma "
+            ]
+        }
+    ],
+    "isAd": false
+}

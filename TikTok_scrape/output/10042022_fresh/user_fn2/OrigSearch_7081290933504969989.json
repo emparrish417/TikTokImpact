@@ -1,0 +1,90 @@
+{
+    "id": "7081290933504969989",
+    "desc": "",
+    "createTime": 1648741527,
+    "video": {
+        "id": "7081290933504969989",
+        "height": 1024,
+        "width": 576,
+        "duration": 3,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/64dc6a9fb48b41339716de4638a07898?x-expires=1649649600&x-signature=hcKioNpKvSi6MINA3oHxb4r3Hh8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/821a67d3ca884b059194c881595fbc44_1648741528?x-expires=1649649600&x-signature=WdsBpxvfUN19roxEdHC1DDSzXZI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0af3972b72e6450b83deca053dfa4ebb_1648741528?x-expires=1649649600&x-signature=KVeILbdDUx4XqzziCX1bIfafBWc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/248d57c104ec0d3bce791307efa4fad2/6253b080/video/tos/useast2a/tos-useast2a-ve-0068c002/277b49cd6da345368cbe8657da023951/?a=1988&br=7492&bt=3746&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th7gEIDXq&l=20220410223717010113135077242D0E8F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBudTo6Zjp2PDMzNzczM0ApNDNmZGlnOGQ4N2U4aTdoPGdfM2ZlcjRfay9gLS1kMTZzcy1iMjVfXjJhYTQ0NDAuMTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/248d57c104ec0d3bce791307efa4fad2/6253b080/video/tos/useast2a/tos-useast2a-ve-0068c002/277b49cd6da345368cbe8657da023951/?a=1988&br=7492&bt=3746&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th7gEIDXq&l=20220410223717010113135077242D0E8F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBudTo6Zjp2PDMzNzczM0ApNDNmZGlnOGQ4N2U4aTdoPGdfM2ZlcjRfay9gLS1kMTZzcy1iMjVfXjJhYTQ0NDAuMTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/821a67d3ca884b059194c881595fbc44_1648741528~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=6oKXTFeO8r3aH90sGtLnkFJA20E%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/821a67d3ca884b059194c881595fbc44_1648741528~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=DIwYrO9igKsIkXJoacinGk46MBo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/64dc6a9fb48b41339716de4638a07898?x-expires=1649649600&x-signature=hcKioNpKvSi6MINA3oHxb4r3Hh8%3D",
+        "bitrate": 3835919,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6960759663579350021",
+        "uniqueId": "user_fn2",
+        "nickname": "I am with Ukraine",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/415db2a971848315ebbd648b7f56f2f8~c5_100x100.jpeg?x-expires=1649714400&x-signature=lCN1wq88QBoUJub85jEfghZ78AM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/415db2a971848315ebbd648b7f56f2f8~c5_720x720.jpeg?x-expires=1649714400&x-signature=G0yRUoCzvldan2ahtzFh1MJhR4I%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/415db2a971848315ebbd648b7f56f2f8~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=bcGV%2B9efrAkxpQ3R37vMIefeORI%3D",
+        "signature": "I Support Ukraine Russia is going to lose",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARZbEKykwixDlY0zgkp8t1N8WSBCUO7xzKvJV35XOAsptrdNnfVabvLdg7ybgbt2v",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7064598244726164229",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7064598244566878981.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/628a64f616c98c78ad71063f808a2b4f~c5_100x100.jpeg?x-expires=1649714400&x-signature=4Ugp3f10hrECOTMo5FBd%2BxZ3jhk%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/628a64f616c98c78ad71063f808a2b4f~c5_720x720.jpeg?x-expires=1649714400&x-signature=glNO6GMhvjCeoOAVougCS39S9Xk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/628a64f616c98c78ad71063f808a2b4f~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=6SIssyupp8gjqb7jiBt3Fkeb05s%3D",
+        "authorName": "rugbykid94",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 4,
+        "playCount": 92
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2197,
+        "followerCount": 1115,
+        "heartCount": 1016,
+        "videoCount": 75,
+        "diggCount": 19700,
+        "heart": 1016
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

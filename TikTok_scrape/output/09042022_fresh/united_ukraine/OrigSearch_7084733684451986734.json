@@ -1,0 +1,90 @@
+{
+    "id": "7084733684451986734",
+    "desc": "",
+    "createTime": 1649543104,
+    "video": {
+        "id": "7084733684451986734",
+        "height": 576,
+        "width": 1024,
+        "duration": 56,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e6559cbb7c8e47f4ae91fbee6c6db895?x-expires=1649574000&x-signature=84kXhDV1uut1f7zYyPHF%2B46C0d4%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2830b7a5ca244d02adaa876e5c26bbe9_1649543105?x-expires=1649574000&x-signature=o9FFNAOHdeooGakHTJZaKcyISbw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4aebb066b4a5413e97fb58e5cea9f374_1649543105?x-expires=1649574000&x-signature=ykINFUt0%2BTWquvPFS1YyV7H10Ws%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c31238c7c57eaf52068518e445067880/62528c4f/video/tos/useast5/tos-useast5-ve-0068c004-tx/3ecdcb9b5b8e45c2b4a68f4496563f83/?a=1988&br=1230&bt=615&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThfQ4IDXq&l=20220410014943010113135174180DF31C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anVrZDY6ZjwzPDMzZzczNEApZzw1NDg3OWRoN2lkNmUzZGdiaHFucjRfYzZgLS1kMS9zc182YWIyXjE0NTRjLzQvYjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c31238c7c57eaf52068518e445067880/62528c4f/video/tos/useast5/tos-useast5-ve-0068c004-tx/3ecdcb9b5b8e45c2b4a68f4496563f83/?a=1988&br=1230&bt=615&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThfQ4IDXq&l=20220410014943010113135174180DF31C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anVrZDY6ZjwzPDMzZzczNEApZzw1NDg3OWRoN2lkNmUzZGdiaHFucjRfYzZgLS1kMS9zc182YWIyXjE0NTRjLzQvYjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2830b7a5ca244d02adaa876e5c26bbe9_1649543105~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=bdtNdqaqfgswQJvpxKuWM7vVKBg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2830b7a5ca244d02adaa876e5c26bbe9_1649543105~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=5jzT6xknhx2SOPoTCz3zygjnQjA%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e6559cbb7c8e47f4ae91fbee6c6db895?x-expires=1649574000&x-signature=84kXhDV1uut1f7zYyPHF%2B46C0d4%3D",
+        "bitrate": 630492,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6690638839524918278",
+        "uniqueId": "united_ukraine",
+        "nickname": "Alex Five-O Snow",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_100x100.jpeg?x-expires=1649638800&x-signature=6fGeOHRLPLqZi97aXrrrusuZLAw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_720x720.jpeg?x-expires=1649638800&x-signature=Ct3Gr9MmmCsErrVFNV9lSfuvNaI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=zMXxyWvxIt1vhr2vRk1BI0SydoU%3D",
+        "signature": "Please Help get Me to 1,000 Followers here on TikTok so I can go live First Time",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAthOvUFqeYRnNTfhWr-wVhg_zshs2p9IYt-3S1IDogKpAce_K1oVhkzXnRZCrU0PS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7084733679569914670",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7084733699291384622.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_100x100.jpeg?x-expires=1649638800&x-signature=6fGeOHRLPLqZi97aXrrrusuZLAw%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_720x720.jpeg?x-expires=1649638800&x-signature=Ct3Gr9MmmCsErrVFNV9lSfuvNaI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=zMXxyWvxIt1vhr2vRk1BI0SydoU%3D",
+        "authorName": "Alex Five-O Snow",
+        "original": true,
+        "duration": 56,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 18
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 10000,
+        "followerCount": 1011,
+        "heartCount": 6160,
+        "videoCount": 934,
+        "diggCount": 85800,
+        "heart": 6160
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6950843372056544262",
+        "shortId": "",
+        "uniqueId": "jrpvbaka",
+        "nickname": "jrpvbaka",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/74366758a2297e61ded56d1cbafbde32~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=XZjC5wvHFJS9%2BRhKivJ498LMr7U%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/74366758a2297e61ded56d1cbafbde32~c5_720x720.jpeg?x-expires=1650240000&x-signature=JKX1%2BayAH4VRkyx0MzIfys1ZPUg%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/74366758a2297e61ded56d1cbafbde32~c5_100x100.jpeg?x-expires=1650240000&x-signature=XKRDJRWMk3NTf%2FZ%2F%2FAdTaepzKwQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjWyYyMgdlV1uF3I5qcj9NMf9qZx0WMK2N2L7eiv-8_y2uY2p5EggmRKY7gC8ps-2",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 147,
+        "followingCount": 71,
+        "heart": 825,
+        "heartCount": 825,
+        "videoCount": 26,
+        "diggCount": 0
+    },
+    "itemList": []
+}

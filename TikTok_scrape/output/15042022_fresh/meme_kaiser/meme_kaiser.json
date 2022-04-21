@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6716340437268923398",
+        "shortId": "",
+        "uniqueId": "meme_kaiser",
+        "nickname": "MK",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2e6801cad0c987e4aa4adc7bdad2e320~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=Mb4qWRrYJmwkya4KXhpoBFAOqrg%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2e6801cad0c987e4aa4adc7bdad2e320~c5_720x720.jpeg?x-expires=1650240000&x-signature=iARCgZYb%2FuMkKxqSG%2F8EEWEOjUc%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2e6801cad0c987e4aa4adc7bdad2e320~c5_100x100.jpeg?x-expires=1650240000&x-signature=oCgH6cTmyDF7cln2tsyiojcG%2BlU%3D",
+        "signature": "Just history jokes (some exceptions)",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAom_SCIz6ymOoW7NXo7Gidc58kxIKsmdeo5gF4M_qNMpQxz_x2K4BFCK5Lq7B8HE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 94600,
+        "followingCount": 444,
+        "heart": 4800000,
+        "heartCount": 4800000,
+        "videoCount": 440,
+        "diggCount": 0
+    },
+    "itemList": []
+}

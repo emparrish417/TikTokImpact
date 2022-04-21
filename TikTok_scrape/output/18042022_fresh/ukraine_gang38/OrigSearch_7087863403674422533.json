@@ -1,0 +1,98 @@
+{
+    "id": "7087863403674422533",
+    "desc": "",
+    "createTime": 1650271801,
+    "video": {
+        "id": "7087863403674422533",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/207f5e9f1ef5402baf037585d7178570?x-expires=1650330000&x-signature=RmqTRea68NJEr0TTcOX4vn8bRg0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/10eb41b5dcca4bdbbe39c73db7c04e1b_1650271802?x-expires=1650330000&x-signature=64lmxF%2Fy2EiKDNXM5w0UtH1iPFQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/88c5f8dce78a4690bd3c4ff0b9288720_1650271802?x-expires=1650330000&x-signature=9e9KWeKVzxMJEAj4Y2d%2BbnSlQHk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/84e2ff4d94ad21bc778537492aeca46d/625e0d7c/video/tos/useast2a/tos-useast2a-pve-0068/d3eab66d75944cf49c6113b91b7da3a6/?a=1988&br=336&bt=168&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M240a2c6ZjVsPDMzNzczM0ApOWQ4Z2hnNWQ4Nzk4OmhnPGcwbDVfcjQwX2JgLS1kMTZzczJeMTUyYWFfXjRfMGJhLjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/84e2ff4d94ad21bc778537492aeca46d/625e0d7c/video/tos/useast2a/tos-useast2a-pve-0068/d3eab66d75944cf49c6113b91b7da3a6/?a=1988&br=336&bt=168&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M240a2c6ZjVsPDMzNzczM0ApOWQ4Z2hnNWQ4Nzk4OmhnPGcwbDVfcjQwX2JgLS1kMTZzczJeMTUyYWFfXjRfMGJhLjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/10eb41b5dcca4bdbbe39c73db7c04e1b_1650271802~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=ltQzNCrsA2CbRItex2mZrHxl6pg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/10eb41b5dcca4bdbbe39c73db7c04e1b_1650271802~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=G4%2FzNpZRSzAj0jzjNIbqNdkwxRs%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/207f5e9f1ef5402baf037585d7178570?x-expires=1650330000&x-signature=RmqTRea68NJEr0TTcOX4vn8bRg0%3D",
+        "bitrate": 172878,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6778534416438445062",
+        "uniqueId": "ukraine_gang38",
+        "nickname": "Paulie Carney",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78f2c27c730dbbf81e98f63eadeccb90~c5_100x100.jpeg?x-expires=1650481200&x-signature=IM8pT2m9QnjOsDfsUeYXQ%2FDa%2FK0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78f2c27c730dbbf81e98f63eadeccb90~c5_720x720.jpeg?x-expires=1650481200&x-signature=yuU9BMSCD8agw7iP%2B3AgvMBZol8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78f2c27c730dbbf81e98f63eadeccb90~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=ZKTwbMYqolGzhoB2700n2wD5uLM%3D",
+        "signature": "LIVERPOOL FC \nFORTNITE",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAchqvu4o1BcCrh15P6LP5syKUHTe7SnZA-yXDjZ0aCIa3NMsgBM9VOhOF_-xI7JpA",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077981983669766146",
+        "title": "24 / 7 (Acoustic)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/cdd729d0a6cd40b7bd7f4d398cc78ade",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/f9f3b55a5ac04609a4c96243e2f048fb.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/f9f3b55a5ac04609a4c96243e2f048fb.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/f9f3b55a5ac04609a4c96243e2f048fb.jpeg",
+        "authorName": "Celina Sharma & Harris J",
+        "original": false,
+        "duration": 60,
+        "album": "24 / 7 (Acoustic)"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 36
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 5215,
+        "followerCount": 550,
+        "heartCount": 275,
+        "videoCount": 58,
+        "diggCount": 9590,
+        "heart": 275
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I might lose followers but I stand with Ukraine \ud83c\uddfa\ud83c\udde6 \n"
+            ]
+        }
+    ],
+    "isAd": false
+}

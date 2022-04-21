@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7042304682618962991",
+        "shortId": "",
+        "uniqueId": "avivakat",
+        "nickname": "Aviva",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c217f751d1f2b1b90ab546549ab3f30e~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=ebAwrDzjpbOfyvo5mq9c9Freqcc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c217f751d1f2b1b90ab546549ab3f30e~c5_720x720.jpeg?x-expires=1649372400&x-signature=ClA0c2BzKn4Eoq9YP6Ht%2BULZORg%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c217f751d1f2b1b90ab546549ab3f30e~c5_100x100.jpeg?x-expires=1649372400&x-signature=YTJWw%2BNL9U%2FuBLqySEfpdErCk8Q%3D",
+        "signature": "My blog about war in Ukraine \nI\u2019m in Kyiv\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1645638238,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvrCd3c6rSd7ZzL-Z5Ders0rDrk1BGEKdEYApRgAS9o96Ld90Ow9KOvrdjhYBhBkd",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://katzbh.com/",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1826,
+        "followingCount": 8,
+        "heart": 19000,
+        "heartCount": 19000,
+        "videoCount": 95,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6627298717676814342",
+        "shortId": "",
+        "uniqueId": "jonathan.blu",
+        "nickname": "Jonathan",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d411f9150180d073ca7ba9f4dc6e9469~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=Xr5Tr4bN5Oc9Naeww4xcTqb7u9Y%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d411f9150180d073ca7ba9f4dc6e9469~c5_720x720.jpeg?x-expires=1649372400&x-signature=09dc9TSgIGzHNLCrzziiyaj5Irs%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d411f9150180d073ca7ba9f4dc6e9469~c5_100x100.jpeg?x-expires=1649372400&x-signature=6JeqpgADqGeTTLtrJKfpRpbII5w%3D",
+        "signature": "jonathanblu@clickstalent.com\n-\nalright countries",
+        "createTime": 1554091663,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAU2luw_yrb9o8oAwRQ_8hin6J-Y8jwQW-RJfSd34JhsFN-LDAyGg64VjywTmYDxtd",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1800000,
+        "followingCount": 249,
+        "heart": 64400000,
+        "heartCount": 64400000,
+        "videoCount": 291,
+        "diggCount": 0
+    },
+    "itemList": []
+}

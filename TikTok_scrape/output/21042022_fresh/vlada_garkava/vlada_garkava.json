@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "7085460111481537541",
+        "shortId": "",
+        "uniqueId": "vlada_garkava",
+        "nickname": "Vlada_garkava",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/37f4114e252eca0b00d7dfb88c21d2e2~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=xB7I%2FK3D%2FgT7jhIEyuEkPo3j3bU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/37f4114e252eca0b00d7dfb88c21d2e2~c5_720x720.jpeg?x-expires=1650751200&x-signature=IrN1CL5MyWX16%2BlVztPxjshtXNU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/37f4114e252eca0b00d7dfb88c21d2e2~c5_100x100.jpeg?x-expires=1650751200&x-signature=52qPp6NTAI%2FKnx85nUbQsz%2FSt%2BY%3D",
+        "signature": "\u0412\u0456\u0434 \u0433\u0443\u043c\u043e\u0440\u0443 \u0434\u043e \u0433\u0440\u043e\u0442\u0435\u0441\u043a\u0443\ud83e\udd51",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA8zi_DC7PFH5nICixLD2h17llBSTcatPV9hZayHbCv636bsb8rSUb5ihsrCFdhm84",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 31,
+        "followingCount": 14,
+        "heart": 298,
+        "heartCount": 298,
+        "videoCount": 21,
+        "diggCount": 0
+    },
+    "itemList": []
+}
