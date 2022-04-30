@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6796298680191845377",
+        "shortId": "",
+        "uniqueId": "boy_property",
+        "nickname": "Boy",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a801f802a7381d7e707cebfb646064b1~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=%2B6x25AC%2BcZ89GZEIAHZHZsVwBXI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a801f802a7381d7e707cebfb646064b1~c5_720x720.jpeg?x-expires=1650934800&x-signature=uoRmWH%2Fu7fmbN%2F9xYTAKVS0C158%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a801f802a7381d7e707cebfb646064b1~c5_100x100.jpeg?x-expires=1650934800&x-signature=bzP7dzNsjYWINZdIzwk%2B6%2BZS0QQ%3D",
+        "signature": "Vareity Ch.\u0e21\u0e35\u0e17\u0e38\u0e01\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e01\u0e32\u0e23\u0e21\u0e38\u0e49\u0e07 \u0e40\u0e2e\u0e2e\u0e32\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e35\u0e49 \u0e04\u0e49\u0e32\u0e02\u0e32\u0e22 \u0e18\u0e38\u0e23\u0e01\u0e34\u0e08support Ukrain",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAeOuS96F0Pu0Angy66aEc3X6pM4oWBwl-w20jjapapaZ9qzgjJlNlPAkFgXRZ0k2E",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "www.facebook.com/boythedrag/",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10500,
+        "followingCount": 7251,
+        "heart": 188800,
+        "heartCount": 188800,
+        "videoCount": 348,
+        "diggCount": 10000
+    },
+    "itemList": []
+}

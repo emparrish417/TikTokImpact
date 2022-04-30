@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6745075642910180357",
+        "shortId": "",
+        "uniqueId": "nkofficial",
+        "nickname": "NK",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647915194395653~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=jRwnfsCUXDr5ynxfUCyvg7toYXE%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647915194395653~c5_720x720.jpeg?x-expires=1651086000&x-signature=LUjwXtRfaFWRe9AdzGpz69Cs0zI%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647915194395653~c5_100x100.jpeg?x-expires=1651086000&x-signature=%2BKPddmlXLvd8JHkqx0mmr47QBVE%3D",
+        "signature": "\ud83d\udcee pr@nkofficial.com",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAK8NBnti7eo_dOHyJFyd5exJsJJLjdJp3uklnatM-OnntTVBEkBiJOnQc7ZrT-Nca",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "youtube.com/nkofficial",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2800000,
+        "followingCount": 32,
+        "heart": 32900000,
+        "heartCount": 32900000,
+        "videoCount": 960,
+        "diggCount": 0
+    },
+    "itemList": []
+}

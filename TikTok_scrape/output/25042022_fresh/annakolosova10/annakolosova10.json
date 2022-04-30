@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6905255120096625666",
+        "shortId": "",
+        "uniqueId": "annakolosova10",
+        "nickname": "\u0410\u043d\u043d\u0430 \u041a\u043e\u043b\u043e\u0441\u043e\u0432\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0620d193a2f05713f5b0dd316382b00b~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=DJGh%2BxY63hy3ZJmr1yU9yRHBLIk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0620d193a2f05713f5b0dd316382b00b~c5_720x720.jpeg?x-expires=1651086000&x-signature=jQHwwuIxJpAGRQYUTdFcsOfkUno%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0620d193a2f05713f5b0dd316382b00b~c5_100x100.jpeg?x-expires=1651086000&x-signature=%2Bk5d4ZclfK8a5saloTlqmScdl3Q%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5hR_UnjyFzq2IwTtCdTrNTfIEKDAkairp9eF4UN1RXzrrThM1EGwn6E8l9WpMWEk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 20,
+        "followingCount": 13,
+        "heart": 100,
+        "heartCount": 100,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

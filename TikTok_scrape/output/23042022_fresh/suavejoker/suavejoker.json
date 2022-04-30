@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6818981913769739270",
+        "shortId": "",
+        "uniqueId": "suavejoker",
+        "nickname": "Tyler Bernard",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1b0c09c67854a2c7260a4272306470f8~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=9VlNfZabsfhZG2im4LS7A1dOmd0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1b0c09c67854a2c7260a4272306470f8~c5_720x720.jpeg?x-expires=1650934800&x-signature=c8LWamM1t%2FaihfTgvp9%2BfIi1elU%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1b0c09c67854a2c7260a4272306470f8~c5_100x100.jpeg?x-expires=1650934800&x-signature=lRUFMuLXdVH%2F%2BrkkL7hwuBfVF%2Bo%3D",
+        "signature": "\ud83d\ude35\u200d\ud83d\udcab\ud835\udd41\ud835\udce4\u24e2t \u15e9\uff4e\u03cc\u0166\ud835\udcbd\u20ac\u044f \u0493\u044f\u0454\ud835\udcd0\ud835\udc0a \u4e28\u2115 \u0163\u02b0\u03ad \u24bb\u5c3a\uff25\ud835\udcd0\uff2b \u043a\u0197\u0e20\u24bc\u24b9\u15dd\u722a \ud83e\udd2a",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkpcQhRu9kMBAJ9qByH3qbQLNtUqLb6IQaGmq_p4wPzumQwF8c7XrAcAWfMwhB7V4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/SuaveJoker",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 119700,
+        "followingCount": 168,
+        "heart": 3600000,
+        "heartCount": 3600000,
+        "videoCount": 621,
+        "diggCount": 0
+    },
+    "itemList": []
+}

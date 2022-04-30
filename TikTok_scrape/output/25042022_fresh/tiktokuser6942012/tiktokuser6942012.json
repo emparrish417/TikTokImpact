@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7069341269328135169",
+        "shortId": "",
+        "uniqueId": "tiktokuser6942012",
+        "nickname": "J",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/bda608c318b2c081ac493b891c1eb700.jpeg?x-expires=1651086000&x-signature=1o%2Bez3499VSvLI%2Bx0LdAuaPIXDA%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/bda608c318b2c081ac493b891c1eb700.jpeg?x-expires=1651086000&x-signature=kvJwb5MGa165UxlBRxLlQd74c%2Fs%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bda608c318b2c081ac493b891c1eb700.jpeg?x-expires=1651086000&x-signature=mDY1yDmZwu7XTkkRbOGHuyD5UWA%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARuzht9Ihn_JW6pn2HFKslWCRekMe-PFMQsLCdANFaaiCtqMwmW8Je5Eo-NKLmogK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 34800,
+        "followingCount": 0,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,113 @@
+{
+    "id": "7090177716749716741",
+    "desc": "Reply to @1uvlysprxppy",
+    "createTime": 1650810643,
+    "video": {
+        "id": "7090177716749716741",
+        "height": 1024,
+        "width": 576,
+        "duration": 24,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c6aa2c1171c34dadb6774e6a86e44cd9?x-expires=1650859200&x-signature=Zb0wfl4Nv87U06ygak5LIblc6lA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b37d1411ea4d4d4da8b51b3688a0be78_1650810644?x-expires=1650859200&x-signature=ZrQZAH3ctJmofYl8NGs7PymLYOo%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a896dc61d3d7411a99c1bb859c2c81e6_1650810645?x-expires=1650859200&x-signature=jNxpMskKC43uGURTOs198DcRSmI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/cf33d1cf09fb7d6db4fca36beb6b4448/6266276b/video/tos/useast2a/tos-useast2a-ve-0068c004/44ed429ce200438aa7cd50e0f5744f3b/?a=1988&br=820&bt=410&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAxZ4we2N.q~fl7Gb&l=202204242245060101131351650182FBC5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NuPDw6ZmZvPDMzNzczM0ApZTM7NDM4OTtnNzxoZDUzM2dtYzBpcjRfcWZgLS1kMTZzcy0tNWIuMjUvM2MxYDU1LmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/cf33d1cf09fb7d6db4fca36beb6b4448/6266276b/video/tos/useast2a/tos-useast2a-ve-0068c004/44ed429ce200438aa7cd50e0f5744f3b/?a=1988&br=820&bt=410&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAxZ4we2N.q~fl7Gb&l=202204242245060101131351650182FBC5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NuPDw6ZmZvPDMzNzczM0ApZTM7NDM4OTtnNzxoZDUzM2dtYzBpcjRfcWZgLS1kMTZzcy0tNWIuMjUvM2MxYDU1LmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b37d1411ea4d4d4da8b51b3688a0be78_1650810644~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=LV6YrOeRWHdsm04Ms6MlJw%2BkP9c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b37d1411ea4d4d4da8b51b3688a0be78_1650810644~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=Pjv7lIcfcify%2BwCYlDgfDCDnd30%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c6aa2c1171c34dadb6774e6a86e44cd9?x-expires=1650859200&x-signature=Zb0wfl4Nv87U06ygak5LIblc6lA%3D",
+        "bitrate": 420797,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6951837510494503941",
+        "uniqueId": "istandwithukraintoday",
+        "nickname": "Istandwithukrain",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46b7efaea902f510b2c59bc93b1647dc~c5_100x100.jpeg?x-expires=1651010400&x-signature=SxOnSZw8eEoQ8gJSgvC94JGBPro%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46b7efaea902f510b2c59bc93b1647dc~c5_720x720.jpeg?x-expires=1651010400&x-signature=Ie1K0fPxKZHFbMHJTwjCwT3BYIk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46b7efaea902f510b2c59bc93b1647dc~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=SNLnaWkTmGoTd3LDQyhd2%2BTsKHY%3D",
+        "signature": "Sup!!!!!!!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcEYI0wUZseDBZv3J0l3jbKQcYiwHKyGQt-cWjjfJFVkEk2i8YZ436AhyrcJz61PE",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6865949943954147329",
+        "title": "La Espada",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/69c500182b694b5284b87ac6036425e0",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/78f0e09111d447e48803dc20720fb914.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/78f0e09111d447e48803dc20720fb914.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/78f0e09111d447e48803dc20720fb914.jpeg",
+        "authorName": "Eternal Raijin",
+        "original": false,
+        "duration": 60,
+        "album": "La Espada"
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 35
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 9,
+            "end": 22,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6965545384567866374",
+            "isCommerce": false,
+            "userUniqueId": "1uvlysprxppy",
+            "secUid": "MS4wLjABAAAA8yd3HYANku4gEIhCw4VRUz5uPWQ7sjQpHonzjasi9MFeL7pB-iNx84pykgb9cK-6",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 986,
+        "followerCount": 349,
+        "heartCount": 1090,
+        "videoCount": 33,
+        "diggCount": 20700,
+        "heart": 1090
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Omg it\u2019s so adorable I\u2019m so jealous "
+            ]
+        }
+    ],
+    "isAd": false
+}

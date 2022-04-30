@@ -1,0 +1,98 @@
+{
+    "id": "7090031877935090990",
+    "desc": "",
+    "createTime": 1650776687,
+    "video": {
+        "id": "7090031877935090990",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0b0e71c05d834175947c2f5b07c661d6?x-expires=1650859200&x-signature=It3BcOAh6J00a9yxlgTs4Jmtk6k%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2e0b64ca2ce040f0a5aba0bfbc12a5cc_1650776687?x-expires=1650859200&x-signature=cHcThgeIDDhiAp1pOszV7KDtpqM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/83c19c51dd5a44b3bf6c5df93fa6ebd3_1650776688?x-expires=1650859200&x-signature=4qx3HKW5g7TiRV9E1Ir9S6D2ofo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/bbc6359484db76273abe6fa28de0aa74/62662750/video/tos/useast5/tos-useast5-ve-0068c001-tx/c166614a2a134367b4bc987e16280b38/?a=1988&br=1640&bt=820&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZFxZ4we2NPP~fl7Gb&l=2022042422445401011300619516849FB3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhlNjk6ZjhnPDMzZzczNEApPDRlOWg8ZDwzNzozODg4NmdpZTY1cjRvZmZgLS1kMS9zcy80YjQ0YzMtXzEtM2AyNjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/bbc6359484db76273abe6fa28de0aa74/62662750/video/tos/useast5/tos-useast5-ve-0068c001-tx/c166614a2a134367b4bc987e16280b38/?a=1988&br=1640&bt=820&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZFxZ4we2NPP~fl7Gb&l=2022042422445401011300619516849FB3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhlNjk6ZjhnPDMzZzczNEApPDRlOWg8ZDwzNzozODg4NmdpZTY1cjRvZmZgLS1kMS9zcy80YjQ0YzMtXzEtM2AyNjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2e0b64ca2ce040f0a5aba0bfbc12a5cc_1650776687~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=wh%2B9to5jKFDdIhip%2FCzgDxWNzg0%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2e0b64ca2ce040f0a5aba0bfbc12a5cc_1650776687~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=8JD0dXWqrh9zeN0YVnMqnK756hc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0b0e71c05d834175947c2f5b07c661d6?x-expires=1650859200&x-signature=SjAYsprZkHSQSF6JMvmlzlhy8rw%3D",
+        "bitrate": 840453,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6812707695033091077",
+        "uniqueId": "imonboardwithbeingbored",
+        "nickname": "Slava Ukraini",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a9beffce27d8b22c07892dca0473a6b8~c5_100x100.jpeg?x-expires=1651010400&x-signature=e4jTrdhG3UPPZFTwMlUGw2iVhFU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a9beffce27d8b22c07892dca0473a6b8~c5_720x720.jpeg?x-expires=1651010400&x-signature=7HNWEkqVXWzYOOlNvsWXZ99VcuQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a9beffce27d8b22c07892dca0473a6b8~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=o9%2B2nZyJi6%2BoD%2FHf9KNnZMEiFQo%3D",
+        "signature": "hello\ntoxic cookie run fans dni",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgIoLKGlDUHzLRmHA3OE9KWtgFijoTpfIj1pLhDcONt2r4wQMS9Z2maP7fEaZip_m",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081707161545640750",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7081707197218048811.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c94628abad5483872f43a27017018f94~c5_100x100.jpeg?x-expires=1651010400&x-signature=PChnwhHFSz7G%2Bwad7RdxKMhU3ME%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c94628abad5483872f43a27017018f94~c5_720x720.jpeg?x-expires=1651010400&x-signature=0%2F%2Fw%2FJpuWjngVzPxT7K%2FGt1jCV4%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c94628abad5483872f43a27017018f94~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=o3yyLVgAur2o1kAkK6zhUxq9fb4%3D",
+        "authorName": "brother momentum",
+        "original": true,
+        "duration": 6,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 22,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 273
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1685,
+        "followerCount": 1029,
+        "heartCount": 8065,
+        "videoCount": 123,
+        "diggCount": 1254,
+        "heart": 8065
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "CHAD OTTOMAN"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6920711176134640646",
+        "shortId": "",
+        "uniqueId": "truthops",
+        "nickname": "Marcus Aurelius",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6550daeeabdc3a5a51a3e4c5856cf48~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=G7CmggDzyx%2FlP2OxQ0%2Bx9FZPH%2BE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6550daeeabdc3a5a51a3e4c5856cf48~c5_720x720.jpeg?x-expires=1651086000&x-signature=lfX5hnTAlyi7u0IroNowKM%2BS%2B%2FY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6550daeeabdc3a5a51a3e4c5856cf48~c5_100x100.jpeg?x-expires=1651086000&x-signature=ke26cniIJ6BNGcHE3ZpiEF72buc%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgeRt0ULRXu2OeWacyH8R7GRx61XAOY4qTeTuV79P4BCyGWrN4ScK-4IHIvucWHAG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1612,
+        "followingCount": 263,
+        "heart": 29900,
+        "heartCount": 29900,
+        "videoCount": 156,
+        "diggCount": 0
+    },
+    "itemList": []
+}

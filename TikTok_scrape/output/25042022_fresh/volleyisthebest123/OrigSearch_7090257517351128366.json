@@ -1,0 +1,90 @@
+{
+    "id": "7090257517351128366",
+    "desc": "",
+    "createTime": 1650829222,
+    "video": {
+        "id": "7090257517351128366",
+        "height": 960,
+        "width": 540,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/82625036f91f44dbadfb61875a15da18?x-expires=1650934800&x-signature=E3NsnI2kTE%2FFwQkA9%2BOvfLnn0XA%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2b3a70b8fc464b52b3cb30f0439e008d_1650829223?x-expires=1650934800&x-signature=%2FZ1SPcuVne9VTcJ0oqxuJzFR2IE%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b82c17003ff9427fb5da7fe4d57c0a9e_1650829223?x-expires=1650934800&x-signature=EXpogVLU97pyuHEbgc3KbvNUPeM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/cc6bee44c8c63c0f3c4e56359c0c2949/62674be6/video/tos/useast5/tos-useast5-pve-0068-tx/8ef8dfdf81074eefa0e972ca1eb3bf74/?a=1988&br=3306&bt=1653&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZY8z4we2N_HGfl7Gb&l=202204251933180101130060430E0A3692&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2l3Zzk6Zjx0PDMzZzczNEApZGVlaTk6NWU3N2ZpODw5OWdxaWlecjQwY2ZgLS1kMS9zczRiYi1gLS5iYS9gYV4xYDA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/cc6bee44c8c63c0f3c4e56359c0c2949/62674be6/video/tos/useast5/tos-useast5-pve-0068-tx/8ef8dfdf81074eefa0e972ca1eb3bf74/?a=1988&br=3306&bt=1653&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZY8z4we2N_HGfl7Gb&l=202204251933180101130060430E0A3692&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2l3Zzk6Zjx0PDMzZzczNEApZGVlaTk6NWU3N2ZpODw5OWdxaWlecjQwY2ZgLS1kMS9zczRiYi1gLS5iYS9gYV4xYDA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2b3a70b8fc464b52b3cb30f0439e008d_1650829223~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=BZySbBzdfKtEC62PkFCR418fLkI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2b3a70b8fc464b52b3cb30f0439e008d_1650829223~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=Ry1ZOqW1BN6u%2FM%2BNfBpFxTBpARU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/82625036f91f44dbadfb61875a15da18?x-expires=1650934800&x-signature=apHGuZAsIp309DhYBe7ORGePyFQ%3D",
+        "bitrate": 1693102,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7046034293320598534",
+        "uniqueId": "volleyisthebest123",
+        "nickname": "Izzy mastaw loves Ukrain",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdd24a7331c7a04d21c3d467b3c6b95b~c5_100x100.jpeg?x-expires=1651086000&x-signature=PDi71nrLX3kTjEc786L4GiwzKcI%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdd24a7331c7a04d21c3d467b3c6b95b~c5_720x720.jpeg?x-expires=1651086000&x-signature=QqtwEBvmMCyUWS78ZAkyiVESFwc%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdd24a7331c7a04d21c3d467b3c6b95b~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=QZU7vqKGlxyqHwI5kqy6cfeTFSc%3D",
+        "signature": "I follow back\n I stand with\ud83c\uddfa\ud83c\udde6\nTrump2024\nvolleyball",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV1ZdHsREZdlySjFV3YBxODPQBFbWnIIdD4fyYbxfTP47ETtZmB-PGTpBI4X9ffT3",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6954490570563734278",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6954490666575956742.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1651086000&x-signature=Iae%2BbHjNWL%2BV84cBTsxkSEiiMbQ%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1651086000&x-signature=zCyiLNP5m5y5lQlx6uqTlVeoacM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=OvUeeLO3SxB0FknhjRQ4zq4NdBs%3D",
+        "authorName": "Makayla \ud83d\udc7c\ud83c\udffc\ud83d\udda4",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 14
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 93,
+        "followerCount": 37,
+        "heartCount": 261,
+        "videoCount": 102,
+        "diggCount": 1031,
+        "heart": 261
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

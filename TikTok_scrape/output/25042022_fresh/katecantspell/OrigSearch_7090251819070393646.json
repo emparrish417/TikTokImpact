@@ -1,0 +1,90 @@
+{
+    "id": "7090251819070393646",
+    "desc": "",
+    "createTime": 1650827895,
+    "video": {
+        "id": "7090251819070393646",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/dc4cb338afec4fbda4e2fead2954542d?x-expires=1650934800&x-signature=tI7phvU2mX6Mq%2FOXxyYX5g%2FA%2Blg%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/af8201ab25294d7e845fb7710655ba56_1650827896?x-expires=1650934800&x-signature=mPlziS%2FIX8w%2FF6ieRlqjRU0r5KA%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f29eeb12f61e42eebb89f7064bff2d5e_1650827897?x-expires=1650934800&x-signature=RI%2FCxecOPPQaIFP%2FnZlaZjlfFBs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7c5df16dd066e023e97c0db948829a90/62674be9/video/tos/useast5/tos-useast5-ve-0068c003-tx/9cb09787e8ee4224a74dfa822f0457e4/?a=1988&br=3228&bt=1614&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZY8z4we2N_HGfl7Gb&l=202204251933180101130060430E0A3692&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2pqOzw6ZjZ0PDMzZzczNEApOGc4OjU7ZTs5Nzs8N2UzNWdeb3JjcjQwMWZgLS1kMS9zc2EzYjYxMV82LWEvNS4vYjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7c5df16dd066e023e97c0db948829a90/62674be9/video/tos/useast5/tos-useast5-ve-0068c003-tx/9cb09787e8ee4224a74dfa822f0457e4/?a=1988&br=3228&bt=1614&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZY8z4we2N_HGfl7Gb&l=202204251933180101130060430E0A3692&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2pqOzw6ZjZ0PDMzZzczNEApOGc4OjU7ZTs5Nzs8N2UzNWdeb3JjcjQwMWZgLS1kMS9zc2EzYjYxMV82LWEvNS4vYjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/af8201ab25294d7e845fb7710655ba56_1650827896~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=qEMq%2BPqaxO69HOQH9ljvHsGPCpo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/af8201ab25294d7e845fb7710655ba56_1650827896~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=kAvgL56EM9CYUJWutt4cbYD5ObU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/dc4cb338afec4fbda4e2fead2954542d?x-expires=1650934800&x-signature=tI7phvU2mX6Mq%2FOXxyYX5g%2FA%2Blg%3D",
+        "bitrate": 1653289,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6972316398501676037",
+        "uniqueId": "katecantspell",
+        "nickname": "JUSTICE FOR UKRAIN \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/848db96828d5474e45117ff27cc1f1a8~c5_100x100.jpeg?x-expires=1651086000&x-signature=XnrNFwDIQaBJWEb9KZfegRuuRBo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/848db96828d5474e45117ff27cc1f1a8~c5_720x720.jpeg?x-expires=1651086000&x-signature=vawQklmjW78N7%2BxcWnVzbauV2mc%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/848db96828d5474e45117ff27cc1f1a8~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=2OTZLbB%2FaA5zaUxOtf%2FCGmTIY8U%3D",
+        "signature": "\ud83e\uddff\nI take the label \u201cbitch\u201d proudly\nMatching pfp with McKenzie \ud83d\udcaa\u2049\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYedKdprtstAV2Z6piuhb3ENiRY1DWk_0n-9S9LSgIIZUNBiwwQGwWSKkUbtAVyno",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085008981722368814",
+        "title": "Boogie woogie poo",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7085008996310010667.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88ecba53c6bcba6e08fdfad656e06098~c5_100x100.jpeg?x-expires=1651086000&x-signature=nHpwvMx1wGeCWqwWZgjXiHNsbVc%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88ecba53c6bcba6e08fdfad656e06098~c5_720x720.jpeg?x-expires=1651086000&x-signature=8mfQA8ZP3Xk%2BWmsPNf1BQ4FpV%2FM%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88ecba53c6bcba6e08fdfad656e06098~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=0tZTDE0GH890sk5UvxbXIra7hCo%3D",
+        "authorName": "\ud83c\udf43scoobie\ud83c\udf43",
+        "original": true,
+        "duration": 19,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 37
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 6838,
+        "followerCount": 2988,
+        "heartCount": 12600,
+        "videoCount": 205,
+        "diggCount": 2959,
+        "heart": 12600
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,99 @@
+{
+    "id": "7090088135627001093",
+    "desc": "",
+    "createTime": 1650789789,
+    "video": {
+        "id": "7090088135627001093",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6653b5a263f541969b420547ce6675cc?x-expires=1650859200&x-signature=kuWMDFOG6aC2jlmuYlWkPnZHu%2FQ%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d4f4036190884008905649401032bb3b_1650789789?x-expires=1650859200&x-signature=kEpgA9cQbnTGTvfEf6C06Fy54GM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/cdbc0ceb3095410b99efef4b3554a291_1650789790?x-expires=1650859200&x-signature=tZa5%2FZ40QJViBG3dpiiYyBYJD3c%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0c6cbfe7863b2c6cfe12a8025a92c039/6266277b/video/tos/useast2a/tos-useast2a-ve-0068c002/1a3064a2f3b740abb10acac1600c6022/?a=1988&br=1948&bt=974&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWKZ4we2Ntm~fl7Gb&l=2022042422454001011300624422582EA0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amd2PDg6ZnVqPDMzNzczM0ApZGdmZmU6Z2Q7Nzg0ZTtlZ2dpMWk1cjRvbmZgLS1kMTZzczEyXjReMDI2LWJeNV5fLTQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0c6cbfe7863b2c6cfe12a8025a92c039/6266277b/video/tos/useast2a/tos-useast2a-ve-0068c002/1a3064a2f3b740abb10acac1600c6022/?a=1988&br=1948&bt=974&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWKZ4we2Ntm~fl7Gb&l=2022042422454001011300624422582EA0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amd2PDg6ZnVqPDMzNzczM0ApZGdmZmU6Z2Q7Nzg0ZTtlZ2dpMWk1cjRvbmZgLS1kMTZzczEyXjReMDI2LWJeNV5fLTQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d4f4036190884008905649401032bb3b_1650789789~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=CAwIhV%2FlL%2FRNmTon6qh8mzrOdLw%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d4f4036190884008905649401032bb3b_1650789789~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=1kebNHU%2B0jCL51wJnhYOPCLcM0g%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6653b5a263f541969b420547ce6675cc?x-expires=1650859200&x-signature=kuWMDFOG6aC2jlmuYlWkPnZHu%2FQ%3D",
+        "bitrate": 998183,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7085414352409691141",
+        "uniqueId": "standwithukrain6",
+        "nickname": "Kylan",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1651010400&x-signature=qAIRUm5Gb4tk2SsWKN6dqtS5rDY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1651010400&x-signature=lwNByKbeoA4%2F4bX0VKSTW%2Fnb6ws%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=3pd7A6L36WXHLCJxGN0SZ0SMKG4%3D",
+        "signature": "Follow for a Big gift my love",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMfJ3gGe5WLzM4HMuU-b4jQMUnlqzRdMlv38eYd4rd4QcebyltclCA9E1Kb_BZ701",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7043134480751610630",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7043134498456193797.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50076231c3db460df4871ed94fc95d8d~c5_100x100.jpeg?x-expires=1651010400&x-signature=Ki5MKdglL4g05edpK66oNyqeO6I%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50076231c3db460df4871ed94fc95d8d~c5_720x720.jpeg?x-expires=1651010400&x-signature=GwrUA4MmXBFZxiEhHLX8aqvbTM8%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/50076231c3db460df4871ed94fc95d8d~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=1WN4lrMIFCUBZYNGm70%2FiqvKAAw%3D",
+        "authorName": "Rachel",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 99
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 175,
+        "followerCount": 72,
+        "heartCount": 67,
+        "videoCount": 20,
+        "diggCount": 216,
+        "heart": 67
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Kylan ",
+                "Ylan"
+            ]
+        }
+    ],
+    "isAd": false
+}

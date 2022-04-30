@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6951785418174202886",
+        "shortId": "",
+        "uniqueId": "ginamackey72",
+        "nickname": "Whatever you want",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/069c4026c37e020ce90d94640b7c93dc~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=CSY3u7u4eavTC7HFGZPzX%2FoUGuo%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/069c4026c37e020ce90d94640b7c93dc~c5_720x720.jpeg?x-expires=1651086000&x-signature=E2qIuNYk0cUTMfWnN2RMSC7%2BE0U%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/069c4026c37e020ce90d94640b7c93dc~c5_100x100.jpeg?x-expires=1651086000&x-signature=GZdnLNR8Nnj0btGyAb4g2zMhlMw%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVqn9v_5cxyT8SReXhEWcZk4ZxnKz_3AY2ipcc54za8CpVOpwmcLsEKMRqen5-4nj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1074,
+        "followingCount": 426,
+        "heart": 8218,
+        "heartCount": 8218,
+        "videoCount": 640,
+        "diggCount": 0
+    },
+    "itemList": []
+}

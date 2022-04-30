@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7086864993349764139",
+        "shortId": "",
+        "uniqueId": "surkov_vladislav0",
+        "nickname": "War Memes",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2f7894d16b890a62b91c3c39fb5bf36~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=EYBVSY5%2FeajzY2pBq6XatSGa54w%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2f7894d16b890a62b91c3c39fb5bf36~c5_720x720.jpeg?x-expires=1650934800&x-signature=x9YZYKKe0Jhne0hKB%2BQtwfMdWn0%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2f7894d16b890a62b91c3c39fb5bf36~c5_100x100.jpeg?x-expires=1650934800&x-signature=HFuYYYdsZKoINM5xgcJFCiFlBzg%3D",
+        "signature": "War memes",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0m0DtIsVu9E9J03tsjzM_lpGCE-pEXcywiw68ExSrjKLm4ORznGx-EEoEXCLU63P",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4,
+        "followingCount": 10,
+        "heart": 140,
+        "heartCount": 140,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7089824268425282606",
+        "shortId": "",
+        "uniqueId": "haydeneinc",
+        "nickname": "Haydeneinc",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7835eda2343bcb5e04f60f0376e417ca~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=880JVaXaM5OHo%2B7PuicUMaGPEr8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7835eda2343bcb5e04f60f0376e417ca~c5_720x720.jpeg?x-expires=1651010400&x-signature=qlSSLWzKgw3GxQj%2FiyFdAnLlpEQ%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7835eda2343bcb5e04f60f0376e417ca~c5_100x100.jpeg?x-expires=1651010400&x-signature=KgtS1bXX3tkYQ9RxOGvGB7JIM4s%3D",
+        "signature": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA8Ln0Vf08Hm8a3B8T4SaR3Q0Gg6Gag-RRXwyAEYlhbn7mmIYJsaAynlmFW7fPt0HA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3,
+        "followingCount": 16,
+        "heart": 55,
+        "heartCount": 55,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

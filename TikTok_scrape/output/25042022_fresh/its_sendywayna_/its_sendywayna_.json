@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "130504949792329728",
+        "shortId": "",
+        "uniqueId": "its_sendywayna_",
+        "nickname": "SendyWayna",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ba8da59989a196d041b61660fa4bad4e~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=iPQEOErPr%2FAgJZfwl04zcRSZHv4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ba8da59989a196d041b61660fa4bad4e~c5_720x720.jpeg?x-expires=1651086000&x-signature=gORKYpafbn799Bt5K1g5EtCcL34%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ba8da59989a196d041b61660fa4bad4e~c5_100x100.jpeg?x-expires=1651086000&x-signature=hwH0X0nua6%2FFnsqgzbAu%2B8B%2BntQ%3D",
+        "signature": "\ud83c\udf3aOne Life \ud83c\udf88",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJgNIJNnnkJAlSqb4zZf3ugbnRywDzaY9HWrz9mGNKGHge_j7s6ob3JkfdNM-yOzG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4213,
+        "followingCount": 438,
+        "heart": 17900,
+        "heartCount": 17900,
+        "videoCount": 871,
+        "diggCount": 53800
+    },
+    "itemList": []
+}

@@ -1,0 +1,104 @@
+{
+    "id": "7090110117617700101",
+    "desc": "",
+    "createTime": 1650794906,
+    "video": {
+        "id": "7090110117617700101",
+        "height": 960,
+        "width": 540,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fa09f9dd08a648c5a1ce32896dd10a8b?x-expires=1650859200&x-signature=VfM6bO5tekFA9AFv6I5izmEyypM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4bc6e72ee52246e79818d53de8a01717_1650794906?x-expires=1650859200&x-signature=uJX1Z1xZUHegAK0UxBvOKC8j8Dw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/74aea04368a041fb8a1b7c4b8684b353_1650795415?x-expires=1650859200&x-signature=2CEMr4XOVEDFjIOhAQ4Mpu2pib8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2acb54b3bfbcb74ffa2dc83fc44fb1f4/6266273c/video/tos/useast2a/tos-useast2a-ve-0068c004/fb888369857e4e6d987e5eea632309e9/?a=1988&br=862&bt=431&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z7xZ4we2N-befl7Gb&l=202204242244310101130061741E6CF346&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2x1eWk6ZjhsPDMzNzczM0ApZGlkZjg3Ozw3N2Q4ZGk1NGdecm0ucjRvMGZgLS1kMTZzcy1fYzNgMDRjMzUxNC81NmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2acb54b3bfbcb74ffa2dc83fc44fb1f4/6266273c/video/tos/useast2a/tos-useast2a-ve-0068c004/fb888369857e4e6d987e5eea632309e9/?a=1988&br=862&bt=431&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z7xZ4we2N-befl7Gb&l=202204242244310101130061741E6CF346&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2x1eWk6ZjhsPDMzNzczM0ApZGlkZjg3Ozw3N2Q4ZGk1NGdecm0ucjRvMGZgLS1kMTZzcy1fYzNgMDRjMzUxNC81NmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4bc6e72ee52246e79818d53de8a01717_1650794906~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=5YPWzPz9%2FPZgjsTE8AMQpXS9M2U%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4bc6e72ee52246e79818d53de8a01717_1650794906~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=d%2B5nEgTSzaVbpwxxemOqGBpwCZo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fa09f9dd08a648c5a1ce32896dd10a8b?x-expires=1650859200&x-signature=VfM6bO5tekFA9AFv6I5izmEyypM%3D",
+        "bitrate": 441356,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7072745930176742406",
+        "uniqueId": "ukrainia45",
+        "nickname": "ukrainia45",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6d3512d63aad02416756168e2a398419~c5_100x100.jpeg?x-expires=1651010400&x-signature=je07Fw4dsIdKvccg%2BSSfd1awB7k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6d3512d63aad02416756168e2a398419~c5_720x720.jpeg?x-expires=1651010400&x-signature=z8n3AwruYIftDc56SsB4Z154xcc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6d3512d63aad02416756168e2a398419~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=9HQdIoSPpDVdUJ7UfPUOpdNlptE%3D",
+        "signature": "Fuck putin",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_gwyAZLrBYHKsISdHVgRJvaJr2Ws3UUMNY-AWgbTvy4s8C8hju2hoR7cPja1DuhD",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7073145622517631750",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7073145627760233221.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/02c5081f51af8ea100855004333b98af~c5_100x100.jpeg?x-expires=1651010400&x-signature=btV5iStEz450W3FSKbQA1wRyT44%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/02c5081f51af8ea100855004333b98af~c5_720x720.jpeg?x-expires=1651010400&x-signature=rHlB91fUMBP%2F5YVBuLnrthnxnBw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/02c5081f51af8ea100855004333b98af~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=fppAVjAXs7hbPt7Ev%2Fgvw40tmkA%3D",
+        "authorName": "Spam = block <3",
+        "original": true,
+        "duration": 17,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 9,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1173
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "LOOP ME",
+            "ID": "1515539"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 5,
+        "followerCount": 13,
+        "heartCount": 284,
+        "videoCount": 4,
+        "diggCount": 10,
+        "heart": 284
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Putin : dans om du hater meg"
+            ]
+        }
+    ],
+    "isAd": false
+}

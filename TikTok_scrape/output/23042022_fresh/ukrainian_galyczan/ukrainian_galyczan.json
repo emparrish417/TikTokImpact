@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6794460388081402886",
+        "shortId": "",
+        "uniqueId": "ukrainian_galyczan",
+        "nickname": "Tik Toker",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47ce9b455aeebc19ae06562266f3f2fd~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=59OXI%2Fbf6HW5xqJEgjd8vB7Rst8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47ce9b455aeebc19ae06562266f3f2fd~c5_720x720.jpeg?x-expires=1650934800&x-signature=9CGF2SJd8sRXWI04uiBVX48zMmg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47ce9b455aeebc19ae06562266f3f2fd~c5_100x100.jpeg?x-expires=1650934800&x-signature=E9J7kp68LMdwUzOSEJT3gId97o8%3D",
+        "signature": "\ud83c\udff4\u200d\u2620\ufe0f\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAApcu9ii_tu_5Nn4IIJHErMgFPI6-FC0RTAqO8VBccL2P6Y2WFvcp1NWvdyrz671_r",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 742,
+        "followingCount": 117,
+        "heart": 14900,
+        "heartCount": 14900,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

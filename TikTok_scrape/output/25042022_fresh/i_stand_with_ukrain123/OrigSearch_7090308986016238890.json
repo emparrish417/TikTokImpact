@@ -1,0 +1,105 @@
+{
+    "id": "7090308986016238890",
+    "desc": "",
+    "createTime": 1650841206,
+    "video": {
+        "id": "7090308986016238890",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6cdac58b27f84b498ded58ef5c8c609a?x-expires=1650934800&x-signature=13pZz8Qvb2APXW1t4X0hom7t0lc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/42cdb56dcf7d47eda40891468fb48be4_1650841206?x-expires=1650934800&x-signature=PVIWFoJpSJtO%2BB%2F5wVDZotFzOh4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/af4df05585a04b61a97c2c26873031ca_1650841207?x-expires=1650934800&x-signature=85SPUiW3Sn6sk%2FUf5Imbo6wB7VE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0cae2af0b27db745b7943022a77c2d0e/62674bc1/video/tos/useast5/tos-useast5-ve-0068c001-tx/7450f270f20f413d87144dffbe39a8b0/?a=1988&br=832&bt=416&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZP8z4we2NXvyfl7Gb&l=202204251932340101130062131E255FFD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xxcDQ6ZnB3PDMzZzczNEApO2Q8ZmloaGQ7NzkzM2g5aWdoX2gucjRvX2ZgLS1kMS9zczZjYDMtNGMtNWAyYjQyMWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0cae2af0b27db745b7943022a77c2d0e/62674bc1/video/tos/useast5/tos-useast5-ve-0068c001-tx/7450f270f20f413d87144dffbe39a8b0/?a=1988&br=832&bt=416&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZP8z4we2NXvyfl7Gb&l=202204251932340101130062131E255FFD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2xxcDQ6ZnB3PDMzZzczNEApO2Q8ZmloaGQ7NzkzM2g5aWdoX2gucjRvX2ZgLS1kMS9zczZjYDMtNGMtNWAyYjQyMWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/42cdb56dcf7d47eda40891468fb48be4_1650841206~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=lP9mba8O5P59Ynsi3CZispP%2BmTo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/42cdb56dcf7d47eda40891468fb48be4_1650841206~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=9tA56UHlqkcVs%2BSNcpcHE82MKGo%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6cdac58b27f84b498ded58ef5c8c609a?x-expires=1650934800&x-signature=13pZz8Qvb2APXW1t4X0hom7t0lc%3D",
+        "bitrate": 426768,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7029455044564075525",
+        "uniqueId": "i_stand_with_ukrain123",
+        "nickname": "UKRAIN\ud83e\udd76\ud83e\udd76\ud83e\udd76",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/247a2a0cc8c0298163e353becbabebe2~c5_100x100.jpeg?x-expires=1651086000&x-signature=aRvLKpEPRVECLA55M7gsOW08NUk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/247a2a0cc8c0298163e353becbabebe2~c5_720x720.jpeg?x-expires=1651086000&x-signature=ekuLzx66a3hzvSImxH6wcCgJ0eE%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/247a2a0cc8c0298163e353becbabebe2~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=gBIJ2UyuLcS6Ay0AjG7k6Jz%2BGac%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUyEYQHu6SPtQUc31KdPZ1Mmgn2CuQA3ACIj-yT7_MXx1JApxblajAQ3jxnSwgF2W",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075778184565803781",
+        "title": "Finli Draper Music Money So Big",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7075778195735268101.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6fc58b6b620679e0ce022b966a0fe3c2.jpeg?x-expires=1651086000&x-signature=6DxzatEToItg4%2BRpyfu6gqffovI%3D",
+        "coverMedium": "https://p77-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/6fc58b6b620679e0ce022b966a0fe3c2.jpeg?x-expires=1651086000&x-signature=UgBW%2BIcAvZjyaB7q41zJMtgsc%2B4%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/6fc58b6b620679e0ce022b966a0fe3c2.jpeg?x-expires=1651086000&x-signature=OZpQprajJRl7a08PdgqDLn%2BroKk%3D",
+        "authorName": "Fin Draper Music",
+        "original": true,
+        "duration": 27,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 256
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "TapTap Numbers by Jan",
+            "ID": "1816066"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 93,
+        "followerCount": 177,
+        "heartCount": 537,
+        "videoCount": 61,
+        "diggCount": 3383,
+        "heart": 537
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Me:",
+                "How many kids do you have in your basement "
+            ]
+        }
+    ],
+    "isAd": false
+}

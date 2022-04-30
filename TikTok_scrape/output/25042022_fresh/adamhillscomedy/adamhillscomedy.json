@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "7010493517034980357",
+        "shortId": "",
+        "uniqueId": "adamhillscomedy",
+        "nickname": "adamhillscomedy",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c87cac40349d15fa4c284d4743463a4~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=Bg7DcEwWWj6gVlKCWk8mQ4Yxduc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c87cac40349d15fa4c284d4743463a4~c5_720x720.jpeg?x-expires=1651086000&x-signature=xfP8YBS3fTO%2FzzDPskhxHJenLas%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1c87cac40349d15fa4c284d4743463a4~c5_100x100.jpeg?x-expires=1651086000&x-signature=aHzAJ%2BmmNux3tAw1iAZeXtUbPsA%3D",
+        "signature": "Comedian. Writer. Father.\nNew book Rockstar Detectives Feb 4.  Link below.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkeCZcPHZwNRv_8Igamnhdw_HtD6drRyl-YsozmHXDXoFMmKW2Mh9CfpzKA5SD-ce",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/RockstarDetectivesAdamHills",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 26500,
+        "followingCount": 24,
+        "heart": 370500,
+        "heartCount": 370500,
+        "videoCount": 20,
+        "diggCount": 0
+    },
+    "itemList": []
+}

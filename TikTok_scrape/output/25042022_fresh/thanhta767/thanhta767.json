@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7083843111257621550",
+        "shortId": "",
+        "uniqueId": "thanhta767",
+        "nickname": "ok",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00ef08900b84bf5b320cfb83bb040e10~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=3kKOrvUd0t2R7g5VQZn8WYehC48%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00ef08900b84bf5b320cfb83bb040e10~c5_720x720.jpeg?x-expires=1651086000&x-signature=oJP1OjqzNKv7GCakxuEipaj5Lok%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00ef08900b84bf5b320cfb83bb040e10~c5_100x100.jpeg?x-expires=1651086000&x-signature=pJa98VB77%2F4ouwmi5xa6XuCX4mk%3D",
+        "signature": "ok",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQPaFj1dygOHg_R-vCgoY4neTfFBN8NFQki5jJveUvAJvHBS6JlVstPyPmThnRY1g",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 167,
+        "followingCount": 0,
+        "heart": 1417,
+        "heartCount": 1417,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

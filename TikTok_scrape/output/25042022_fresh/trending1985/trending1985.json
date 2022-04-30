@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7087931186627036202",
+        "shortId": "",
+        "uniqueId": "trending1985",
+        "nickname": "thanhtrending",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=OvUeeLO3SxB0FknhjRQ4zq4NdBs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1651086000&x-signature=zCyiLNP5m5y5lQlx6uqTlVeoacM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1651086000&x-signature=Iae%2BbHjNWL%2BV84cBTsxkSEiiMbQ%3D",
+        "signature": "war military simulation",
+        "verified": false,
+        "secUid": "MS4wLjABAAAANO0AZbvAgDHaJdDyDWOJvd98UW9b-2FLo8-GZcW-Pc4OEH0NPPq5nQa2yX36SaPI",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 200,
+        "followingCount": 0,
+        "heart": 2318,
+        "heartCount": 2318,
+        "videoCount": 18,
+        "diggCount": 0
+    },
+    "itemList": []
+}

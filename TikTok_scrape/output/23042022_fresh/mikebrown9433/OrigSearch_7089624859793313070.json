@@ -1,0 +1,119 @@
+{
+    "id": "7089624859793313070",
+    "desc": "#CapCut",
+    "createTime": 1650681920,
+    "video": {
+        "id": "7089624859793313070",
+        "height": 768,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8456d0cdc9c048fd99022a99e057b5a0?x-expires=1650783600&x-signature=JiZBvFbN%2Fz0r%2F2B1nXjFHMd0%2FX4%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/676d4af35b724d4c8b8dd24d482ceae8_1650681921?x-expires=1650783600&x-signature=pOKbBm3yv46qBiDRNgHoN1J5zpA%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2647a8f5dab44210bbd1ce513137726f_1650681921?x-expires=1650783600&x-signature=uDQrz66I%2FCE7mFg64JNnfW098e0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5ccb05e7db329c1c7f86c899c169b207/6264fb43/video/tos/useast5/tos-useast5-pve-0068-tx/2e8158bb01b14e73a7cfcf2a7ab6c3b6/?a=1988&br=908&bt=454&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZOUu4we2NLZ7fl7Gb&l=2022042401244101011313508226BCB21C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZwOjc6ZmZwPDMzZzczNEApNjlnaWQzZWU5N2ZoOzc1O2dvMmhscjRfZGVgLS1kMS9zcy8tX2JhYTAtLzQzNmEuLV86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5ccb05e7db329c1c7f86c899c169b207/6264fb43/video/tos/useast5/tos-useast5-pve-0068-tx/2e8158bb01b14e73a7cfcf2a7ab6c3b6/?a=1988&br=908&bt=454&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZOUu4we2NLZ7fl7Gb&l=2022042401244101011313508226BCB21C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZwOjc6ZmZwPDMzZzczNEApNjlnaWQzZWU5N2ZoOzc1O2dvMmhscjRfZGVgLS1kMS9zcy8tX2JhYTAtLzQzNmEuLV86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/676d4af35b724d4c8b8dd24d482ceae8_1650681921~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=5uJ%2BaNyaVUA7B6cOUUz8vjBPfMs%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/676d4af35b724d4c8b8dd24d482ceae8_1650681921~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=T8rlovQIZ7rm39WCmjAsEDmfJiU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8456d0cdc9c048fd99022a99e057b5a0?x-expires=1650783600&x-signature=JiZBvFbN%2Fz0r%2F2B1nXjFHMd0%2FX4%3D",
+        "bitrate": 465310,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055884826352174085",
+        "uniqueId": "mikebrown9433",
+        "nickname": "WE STAND UKRAIN!\u270a",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1650934800&x-signature=FSjR63huVs8aIeP2KgBWMVa2JYQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1650934800&x-signature=sn8tqGj0361prifCeEnACfaBV5k%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=mIy84bpW0CVOorb4Kqyqr97QxBk%3D",
+        "signature": "https://orangsa.bar/13274aa?s1=kri$ten\nYou're about to open an external website.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGgAQEHqHu61EVzvb_SDCl5X-7FhqqEbp78nzWkWPPuRgwuKVqleUMHU_fUlwdhNW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089624839720127278",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7089624865371867950.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1650934800&x-signature=FSjR63huVs8aIeP2KgBWMVa2JYQ%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1650934800&x-signature=sn8tqGj0361prifCeEnACfaBV5k%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=mIy84bpW0CVOorb4Kqyqr97QxBk%3D",
+        "authorName": "WE STAND UKRAIN!\u270a",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1663935709411330",
+            "title": "capcut",
+            "desc": "CapCut is a new, easy-to-use video editing tool designed for mobile platforms. CapCut provides users with a wide range of video editing functions, filters, audio &amp; visual effects, video templates, while keeping it free of charge and ads-free. Everyone can be a creator by using CapCut.  \n\nStart creating your cool videos today: \nhttps://capcut.onelink.me/XKqI/228cad85",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 3
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "capcut",
+            "hashtagId": "1663935709411330",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 182,
+        "followerCount": 52,
+        "heartCount": 240,
+        "videoCount": 134,
+        "diggCount": 787,
+        "heart": 240
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

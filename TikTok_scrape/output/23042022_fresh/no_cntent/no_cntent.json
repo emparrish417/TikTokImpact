@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6936235783355532293",
+        "shortId": "",
+        "uniqueId": "no_cntent",
+        "nickname": "no_cntent",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd7d95d84653a4f4c120a22382630458~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=fsB5gAdbpkLBcKq8ihRbjedje5g%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd7d95d84653a4f4c120a22382630458~c5_720x720.jpeg?x-expires=1650934800&x-signature=5LoPoxjELPaogbdBsvygb0Wc2JQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd7d95d84653a4f4c120a22382630458~c5_100x100.jpeg?x-expires=1650934800&x-signature=9T7zEj91kWxjCxoZlZIQRNnIEmo%3D",
+        "signature": "24,3K  Krasse Menschen\n@jvlia.blx folgt mal auf Ehre",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXBsWzuZ0-9zHGEeiqLg5qnvgFBO7gf2vqMiQ2YgQ2Ox2fQfcVepME1koYK9FVDO1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.twitch.tv/iamyourwaiifu",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24300,
+        "followingCount": 9993,
+        "heart": 783000,
+        "heartCount": 783000,
+        "videoCount": 370,
+        "diggCount": 0
+    },
+    "itemList": []
+}

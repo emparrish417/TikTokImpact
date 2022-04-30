@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6706544025628345349",
+        "shortId": "",
+        "uniqueId": "lilgnar_1",
+        "nickname": "LIL GNAR",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb0e151d4bd7d610df11d5e633562ed1~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=EFTl3VfM5MMeQ7SZYq9tIZA6jK4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb0e151d4bd7d610df11d5e633562ed1~c5_720x720.jpeg?x-expires=1651086000&x-signature=381PvbxO8auNkLvr%2BYtsBdPLSig%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb0e151d4bd7d610df11d5e633562ed1~c5_100x100.jpeg?x-expires=1651086000&x-signature=C24%2BGpaqJqPo%2BLo8r3W8h%2Bw%2F6Q8%3D",
+        "signature": "join my discord \u2935\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaUb_syPuJY3vpo1wZrCUwa3fJTgtSmMYWoUKf8w_Kls5aScuhwwwrBULW52taKNr",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://discord.gg/UAsZJxu9e9",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 166200,
+        "followingCount": 20,
+        "heart": 2900000,
+        "heartCount": 2900000,
+        "videoCount": 30,
+        "diggCount": 0
+    },
+    "itemList": []
+}

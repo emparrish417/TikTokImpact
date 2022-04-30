@@ -1,0 +1,99 @@
+{
+    "id": "7089931811194735878",
+    "desc": "",
+    "createTime": 1650753388,
+    "video": {
+        "id": "7089931811194735878",
+        "height": 1024,
+        "width": 576,
+        "duration": 27,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b30541d83d6a467fb8a828feb2f5e1f5?x-expires=1650859200&x-signature=i20kJ6dj6nSV6J6mjpvHU8pjWFI%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4a52cc2df1e74cff95a7964c81d7d5e0_1650753390?x-expires=1650859200&x-signature=ZS2%2B4q36UT6DmMqGOfkIVh6IBPk%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e32565781e614a5da58719e4cd0d9b48_1650753390?x-expires=1650859200&x-signature=8PZWDhYDVfUTs0uO86yXYb2vyOo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/128ffc628d3cbf2a2048bf634543fb06/6266276e/video/tos/useast2a/tos-useast2a-pve-0068/4c5aa054ed274bb4806cb1bab48120c9/?a=1988&br=2032&bt=1016&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAxZ4we2N.q~fl7Gb&l=202204242245060101131351650182FBC5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVkcjc6ZnE6PDMzNzczM0ApaDhlPDU1O2U5NzRnNGU4ZmdwYGctcjRvcmZgLS1kMTZzczAvYTFjMS8yLjJhLTReMS86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/128ffc628d3cbf2a2048bf634543fb06/6266276e/video/tos/useast2a/tos-useast2a-pve-0068/4c5aa054ed274bb4806cb1bab48120c9/?a=1988&br=2032&bt=1016&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAxZ4we2N.q~fl7Gb&l=202204242245060101131351650182FBC5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVkcjc6ZnE6PDMzNzczM0ApaDhlPDU1O2U5NzRnNGU4ZmdwYGctcjRvcmZgLS1kMTZzczAvYTFjMS8yLjJhLTReMS86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4a52cc2df1e74cff95a7964c81d7d5e0_1650753390~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=A83Yfabx0S4n4Tv%2Fa%2BrO9yKkT9c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4a52cc2df1e74cff95a7964c81d7d5e0_1650753390~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=hvAnhifr6XeZSaXvJ6yPjpkTQ0o%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b30541d83d6a467fb8a828feb2f5e1f5?x-expires=1650859200&x-signature=i20kJ6dj6nSV6J6mjpvHU8pjWFI%3D",
+        "bitrate": 1040450,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7023175053303923718",
+        "uniqueId": "slavikukraincev",
+        "nickname": "Slavikukraincev",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05edd064a5b5d20705d80e00bfa6baac~c5_100x100.jpeg?x-expires=1651010400&x-signature=0p0ovdcez2EIdTgpFZWGSKRL%2B6E%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05edd064a5b5d20705d80e00bfa6baac~c5_720x720.jpeg?x-expires=1651010400&x-signature=TGn3fysu%2BJGlbsD7AFZOqBLuK5g%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05edd064a5b5d20705d80e00bfa6baac~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=mjvt0kEhx7fzQU9HBjRi%2BFxv7hY%3D",
+        "signature": "Inst:tema_kraw",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMFCewSmjgHQKMbUL3am8AdPccwEHamvQ1trY4_ntr1atVWLqqwjzBWsQ_xRWniyQ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6943891471351203841",
+        "title": "GAZ",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ee40ae40c80848a7bcb59ca8710115e1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e0e96770e65a42589a65bca2a46affc3.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e0e96770e65a42589a65bca2a46affc3.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e0e96770e65a42589a65bca2a46affc3.jpeg",
+        "authorName": "Kaito Shoma",
+        "original": false,
+        "duration": 60,
+        "album": "GAZ"
+    },
+    "stats": {
+        "diggCount": 12,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 281
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 27,
+        "followerCount": 14,
+        "heartCount": 61,
+        "videoCount": 8,
+        "diggCount": 1711,
+        "heart": 61
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u041f\u043e\u0432 \u043a\u0430\u043b\u0430\u0448 \u0441 \u0432\u0435\u043d\u043a\u0430\u043c\u0438",
+                "-9"
+            ]
+        }
+    ],
+    "isAd": false
+}

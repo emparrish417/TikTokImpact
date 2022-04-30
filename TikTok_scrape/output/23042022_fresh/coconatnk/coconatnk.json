@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6615733776537108485",
+        "shortId": "",
+        "uniqueId": "coconatnk",
+        "nickname": "Natasha Alexandrova",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de291cc381645f5cc66c97efaa7087c4~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=7J3KUD66sf8BlVqI0Ns1xE0Gw3k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de291cc381645f5cc66c97efaa7087c4~c5_720x720.jpeg?x-expires=1650934800&x-signature=%2F3BiSZKdThoAy%2FhjbncUKGM0tkc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de291cc381645f5cc66c97efaa7087c4~c5_100x100.jpeg?x-expires=1650934800&x-signature=GTgBLLEaWpqNAxKr7yeUaYxZYbo%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEConRXilFaS-8tEefUZn_TIQjzQiVDBVnFXtVgcVuQccPeNsvAqCWtorUTg7pKg9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 57,
+        "followingCount": 38,
+        "heart": 973,
+        "heartCount": 973,
+        "videoCount": 31,
+        "diggCount": 0
+    },
+    "itemList": []
+}

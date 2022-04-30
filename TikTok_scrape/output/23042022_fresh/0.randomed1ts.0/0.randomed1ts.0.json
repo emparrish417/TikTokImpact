@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7045633817817777157",
+        "shortId": "",
+        "uniqueId": "0.randomed1ts.0",
+        "nickname": "\u2661\ufe0e pickle cault",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/509d9f729a36306d6ddbb565092c5dff~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=hPDeStcXSQIbbRazIWCPCPU7qqo%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/509d9f729a36306d6ddbb565092c5dff~c5_720x720.jpeg?x-expires=1650934800&x-signature=d1Af4t1235U1EfdXYhCfIJvBP2g%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/509d9f729a36306d6ddbb565092c5dff~c5_100x100.jpeg?x-expires=1650934800&x-signature=mSu%2Fc4syYi4zyj%2B2wlq6UYNzvr8%3D",
+        "signature": "No bio yet",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAHkMckdUnqlNGJYivf-kBi3wLCXMiKXWUHmh_QHNF9DK44XQzkGHx09cqxOJrkXTB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 66,
+        "followingCount": 146,
+        "heart": 181,
+        "heartCount": 181,
+        "videoCount": 29,
+        "diggCount": 0
+    },
+    "itemList": []
+}

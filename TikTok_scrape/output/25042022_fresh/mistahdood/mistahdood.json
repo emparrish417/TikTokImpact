@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6757846423510959110",
+        "shortId": "",
+        "uniqueId": "mistahdood",
+        "nickname": "k dood",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/80f83190c9e3cf10d15f1f8555e7c784~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=r2UaFp9CjzU%2BqS%2Bs%2FuDFfOTib1A%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/80f83190c9e3cf10d15f1f8555e7c784~c5_720x720.jpeg?x-expires=1651086000&x-signature=jCkcoIUR9P2dmcOWw0Etvj1HEIM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/80f83190c9e3cf10d15f1f8555e7c784~c5_100x100.jpeg?x-expires=1651086000&x-signature=O6P7r6goeMgahlI%2F6rGp7kgmqIA%3D",
+        "signature": "Hawaii",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAi51YThnuAGmq66R7i3CyJmrDxuTPlvmLY7GL5nr4IYaUJxDkqkx_jtF_HCHPNLhR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3557,
+        "followingCount": 305,
+        "heart": 370100,
+        "heartCount": 370100,
+        "videoCount": 113,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,309 @@
+{
+    "id": "7068603944460750086",
+    "desc": "President #Zelenskyy insists #Ukrainians are \u2018not afraid to defend their county\u2019 as #Russian #troops enter #Kyiv #Russia #Ukraine #RussianInvasion",
+    "createTime": 1645787609,
+    "video": {
+        "id": "7068603944460750086",
+        "height": 1024,
+        "width": 576,
+        "duration": 37,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3ea6229aa360461485a9179c350bf7f1_1645787612~tplv-dmt-logom:tos-useast2a-v-0068/5d19224e1f7d412d967a68f9289de11a.image?x-expires=1650859200&x-signature=N8O0aDScS9rkveqP%2BCsjoydJJJw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/09a919cecbea49d6bbf66bd37f850646_1645787610?x-expires=1650859200&x-signature=QRyhltMDY6xBRvWmxCQozCTD704%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2e4af8f2bb404f54a86db3909854950e_1645787610?x-expires=1650859200&x-signature=UtFH16QB3b4FKGjc8K3W3NDbrlA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b34b1ddeb960631c9cbb2d1ab6998ff7/62662848/video/tos/useast2a/tos-useast2a-pve-0068/81a00eb416434c9eb2aa151188fdcece/?a=1988&br=864&bt=432&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZuaZ4we2NFm~fl7Gb&l=2022042422483601011300624404671650&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anE7bDo6ZmRlOzMzNzczM0ApOzw8MzU2ODxmNzg4ODY4O2dyY20ycjRnZmBgLS1kMTZzc15jY2MxXi9jMTI1Yi5eYGI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b34b1ddeb960631c9cbb2d1ab6998ff7/62662848/video/tos/useast2a/tos-useast2a-pve-0068/81a00eb416434c9eb2aa151188fdcece/?a=1988&br=864&bt=432&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZuaZ4we2NFm~fl7Gb&l=2022042422483601011300624404671650&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anE7bDo6ZmRlOzMzNzczM0ApOzw8MzU2ODxmNzg4ODY4O2dyY20ycjRnZmBgLS1kMTZzc15jY2MxXi9jMTI1Yi5eYGI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/09a919cecbea49d6bbf66bd37f850646_1645787610~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=NZpIAGudi%2FvVQVfEWqtoFOeZNtU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/09a919cecbea49d6bbf66bd37f850646_1645787610~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=pk21LowbH49W5jxXrwecdh0vqrM%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0b23ee02604d4cff47b8ffcd9dfdaa00?x-expires=1650859200&x-signature=p2Z2qk12dTtkoJl9Q9yMVBnLrtQ%3D",
+        "bitrate": 443053,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6651909743483928581",
+        "uniqueId": "skynews",
+        "nickname": "Sky News",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_100x100.jpeg?x-expires=1651010400&x-signature=MeT7LaCImPNrfoF2OOlAxkqQIZc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_720x720.jpeg?x-expires=1651010400&x-signature=NBwZPFWqxbZR8OBQzCYkQQgJ32Q%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=zzKA55xTYQcYgbz0pUCWByHURdE%3D",
+        "signature": "For the latest news, download the Sky News app now  \u2b07\ufe0f",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAx8y_BktPXl0F_YGL8JKkzC8APfj3hYbZSxjIT061kOVqrjLuLpazjqNWhDGI2Z_A",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068603942120229638",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7068603898692389638.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_100x100.jpeg?x-expires=1651010400&x-signature=MeT7LaCImPNrfoF2OOlAxkqQIZc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_720x720.jpeg?x-expires=1651010400&x-signature=NBwZPFWqxbZR8OBQzCYkQQgJ32Q%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=zzKA55xTYQcYgbz0pUCWByHURdE%3D",
+        "authorName": "Sky News",
+        "original": true,
+        "duration": 36,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1681349784379394",
+            "title": "zelenskyy",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "20022648",
+            "title": "ukrainians",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "111199",
+            "title": "russian",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "110486",
+            "title": "troops",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "5030717",
+            "title": "kyiv",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1653423939853318",
+            "title": "russianinvasion",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 243500,
+        "shareCount": 5292,
+        "commentCount": 9007,
+        "playCount": 4100000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 10,
+            "end": 20,
+            "hashtagName": "zelenskyy",
+            "hashtagId": "1681349784379394",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 29,
+            "end": 40,
+            "hashtagName": "ukrainians",
+            "hashtagId": "20022648",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 84,
+            "end": 92,
+            "hashtagName": "russian",
+            "hashtagId": "111199",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 93,
+            "end": 100,
+            "hashtagName": "troops",
+            "hashtagId": "110486",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 107,
+            "end": 112,
+            "hashtagName": "kyiv",
+            "hashtagId": "5030717",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 113,
+            "end": 120,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 121,
+            "end": 129,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 130,
+            "end": 146,
+            "hashtagName": "russianinvasion",
+            "hashtagId": "1653423939853318",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 1100000,
+        "heartCount": 12300000,
+        "videoCount": 700,
+        "diggCount": 35,
+        "heart": 12300000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "President of Ukraine\nVolodymyr Zelenskyy",
+                "\ud83d\udcfa Sky 501, Virgin 602, Freeview 233, YouTube\n\ud83d\udcbb news.sky.uk\n\ud83d\udcf1 Sky News app"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "\u2018We are \nnot afraid\u2019"
+            ]
+        }
+    ],
+    "isAd": false
+}

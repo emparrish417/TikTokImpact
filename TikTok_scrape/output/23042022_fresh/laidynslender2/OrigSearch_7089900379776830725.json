@@ -1,0 +1,90 @@
+{
+    "id": "7089900379776830725",
+    "desc": "",
+    "createTime": 1650746070,
+    "video": {
+        "id": "7089900379776830725",
+        "height": 1024,
+        "width": 576,
+        "duration": 20,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/15e1f585c8a242e6b7081c819813956e?x-expires=1650783600&x-signature=59kk03O8sLtsvSOGdtLVB4PrPII%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a0a705e61ec14fcc880fff6096f3b234_1650746071?x-expires=1650783600&x-signature=1reZQBDt4TTVrD0ee8yF903%2FvkI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ec68c81cc69e4bef9d48fce59243fd87_1650746072?x-expires=1650783600&x-signature=azOtaW0gpXGRUYkrTAGQRpUKRyo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e8217366867dd4e3f00e96a7f0178a35/6264fb42/video/tos/useast2a/tos-useast2a-ve-0068c002/2b4cccb0044143d5b5b3e9f435e39484/?a=1988&br=2060&bt=1030&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoUu4we2NP87fl7Gb&l=202204240124300101130061321FAE30B2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajd1dDg6Zjw5PDMzNzczM0ApNjw6OTU1NDw0Nzg0ZWlkOWctYWsycjQwMWZgLS1kMTZzc142YjNhMS5gY2BeLWE1YTU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e8217366867dd4e3f00e96a7f0178a35/6264fb42/video/tos/useast2a/tos-useast2a-ve-0068c002/2b4cccb0044143d5b5b3e9f435e39484/?a=1988&br=2060&bt=1030&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoUu4we2NP87fl7Gb&l=202204240124300101130061321FAE30B2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajd1dDg6Zjw5PDMzNzczM0ApNjw6OTU1NDw0Nzg0ZWlkOWctYWsycjQwMWZgLS1kMTZzc142YjNhMS5gY2BeLWE1YTU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a0a705e61ec14fcc880fff6096f3b234_1650746071~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=KDG1OmNj38IMINGKyvl8Xc5X5iI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a0a705e61ec14fcc880fff6096f3b234_1650746071~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=z%2FUTDGaTYNGmNqnH4jQVvY4avBc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/15e1f585c8a242e6b7081c819813956e?x-expires=1650783600&x-signature=59kk03O8sLtsvSOGdtLVB4PrPII%3D",
+        "bitrate": 1054781,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6981066968120460294",
+        "uniqueId": "laidynslender2",
+        "nickname": "\ud835\udcf5\ud835\udcea\ud835\udcf2\ud835\udced\ud835\udd02\ud835\udcf7\ud835\udcfc\ud835\udcf5\ud835\udcee\ud835\udcf7\ud835\udced\ud835\udceeukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4fe2afb204fcfa2b88e80e14bbac3f97~c5_100x100.jpeg?x-expires=1650934800&x-signature=186ba%2F1fKr54OfJDj%2BWHhU8qhFw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4fe2afb204fcfa2b88e80e14bbac3f97~c5_720x720.jpeg?x-expires=1650934800&x-signature=vlkdthdFMsXFR5Q5DIdlzsNzPm8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4fe2afb204fcfa2b88e80e14bbac3f97~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=W5nQzjo%2Fm2iJDxysewGu8QO2KZ4%3D",
+        "signature": "Xxx tentaion",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3YNzc3lCkkZqnBglubimiqDwJXfeYXbAeXshjBupa52sht2Y2Hn_owtOrx6L_kru",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "5000000001359293319",
+        "title": "the remedy for a broken heart (why am I so in love)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c072f6dfd6614764a91ad379a8a4aca3",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/6c7b8eddf4034c06b9921f29fec7a906.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/6c7b8eddf4034c06b9921f29fec7a906.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6c7b8eddf4034c06b9921f29fec7a906.jpeg",
+        "authorName": "XXXTENTACION",
+        "original": false,
+        "duration": 30,
+        "album": "?"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 15
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 564,
+        "followerCount": 117,
+        "heartCount": 118,
+        "videoCount": 31,
+        "diggCount": 417,
+        "heart": 118
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

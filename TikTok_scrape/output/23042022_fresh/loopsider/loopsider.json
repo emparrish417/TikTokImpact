@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6815226033680155654",
+        "shortId": "",
+        "uniqueId": "loopsider",
+        "nickname": "Loopsider",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/ff4b2db6cb04180eb4cb98e0b0febedd~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=QuTWPydt%2FnTMqdUH28FQIN4GT7Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/ff4b2db6cb04180eb4cb98e0b0febedd~c5_720x720.jpeg?x-expires=1650934800&x-signature=ytjvROGNkob%2FQf3FtQX81zKgBUQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/ff4b2db6cb04180eb4cb98e0b0febedd~c5_100x100.jpeg?x-expires=1650934800&x-signature=yKkYsHX%2BRdYYlaOBfX6v0hEHyoU%3D",
+        "signature": "Regarder. Comprendre. Partager.",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAkWJFPPTZ1_V7_wcpCs-rFHWzgWaYfnJ0d9xC_87lYYIyLNHgFN_InSsAM0k6CTY0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 171900,
+        "followingCount": 32,
+        "heart": 3100000,
+        "heartCount": 3100000,
+        "videoCount": 306,
+        "diggCount": 0
+    },
+    "itemList": []
+}

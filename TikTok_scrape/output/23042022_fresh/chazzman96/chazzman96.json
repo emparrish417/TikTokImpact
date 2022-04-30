@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7088330786361951237",
+        "shortId": "",
+        "uniqueId": "chazzman96",
+        "nickname": "chazzman96",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ea350ec4952bea2030793adc0cfcff4e~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=k53rPdcsIhp8fb7Ky%2B2roMuVkXY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ea350ec4952bea2030793adc0cfcff4e~c5_720x720.jpeg?x-expires=1650934800&x-signature=YzUn%2FBsucGmEmluC%2FTxEq354LvY%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ea350ec4952bea2030793adc0cfcff4e~c5_100x100.jpeg?x-expires=1650934800&x-signature=ZuAuuYVNCk5r9un%2BFiyY5kY7WT4%3D",
+        "signature": "Follow me",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjDgzxW8aJv0_7jHtjIcjRxcAj9I8xVteQXCH-WQfqSr0Mif6f4p9icGxqX-B5By7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 37,
+        "followingCount": 177,
+        "heart": 96,
+        "heartCount": 96,
+        "videoCount": 17,
+        "diggCount": 0
+    },
+    "itemList": []
+}

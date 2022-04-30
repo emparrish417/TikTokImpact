@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6877194645186626565",
+        "shortId": "",
+        "uniqueId": "dublinlife2",
+        "nickname": "Dublin Life",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f71aa21ea99aa13bb31d5099c08eaf20~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=23raeyi5fNW%2BQ%2BggBhsLbCmcmm8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f71aa21ea99aa13bb31d5099c08eaf20~c5_720x720.jpeg?x-expires=1651086000&x-signature=5IYS0oEIAHwD5P5D6TXqgtlOCuY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f71aa21ea99aa13bb31d5099c08eaf20~c5_100x100.jpeg?x-expires=1651086000&x-signature=HJOx0QVfCSYUG4c1JvyWMfjToSk%3D",
+        "signature": "REVENGE IS SWEET",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvKuqUvJbLlD9JRh_dhZ_lbDsCaMp2VFaH6VfRp6GY3ypWX-av-EuJjz9iA-qQTfk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 978,
+        "followingCount": 18,
+        "heart": 3484,
+        "heartCount": 3484,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

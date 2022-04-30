@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7087957185939342341",
+        "shortId": "",
+        "uniqueId": "hello_everyone094",
+        "nickname": "hello_everyone094",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=R0ROu%2BFChByfxtF8FhVAvXek6kk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1650934800&x-signature=6MJVdl3nDdHjEx1jlLjOW16tXBU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1650934800&x-signature=sD%2BOeZiD5gygkCXDPedyg44V4Kk%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmSWacqVOCvExG_N3C3MZjb04DFIkZwq3QAvGqQezJCnF-GOo9pnDs6397G17-1bG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 25,
+        "followingCount": 27,
+        "heart": 30,
+        "heartCount": 30,
+        "videoCount": 28,
+        "diggCount": 0
+    },
+    "itemList": []
+}

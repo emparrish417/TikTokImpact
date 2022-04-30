@@ -1,0 +1,90 @@
+{
+    "id": "7090084172164828422",
+    "desc": "",
+    "createTime": 1650788866,
+    "video": {
+        "id": "7090084172164828422",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d1fbb817dd0f49dfb5c54f36875d13d1?x-expires=1650859200&x-signature=L1V0YUjkC8nRH4YAsXtLMCGN3L4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f552c7889e3b40b4ad2fb33f6618cbc9_1650788867?x-expires=1650859200&x-signature=t8FBDL8CFvQ7cRpUwQdNdt7py3M%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7aef452728154ceea9490e2fea92bf3c_1650788867?x-expires=1650859200&x-signature=B9yCLEY20HJEEJsGwTw%2FyFF8svc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a0ea850a25febb3547e9f58fbe488e85/62662755/video/tos/useast2a/tos-useast2a-ve-0068c002/1c0d4812b20c4bf495e8f2894f208d25/?a=1988&br=3106&bt=1553&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZFxZ4we2NPP~fl7Gb&l=2022042422445401011300619516849FB3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajw2OWk6ZnJqPDMzNzczM0ApODdlZzQ6ZDs7NzNoaGc4aWdjY15scjRvZ2ZgLS1kMTZzc19eYl8wMy5fMWA1NjNfYDY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a0ea850a25febb3547e9f58fbe488e85/62662755/video/tos/useast2a/tos-useast2a-ve-0068c002/1c0d4812b20c4bf495e8f2894f208d25/?a=1988&br=3106&bt=1553&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZFxZ4we2NPP~fl7Gb&l=2022042422445401011300619516849FB3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajw2OWk6ZnJqPDMzNzczM0ApODdlZzQ6ZDs7NzNoaGc4aWdjY15scjRvZ2ZgLS1kMTZzc19eYl8wMy5fMWA1NjNfYDY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f552c7889e3b40b4ad2fb33f6618cbc9_1650788867~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=yTwIuMmN5ZyzsjcP5gaYpV%2Fhk2I%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f552c7889e3b40b4ad2fb33f6618cbc9_1650788867~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=ddqyGGMNPb9Z4skHlmb82Eu3Bcs%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d1fbb817dd0f49dfb5c54f36875d13d1?x-expires=1650859200&x-signature=L1V0YUjkC8nRH4YAsXtLMCGN3L4%3D",
+        "bitrate": 1590273,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7076835130699318278",
+        "uniqueId": "save2022ukrain",
+        "nickname": "Save Ukrain",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5afc91f461ab3d6248f0bbc90f1eb79c~c5_100x100.jpeg?x-expires=1651010400&x-signature=gXjD7CJQ7AGg0p2hByD6I2n6T5s%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5afc91f461ab3d6248f0bbc90f1eb79c~c5_720x720.jpeg?x-expires=1651010400&x-signature=Pw7%2FP7J10emw2%2FKFZuj%2Fw1Iej78%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5afc91f461ab3d6248f0bbc90f1eb79c~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=aN0fWppSHMILeol4Qv4NrW7Dcyk%3D",
+        "signature": "Fortnite",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASbykCQXtK7k0zcGvSG3pyX-heiwVx2xobbwBzO0MJ88D0EMUaZvDD5sLuZh6UO34",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7011058121637136385",
+        "title": "Sea of Thieves",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/50b4a6d37dd64423acea5af1c2b1b1a1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c73155ab62d24b7495612ab251f8edd4.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/c73155ab62d24b7495612ab251f8edd4.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c73155ab62d24b7495612ab251f8edd4.jpeg",
+        "authorName": "snackrunner",
+        "original": false,
+        "duration": 60,
+        "album": "Sea of Thieves"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 37
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 58,
+        "followerCount": 28,
+        "heartCount": 502,
+        "videoCount": 70,
+        "diggCount": 547,
+        "heart": 502
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

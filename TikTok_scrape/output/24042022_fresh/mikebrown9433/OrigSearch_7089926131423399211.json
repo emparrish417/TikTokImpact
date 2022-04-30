@@ -1,0 +1,90 @@
+{
+    "id": "7089926131423399211",
+    "desc": "",
+    "createTime": 1650752065,
+    "video": {
+        "id": "7089926131423399211",
+        "height": 576,
+        "width": 768,
+        "duration": 40,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/187f380c0dcc40dab75cb8ee3ec3c9a6?x-expires=1650859200&x-signature=Sk0sN89sWTeCMekUdY3q5%2FwLm3g%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/317dfa04e84d4e1c9d472efc18a5df94_1650752066?x-expires=1650859200&x-signature=CrzlA5GTUN2pScLyeI2YtrnbA9A%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f34e374b7a3648ac89c40f2e70a9db65_1650752066?x-expires=1650859200&x-signature=R9Fqs9XMTscVczZm7292rAJkUwk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/48da34eb4ae90d3fd3c1e093041d7e7f/6266277b/video/tos/useast5/tos-useast5-ve-0068c004-tx/3811ea50eb704e4babec6c7e4578e5eb/?a=1988&br=994&bt=497&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAxZ4we2N.q~fl7Gb&l=202204242245060101131351650182FBC5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo6eGY6ZnQ6PDMzZzczNEApZTo8ODU5aDtoNzc5NTg7N2czcWtecjRfZ2ZgLS1kMS9zczRiYzZfXy0vYjExNGNhXzQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/48da34eb4ae90d3fd3c1e093041d7e7f/6266277b/video/tos/useast5/tos-useast5-ve-0068c004-tx/3811ea50eb704e4babec6c7e4578e5eb/?a=1988&br=994&bt=497&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZAxZ4we2N.q~fl7Gb&l=202204242245060101131351650182FBC5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo6eGY6ZnQ6PDMzZzczNEApZTo8ODU5aDtoNzc5NTg7N2czcWtecjRfZ2ZgLS1kMS9zczRiYzZfXy0vYjExNGNhXzQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/317dfa04e84d4e1c9d472efc18a5df94_1650752066~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=60qJrLXpF75rIG5fHGxwlhsfEIg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/317dfa04e84d4e1c9d472efc18a5df94_1650752066~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=jTMlN4%2FkvasN1cji4IThGgy8GZc%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/187f380c0dcc40dab75cb8ee3ec3c9a6?x-expires=1650859200&x-signature=9VlH25vDdGZC1yMLinTJ%2F7WAmR4%3D",
+        "bitrate": 509579,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055884826352174085",
+        "uniqueId": "mikebrown9433",
+        "nickname": "WE STAND UKRAIN!\u270a",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1651010400&x-signature=6wDIvR7QiExB93EBAKIEs4DTkuU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1651010400&x-signature=47jYcBLxu0hHzYmRMNpqOTx5di8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=Cfa6aqkotDhrgsq3HqMGN8h9ypc%3D",
+        "signature": "https://orangsa.bar/13274aa?s1=kri$ten\nYou're about to open an external website.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGgAQEHqHu61EVzvb_SDCl5X-7FhqqEbp78nzWkWPPuRgwuKVqleUMHU_fUlwdhNW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6701156803654273797",
+        "title": "prom dress",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9aced563ce3c472da5b391bd2c4c844d",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/6a0af71906f040fcba1a6fa8a98c8f2b.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/6a0af71906f040fcba1a6fa8a98c8f2b.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6a0af71906f040fcba1a6fa8a98c8f2b.jpeg",
+        "authorName": "mxmtoon",
+        "original": false,
+        "duration": 8,
+        "album": "Prom Dress"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 27
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 182,
+        "followerCount": 52,
+        "heartCount": 246,
+        "videoCount": 135,
+        "diggCount": 788,
+        "heart": 246
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "7054372496452322309",
+        "shortId": "",
+        "uniqueId": "liveconflict",
+        "nickname": "Live Conflict",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d1601dfadb533366bc5b04a340e575f~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=idNPb28fdQp9%2FtS1eVSfpYwsinE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d1601dfadb533366bc5b04a340e575f~c5_720x720.jpeg?x-expires=1651086000&x-signature=3lYHHWxkprF3iQKl4dyyjGyar%2BM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d1601dfadb533366bc5b04a340e575f~c5_100x100.jpeg?x-expires=1651086000&x-signature=FDv93GYfSGHKEmlsYLUjRO1bTHA%3D",
+        "signature": "Breaking News and Daily Updates,\nLive Breaking News \ud83d\udc47 Funded by the Warsaw Post",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5IwlVjIqGJvelYdLIdDuGkOuEjW7EzVLbTacTXSsKgdCeiMtQjY6gtm33mkONrMc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/LiveConflicts",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 25200,
+        "followingCount": 0,
+        "heart": 461700,
+        "heartCount": 461700,
+        "videoCount": 33,
+        "diggCount": 0
+    },
+    "itemList": []
+}

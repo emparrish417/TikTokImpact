@@ -1,0 +1,46 @@
+{
+    "user": {
+        "id": "6651909743483928581",
+        "shortId": "",
+        "uniqueId": "skynews",
+        "nickname": "Sky News",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=5ftgyP5AY5rNWAzBgLWrRle0wV4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_720x720.jpeg?x-expires=1651086000&x-signature=PLyX4tMQs2QasQTa2zf6uxNTOS4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/964894acb2622c69f81daf436fdda00c~c5_100x100.jpeg?x-expires=1651086000&x-signature=xFliNufaP6ja%2BN5qcAC0pKsotV4%3D",
+        "signature": "For the latest news, download the Sky News app now  \u2b07\ufe0f",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAx8y_BktPXl0F_YGL8JKkzC8APfj3hYbZSxjIT061kOVqrjLuLpazjqNWhDGI2Z_A",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "onelink.to/skynews",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "ios": "",
+                "android": ""
+            },
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1100000,
+        "followingCount": 0,
+        "heart": 12300000,
+        "heartCount": 12300000,
+        "videoCount": 707,
+        "diggCount": 0
+    },
+    "itemList": []
+}

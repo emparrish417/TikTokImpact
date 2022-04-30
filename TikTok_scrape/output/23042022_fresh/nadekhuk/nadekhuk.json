@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6588429350525173765",
+        "shortId": "",
+        "uniqueId": "nadekhuk",
+        "nickname": "Nad",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/599192c286fea73856dfa2c8876c7b7b~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=PoNZ%2Bb6FRCAaKARSyTLbwekyrZw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/599192c286fea73856dfa2c8876c7b7b~c5_720x720.jpeg?x-expires=1650934800&x-signature=wiAIr2uqlxvY3aYwWi1JuEQozGg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/599192c286fea73856dfa2c8876c7b7b~c5_100x100.jpeg?x-expires=1650934800&x-signature=ULC9TTo%2BNuA5I30hCDNqnRyjtD4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASK4jtP39FMvz8VXz0goI2E8pD5EU3H1NK4dU8MSgqBjv1e4qS1ZQDU5nM_fAvwn4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2840,
+        "followingCount": 3,
+        "heart": 21300,
+        "heartCount": 21300,
+        "videoCount": 50,
+        "diggCount": 0
+    },
+    "itemList": []
+}

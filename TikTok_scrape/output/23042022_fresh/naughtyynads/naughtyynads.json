@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6951389054019126277",
+        "shortId": "",
+        "uniqueId": "naughtyynads",
+        "nickname": "NaughtyyNads",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e2063cadfffeee7681410c626070d96~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=%2BY7fRdCZVa6yqqAEUTWhFf%2BYPHQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e2063cadfffeee7681410c626070d96~c5_720x720.jpeg?x-expires=1650934800&x-signature=yQNpKI1UIBMw256NjFTXaLg6X7U%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2e2063cadfffeee7681410c626070d96~c5_100x100.jpeg?x-expires=1650934800&x-signature=hbLBuF%2BLcUmyPFo%2Fk%2BFsiYiv3h8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAESs-yfa_hSdh3iymmjD4OpJXt4eoQYNuMcmZD7P02jgWhyiIq1I8g2cn1lTxJ6X6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 32,
+        "followingCount": 12,
+        "heart": 19,
+        "heartCount": 19,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}
