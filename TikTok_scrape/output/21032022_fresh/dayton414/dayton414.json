@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7070719117276054570",
+        "shortId": "",
+        "uniqueId": "dayton414",
+        "nickname": "\u0414\u0435\u0439\u0442\u043e\u043d",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/65154590fb514f62b3033443bd360153~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=oeFPVagqJ80vx%2Bz7MvnizSsC4d0%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/65154590fb514f62b3033443bd360153~c5_720x720.jpeg?x-expires=1647986400&x-signature=UDzwtlRmDlbFpFjvLQAusgrH72c%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/65154590fb514f62b3033443bd360153~c5_100x100.jpeg?x-expires=1647986400&x-signature=BKHXlqRqo66rNovZrENc0Z7mht4%3D",
+        "signature": "",
+        "createTime": 1646280132,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4_Tp21OehxRarPTxwOFuYpdOHexzogv3LppFFaAtxnv-Vti4Y3IkJ3G4zUhyZwyZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12,
+        "followingCount": 2,
+        "heart": 51,
+        "heartCount": 51,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6802872225068123142",
+        "shortId": "",
+        "uniqueId": "rostyk_boiko",
+        "nickname": ".",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b87c86653b3ddfe41610b4fb640978f~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=d0OCn96bcCBub6L1xuc4EiNvm1Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b87c86653b3ddfe41610b4fb640978f~c5_720x720.jpeg?x-expires=1648515600&x-signature=J5e3pAvbYu5H3HdbWtUxtwcmvOw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b87c86653b3ddfe41610b4fb640978f~c5_100x100.jpeg?x-expires=1648515600&x-signature=737c2r7kCcf7kjY5JN5I09FPUcc%3D",
+        "signature": "\u0432\u0437 \u043f\u0456\u0434\u043f\u0438\u0441\u043a\u0438",
+        "createTime": 1640091260,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5XAk7ojFnSWjnic7hhf3UmYI47tM6jCguVbvlvHPtnliWBRPKR8l60h5nr-rkow1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 137,
+        "followingCount": 87,
+        "heart": 558,
+        "heartCount": 558,
+        "videoCount": 29,
+        "diggCount": 0
+    },
+    "itemList": []
+}

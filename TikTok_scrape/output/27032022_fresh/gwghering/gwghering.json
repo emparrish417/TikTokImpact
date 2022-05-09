@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6730228475171406853",
+        "shortId": "",
+        "uniqueId": "gwghering",
+        "nickname": "Mr. Ghering",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc0a1bcd5167f64f18c5e00624df0453~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=kyW%2B4KorPeWSqrjSb6zWu3K3%2FNg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc0a1bcd5167f64f18c5e00624df0453~c5_720x720.jpeg?x-expires=1648515600&x-signature=48HMLNjOoNKkb5D5mtPeoLdOn7c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dc0a1bcd5167f64f18c5e00624df0453~c5_100x100.jpeg?x-expires=1648515600&x-signature=C3Qc256Wtc8PhAzyleLA%2Bl8Pz%2FQ%3D",
+        "signature": "I\u2019m bored",
+        "createTime": 1567003736,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0VH0YoRUgxQ4mQNW5152k9cUTnu-0PfUSoRe3hhnantKbfmtixXxF8_sIBJigIVp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8333,
+        "followingCount": 169,
+        "heart": 848300,
+        "heartCount": 848300,
+        "videoCount": 57,
+        "diggCount": 0
+    },
+    "itemList": []
+}

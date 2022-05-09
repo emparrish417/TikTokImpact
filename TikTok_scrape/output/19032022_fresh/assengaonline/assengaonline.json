@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6855939865151095813",
+        "shortId": "",
+        "uniqueId": "assengaonline",
+        "nickname": "assenga online",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6891295401383559173~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=l%2Fuf9sspafFcLNUIycmvgM3Iryc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6891295401383559173~c5_720x720.jpeg?x-expires=1647817200&x-signature=d6JUp%2BYwwax8dMRE3NFMe7Snl%2F4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6891295401383559173~c5_100x100.jpeg?x-expires=1647817200&x-signature=0usOyuI8vTw%2Bm9QBPqkbamNuhsc%3D",
+        "signature": "Bofya hapa\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+        "createTime": 1596244439,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfGLGI5ngdvtYle1eH-Y1bN9xFmxleM6VzsptntfFc6dlAM3bQurF-C1ammrSwTmO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.assengaonline.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3980,
+        "followingCount": 48,
+        "heart": 17200,
+        "heartCount": 17200,
+        "videoCount": 123,
+        "diggCount": 0
+    },
+    "itemList": []
+}

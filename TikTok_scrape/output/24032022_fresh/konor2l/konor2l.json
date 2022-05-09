@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6931769056447153157",
+        "shortId": "",
+        "uniqueId": "konor2l",
+        "nickname": "konor2l",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=t5MT3eFHyFRavYDztd5o1vorK7Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648234800&x-signature=mmdvHExerRTqyMOLSzmSTbE8NxA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648234800&x-signature=F3yfiS3iwt%2B99f81NPQtHqZIpiI%3D",
+        "signature": "",
+        "createTime": 1613928503,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZnazGaPPcSMapNjRhtqnOv2bB7WgRPGMtfIPE10ghklvHv2yCQRTL131mUijnPaO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8,
+        "followingCount": 43,
+        "heart": 43,
+        "heartCount": 43,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

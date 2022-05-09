@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6854603258498860037",
+        "shortId": "",
+        "uniqueId": "par.angeli",
+        "nickname": "Angelica Parkhomenko",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/da543a68a24c2d9e9bbb747a9c8f94c3.jpeg?x-expires=1647900000&x-signature=eyND%2BMqoEWNrnTGLXuY7X%2F%2FGfRk%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/da543a68a24c2d9e9bbb747a9c8f94c3.jpeg?x-expires=1647900000&x-signature=EOlHmMekAgOn3DlInsBt%2B8goFbA%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/da543a68a24c2d9e9bbb747a9c8f94c3.jpeg?x-expires=1647900000&x-signature=BhrKJrFKXMPFqPGOKhwwcdO45xA%3D",
+        "signature": "",
+        "createTime": 1595961928,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAt50DT-kVeyPY7jHz3BB1usCVqeo5aGJzKJqtYvMR0Y7NYTuAbbmWpYav0SAi1Smk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 30,
+        "followingCount": 62,
+        "heart": 204,
+        "heartCount": 204,
+        "videoCount": 30,
+        "diggCount": 0
+    },
+    "itemList": []
+}

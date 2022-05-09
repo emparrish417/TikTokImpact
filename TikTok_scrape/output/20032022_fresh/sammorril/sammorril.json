@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6684338250147136517",
+        "shortId": "",
+        "uniqueId": "sammorril",
+        "nickname": "Sam Morril",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1631920606955525~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=TJatBQFoICTuWbuPDEiBNSwZLVk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1631920606955525~c5_720x720.jpeg?x-expires=1647900000&x-signature=GR71zn78tS%2BX2%2Biuj1S%2Fcxm3Fh4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1631920606955525~c5_100x100.jpeg?x-expires=1647900000&x-signature=5PzOtyOq98Z7gYudjsZpBvKstxg%3D",
+        "signature": "Stand-up comic\nIg: @sammorril\nSammorril.com\nText me: 917-540-5919",
+        "createTime": 1556319053,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAGq_s_wtK-mkYowPFbPcIU3EgCMtwsMD4ItdpQ-YgZ0uaE7KPuogwRxWAAT_K3B14",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtu.be/q-Jq2b6mQtI",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 680400,
+        "followingCount": 20,
+        "heart": 20400000,
+        "heartCount": 20400000,
+        "videoCount": 670,
+        "diggCount": 0
+    },
+    "itemList": []
+}

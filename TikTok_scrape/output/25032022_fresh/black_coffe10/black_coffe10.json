@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7063587997832250374",
+        "shortId": "",
+        "uniqueId": "black_coffe10",
+        "nickname": "black_coffe",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10d01954b9277292a1870f7b003c7a90~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=8JtXw8wzR8E1jjEmJ%2FbeOJD8X2A%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10d01954b9277292a1870f7b003c7a90~c5_720x720.jpeg?x-expires=1648314000&x-signature=lCfxQOA7OU%2B3fJA0X%2Bu0X3HNv40%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/10d01954b9277292a1870f7b003c7a90~c5_100x100.jpeg?x-expires=1648314000&x-signature=tYkJMXoM0h64PlKA7c1JCVcJgis%3D",
+        "signature": "BIO yet",
+        "createTime": 1644619989,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0apVWKktRmDW-RFr6joFNbzLtJzquK8-w2RLaEPFTe2NWhZPZnl6sIP2HctKYhRy",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 62300,
+        "followingCount": 1,
+        "heart": 652400,
+        "heartCount": 652400,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

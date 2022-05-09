@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6911908326759302146",
+        "shortId": "",
+        "uniqueId": "black_cat_quiz",
+        "nickname": "Black_Cat_Quiz",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/77c566703b0a34c88b3fd754e263749f~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=oB5RjABH0PZvDdcvyYg9wZfOee8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/77c566703b0a34c88b3fd754e263749f~c5_720x720.jpeg?x-expires=1648069200&x-signature=Mn5e%2FE%2Bj3rVmJqYWs4vVTR6Bglk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/77c566703b0a34c88b3fd754e263749f~c5_100x100.jpeg?x-expires=1648069200&x-signature=99JMy1CYSTCO9vzCM1FzSM7WBwA%3D",
+        "signature": "27/11/2021..",
+        "createTime": 1638010428,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4yrLTTCZHJ-p0To-K2gSozztA2Ls-6qjmB7y6nWAVWvfjy3WE-qkG_Kpsw_rPutA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13400,
+        "followingCount": 189,
+        "heart": 555900,
+        "heartCount": 555900,
+        "videoCount": 705,
+        "diggCount": 0
+    },
+    "itemList": []
+}

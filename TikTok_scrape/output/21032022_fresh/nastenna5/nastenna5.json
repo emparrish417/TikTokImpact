@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6775400827076101126",
+        "shortId": "",
+        "uniqueId": "nastenna5",
+        "nickname": "\u041d\u0430\u0441\u0442\u044f \u0410\u0440\u0442\u0430\u043c\u043e\u043d\u043e\u0432\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08be7c7c6739fdd8695e40c86c001b46~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=8O0VKFg6SdqQT0mFWvn%2FavT9mTI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08be7c7c6739fdd8695e40c86c001b46~c5_720x720.jpeg?x-expires=1647986400&x-signature=Qa7XREAGOZH4Ks%2Bpa3wov8iWDXc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08be7c7c6739fdd8695e40c86c001b46~c5_100x100.jpeg?x-expires=1647986400&x-signature=vmRMazrvDtDxkJLJOZ3L5Z76H8U%3D",
+        "signature": "",
+        "createTime": 1577915536,
+        "verified": false,
+        "secUid": "MS4wLjABAAAArY8x5fFUuvmGRcyUgWqmEO1TL6yDJDt1nIgkYxcqJw2JCvodeXcZyBMr_kh89_F-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 25,
+        "followingCount": 247,
+        "heart": 368,
+        "heartCount": 368,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

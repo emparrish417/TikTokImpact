@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6914827386258359301",
+        "shortId": "",
+        "uniqueId": "trejos.tacos",
+        "nickname": "Trejo\u2019s Tacos",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/405dad0fff4deee0d607dcf2eae23a4d~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=H96oDaiNWsr57%2FME1A%2FK6pJL%2BOA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/405dad0fff4deee0d607dcf2eae23a4d~c5_720x720.jpeg?x-expires=1647817200&x-signature=%2BjeTCYuc%2ByUggEupWke4fcvscCA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/405dad0fff4deee0d607dcf2eae23a4d~c5_100x100.jpeg?x-expires=1647817200&x-signature=rLWCohGkfyQWu9g2l7qFc5zlFOk%3D",
+        "signature": "\ud83d\udccdhollywood, \nla brea, \nfarmers market, \nsanta monica, \ntrejos donuts",
+        "createTime": 1609983777,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAnX0hQHsXi4NHqpo0CktRoOjOmGWVAW8EtO5YcMEmAdN-8nvlLSyoEmnoRbi4jKS8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "trejostacos.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Food & Beverage",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 421000,
+        "followingCount": 38,
+        "heart": 2700000,
+        "heartCount": 2700000,
+        "videoCount": 52,
+        "diggCount": 0
+    },
+    "itemList": []
+}

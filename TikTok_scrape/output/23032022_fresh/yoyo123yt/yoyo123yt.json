@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7001920101477778438",
+        "shortId": "",
+        "uniqueId": "yoyo123yt",
+        "nickname": "Big Sexy Bear",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f289965766fa0e5a39605f3d86c4a69~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=eN0%2BkIO9xlnUsMe4jYHj4xkuNhE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f289965766fa0e5a39605f3d86c4a69~c5_720x720.jpeg?x-expires=1648173600&x-signature=1GF7INEMGwk2RsuUVDnNpAN4snM%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f289965766fa0e5a39605f3d86c4a69~c5_100x100.jpeg?x-expires=1648173600&x-signature=zCSQGMbnFusHWIywEmpKz5dSimk%3D",
+        "signature": "Bomber is my win condition.\nI am Big Sexy Bear",
+        "createTime": 1630261678,
+        "verified": false,
+        "secUid": "MS4wLjABAAAANmKGbgTa8db3yUXc8Vjs55WqC-9rvNYbpaDUOrfW3A4FZD6MpADxPXpHFIEXQMqv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "DiscordServerhttps://discord.gg/2rd4Q5Up",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4681,
+        "followingCount": 487,
+        "heart": 271100,
+        "heartCount": 271100,
+        "videoCount": 159,
+        "diggCount": 0
+    },
+    "itemList": []
+}

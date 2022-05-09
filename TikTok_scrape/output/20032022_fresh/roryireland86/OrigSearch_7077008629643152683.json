@@ -1,0 +1,96 @@
+{
+    "id": "7077008629643152683",
+    "desc": "",
+    "createTime": 1647744475,
+    "video": {
+        "id": "7077008629643152683",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8c3ccadd72e84a969818ab4718889e59?x-expires=1647835200&x-signature=WECPKA4%2F0Z3gHFKx3oG5onDv8u4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3075bf99c6b9425c8509e7e9726bacde_1647744476?x-expires=1647835200&x-signature=Pq7tbRk4bRwBNKLA394yaI8js6k%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/746b45fa654943a983714f3772553663_1647744476?x-expires=1647835200&x-signature=pSCCWrNQu1hUx1J0Bo9wHh3ydfs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c304c8c9b82d88bccae5f2a2326d9f49/6237ff52/video/tos/useast5/tos-useast5-ve-0068c002-tx/f3d30c2bd9c249678001ea0cda23bbe4/?a=1988&br=1516&bt=758&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVpdjk6ZnA8OzMzZzczNEApPDM8aTg3OmRpNzc8aGZkaWdpMjRucjRfX29gLS1kMS9zcy4uMS0xLS80XjYuXy4yYjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c304c8c9b82d88bccae5f2a2326d9f49/6237ff52/video/tos/useast5/tos-useast5-ve-0068c002-tx/f3d30c2bd9c249678001ea0cda23bbe4/?a=1988&br=1516&bt=758&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVpdjk6ZnA8OzMzZzczNEApPDM8aTg3OmRpNzc8aGZkaWdpMjRucjRfX29gLS1kMS9zcy4uMS0xLS80XjYuXy4yYjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3075bf99c6b9425c8509e7e9726bacde_1647744476~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=tds9WSjN9psxnKj1Q5PsBNzRmxw%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3075bf99c6b9425c8509e7e9726bacde_1647744476~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=cC7FwKompzJJVSgiM7gsn55ncFw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8c3ccadd72e84a969818ab4718889e59?x-expires=1647835200&x-signature=WECPKA4%2F0Z3gHFKx3oG5onDv8u4%3D",
+        "bitrate": 777212,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6892055324669248518",
+        "uniqueId": "roryireland86",
+        "nickname": "JoJo",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_100x100.jpeg?x-expires=1647900000&x-signature=wOe7KQ%2BqF%2FBMktmYRhupxzft880%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_720x720.jpeg?x-expires=1647900000&x-signature=rjyI%2FzK7OfGIoCVPaOoOcKRNarw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=avHWWmEAfBWoUupN5aTfP73%2Ff%2FQ%3D",
+        "signature": "happily married mom of 4 #Canna-Parent World Wide",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKPwwSOqgGLqBR86w5iJVAoe-AOddIfhen-r6uz3Tx-HeIYU4hPdq2jPxgSPzk7cy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7071393420429855531",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7071388214409349931.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7e944a0e7a036c9c3625330b7122a42d~c5_100x100.jpeg?x-expires=1647900000&x-signature=5drgDpQb5wEVxDQu%2BcXDRBAz9O4%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7e944a0e7a036c9c3625330b7122a42d~c5_720x720.jpeg?x-expires=1647900000&x-signature=gOCYRTx5oLLuGmLYD%2BdGAsF8PhY%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7e944a0e7a036c9c3625330b7122a42d~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=MYpSfUT3mRHZyeOmwVlFKSfS5wY%3D",
+        "authorName": "Manny Michael",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 255
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Oh my",
+            "ID": "1677530"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9969,
+        "followerCount": 1518,
+        "heartCount": 1533,
+        "videoCount": 233,
+        "diggCount": 20500,
+        "heart": 1533
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

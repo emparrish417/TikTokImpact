@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6590685199309488129",
+        "shortId": "",
+        "uniqueId": "mrpriceireland",
+        "nickname": "mrpriceireland",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ade8b48520dfb64155cb2f0992e7fac~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=ADvhuB9tvFWUxOjY7%2BdDekmNyvY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ade8b48520dfb64155cb2f0992e7fac~c5_720x720.jpeg?x-expires=1647900000&x-signature=PmW%2BQ4ebz%2FS0OanTC1wepy%2FbDtE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ade8b48520dfb64155cb2f0992e7fac~c5_100x100.jpeg?x-expires=1647900000&x-signature=WYNfCInyJZQMxrwPKFsPLwHoEp4%3D",
+        "signature": "Ireland\u2019s leading discount store!",
+        "createTime": 1582715450,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwEv7jBVNGf7KUYSWLvI-HPQx0Dol4Ny8zly6_ntgvPwEq7vJUs7B1DrA6MCM7J9S",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.mrprice.ie",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13400,
+        "followingCount": 58,
+        "heart": 220000,
+        "heartCount": 220000,
+        "videoCount": 254,
+        "diggCount": 0
+    },
+    "itemList": []
+}

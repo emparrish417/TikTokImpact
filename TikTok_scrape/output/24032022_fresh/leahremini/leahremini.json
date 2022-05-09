@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7056860919843947567",
+        "shortId": "",
+        "uniqueId": "leahremini",
+        "nickname": "Leah Remini",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8352cd3dd2d2a8c0a0a5c491a5444bf5~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=HcwWNznJV3IKeYruPG6yE5BfQaU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8352cd3dd2d2a8c0a0a5c491a5444bf5~c5_720x720.jpeg?x-expires=1648234800&x-signature=0kFHvRgte7P4FcSJ3oZIF94BKTw%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8352cd3dd2d2a8c0a0a5c491a5444bf5~c5_100x100.jpeg?x-expires=1648234800&x-signature=EGHD2geCtC7U5k2W%2BJw8kvATZiY%3D",
+        "signature": "Mother|Wife|Actress|Author|Producer|Advocate",
+        "createTime": 1643054539,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAx57WLrNN8j8_CGUkzSQXS8jgcExXHtO0hP8UhjPcstT2cUApQmGpDBMXT-dSp1wT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/LeahRemini",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1000000,
+        "followingCount": 76,
+        "heart": 8800000,
+        "heartCount": 8800000,
+        "videoCount": 73,
+        "diggCount": 0
+    },
+    "itemList": []
+}

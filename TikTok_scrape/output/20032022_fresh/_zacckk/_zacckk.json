@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "70697132118171648",
+        "shortId": "",
+        "uniqueId": "_zacckk",
+        "nickname": "Zack",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/47fb50324eed5cb05318b151eba13178~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=DqLIY94lTuYyTJ6%2BIuoCRlDv18A%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/47fb50324eed5cb05318b151eba13178~c5_720x720.jpeg?x-expires=1647900000&x-signature=DkXsRkhx4%2Fomuo%2BAC4O1UnrVi%2BI%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/47fb50324eed5cb05318b151eba13178~c5_100x100.jpeg?x-expires=1647900000&x-signature=ZEtMeZaLsAvq8zM%2F052NG%2BaV%2FUs%3D",
+        "signature": "I play most video games",
+        "createTime": 1457227025,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6kk-LaSGsrVXFjn9tuO97U-GMv0zIDFGWY0EdfWmvl7aK2fRQGRfg-QtF5Uid3v2",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 976,
+        "followingCount": 233,
+        "heart": 305900,
+        "heartCount": 305900,
+        "videoCount": 27,
+        "diggCount": 0
+    },
+    "itemList": []
+}

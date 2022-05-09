@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6650201683875299333",
+        "shortId": "",
+        "uniqueId": "nowthis",
+        "nickname": "nowthis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=jO9RezwXhp9Tw9T7zo8t8fgkcqk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_720x720.jpeg?x-expires=1648314000&x-signature=LQBfjaDE5RsykLdUD47Z5TNefVc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_100x100.jpeg?x-expires=1648314000&x-signature=nxGxFasW8wQ2I5MDz0FBxa2OqTQ%3D",
+        "signature": "On Their Shoulders :: Fannie Lou Hamer\ud83d\udc47",
+        "createTime": 1554916458,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAqqXqeS9G9YFlTYklY1JXLQYP32to1WC0AFGrmwr5tHFjGBj01YAKRDsOw68lyeMW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtu.be/aENqp9v9xBA",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4400000,
+        "followingCount": 54,
+        "heart": 149300000,
+        "heartCount": 149300000,
+        "videoCount": 1169,
+        "diggCount": 0
+    },
+    "itemList": []
+}

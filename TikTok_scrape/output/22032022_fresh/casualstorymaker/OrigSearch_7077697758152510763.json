@@ -1,0 +1,103 @@
+{
+    "id": "7077697758152510763",
+    "desc": "",
+    "createTime": 1647904925,
+    "video": {
+        "id": "7077697758152510763",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f7f63ddcc5b443419fa31f2370a18c3d?x-expires=1648004400&x-signature=4WcHC%2F95vNsA2oZWg%2FbVEYF1NOw%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/91c368e5493a4073b2511f1998de52cf_1647904926?x-expires=1648004400&x-signature=gb6qkBxnxGmt%2BSnGCuDVOyoo3j4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8739172280604e619b1c965ffadd346e_1647904926?x-expires=1648004400&x-signature=HH60Zo4S0eA5821xUMsmQ9Mx19M%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6554459e27922fc8040561da1e8e5214/623a946c/video/tos/useast5/tos-useast5-ve-0068c002-tx/c2b382a09202493c8387d55fd42df6f1/?a=1988&br=1646&bt=823&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThSZRMDXq&l=202203222130460101130061550A784176&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anM5ZTs6ZjdqOzMzZzczNEApNWY6Zjo0Nzs3NzM4ZDNlNGdrMjQ2cjRnY3BgLS1kMS9zczMtMTNjLV4xYjYvYTAuXjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6554459e27922fc8040561da1e8e5214/623a946c/video/tos/useast5/tos-useast5-ve-0068c002-tx/c2b382a09202493c8387d55fd42df6f1/?a=1988&br=1646&bt=823&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThSZRMDXq&l=202203222130460101130061550A784176&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anM5ZTs6ZjdqOzMzZzczNEApNWY6Zjo0Nzs3NzM4ZDNlNGdrMjQ2cjRnY3BgLS1kMS9zczMtMTNjLV4xYjYvYTAuXjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/91c368e5493a4073b2511f1998de52cf_1647904926~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=GLF5ZHqx9qyVvSbJHRdHBT6WNYQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/91c368e5493a4073b2511f1998de52cf_1647904926~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=H0oc8KEkB2sYQG1eFS2T%2BiC7ees%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f7f63ddcc5b443419fa31f2370a18c3d?x-expires=1648004400&x-signature=8j0BCnyeB3QxCYvKERtmkg9MiLA%3D",
+        "bitrate": 843224,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7051014068899775493",
+        "uniqueId": "casualstorymaker",
+        "nickname": "Save_ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f2586011b11be2ce7b0404fee9bbf185~c5_100x100.jpeg?x-expires=1648069200&x-signature=zRoTaodzsB90usDDT6JsdJIDgco%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f2586011b11be2ce7b0404fee9bbf185~c5_720x720.jpeg?x-expires=1648069200&x-signature=oXiz41DL5dDM9y3GC0%2BE97yfGTE%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f2586011b11be2ce7b0404fee9bbf185~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=w3qoU4N%2FNwkxOPv2m93WVw1THg0%3D",
+        "signature": "God gan\n\u264e\ufe0f Libra \nPosts daily\nSoon will be YouTuber \nWants to make Roblox videos",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAM0ECx948vA63GgwM_erHmXotgJQl8yHak_R7lgegY8Gyw9Z9lX6eMa3lFQq0ag2d",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7070444977704274693",
+        "title": "u good there",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7070444955247971078.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/973a10c541014a5326603deca0a6a597~c5_100x100.jpeg?x-expires=1648069200&x-signature=j19Yq1UPjJz9rRQtVUWiAAPLizc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/973a10c541014a5326603deca0a6a597~c5_720x720.jpeg?x-expires=1648069200&x-signature=0I6Sv1e5pYfVxaSv9nweBdErtmA%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/973a10c541014a5326603deca0a6a597~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=wQCWNCa25xJ8%2BG3rsta8fSLuLz0%3D",
+        "authorName": "\u26a0\ufe0fDNI IF UR A DSMPSexual\u26a0\ufe0f",
+        "original": true,
+        "duration": 4,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 284
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 8,
+        "followerCount": 611,
+        "heartCount": 1435,
+        "videoCount": 220,
+        "diggCount": 971,
+        "heart": 1435
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Find the turning red charecters!",
+                "Blind",
+                "Normal",
+                "Hard",
+                "*hint I\u2019m not gonna give you*",
+                "Eagle eyes"
+            ]
+        }
+    ],
+    "isAd": false
+}

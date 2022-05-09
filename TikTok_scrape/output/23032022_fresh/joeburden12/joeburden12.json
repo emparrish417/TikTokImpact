@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6612031022095122438",
+        "shortId": "",
+        "uniqueId": "joeburden12",
+        "nickname": "joe",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d54d92397b314de04d653b180828298e~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=ylCusOYIzpH%2B9ULVdsu1ux94Z%2Fk%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d54d92397b314de04d653b180828298e~c5_720x720.jpeg?x-expires=1648173600&x-signature=0Ev%2FLAqkTHdE0IzEF4ZxN8BUx34%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d54d92397b314de04d653b180828298e~c5_100x100.jpeg?x-expires=1648173600&x-signature=qGGhXERfJblOKZXVChsZpB3gYGE%3D",
+        "signature": "",
+        "createTime": 1539747105,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_yfHgxiEx43R9ShWJtJbuiagrJnErI4R4ThRlZMi-R1ofAUDAU4EqYri8LdIat2_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1681,
+        "followingCount": 606,
+        "heart": 279500,
+        "heartCount": 279500,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

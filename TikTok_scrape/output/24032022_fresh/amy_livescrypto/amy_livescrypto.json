@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7049463679495193605",
+        "shortId": "",
+        "uniqueId": "amy_livescrypto",
+        "nickname": "Amy_LivesCrypto",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/41396937c7e9aaed9daf1af9b6c7030a~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=oV2Y06h3XRN5JhiXmOTN1WZ%2BuCA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/41396937c7e9aaed9daf1af9b6c7030a~c5_720x720.jpeg?x-expires=1648234800&x-signature=j4rm01Xq3EQVxQNaGEaeUhi1xaA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/41396937c7e9aaed9daf1af9b6c7030a~c5_100x100.jpeg?x-expires=1648234800&x-signature=DS%2FVrgQHLXVTjdvryTvt0gP6quQ%3D",
+        "signature": "",
+        "createTime": 1641331278,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOfLA1tUlc1oqVtlFKlQnlexpO1ZI_zMa_MYKN2hjgjWLfpA9lgOe_OEaPw_uwv3X",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 57,
+        "followingCount": 39,
+        "heart": 68,
+        "heartCount": 68,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

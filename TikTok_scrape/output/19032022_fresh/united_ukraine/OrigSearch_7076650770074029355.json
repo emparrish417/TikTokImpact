@@ -1,0 +1,90 @@
+{
+    "id": "7076650770074029355",
+    "desc": "",
+    "createTime": 1647661154,
+    "video": {
+        "id": "7076650770074029355",
+        "height": 1024,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e2cfbf775c104da49f7b8cabdb082808?x-expires=1647752400&x-signature=sfLx5iOkBSr3MKjLF7KDhGpy3XM%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c52b5eb7f0654e7e9665a5b385eafc9c_1647661155?x-expires=1647752400&x-signature=2aDRs3P8L1gz6RbY17Eovuk38yc%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bb50390bf2e54cf791f671b7cbc38010_1647661155?x-expires=1647752400&x-signature=agvMptyTx%2Flar%2BdorAUqacI7Q6k%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/31da55079b5e88e65c54909afbb57d4f/6236bdab/video/tos/useast5/tos-useast5-pve-0068-tx/3f0cc5ee9aa84b54be04b68a25dc5cd6/?a=1988&br=1682&bt=841&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M206ZTs6ZmRvOzMzZzczNEApNDc2MzM2NWU0NzlkNzM6aGc1cjE2cjQwLW5gLS1kMS9zc14wYF80MS0tNC41MDUtYWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/31da55079b5e88e65c54909afbb57d4f/6236bdab/video/tos/useast5/tos-useast5-pve-0068-tx/3f0cc5ee9aa84b54be04b68a25dc5cd6/?a=1988&br=1682&bt=841&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M206ZTs6ZmRvOzMzZzczNEApNDc2MzM2NWU0NzlkNzM6aGc1cjE2cjQwLW5gLS1kMS9zc14wYF80MS0tNC41MDUtYWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c52b5eb7f0654e7e9665a5b385eafc9c_1647661155~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=C0mxMbrK7n9w8O8Q%2FwUGNBo0Rec%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c52b5eb7f0654e7e9665a5b385eafc9c_1647661155~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=hBM0mK%2BaazfQCz%2BBTJBcjgyS8rc%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e2cfbf775c104da49f7b8cabdb082808?x-expires=1647752400&x-signature=sfLx5iOkBSr3MKjLF7KDhGpy3XM%3D",
+        "bitrate": 861221,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6690638839524918278",
+        "uniqueId": "united_ukraine",
+        "nickname": "Alex Five-O Snow",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_100x100.jpeg?x-expires=1647817200&x-signature=Zt7kX%2BhrPqBcFBaXXBmtSrTwwYI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_720x720.jpeg?x-expires=1647817200&x-signature=wCa50A3fcOOM3N6N55aJCuyMBOg%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0052b34b81c319c9ad424f4bbe7e9df~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=e0DBVzfizdxXDRBRZ6EXP6N6Ml4%3D",
+        "signature": "Please Help get Me to 1,000 Followers here on TikTok so I can go live First Time",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAthOvUFqeYRnNTfhWr-wVhg_zshs2p9IYt-3S1IDogKpAce_K1oVhkzXnRZCrU0PS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6962535436166466309",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6962535523218967301.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/99c146b32a01031b3db8e8029384b696~c5_100x100.jpeg?x-expires=1647817200&x-signature=cG9C2bLWQ6hCaevOpDCCCzVOx0E%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/99c146b32a01031b3db8e8029384b696~c5_720x720.jpeg?x-expires=1647817200&x-signature=fmTznJhFYzEqYtBPRKvbLRKxdCc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/99c146b32a01031b3db8e8029384b696~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=kIIcdyMnxBkVv8CCZ7Q4SN6oGg8%3D",
+        "authorName": "philemon olale",
+        "original": true,
+        "duration": 59,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 34,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 247
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 10000,
+        "followerCount": 976,
+        "heartCount": 5926,
+        "videoCount": 915,
+        "diggCount": 81600,
+        "heart": 5926
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

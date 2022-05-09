@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6975668513223017477",
+        "shortId": "",
+        "uniqueId": "fazbear_entertalnment",
+        "nickname": "Chase Jenkins",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/623e050745de1676f83699a259722f0c~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=C8VyIsvS7yC%2BrWwS7x2T%2BkYYM%2FM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/623e050745de1676f83699a259722f0c~c5_720x720.jpeg?x-expires=1648515600&x-signature=7snalqdqXOFkXTh02kBPBgI%2Fo%2F0%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/623e050745de1676f83699a259722f0c~c5_100x100.jpeg?x-expires=1648515600&x-signature=%2FnFFVkkuuGtCz2RRjKoNCedEj9g%3D",
+        "signature": "Owner of fazbear entertainment",
+        "createTime": 1624149678,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASyL2BnsaZeQqcrtg9OQtahnPmDOx-GN8dR_mKQg1-1fzetVkBtAUTwxv883tz9u9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Ukraine",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15600,
+        "followingCount": 265,
+        "heart": 397900,
+        "heartCount": 397900,
+        "videoCount": 70,
+        "diggCount": 0
+    },
+    "itemList": []
+}

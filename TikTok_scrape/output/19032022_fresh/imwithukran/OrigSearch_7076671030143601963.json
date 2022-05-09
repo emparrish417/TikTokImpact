@@ -1,0 +1,96 @@
+{
+    "id": "7076671030143601963",
+    "desc": "",
+    "createTime": 1647665872,
+    "video": {
+        "id": "7076671030143601963",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3ed87a5db17e4d8083f0ddda51b7d613?x-expires=1647752400&x-signature=4%2FN%2F55eaGfD98WECRJS%2BzCIIZGQ%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/483f4af536cd4b478a61cd426c3a0b35_1647665872?x-expires=1647752400&x-signature=JfS3XfdfrBej7m6CngB%2BBW7Vh0g%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f1511a9b2d5e4cae8f3f544e2787fe3c_1647665873?x-expires=1647752400&x-signature=fdGfUuaLdaMXDWreeNgVBCckipk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b1040187b24155c16672a5c3648cf940/6236bd7a/video/tos/useast5/tos-useast5-ve-0068c002-tx/dd31d44a238e488da410dbe764591bd4/?a=1988&br=2094&bt=1047&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_xb_DXq&l=2022031923365301011313509608498C70&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=andkZTs6ZmpwOzMzZzczNEApODo2ODQ1NDs6NzU5aDtmOGduNjE2cjRnMm5gLS1kMS9zc2BeMjEwNTUvX2IuMTQuLWE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b1040187b24155c16672a5c3648cf940/6236bd7a/video/tos/useast5/tos-useast5-ve-0068c002-tx/dd31d44a238e488da410dbe764591bd4/?a=1988&br=2094&bt=1047&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_xb_DXq&l=2022031923365301011313509608498C70&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=andkZTs6ZmpwOzMzZzczNEApODo2ODQ1NDs6NzU5aDtmOGduNjE2cjRnMm5gLS1kMS9zc2BeMjEwNTUvX2IuMTQuLWE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/483f4af536cd4b478a61cd426c3a0b35_1647665872~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=z4uHkCHPcncq7TjyGnqTzYiqWx4%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/483f4af536cd4b478a61cd426c3a0b35_1647665872~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=rIIJ3YKmeC1Sx8NQAOMWQLk9u5s%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3ed87a5db17e4d8083f0ddda51b7d613?x-expires=1647752400&x-signature=4%2FN%2F55eaGfD98WECRJS%2BzCIIZGQ%3D",
+        "bitrate": 1072456,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7047333524891272197",
+        "uniqueId": "imwithukran",
+        "nickname": "safe ukrain",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7047334008522276910~c5_100x100.jpeg?x-expires=1647817200&x-signature=QU%2BqOCBVf8QgXqUro7ssXusxIi8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7047334008522276910~c5_720x720.jpeg?x-expires=1647817200&x-signature=ltOyczwbrwjJ8mpfiF4GQIjH%2FSs%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7047334008522276910~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=A9b2IqrE6xQ1fEYKdPxQ%2FHMdx8A%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmmBRvi6Pj36oQ8eCB8q0N6HRPwwE1Xnq3aLDKQvOofdB-jIz2npnMj940TnOPARC",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "222471832057368576",
+        "title": "Toxic",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/47273c1e75ad4ab19785c165ba2175a7",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/1412da1809a241b6b22e16b932b2ec7e.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/1412da1809a241b6b22e16b932b2ec7e.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/1412da1809a241b6b22e16b932b2ec7e.jpeg",
+        "authorName": "Britney Spears",
+        "original": false,
+        "duration": 30,
+        "album": "In The Zone"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 104
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "New Year's Prediction",
+            "ID": "1199078"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 4286,
+        "followerCount": 265,
+        "heartCount": 22,
+        "videoCount": 14,
+        "diggCount": 13900,
+        "heart": 22
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

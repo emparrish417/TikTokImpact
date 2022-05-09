@@ -1,0 +1,100 @@
+{
+    "id": "7077341611495050539",
+    "desc": "",
+    "createTime": 1647822003,
+    "video": {
+        "id": "7077341611495050539",
+        "height": 1246,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b15e6b8e6ee94509a888b0c2b21b030c?x-expires=1647921600&x-signature=Zh%2BJnKYOonUXhmmMe4%2F6ZQj%2BxtA%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8342e402facf49278a3d3798de3e786e_1647822005?x-expires=1647921600&x-signature=w5bfJYQux9Bq%2BeZkm7C%2FGWHseTM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/51de11256e2248488113329f12e8c361_1647822005?x-expires=1647921600&x-signature=DEJLgGKCaRgoAQ6byqj7zYwJpgY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7626c4b42d08b30f4e9ad5b933464133/6239503e/video/tos/useast5/tos-useast5-pve-0068-tx/7c170ca501fc46719c44ff4adc1454b6/?a=1988&br=1050&bt=525&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5FKMDXq&l=2022032122273401011300606907B482B9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M207OWY6Zmh2OzMzZzczNEApZzs6PDUzNzw8NzZoNGQzPGdla25ycjRfNG9gLS1kMS9zczIzNjJgMDBiYS8wNTAtYTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7626c4b42d08b30f4e9ad5b933464133/6239503e/video/tos/useast5/tos-useast5-pve-0068-tx/7c170ca501fc46719c44ff4adc1454b6/?a=1988&br=1050&bt=525&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th5FKMDXq&l=2022032122273401011300606907B482B9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M207OWY6Zmh2OzMzZzczNEApZzs6PDUzNzw8NzZoNGQzPGdla25ycjRfNG9gLS1kMS9zczIzNjJgMDBiYS8wNTAtYTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8342e402facf49278a3d3798de3e786e_1647822005~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=7s%2BJ8VluGbA5%2Bsd5ptztIs2LlqE%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8342e402facf49278a3d3798de3e786e_1647822005~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=K%2BGFOwafnQa5D74aySWx0QOawfg%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b15e6b8e6ee94509a888b0c2b21b030c?x-expires=1647921600&x-signature=qNj4xGDZ%2B3vWLibYzmq9XmUVUgY%3D",
+        "bitrate": 537915,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6968877109742617606",
+        "uniqueId": "father.ukraine",
+        "nickname": "Twizzy",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a9a0bbb7289b287b1c48d868ae7cd36e~c5_100x100.jpeg?x-expires=1647986400&x-signature=zeT11mYTIQ7o6fEWbJf9jeF9o74%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a9a0bbb7289b287b1c48d868ae7cd36e~c5_720x720.jpeg?x-expires=1647986400&x-signature=VE3xiynnOzcm5YJiamF%2FNqEvX1w%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a9a0bbb7289b287b1c48d868ae7cd36e~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=Woj8la3jG%2BRl8t87vrDZGHowuSc%3D",
+        "signature": "you mad awww thats sad goofy\ud83d\udc80",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2Ks8m2AZUGEt_yTtl8TKjYSR1eprWQtEgbtbD7HT1dorSYNUxNVqMnDsEdZ0u7uK",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7024422250065430529",
+        "title": "HOMESiK",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e20577ab46944c33b3ddf5d379fa7824",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/9c61255434034f11972bf11f9e08f40d.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/9c61255434034f11972bf11f9e08f40d.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/9c61255434034f11972bf11f9e08f40d.jpeg",
+        "authorName": "kaystrueno",
+        "original": false,
+        "duration": 60,
+        "album": "HOMESiK"
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 457
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 15,
+        "followerCount": 1206,
+        "heartCount": 168800,
+        "videoCount": 24,
+        "diggCount": 8247,
+        "heart": 168800
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "       ",
+                "New Account",
+                "                  "
+            ]
+        }
+    ],
+    "isAd": false
+}

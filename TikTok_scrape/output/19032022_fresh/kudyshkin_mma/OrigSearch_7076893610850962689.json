@@ -1,0 +1,106 @@
+{
+    "id": "7076893610850962689",
+    "desc": "",
+    "createTime": 1647717695,
+    "video": {
+        "id": "7076893610850962689",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5f8ce10d789c41e5b5d0697fcc22a025?x-expires=1647752400&x-signature=S8fapD0QNFVL8u06Wgt%2BbQQh5AQ%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5c526d162c7846f98d081c51c01c7ec4_1647717698?x-expires=1647752400&x-signature=6KtWB3QBLCmM8ZoQdy8TkDo6dAc%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/07c4f995219147bbaa20431e4e003b73_1647717698?x-expires=1647752400&x-signature=Oq3B2drP8KKjML7B97plolzUqoU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c253a537ebdb87f1ac900bb92731c500/6236bda4/video/tos/alisg/tos-alisg-pve-0037c001/e2710d7ff7ed4362b8c7a595458ff57d/?a=1988&br=1794&bt=897&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampxbmU6Zmc1OzMzODczNEApOGczaTw5OGU5N2RoaDxmN2cuZW5pcjRnbm9gLS1kMS1zczM0Xy41MDU0MjAvNGM0MjQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c253a537ebdb87f1ac900bb92731c500/6236bda4/video/tos/alisg/tos-alisg-pve-0037c001/e2710d7ff7ed4362b8c7a595458ff57d/?a=1988&br=1794&bt=897&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampxbmU6Zmc1OzMzODczNEApOGczaTw5OGU5N2RoaDxmN2cuZW5pcjRnbm9gLS1kMS1zczM0Xy41MDU0MjAvNGM0MjQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/5c526d162c7846f98d081c51c01c7ec4_1647717698~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=T5nhq6DVJef%2FGhjWxsd5n2nWasc%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/5c526d162c7846f98d081c51c01c7ec4_1647717698~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=poTZpRFqFqnPf2dfQLmXnzKQI1w%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5f8ce10d789c41e5b5d0697fcc22a025?x-expires=1647752400&x-signature=S8fapD0QNFVL8u06Wgt%2BbQQh5AQ%3D",
+        "bitrate": 918992,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6524711910967890944",
+        "uniqueId": "kudyshkin_mma",
+        "nickname": "Ukrainian Catapult",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/48f6d81a535e742415fdc687f60489fe.jpeg?x-expires=1647817200&x-signature=oxEO50Zea%2B6Bk5n6R09PXcsPVB0%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/48f6d81a535e742415fdc687f60489fe.jpeg?x-expires=1647817200&x-signature=ONAwFZi05UbYpcObhv2iuP648EU%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/48f6d81a535e742415fdc687f60489fe.jpeg?x-expires=1647817200&x-signature=CFt97oC7E4yqAqrV8zs7BFn0Y0U%3D",
+        "signature": "MMA fighter from \ud83c\uddfa\ud83c\udde6 \n\ud83d\udc8e19 years \n\ud83d\udc8e Kherson City\n\ud83d\udc8e Ukrainian catapult \u2694\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJuiOZp3QNy40pYVEncgEi_us33D6qGQKYlW7bI94wXhFMYCXAqdsdx4w_BdN7qAP",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6975125474452670466",
+        "title": "\u041a\u0430\u043f\u044e\u0448\u043e\u043d \u043d\u0430 \u0433\u043e\u043b\u043e\u0432\u0443",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/dbd143ec13ae499b96c60bc66e18997a",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d49213970d1b42349dea018f8957c4fe.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/d49213970d1b42349dea018f8957c4fe.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/d49213970d1b42349dea018f8957c4fe.jpeg",
+        "authorName": "DMA ILLAN",
+        "original": false,
+        "duration": 120,
+        "album": "\u041a\u0430\u043f\u044e\u0448\u043e\u043d \u043d\u0430 \u0433\u043e\u043b\u043e\u0432\u0443"
+    },
+    "stats": {
+        "diggCount": 11,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 47
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "1930-\u0435",
+            "ID": "1114528"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 104,
+        "followerCount": 2447,
+        "heartCount": 3751,
+        "videoCount": 126,
+        "diggCount": 7820,
+        "heart": 3751
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u0440\u0435\u043c\u0438\u043a\u0441\ud83d\udd25",
+                "\u044f \u0437\u043d\u0430\u044e \u0447\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u043f\u043e\u0441\u0442\u0440\u0438\u0447\u044c\u0441\u044f \u0443\u0436\u0435 \ud83d\ude04",
+                "\u0447\u0435\u043b\u043b\u0435\u043d\u0434\u0436 \u0442\u0430\u043a\u043e\u0439 \u043f\u0440\u043e\u0441\u0442\u043e: \u043f\u043e\u0441\u0442\u0440\u0438\u0447\u044c\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0432\u043e\u0439\u043d\u044b"
+            ]
+        }
+    ],
+    "isAd": false
+}

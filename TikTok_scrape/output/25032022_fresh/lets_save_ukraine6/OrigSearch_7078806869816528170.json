@@ -1,0 +1,133 @@
+{
+    "id": "7078806869816528170",
+    "desc": "",
+    "createTime": 1648163160,
+    "video": {
+        "id": "7078806869816528170",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d19a27e6d0c841e785340ee0f1bd2ae0?x-expires=1648249200&x-signature=1hTfd%2BBb%2FmPM9x%2Bx2Rl%2BQnpbMn0%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cc9e797df3d54dcb81c6fd4426036b2e_1648163161?x-expires=1648249200&x-signature=UqhMckbyZXdzwS6CU0jkSvesias%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0fd981cdf6c4453397b4a0048284fe65_1648163162?x-expires=1648249200&x-signature=51pLllpU%2F083cnhRzsUaRd2RwIc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/431e4f396cd3dac9fa0ee60e2fb9473a/623e4f11/video/tos/useast5/tos-useast5-ve-0068c003-tx/a6cb6e7e6bfb448eb84f604f96d70670/?a=1988&br=322&bt=161&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2izJDXq&l=2022032517235501011313517623DE93F5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhmaGg6Zm9pOzMzZzczNEApZ2Q2ZDlkaGU5N2UzZjM6OWdpa2o1cjQwYnJgLS1kMS9zc2I1MWJeXjRjLTUxYGAzYl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/431e4f396cd3dac9fa0ee60e2fb9473a/623e4f11/video/tos/useast5/tos-useast5-ve-0068c003-tx/a6cb6e7e6bfb448eb84f604f96d70670/?a=1988&br=322&bt=161&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2izJDXq&l=2022032517235501011313517623DE93F5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhmaGg6Zm9pOzMzZzczNEApZ2Q2ZDlkaGU5N2UzZjM6OWdpa2o1cjQwYnJgLS1kMS9zc2I1MWJeXjRjLTUxYGAzYl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cc9e797df3d54dcb81c6fd4426036b2e_1648163161~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=AsQVQlqJoIIo9nlSzBanZlGaTX0%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cc9e797df3d54dcb81c6fd4426036b2e_1648163161~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=wG%2BtrpBrN7YnoHL%2Ba%2BldGzt76GY%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d19a27e6d0c841e785340ee0f1bd2ae0?x-expires=1648249200&x-signature=1hTfd%2BBb%2FmPM9x%2Bx2Rl%2BQnpbMn0%3D",
+        "bitrate": 165058,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6996009785116689413",
+        "uniqueId": "lets_save_ukraine6",
+        "nickname": "\ud83c\uddfa\ud83c\udde6Ukraine\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/561dd3ab9eace911e3b580cbe903b923~c5_100x100.jpeg?x-expires=1648314000&x-signature=OlMgGAMi62sJnwMIryYIUl55FqU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/561dd3ab9eace911e3b580cbe903b923~c5_720x720.jpeg?x-expires=1648314000&x-signature=q8OgkkIu9QY3%2BMj2JCD%2FTD9LJxo%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/561dd3ab9eace911e3b580cbe903b923~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=H9LS7E9aX%2B2GFLVlPXKmPmVDDgI%3D",
+        "signature": "let's save Ukraine\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADfL5CfeU1xwe_ptkVtvm89ezHBfNSaTOYz8iCwyzj0JCPMmJ53Gpvp9q7vU-X62_",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078806842146687787",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7078806864992930603.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/561dd3ab9eace911e3b580cbe903b923~c5_100x100.jpeg?x-expires=1648314000&x-signature=OlMgGAMi62sJnwMIryYIUl55FqU%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/561dd3ab9eace911e3b580cbe903b923~c5_720x720.jpeg?x-expires=1648314000&x-signature=q8OgkkIu9QY3%2BMj2JCD%2FTD9LJxo%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/561dd3ab9eace911e3b580cbe903b923~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=H9LS7E9aX%2B2GFLVlPXKmPmVDDgI%3D",
+        "authorName": "\ud83c\uddfa\ud83c\udde6Ukraine\ud83c\uddfa\ud83c\udde6",
+        "original": true,
+        "duration": 6,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 16,
+        "shareCount": 0,
+        "commentCount": 17,
+        "playCount": 521
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Indie Kid",
+            "ID": "1269924"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 1578,
+        "followerCount": 3415,
+        "heartCount": 13600,
+        "videoCount": 137,
+        "diggCount": 460,
+        "heart": 13600
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "2",
+                "or",
+                "1",
+                "no me",
+                "I'm real",
+                "who is the real me?",
+                "{",
+                "lll",
+                "Y/N",
+                "\u26aa",
+                "<",
+                ">",
+                "\u26ab",
+                "\u26ab",
+                "D",
+                "l",
+                "l",
+                "\u26aa",
+                "\u26aa",
+                "\ud83d\udd34",
+                ">",
+                "<",
+                "D",
+                "l",
+                "l",
+                "\u26ab",
+                "\u26ab",
+                "\u26aa",
+                "\u26aa",
+                "\ud83d\udd34"
+            ]
+        }
+    ],
+    "isAd": false
+}

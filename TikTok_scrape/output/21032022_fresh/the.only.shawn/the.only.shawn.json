@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6900903111042647046",
+        "shortId": "",
+        "uniqueId": "the.only.shawn",
+        "nickname": "Shawn Bray",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2a53902af7091ea848a351e5910611b1~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=2r9s%2ByAw2apFYB5%2BN3QQBwKz96Q%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2a53902af7091ea848a351e5910611b1~c5_720x720.jpeg?x-expires=1647986400&x-signature=FFii%2F%2F%2FBgKaOWRodbK0bfb5dRYU%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2a53902af7091ea848a351e5910611b1~c5_100x100.jpeg?x-expires=1647986400&x-signature=weABeNEFH%2Bac3sStqL0AU%2FsZOr4%3D",
+        "signature": "\ud83d\uddff\nSatire",
+        "createTime": 1606741864,
+        "verified": false,
+        "secUid": "MS4wLjABAAAApzk-qo9mcCZ0AhcthgFKmPGBkQ9XXMAwf7UWm7p5cvP1IWAtb1AqzpnlFMAx-SL7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 193,
+        "followingCount": 960,
+        "heart": 1190,
+        "heartCount": 1190,
+        "videoCount": 51,
+        "diggCount": 0
+    },
+    "itemList": []
+}

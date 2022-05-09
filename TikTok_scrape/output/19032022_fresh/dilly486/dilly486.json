@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6808803116814631941",
+        "shortId": "",
+        "uniqueId": "dilly486",
+        "nickname": "dilly_filly",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2477c19da7a23b793b5d81193e09beaa~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=0VgevO3Z52P5fOm8n9DQV72e3ak%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2477c19da7a23b793b5d81193e09beaa~c5_720x720.jpeg?x-expires=1647817200&x-signature=rVUMHbtkbZ0INxOIvm5qoFc3Hd0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2477c19da7a23b793b5d81193e09beaa~c5_100x100.jpeg?x-expires=1647817200&x-signature=YOlgIuva4ovv1re3W2uFy%2BlhRB4%3D",
+        "signature": "uno",
+        "createTime": 1608372423,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2ZZkbrH_O7CfpgSPrVj0WD7FK0JdKJo-ZE6ALRYOJGRXI0vRzUld7wuZLh9kbifB",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 404,
+        "followingCount": 564,
+        "heart": 132,
+        "heartCount": 132,
+        "videoCount": 12,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7076968320582307118",
+    "desc": "Msm",
+    "createTime": 1647735090,
+    "video": {
+        "id": "7076968320582307118",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/03f8aa4331fc460daa8fbbcb669910f8?x-expires=1647835200&x-signature=bl9aZLZGMxcxRrLEhTovfZ0MsJQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cf3bf628aba543a6a68f1663734364bf_1647735091?x-expires=1647835200&x-signature=iJSeXDLQwmkvpSD9Ihb%2FySbj7ps%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cc5f00f9c37943f3b9e1b52b084c5a14_1647735091?x-expires=1647835200&x-signature=FIn1G3rVoC8ZIZD1ZpWxJtsRDiY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/606a0a7ac35a96ed1daf8bfe8e2df32c/6237ff9c/video/tos/useast5/tos-useast5-ve-0068c004-tx/b88fa6736f99474e800aab493e6ea45f/?a=1988&br=2092&bt=1046&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th07c_DXq&l=202203202231090101130060111FF75446&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVrd2k6Zjk6OzMzZzczNEApPDdkZjgzN2VnN2hnZGQ3aWc0Zi1ycjRnL29gLS1kMS9zczYtNF5iNS0zXy8yLzVfNGA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/606a0a7ac35a96ed1daf8bfe8e2df32c/6237ff9c/video/tos/useast5/tos-useast5-ve-0068c004-tx/b88fa6736f99474e800aab493e6ea45f/?a=1988&br=2092&bt=1046&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th07c_DXq&l=202203202231090101130060111FF75446&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVrd2k6Zjk6OzMzZzczNEApPDdkZjgzN2VnN2hnZGQ3aWc0Zi1ycjRnL29gLS1kMS9zczYtNF5iNS0zXy8yLzVfNGA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cf3bf628aba543a6a68f1663734364bf_1647735091~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=wT5YrrjvKl2o3Uul%2Blhcqwa3Xbs%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cf3bf628aba543a6a68f1663734364bf_1647735091~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=vEmZs9tJKg2Csw%2F7szxJtfcnmdo%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/03f8aa4331fc460daa8fbbcb669910f8?x-expires=1647835200&x-signature=bl9aZLZGMxcxRrLEhTovfZ0MsJQ%3D",
+        "bitrate": 1071881,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6969301803360486406",
+        "uniqueId": "russiavs.ukrain",
+        "nickname": "Funny people",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_100x100.jpeg?x-expires=1647900000&x-signature=w5cGrKGT9eIYtw74bofm%2BwJkpxA%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_720x720.jpeg?x-expires=1647900000&x-signature=4pd2H6JgmCxH%2FW0BrehjyRVHRDM%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=YhjckHsUDlbqDLGvZiWjeVxZidY%3D",
+        "signature": "Russia vs Ukrain",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAK2GVPbTtGK2AWCNkpQYplEPfit-euynWt1fUx3UTgjxXjsFqh3OPvxzVPTkfEy7O",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076968289397754667",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076968318288202542.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_100x100.jpeg?x-expires=1647900000&x-signature=w5cGrKGT9eIYtw74bofm%2BwJkpxA%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_720x720.jpeg?x-expires=1647900000&x-signature=4pd2H6JgmCxH%2FW0BrehjyRVHRDM%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=YhjckHsUDlbqDLGvZiWjeVxZidY%3D",
+        "authorName": "Funny people",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 115
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2,
+        "followerCount": 5,
+        "heartCount": 34,
+        "videoCount": 2,
+        "diggCount": 592,
+        "heart": 34
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6687973183138186246",
+        "shortId": "",
+        "uniqueId": "apatterson522",
+        "nickname": "Amy Patterson",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1632806835847173~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=etHiIf18jiPMqTSI3ws%2BHYopIdI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1632806835847173~c5_720x720.jpeg?x-expires=1647900000&x-signature=BrkX%2BiM5hH2PRXk7H0032jLDRT0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1632806835847173~c5_100x100.jpeg?x-expires=1647900000&x-signature=CMjB%2BHxwzhWhA%2FmmJ6aMI03zPZo%3D",
+        "signature": "",
+        "createTime": 1557165943,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAizs8zlFjZG0s12Nc9nboMOmdY8F-MiEFETk7-ORVTeSL5D1abvyMlLEoi3q_DykA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 170,
+        "followingCount": 144,
+        "heart": 1457,
+        "heartCount": 1457,
+        "videoCount": 85,
+        "diggCount": 1994
+    },
+    "itemList": []
+}

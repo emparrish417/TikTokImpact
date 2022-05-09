@@ -1,0 +1,90 @@
+{
+    "id": "7078695524169207045",
+    "desc": "",
+    "createTime": 1648137236,
+    "video": {
+        "id": "7078695524169207045",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/791e51d48ed34f7f858852c66ee19ce0?x-expires=1648249200&x-signature=KlslosMbp9HN2BltBAoqv2nssxg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5d8abb7dbc384c70b860d260c4cbaa3c_1648137236?x-expires=1648249200&x-signature=kcsukWHkqR91kbcTzKwUhoiCsbs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/35a1b431809c4b29bc547b68b4d09087_1648137237?x-expires=1648249200&x-signature=MZy5BSmYIBO2kwm7qk8Hd%2FkbxdE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7e58e8ba5c8d017075fb45c4eee2a872/623e4f49/video/tos/useast2a/tos-useast2a-ve-0068c001/e902043640444f669065bc5d097f1c8e/?a=1988&br=4266&bt=2133&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThFNzJDXq&l=2022032517245101011300622724F663F0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzplZzU6Zjc8OzMzNzczM0ApOGk4OjkzN2RmNzw3aDU0O2drYHMxcjQwNXJgLS1kMTZzc2EvYzJjNDJhMy4yNTQxXl46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7e58e8ba5c8d017075fb45c4eee2a872/623e4f49/video/tos/useast2a/tos-useast2a-ve-0068c001/e902043640444f669065bc5d097f1c8e/?a=1988&br=4266&bt=2133&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThFNzJDXq&l=2022032517245101011300622724F663F0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzplZzU6Zjc8OzMzNzczM0ApOGk4OjkzN2RmNzw3aDU0O2drYHMxcjQwNXJgLS1kMTZzc2EvYzJjNDJhMy4yNTQxXl46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5d8abb7dbc384c70b860d260c4cbaa3c_1648137236~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=%2FVGVQUrs8DmgOljfFUFl%2B0EG60Q%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5d8abb7dbc384c70b860d260c4cbaa3c_1648137236~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=4mbeFUAq6EQzpp92C%2FtoP8fXfHM%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/791e51d48ed34f7f858852c66ee19ce0?x-expires=1648249200&x-signature=KlslosMbp9HN2BltBAoqv2nssxg%3D",
+        "bitrate": 2184770,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6883561039167489030",
+        "uniqueId": "stand_with_ukraine47",
+        "nickname": "Ngolo Ngolo Kante",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c23a0d7443d2b2ae0938ba5c3c06bbb0~c5_100x100.jpeg?x-expires=1648314000&x-signature=lFSOajKVlNiMUH3T%2FNs9oTGgpuU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c23a0d7443d2b2ae0938ba5c3c06bbb0~c5_720x720.jpeg?x-expires=1648314000&x-signature=WdCyHmk8Ik1swFnUnTyXWzrQDz0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c23a0d7443d2b2ae0938ba5c3c06bbb0~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=ufGiGX1Mly0W4mIl7ABMw3xE5UY%3D",
+        "signature": "My favorite player in the world is Deccers mbappe soucek and camavinga",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZ4EnKqdFlWjr3Iv7W0RCDE4e7aYiDsuRsDb3eCu7megQT6bPRTB6Ml3Cs6dkH81B",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078695490379893509",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7078695500718803718.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c23a0d7443d2b2ae0938ba5c3c06bbb0~c5_100x100.jpeg?x-expires=1648314000&x-signature=lFSOajKVlNiMUH3T%2FNs9oTGgpuU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c23a0d7443d2b2ae0938ba5c3c06bbb0~c5_720x720.jpeg?x-expires=1648314000&x-signature=WdCyHmk8Ik1swFnUnTyXWzrQDz0%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c23a0d7443d2b2ae0938ba5c3c06bbb0~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=ufGiGX1Mly0W4mIl7ABMw3xE5UY%3D",
+        "authorName": "Ngolo Ngolo Kante",
+        "original": true,
+        "duration": 6,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 40
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1521,
+        "followerCount": 376,
+        "heartCount": 4038,
+        "videoCount": 409,
+        "diggCount": 27100,
+        "heart": 4038
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

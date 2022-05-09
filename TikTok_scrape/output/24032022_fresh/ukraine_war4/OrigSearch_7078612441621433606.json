@@ -1,0 +1,127 @@
+{
+    "id": "7078612441621433606",
+    "desc": "#\u043d\u0430\u0442\u043e",
+    "createTime": 1648117893,
+    "video": {
+        "id": "7078612441621433606",
+        "height": 1036,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/983b40c7c1d94c36ae2e7db52036e492?x-expires=1648170000&x-signature=boBh%2FALWu7hp2Do2moAeQWkhhV4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8286addc79cf4d8198ab52fa5f9369d8_1648117895?x-expires=1648170000&x-signature=PSQMiPBZCySoU9TneKTQH%2BdVBOw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5a82ce166e5f463d8ed4d15386ac7cd4_1648117897?x-expires=1648170000&x-signature=GIwksFy0Ulk9xZzl7ciun5%2F708M%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/27b7c0f6f1e26768a2d0824af6253064/623d1d85/video/tos/useast2a/tos-useast2a-ve-0068c003/5d59ae7baa0545339d6167905fab2e28/?a=1988&br=782&bt=391&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th7xpJDXq&l=20220324194013010113135068092333D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhvOjU6Znk3OzMzNzczM0ApaGg5NmUzOjw2Nzo4PGdmaGdoM2lpcjRnZHJgLS1kMTZzc2MxLV9fM15jNjAuYF4vXzY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/27b7c0f6f1e26768a2d0824af6253064/623d1d85/video/tos/useast2a/tos-useast2a-ve-0068c003/5d59ae7baa0545339d6167905fab2e28/?a=1988&br=782&bt=391&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th7xpJDXq&l=20220324194013010113135068092333D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhvOjU6Znk3OzMzNzczM0ApaGg5NmUzOjw2Nzo4PGdmaGdoM2lpcjRnZHJgLS1kMTZzc2MxLV9fM15jNjAuYF4vXzY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8286addc79cf4d8198ab52fa5f9369d8_1648117895~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=xV0Edpu4sUfNKMNoyeJ0d3REw8c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8286addc79cf4d8198ab52fa5f9369d8_1648117895~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=QaHJ2osWLGI4zAsdvACsAK7S51Y%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/983b40c7c1d94c36ae2e7db52036e492?x-expires=1648170000&x-signature=boBh%2FALWu7hp2Do2moAeQWkhhV4%3D",
+        "bitrate": 401361,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7078342981287609349",
+        "uniqueId": "ukraine_war4",
+        "nickname": "War",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ae221466f060ade98df6cb4d97bcbe89~c5_100x100.jpeg?x-expires=1648234800&x-signature=PKO%2FUulimqcsVeyeFo9E0edzUes%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ae221466f060ade98df6cb4d97bcbe89~c5_720x720.jpeg?x-expires=1648234800&x-signature=bTc7dV%2B91u0P%2BsLd40A8RX4%2F26c%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ae221466f060ade98df6cb4d97bcbe89~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=YITCBGE9Dn9dnXkzOjRHeNGdtwM%3D",
+        "signature": "\u0433\u043b\u0430\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441 \u0444\u0440\u043e\u043d\u0442\u043e\u0432",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAf6G7_TZXyrhN_cq25xJecuqTiWtJSXbxpdJRTh0_8p58CnHqvXqcVDcRodn-WWAZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6704956234862168065",
+        "title": "Gangsta's Paradise (feat. L.V.)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/386b2b75093046c58f9cf0ff1bac8bf1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/bc863babf4bd407b8092b4de7bd2b1a6.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/bc863babf4bd407b8092b4de7bd2b1a6.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/bc863babf4bd407b8092b4de7bd2b1a6.jpeg",
+        "authorName": "Coolio",
+        "original": false,
+        "duration": 60,
+        "album": "Gangsta's Paradise"
+    },
+    "challenges": [
+        {
+            "id": "64490270",
+            "title": "\u043d\u0430\u0442\u043e",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 176,
+        "shareCount": 2,
+        "commentCount": 18,
+        "playCount": 21100
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 5,
+            "hashtagName": "\u043d\u0430\u0442\u043e",
+            "hashtagId": "64490270",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 11,
+        "heartCount": 269,
+        "videoCount": 11,
+        "diggCount": 2,
+        "heart": 269
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u041b\u0438\u0434\u0435\u0440\u044b \u0441\u0442\u0440\u0430\u043d \u041d\u0410\u0422\u041e \u0441\u043e\u0431\u0440\u0430\u043b\u0438\u0441\u044c \u043d\u0430 \u044d\u043a\u0441\u0442\u0440\u0435\u043d\u043d\u043e\u043c \u0441\u043e\u0431\u0440\u0430\u043d\u0438\u0438 "
+            ]
+        }
+    ],
+    "isAd": false
+}

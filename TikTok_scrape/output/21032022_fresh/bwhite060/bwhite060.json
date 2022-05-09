@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7012832398041039898",
+        "shortId": "",
+        "uniqueId": "bwhite060",
+        "nickname": "BWHITE",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a9a7787e360930b91679c3ae0d30e8b1~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=O%2Fsb9MBul1pbC886rD8s%2BPM%2Bip4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a9a7787e360930b91679c3ae0d30e8b1~c5_720x720.jpeg?x-expires=1647986400&x-signature=SEW9AyxFDalkCXWFdODAx9sjLCA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/a9a7787e360930b91679c3ae0d30e8b1~c5_100x100.jpeg?x-expires=1647986400&x-signature=neWTFeio%2FpZd9POjx%2Fj%2F4zhFVbA%3D",
+        "signature": "\ud83d\udc63",
+        "createTime": 1632803926,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiuhKtu9SKquPozzMq35NkEZn4QCR8uDlYZwvl2bBChrBOrq_bCGXxxEprriXtrap",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6667,
+        "followingCount": 50,
+        "heart": 966100,
+        "heartCount": 966100,
+        "videoCount": 50,
+        "diggCount": 0
+    },
+    "itemList": []
+}

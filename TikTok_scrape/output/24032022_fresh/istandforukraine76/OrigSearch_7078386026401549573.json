@@ -1,0 +1,96 @@
+{
+    "id": "7078386026401549573",
+    "desc": "",
+    "createTime": 1648065175,
+    "video": {
+        "id": "7078386026401549573",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/294b290b2e44498388b93d964bfd584f?x-expires=1648170000&x-signature=6eKxeZVeQn9vlMEdUG2syuBsZ9Y%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3e65e037ea4d4a74a8fee3dfa4180487_1648065176?x-expires=1648170000&x-signature=MwEd9EbcgUavMvHcQpbCjOc2EEM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/47fdd3de54214c38afd6053584f71246_1648065177?x-expires=1648170000&x-signature=xdr4ry2HfwnXWOVYYeQEOnT2n1I%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0f4e94a9375305512689b7b0d1c56ee1/623d1da2/video/tos/useast2a/tos-useast2a-ve-0068c003/8cb52dbd0fd344b595315f2391f9b849/?a=1988&br=4714&bt=2357&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThCxpJDXq&l=20220324194043010113135194262D44D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzQ8M2k6ZjZxOzMzNzczM0ApZTk2aDU4aDwzN2hnZWk6OWc1NWA1cjQwaXFgLS1kMTZzc14vLjU1LjM2XmM2LTBhMjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0f4e94a9375305512689b7b0d1c56ee1/623d1da2/video/tos/useast2a/tos-useast2a-ve-0068c003/8cb52dbd0fd344b595315f2391f9b849/?a=1988&br=4714&bt=2357&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThCxpJDXq&l=20220324194043010113135194262D44D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzQ8M2k6ZjZxOzMzNzczM0ApZTk2aDU4aDwzN2hnZWk6OWc1NWA1cjQwaXFgLS1kMTZzc14vLjU1LjM2XmM2LTBhMjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3e65e037ea4d4a74a8fee3dfa4180487_1648065176~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=HPvTvWegK86vT0rNd%2FUFc1KfFpA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3e65e037ea4d4a74a8fee3dfa4180487_1648065176~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=XSUfdVMHgtzVVl99ZeD83wthfnw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/294b290b2e44498388b93d964bfd584f?x-expires=1648170000&x-signature=6eKxeZVeQn9vlMEdUG2syuBsZ9Y%3D",
+        "bitrate": 2413607,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6964447822582236165",
+        "uniqueId": "istandforukraine76",
+        "nickname": "Hey123",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb9d1adb22402e51d7de0691e4bcbbab~c5_100x100.jpeg?x-expires=1648234800&x-signature=oVMx0WAyRUG0mgg%2Btkn5UmP3nQY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb9d1adb22402e51d7de0691e4bcbbab~c5_720x720.jpeg?x-expires=1648234800&x-signature=9GPWF%2FSqUsYEteiS%2BvI1lk%2Fx23c%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cb9d1adb22402e51d7de0691e4bcbbab~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=cXuVAvWNWV0GI6t6aGW4U1mIewY%3D",
+        "signature": "Hi I\u2019m Lydia I\u2019m taken and straight and my favourite shop is next and new look",
+        "verified": false,
+        "secUid": "MS4wLjABAAAACGs0_saWIqojRsnJ6uKLVyHD_onRlZdE0N7d_O0iq30Fe2dCT9_D1cixmG9QiaKg",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7065760009070283526",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7065760023724837637.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c573deccf2d6d8f37a7e280abb73d7e~c5_100x100.jpeg?x-expires=1648234800&x-signature=hG3K1QXKUDvFR%2FjrT4J11IfG5mg%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c573deccf2d6d8f37a7e280abb73d7e~c5_720x720.jpeg?x-expires=1648234800&x-signature=G2OEkO%2Fc76bTqv14imRlNiB7nMQ%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c573deccf2d6d8f37a7e280abb73d7e~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=n%2Fp%2F2fF6u4iUc2cn4u5sSX9D9fw%3D",
+        "authorName": "carl_debbie_shameless",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 30
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "freckles by emmasofija",
+            "ID": "1518982"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 884,
+        "followerCount": 415,
+        "heartCount": 1375,
+        "videoCount": 187,
+        "diggCount": 1354,
+        "heart": 1375
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

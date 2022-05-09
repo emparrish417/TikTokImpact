@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6862594387370394626",
+        "shortId": "",
+        "uniqueId": "friend_sport4",
+        "nickname": "Friend Sport",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/dd8269632da0725632de6b3044a3b876~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=oejQBp%2BfGlX2Msgfr%2BElzLpjiL8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/dd8269632da0725632de6b3044a3b876~c5_720x720.jpeg?x-expires=1648069200&x-signature=A30j2O71KDeNOZGcMwRP0FtRWVw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/dd8269632da0725632de6b3044a3b876~c5_100x100.jpeg?x-expires=1648069200&x-signature=l8IbYEIYKFNwNIr4B8j2KhRsjFw%3D",
+        "signature": "\ud83d\udccc\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32: Line ID: mix062531\n\n\ud83d\udd35 Facebook|Youtube: Friend Sport",
+        "createTime": 1597793569,
+        "verified": false,
+        "secUid": "MS4wLjABAAAARJ0TvtyiP_SzYG9gG8rL0eDg9Xh6jbApiSAPtCoyL4ax8qjSJZJ_W99MMES7KnRf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.facebook.com/Friendsport04/",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 358700,
+        "followingCount": 2,
+        "heart": 2200000,
+        "heartCount": 2200000,
+        "videoCount": 425,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,98 @@
+{
+    "id": "7076810405263281450",
+    "desc": "",
+    "createTime": 1647698323,
+    "video": {
+        "id": "7076810405263281450",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a591652fcdcf41e3b9bae83525b67b41?x-expires=1647752400&x-signature=hcztmUTOg1Igoc99hP5vxfJgyt0%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/80095799b3b14f4da1ec5110510f86f1_1647698324?x-expires=1647752400&x-signature=eNMfXzwP0P9z1njbDNPtchqxbqo%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b152b5d024f842c39f317f1268b345c5_1647698324?x-expires=1647752400&x-signature=bCP%2FRYV5s42acfOgjk7ceacQuw0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/dd04fc463e1143439f05080af0efb53a/6236bdaa/video/tos/useast5/tos-useast5-ve-0068c004-tx/70a47bc6758e4e928e042908860159af/?a=1988&br=2248&bt=1124&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQqb_DXq&l=20220319233740010113006234183AB084&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M255PDk6Zm54OzMzZzczNEApPDg7NDc6M2VoNzk0aTVlOmdgbmJhcjRnL25gLS1kMS9zczUvXi0vXi0tNC4yNS82Yi06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/dd04fc463e1143439f05080af0efb53a/6236bdaa/video/tos/useast5/tos-useast5-ve-0068c004-tx/70a47bc6758e4e928e042908860159af/?a=1988&br=2248&bt=1124&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThQqb_DXq&l=20220319233740010113006234183AB084&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M255PDk6Zm54OzMzZzczNEApPDg7NDc6M2VoNzk0aTVlOmdgbmJhcjRnL25gLS1kMS9zczUvXi0vXi0tNC4yNS82Yi06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/80095799b3b14f4da1ec5110510f86f1_1647698324~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=Nkn%2Fp3rdmOwt5dt86rt3aeoTWEk%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/80095799b3b14f4da1ec5110510f86f1_1647698324~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=Pm86AhhYviHsbZTbEUDKFJSxUg4%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a591652fcdcf41e3b9bae83525b67b41?x-expires=1647752400&x-signature=hcztmUTOg1Igoc99hP5vxfJgyt0%3D",
+        "bitrate": 1151234,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6980430381992805381",
+        "uniqueId": "the_weird_club5",
+        "nickname": "Ukrainian\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1a1b46d3dabc9161815aca4a5e086778~c5_100x100.jpeg?x-expires=1647817200&x-signature=6C7weMH3smxje1l7yyJES%2FkSklA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1a1b46d3dabc9161815aca4a5e086778~c5_720x720.jpeg?x-expires=1647817200&x-signature=3%2F03IETpZyY7XSytiAsZ7ZDRE60%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1a1b46d3dabc9161815aca4a5e086778~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=UxEc2ekryk6SZF3%2Fu9k7sXVGQGI%3D",
+        "signature": "American girl dolls",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVmLHI-cEElprO-hBlL0VRwslrrdfRNhUMk7VaXWiCmdvNfE5S_wr9Wl0AdRMeEVD",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7061964978948967169",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7061964979112626945.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/48d85b028db66b769484b7a6c47cdc02~c5_100x100.jpeg?x-expires=1647817200&x-signature=EmXd5Kx0XxbAEhYrPfqNLjb4%2BZc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/48d85b028db66b769484b7a6c47cdc02~c5_720x720.jpeg?x-expires=1647817200&x-signature=3mocbs8lDuX0kUE5DeS7beShR6w%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/48d85b028db66b769484b7a6c47cdc02~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=n3E24tjpOtqfejF2DeCNY1Vb3N4%3D",
+        "authorName": "speed._songsz",
+        "original": true,
+        "duration": 5,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 17
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 634,
+        "followerCount": 66,
+        "heartCount": 238,
+        "videoCount": 67,
+        "diggCount": 2330,
+        "heart": 238
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "She fell asleep on me lol\ud83c\udf44\ud83c\udf38"
+            ]
+        }
+    ],
+    "isAd": false
+}

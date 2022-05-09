@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6867445514427237381",
+        "shortId": "",
+        "uniqueId": "news_ukraine4",
+        "nickname": "UA",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c693b8ae1fe727a9e00bfcd1f119c94a~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=3KgrDFmZ2AyglxiRh560gfx6oko%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c693b8ae1fe727a9e00bfcd1f119c94a~c5_720x720.jpeg?x-expires=1648234800&x-signature=yPG6pXgL38fygVelMBuOlgsVUi8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c693b8ae1fe727a9e00bfcd1f119c94a~c5_100x100.jpeg?x-expires=1648234800&x-signature=NH0ide1M1DWxAbGqO4lQfjeLXB4%3D",
+        "signature": "",
+        "createTime": 1598923210,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvc_N-JXzsqjWjLE4DyuIWLtXY-8JEMgGk1rrouPzspDH2lO9VLF50tFikzv23uzL",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 137,
+        "followingCount": 25,
+        "heart": 3693,
+        "heartCount": 3693,
+        "videoCount": 75,
+        "diggCount": 0
+    },
+    "itemList": []
+}

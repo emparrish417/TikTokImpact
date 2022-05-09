@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7000022426176865285",
+        "shortId": "",
+        "uniqueId": "k.makoviichuk",
+        "nickname": "\ud83e\udd8b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec6736200da477f3fe03b7ec14824561~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=2Gq%2F1vMQ2AIDpkYNi%2FwZxghg0Dc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec6736200da477f3fe03b7ec14824561~c5_720x720.jpeg?x-expires=1648515600&x-signature=4Nus3O8k8EJ4AqDXRiTIajiDY4I%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec6736200da477f3fe03b7ec14824561~c5_100x100.jpeg?x-expires=1648515600&x-signature=recqjpgL7M0zt9klh2hP2MG61zE%3D",
+        "signature": "\ud83d\udd4a",
+        "createTime": 1630357397,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjxn3LvRaaULnR9ayTXqvvxdU2Gelb1OQZN6QegaNpkByZUn_CFQgjTiNrdqad_A2",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 61,
+        "followingCount": 35,
+        "heart": 4932,
+        "heartCount": 4932,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

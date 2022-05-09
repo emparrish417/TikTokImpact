@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6951587595710055430",
+        "shortId": "",
+        "uniqueId": "jasper_the_d",
+        "nickname": "Jasper the dog",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21f42f909ce60ec9d178204043d8b8a2~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=yfTAOR%2BmaA1NSbYGXLoUUbFmFus%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21f42f909ce60ec9d178204043d8b8a2~c5_720x720.jpeg?x-expires=1647986400&x-signature=i6VZuo%2BlvAoFUe5hrZlvnWfE%2Fho%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21f42f909ce60ec9d178204043d8b8a2~c5_100x100.jpeg?x-expires=1647986400&x-signature=N5NXUEq%2Bhn7nuIP3RjS2TEwr4y0%3D",
+        "signature": "I have a secret I am gonna tell at 17.5k followers",
+        "createTime": 1625170464,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAT7BlrdiCT0uGATZyMfjSlCo4FUAJoSDFirpXEvDTinSVjiK1cMSRhZZ4lm7xKK2X",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 288,
+        "followingCount": 435,
+        "heart": 1109,
+        "heartCount": 1109,
+        "videoCount": 68,
+        "diggCount": 0
+    },
+    "itemList": []
+}

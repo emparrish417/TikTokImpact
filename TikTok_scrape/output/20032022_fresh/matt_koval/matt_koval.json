@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6882232430184891397",
+        "shortId": "",
+        "uniqueId": "matt_koval",
+        "nickname": "Matt Koval",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4c9a9ef442fd663e851ad61b1dfe31f7~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=j74lT2OZ0Hy16rPdpCIi6UkWAwY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4c9a9ef442fd663e851ad61b1dfe31f7~c5_720x720.jpeg?x-expires=1647900000&x-signature=q6y3Vl%2FKcWLf38zd1cR30WKVz9c%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4c9a9ef442fd663e851ad61b1dfe31f7~c5_100x100.jpeg?x-expires=1647900000&x-signature=9JoBTmWbd4REvwdfSRPvjT0R39A%3D",
+        "signature": "Periodically posting updates on what's happening in Ukraine\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1602394680,
+        "verified": false,
+        "secUid": "MS4wLjABAAAACEGChUFjn6wkWvI7SFkQutTh9cmvYv21dNGq9MkJ88o6jUHd8aigzuozf__a7zAG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 973,
+        "followingCount": 28,
+        "heart": 10200,
+        "heartCount": 10200,
+        "videoCount": 56,
+        "diggCount": 0
+    },
+    "itemList": []
+}

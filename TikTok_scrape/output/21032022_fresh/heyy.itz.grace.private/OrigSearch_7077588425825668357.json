@@ -1,0 +1,90 @@
+{
+    "id": "7077588425825668357",
+    "desc": "",
+    "createTime": 1647879469,
+    "video": {
+        "id": "7077588425825668357",
+        "height": 1024,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b7121d0ea9ff4763ba9a86095b22b496?x-expires=1647921600&x-signature=SEKuL3pbYv8ppK63sqSRzM0Yq80%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bd94eb4144bc4c65a5e1290ec8124e4f_1647879471?x-expires=1647921600&x-signature=7PZZh%2FZTf65%2FN%2FROWxK4QvP7v8M%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7feb2d3f69604b2490a9e212f282d0fb_1647879472?x-expires=1647921600&x-signature=kASJiyJ7i%2FIxLMQeeQGCvNnvUMc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0c98d707dac258b5977a413b455f6f6a/62395061/video/tos/useast2a/tos-useast2a-ve-0068c003/96d1a8bbe76f4fc1aab609fd2c666719/?a=1988&br=4062&bt=2031&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2FKMDXq&l=202203212227550101131352071CD14303&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3V3ZTM6ZnRkOzMzNzczM0ApNDQ8ZDg8ZWU7Nzo5aDxmNGdvbzRjcjRnNnBgLS1kMTZzczYuMzYtNDZeNmMtMC1hYC06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0c98d707dac258b5977a413b455f6f6a/62395061/video/tos/useast2a/tos-useast2a-ve-0068c003/96d1a8bbe76f4fc1aab609fd2c666719/?a=1988&br=4062&bt=2031&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2FKMDXq&l=202203212227550101131352071CD14303&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3V3ZTM6ZnRkOzMzNzczM0ApNDQ8ZDg8ZWU7Nzo5aDxmNGdvbzRjcjRnNnBgLS1kMTZzczYuMzYtNDZeNmMtMC1hYC06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bd94eb4144bc4c65a5e1290ec8124e4f_1647879471~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=ju6k5coApczaukICuzy6vtIOfZ8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bd94eb4144bc4c65a5e1290ec8124e4f_1647879471~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=SuxKlcK%2BiNEiWN2k%2B6YMeQolXr0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b7121d0ea9ff4763ba9a86095b22b496?x-expires=1647921600&x-signature=SEKuL3pbYv8ppK63sqSRzM0Yq80%3D",
+        "bitrate": 2079850,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7061530496001459205",
+        "uniqueId": "heyy.itz.grace.private",
+        "nickname": "Grace Ireland117",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7061531266503409669~c5_100x100.jpeg?x-expires=1647986400&x-signature=FVx48eAxgPfrChLDrELDcggewqM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7061531266503409669~c5_720x720.jpeg?x-expires=1647986400&x-signature=BEop3H0aMYWIufhpA3lHgn65BZE%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/7061531266503409669~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=G12h7xMmP11mwrf6IMM4fVHztI4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGLi5uVWiQFOAcHJYcFobOuvFMmZtNnoLdRhhzP458fZJkJLY_zgJJvvLjVF6SyeV",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7054711862964832258",
+        "title": "Numb Little Bug",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ca054ed415d545158a4c5975d7045aba",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/6aa70fd10d2a4bd6a7e91197ff051235.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/6aa70fd10d2a4bd6a7e91197ff051235.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6aa70fd10d2a4bd6a7e91197ff051235.jpeg",
+        "authorName": "Em Beihold",
+        "original": false,
+        "duration": 22,
+        "album": "Numb Little Bug"
+    },
+    "stats": {
+        "diggCount": 6,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 36
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 209,
+        "followerCount": 41,
+        "heartCount": 376,
+        "videoCount": 70,
+        "diggCount": 9610,
+        "heart": 376
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

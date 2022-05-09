@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6725103257243010053",
+        "shortId": "",
+        "uniqueId": "johnursu",
+        "nickname": "john",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e46ff033edd7defd0cac6ce7b32ac663~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=7a2Zj3sLqexAFFMN5lO2T5iKYGU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e46ff033edd7defd0cac6ce7b32ac663~c5_720x720.jpeg?x-expires=1647986400&x-signature=zqkrkvDboTY4uMZwrArJtfvGZiM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e46ff033edd7defd0cac6ce7b32ac663~c5_100x100.jpeg?x-expires=1647986400&x-signature=zvg%2Bt1TGbL%2BUlrjUhhlQ01tk3TQ%3D",
+        "signature": "\ud83d\ude2dsadness is the key to happiness\ud83d\ude00\nPennsylvania \ud83d\udccd\ud83c\uddfa\ud83c\uddf8\nI STAND WITH \ud83c\uddfa\ud83c\udde6",
+        "createTime": 1565810980,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcq54LxKDue1Km0in8ORdI5cvvHYPcrPrAZpnQa0E9MWz7NYjZNvB4crTRj65eHga",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 597,
+        "followingCount": 4492,
+        "heart": 11400,
+        "heartCount": 11400,
+        "videoCount": 741,
+        "diggCount": 0
+    },
+    "itemList": []
+}

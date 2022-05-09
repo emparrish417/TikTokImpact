@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7039610866916246554",
+        "shortId": "",
+        "uniqueId": "ischannel17",
+        "nickname": "ischannel",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/42294da04cabda476ec70f8e5e846b2f~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=48BFvdo30R0k0BNN01%2BHQKbhlJE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/42294da04cabda476ec70f8e5e846b2f~c5_720x720.jpeg?x-expires=1648234800&x-signature=0L%2FTmt9SkteG0ISLu6HbaGaSCx4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/42294da04cabda476ec70f8e5e846b2f~c5_100x100.jpeg?x-expires=1648234800&x-signature=MfcjQN9h5qy1WFBQXHGxKXs3FpY%3D",
+        "signature": "",
+        "createTime": 1639038960,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4Fsq-QUf9gqnFJHEGB7Ll2sa4LQeZ5UB3Qk1jDMtBT0sfCVIptiSVow7quowEmef",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 19900,
+        "followingCount": 150,
+        "heart": 316900,
+        "heartCount": 316900,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

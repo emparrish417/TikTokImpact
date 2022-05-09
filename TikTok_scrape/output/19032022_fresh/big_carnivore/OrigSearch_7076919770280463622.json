@@ -1,0 +1,119 @@
+{
+    "id": "7076919770280463622",
+    "desc": "Ukraine \ud83c\uddfa\ud83c\udde6 \u2764\ufe0f #ukraine",
+    "createTime": 1647723786,
+    "video": {
+        "id": "7076919770280463622",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ad4b4134b9e044b6b82f21cc7d0fb8ca_1647723792?x-expires=1647752400&x-signature=%2B1hRW9FKeW7ql5f%2B6vQ%2FRXOw0pk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8ee72e4177944f4c80afdbef1b827ae1_1647723793?x-expires=1647752400&x-signature=MtVB07s7Azfhcw6LsITsuNdxyOI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/75878cf926fc4da99176356e68e0c601_1647723794?x-expires=1647752400&x-signature=KmF0QA3mnfiCYbjmXCaNsLYnqwA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a599f3caafdfe395026f0254850e694b/6236bd3f/video/tos/useast2a/tos-useast2a-pve-0068/07b6c24dfda746a48a2fdfb869efb7aa/?a=1988&br=2390&bt=1195&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThM_b_DXq&l=202203192335510101130062102731A822&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M29wcGQ6ZjM3OzMzNzczM0ApNWk6ZzplNDw3N2k3NjtpN2dzMnBmcjRfXm9gLS1kMTZzczJjXmAwYmA0NTBgLzQxMmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a599f3caafdfe395026f0254850e694b/6236bd3f/video/tos/useast2a/tos-useast2a-pve-0068/07b6c24dfda746a48a2fdfb869efb7aa/?a=1988&br=2390&bt=1195&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThM_b_DXq&l=202203192335510101130062102731A822&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M29wcGQ6ZjM3OzMzNzczM0ApNWk6ZzplNDw3N2k3NjtpN2dzMnBmcjRfXm9gLS1kMTZzczJjXmAwYmA0NTBgLzQxMmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8ee72e4177944f4c80afdbef1b827ae1_1647723793~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=lIaTK0KcZWK20LOdc79Kw0PkhsI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8ee72e4177944f4c80afdbef1b827ae1_1647723793~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=T38cHjRxxZoSdKEqBaKa5ren58w%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ad4b4134b9e044b6b82f21cc7d0fb8ca_1647723792?x-expires=1647752400&x-signature=%2B1hRW9FKeW7ql5f%2B6vQ%2FRXOw0pk%3D",
+        "bitrate": 1224363,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6952900499793445893",
+        "uniqueId": "big_carnivore",
+        "nickname": "Plantes carnivores",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b2396930be88538df7b4a0c3fb9ddf8~c5_100x100.jpeg?x-expires=1647817200&x-signature=6RMYpFJCyIbLpt%2FowLRV%2Bsj4vQ0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b2396930be88538df7b4a0c3fb9ddf8~c5_720x720.jpeg?x-expires=1647817200&x-signature=8dUj%2FvMzknlmNnlaaAVN38BgX3s%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b2396930be88538df7b4a0c3fb9ddf8~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=9cUooH%2F2IaKjkKkxd5M1wt%2BkdlU%3D",
+        "signature": "Carnivorous plants \ud83d\udc9b\ud83d\udc99",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxn8PP-FaNIvGh8S767AC0bQUEtgB99u4MMfggp9eRcG3t5fb9d2TK-7rBfSWmOS2",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7041921629911304962",
+        "title": "Say it Right",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7041921636026698497.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1bbea404155593b14b4ac1b5cedf9a96.jpeg?x-expires=1647817200&x-signature=8qjSOB2uRMwARjvY5srA1i6Qzp0%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/1bbea404155593b14b4ac1b5cedf9a96.jpeg?x-expires=1647817200&x-signature=J2DRv%2BcDqNhlYbAmHLVaZzhwvDE%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/1bbea404155593b14b4ac1b5cedf9a96.jpeg?x-expires=1647817200&x-signature=2Y0gCnnLjPv5%2B5UZBQPjSi04c6A%3D",
+        "authorName": "\ud83d\udc5b",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 410,
+        "shareCount": 0,
+        "commentCount": 7,
+        "playCount": 3246
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 16,
+            "end": 24,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 155,
+        "followerCount": 1300000,
+        "heartCount": 14300000,
+        "videoCount": 653,
+        "diggCount": 2487,
+        "heart": 14300000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

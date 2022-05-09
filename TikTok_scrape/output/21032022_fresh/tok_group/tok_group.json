@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "284080707239612416",
+        "shortId": "",
+        "uniqueId": "tok_group",
+        "nickname": "Tok_group",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20e047c4eda0c3f7757c40f00f479d90~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=4pgYxvQWQTdhdnOgS1gLZxol2VY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20e047c4eda0c3f7757c40f00f479d90~c5_720x720.jpeg?x-expires=1647986400&x-signature=GJ2CXj3B68EzkcIxKwkMVfpwwYk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20e047c4eda0c3f7757c40f00f479d90~c5_100x100.jpeg?x-expires=1647986400&x-signature=S2oCAkotApmDvPjBDL7PKCAIQEw%3D",
+        "signature": "\u00ab\u0418\u0441\u043a\u0440\u044b\u00bb\n     \ud83d\udc47\ud83d\udc47\ud83d\udc47",
+        "createTime": 1508073221,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcfKvtei3fGgs372ZzdCxJbVNQBI8sfAupji61aUf5Gx-QeHF3mIgYHtFQCKfgyvn",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://bfan.link/iskry-1",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 93700,
+        "followingCount": 13,
+        "heart": 3700000,
+        "heartCount": 3700000,
+        "videoCount": 619,
+        "diggCount": 0
+    },
+    "itemList": []
+}

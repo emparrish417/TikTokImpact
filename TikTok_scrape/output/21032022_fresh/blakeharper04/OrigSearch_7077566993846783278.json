@@ -1,0 +1,90 @@
+{
+    "id": "7077566993846783278",
+    "desc": "GLORY TO UKRAINE \ud83c\uddfa\ud83c\udde6",
+    "createTime": 1647874480,
+    "video": {
+        "id": "7077566993846783278",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/aaca5252c5cf4ac5a5eaf64cd9e42180?x-expires=1647921600&x-signature=SDnzTe%2FD%2Bo4G2CuBHNqJscnBNi8%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/989e480ed9e1414f8467b7f34a79a915_1647874481?x-expires=1647921600&x-signature=DWodgOS6uD5njmYF0Fi5AVxv6WE%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c888413b185c403098433c24fc782f2d_1647874481?x-expires=1647921600&x-signature=15Y%2FXVxvgtpQPFtGpMPAe1EMPUo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/47826f9e141a8262419a03aab807bcfc/62394fb5/video/tos/useast5/tos-useast5-ve-0068c002-tx/d5e130d454c2490fb60d91c6a5c56093/?a=1988&br=1122&bt=561&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThvPKMDXq&l=202203212225130101130061320BCD5845&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2VmM2U6Zm08OzMzZzczNEApaDQ4NWlkODtnN2g5PDVmOWdwMGNwcjQwL3BgLS1kMS9zc2FjLjEtNS5iMjViMDVgXjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/47826f9e141a8262419a03aab807bcfc/62394fb5/video/tos/useast5/tos-useast5-ve-0068c002-tx/d5e130d454c2490fb60d91c6a5c56093/?a=1988&br=1122&bt=561&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThvPKMDXq&l=202203212225130101130061320BCD5845&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2VmM2U6Zm08OzMzZzczNEApaDQ4NWlkODtnN2g5PDVmOWdwMGNwcjQwL3BgLS1kMS9zc2FjLjEtNS5iMjViMDVgXjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/989e480ed9e1414f8467b7f34a79a915_1647874481~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=787O7XPhlkoWKAiJyjv50X3v3Bc%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/989e480ed9e1414f8467b7f34a79a915_1647874481~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=6H1EDxRr%2F8nkabZ8zjlrybrWZ7A%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/aaca5252c5cf4ac5a5eaf64cd9e42180?x-expires=1647921600&x-signature=LZPW6xrs%2FIPiMAiyJ4GhBzV1u3s%3D",
+        "bitrate": 574688,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6931130656009651206",
+        "uniqueId": "blakeharper04",
+        "nickname": "Blake Harper115",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b8f076d699c5a835fe8236f71105b1c~c5_100x100.jpeg?x-expires=1647986400&x-signature=KktuvmZv5KFg%2B8I3RFI%2BuSNjEYU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b8f076d699c5a835fe8236f71105b1c~c5_720x720.jpeg?x-expires=1647986400&x-signature=3h1w8GjUlMqJipoNDKD2K0AuoaM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b8f076d699c5a835fe8236f71105b1c~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=k830PZdyLPN0Tr%2FANTAJJif0JD4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxPW-yo_98GWlssRO4omLomBxEKLy9mHufJs15Zua9DT5HMeRqV7uRauZjOJDJE1f",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6716012712968587265",
+        "title": "Star Sky",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/f93a39f0dd6144168edca2f8625e9e95",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/2470471fd7ac4bfc9f2a2fe4876ec12a.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/2470471fd7ac4bfc9f2a2fe4876ec12a.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/2470471fd7ac4bfc9f2a2fe4876ec12a.jpeg",
+        "authorName": "Two Steps From Hell & Thomas Bergersen",
+        "original": false,
+        "duration": 60,
+        "album": "Battlecry"
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 392
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1196,
+        "followerCount": 123,
+        "heartCount": 107,
+        "videoCount": 10,
+        "diggCount": 3968,
+        "heart": 107
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7079664259952807214",
+    "desc": "",
+    "createTime": 1648362788,
+    "video": {
+        "id": "7079664259952807214",
+        "height": 360,
+        "width": 444,
+        "duration": 5,
+        "ratio": "360p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fea4a1f7a52e445391c8f5c5c3a8bdfe?x-expires=1648450800&x-signature=cPiGag%2FobwQU%2FsIqyLWDdvBA4AQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c03de712d5494406a5463ef73c9b1cf9_1648362789?x-expires=1648450800&x-signature=AbAAjDD5rS2RiHkT3UYKOX4tciw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2e4cf02c632f4004b6ba9190bbffd3dc_1648362789?x-expires=1648450800&x-signature=4N6J3bhcjbbiR8kmXe0oAuM%2F9tg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5b82e2b2fcf1d5384a5c9edf08050f33/62415e36/video/tos/useast5/tos-useast5-ve-0068c003-tx/68f9a562695249aca7bb8ce39b3b2c66/?a=1988&br=794&bt=397&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7Th-.agDXq&l=2022032801052101011300624426FB2BE0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajptNTU6ZjgzPDMzZzczNEApNDpoOTc0aGU6Nzg2OjtkaWdyNWQ2cjRvXi1gLS1kMS9zc2MxNGBjYjUyMS4vLTI2MDY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5b82e2b2fcf1d5384a5c9edf08050f33/62415e36/video/tos/useast5/tos-useast5-ve-0068c003-tx/68f9a562695249aca7bb8ce39b3b2c66/?a=1988&br=794&bt=397&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7Th-.agDXq&l=2022032801052101011300624426FB2BE0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajptNTU6ZjgzPDMzZzczNEApNDpoOTc0aGU6Nzg2OjtkaWdyNWQ2cjRvXi1gLS1kMS9zc2MxNGBjYjUyMS4vLTI2MDY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c03de712d5494406a5463ef73c9b1cf9_1648362789~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=jegQt1DnP7lcjiLvs8AbJHjM98A%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c03de712d5494406a5463ef73c9b1cf9_1648362789~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=DH%2Fr0dpWLFWwxoONvPHJGJl2Boc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fea4a1f7a52e445391c8f5c5c3a8bdfe?x-expires=1648450800&x-signature=cPiGag%2FobwQU%2FsIqyLWDdvBA4AQ%3D",
+        "bitrate": 407266,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "lowest",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7063224392136705070",
+        "uniqueId": "hotukrainemomsnearme",
+        "nickname": "Jaxson",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648515600&x-signature=E%2FrsB6yanOkKq6dDr47reBrP7xg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648515600&x-signature=W2EQW%2FObBfml%2FTgUyYkU9epKc%2Bc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=5QfQGBrYbkWW1bRzEsb4Xim5xvQ%3D",
+        "signature": "Frick vape\n13\nMI\ud83d\udccd",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA72MA62uk08nLfLnjByn7nGWOwth5en_kHPqFUcpQp5XlJxSm8OHVqIppr_Mq-sP0",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7079664194945452843",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7079664227501230891.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648515600&x-signature=E%2FrsB6yanOkKq6dDr47reBrP7xg%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648515600&x-signature=W2EQW%2FObBfml%2FTgUyYkU9epKc%2Bc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=5QfQGBrYbkWW1bRzEsb4Xim5xvQ%3D",
+        "authorName": "Jaxson",
+        "original": true,
+        "duration": 5,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 49
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 141,
+        "followerCount": 92,
+        "heartCount": 431,
+        "videoCount": 7,
+        "diggCount": 2992,
+        "heart": 431
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

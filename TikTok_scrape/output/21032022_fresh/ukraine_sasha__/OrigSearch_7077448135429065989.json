@@ -1,0 +1,96 @@
+{
+    "id": "7077448135429065989",
+    "desc": "",
+    "createTime": 1647846808,
+    "video": {
+        "id": "7077448135429065989",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/138a2299f6d54d919ea5e351e6c640c0?x-expires=1647921600&x-signature=Ff%2FWyl3GL9qaITlaBc4JobCqdF0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5e44791a1a4b4543a49323c26586ec7b_1647846809?x-expires=1647921600&x-signature=6ByfKVMddnWmlh%2FxE3YMrulfYLA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b33fc941294e46da809d639b3be677bf_1647846809?x-expires=1647921600&x-signature=cIfWDy4777s%2FvRlNv8ZMpBCKkQ0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e3bac4484aefaff0777077370e013e0f/6239506f/video/tos/useast2a/tos-useast2a-ve-0068c003/44c61e6fa1e749cd99452ac9c7355ef0/?a=1988&br=2038&bt=1019&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8gKMDXq&l=202203212228160101131352071CD1510C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M21oazY6Zmg1OzMzNzczM0ApPDtnNzo2OTtmN2k2N2lmOWdrNWszcjRvXnBgLS1kMTZzczM0Xi0yMzEzMjZhMy0xYV86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e3bac4484aefaff0777077370e013e0f/6239506f/video/tos/useast2a/tos-useast2a-ve-0068c003/44c61e6fa1e749cd99452ac9c7355ef0/?a=1988&br=2038&bt=1019&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8gKMDXq&l=202203212228160101131352071CD1510C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M21oazY6Zmg1OzMzNzczM0ApPDtnNzo2OTtmN2k2N2lmOWdrNWszcjRvXnBgLS1kMTZzczM0Xi0yMzEzMjZhMy0xYV86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5e44791a1a4b4543a49323c26586ec7b_1647846809~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=S0GHh9V1wHH%2Bp4m5vHFZLpk0oPw%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5e44791a1a4b4543a49323c26586ec7b_1647846809~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=zWfCqpmfWf%2F0yAz0AsY0Fhl6ybg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/138a2299f6d54d919ea5e351e6c640c0?x-expires=1647921600&x-signature=Ff%2FWyl3GL9qaITlaBc4JobCqdF0%3D",
+        "bitrate": 1043981,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6886398846214964230",
+        "uniqueId": "ukraine_sasha__",
+        "nickname": "\uff21\u2113\uff45\u24da\u24c8\u03ac\ud835\udcc3\ud835\udd3b\u24c7\ud835\udd52 \ud83d\ude0e \ud83d\ude18\ud83d\ude18",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/889fcd2470ce95fb377c3bfc10c6d284~c5_100x100.jpeg?x-expires=1647986400&x-signature=erPL0y4M3H5j%2FAhog2W9Z2xAHfU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/889fcd2470ce95fb377c3bfc10c6d284~c5_720x720.jpeg?x-expires=1647986400&x-signature=g9g5HZ0LdR0cFMCal2kEO6tuau8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/889fcd2470ce95fb377c3bfc10c6d284~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=O6XKP4w1wtsuU1y33n9o7uw5uys%3D",
+        "signature": "\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATJRrKPGvFuE2iLGzKIWmbA6-nKC4OvWah-veaqvx49nRVKQ0j44rGCYnt3haGguK",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6808070387524438018",
+        "title": "\u041e\u043d\u0430 \u0432 \u043c\u043e\u0451\u043c \u0422\u0438\u043a \u0422\u043e\u043a (Fomenkof Remix)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/18e5c09722824e0ca96f697beac0750b",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/9c4f7c03423f4701b4a387e4bc3dda91.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/9c4f7c03423f4701b4a387e4bc3dda91.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/9c4f7c03423f4701b4a387e4bc3dda91.jpeg",
+        "authorName": "\u0421\u0410\u041c\u0415\u0414\u041b\u0418",
+        "original": false,
+        "duration": 216,
+        "album": "\u041e\u043d\u0430 \u0432 \u043c\u043e\u0451\u043c \u0422\u0438\u043a \u0422\u043e\u043a (Fomenkof Remix)"
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 130
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Old Hollywood Makeup",
+            "ID": "1551180"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 266,
+        "followerCount": 1779,
+        "heartCount": 17500,
+        "videoCount": 1074,
+        "diggCount": 13900,
+        "heart": 17500
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7067997935164769327",
+        "shortId": "",
+        "uniqueId": "ava_flower19",
+        "nickname": "Ava",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1bb9f5a1b6bc9a5f4abc42d253161d95~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=tC4mf7JxEySg7eL1viisoVjkHNI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1bb9f5a1b6bc9a5f4abc42d253161d95~c5_720x720.jpeg?x-expires=1648069200&x-signature=UoHc4%2BaUG%2FhitcLbqLBIdKjlay8%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1bb9f5a1b6bc9a5f4abc42d253161d95~c5_100x100.jpeg?x-expires=1648069200&x-signature=XBpWvjO37XXjkVnVWGJAJdsbqkI%3D",
+        "signature": "",
+        "createTime": 1645647032,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAArXh-lNLpS852Dbrai_GBCvOLRi4DQ8eVfkoWSbrPtDzLafXqqd3nNOfduAaNtuX",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17,
+        "followingCount": 34,
+        "heart": 83,
+        "heartCount": 83,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

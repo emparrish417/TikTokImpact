@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6901384504171627525",
+        "shortId": "",
+        "uniqueId": "principal.heidi",
+        "nickname": "Principal Heidi",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d023ca64915089323ce73ea13962757e~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=PMExvqsVDg9ruOY7cP0lfO0yiyM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d023ca64915089323ce73ea13962757e~c5_720x720.jpeg?x-expires=1648069200&x-signature=M51XXHh5NZz6xpmrr2YWBOx%2BHyw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d023ca64915089323ce73ea13962757e~c5_100x100.jpeg?x-expires=1648069200&x-signature=tou22CYdBwhAHo6Xqf%2F9wID%2BwDg%3D",
+        "signature": "\ud83d\udea8Follow my backup account \n\n\ud83d\udc49@principal.heidi.backup",
+        "createTime": 1606853911,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmjZghT1YoRcncIw5weNVwoiGkQuq6zkN5wYxAbQoSvREfoEso2OTIbfqs2I5YhDv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "linktr.ee/principal.heidi",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5617,
+        "followingCount": 904,
+        "heart": 38800,
+        "heartCount": 38800,
+        "videoCount": 380,
+        "diggCount": 17200
+    },
+    "itemList": []
+}

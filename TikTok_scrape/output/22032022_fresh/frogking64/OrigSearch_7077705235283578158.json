@@ -1,0 +1,98 @@
+{
+    "id": "7077705235283578158",
+    "desc": "",
+    "createTime": 1647906666,
+    "video": {
+        "id": "7077705235283578158",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0f28d82813924a53978fb7fb96d10a1d?x-expires=1648004400&x-signature=aP4S3bnI%2Fs5EIYTzK0hlXhG5TEc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/906cf081bce243c1bca3a3039a7dd9a3_1647906667?x-expires=1648004400&x-signature=eNsRQzpJAzkLcw0Ey3FVt%2Bz0Wpw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ffbfa4228645449caab8b4832a5e2913_1647906667?x-expires=1648004400&x-signature=YZysOkPv5B7%2FIvyKPImQi4mOFCw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a6ac382d061840b8f3f07c0cbd2cee40/623a947c/video/tos/useast5/tos-useast5-ve-0068c004-tx/34c315f76d7143f8b24033490b5de516/?a=1988&br=502&bt=251&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThBZRMDXq&l=202203222130580101130061180C9DFD08&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampod2k6ZmdqOzMzZzczNEApODQ6ZGg6ODtmNzhpOWk5NGdwYi9ycjRncnBgLS1kMS9zcy5eYmFiNmBfMjU1L2FeNjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a6ac382d061840b8f3f07c0cbd2cee40/623a947c/video/tos/useast5/tos-useast5-ve-0068c004-tx/34c315f76d7143f8b24033490b5de516/?a=1988&br=502&bt=251&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThBZRMDXq&l=202203222130580101130061180C9DFD08&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampod2k6ZmdqOzMzZzczNEApODQ6ZGg6ODtmNzhpOWk5NGdwYi9ycjRncnBgLS1kMS9zcy5eYmFiNmBfMjU1L2FeNjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/906cf081bce243c1bca3a3039a7dd9a3_1647906667~tplv-tiktok-play.jpeg?x-expires=1648587600&x-signature=CfYpkB1Mh152oMreeJX9Pt4sWlA%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/906cf081bce243c1bca3a3039a7dd9a3_1647906667~tplv-tiktokx-share-play.jpeg?x-expires=1648587600&x-signature=8JQIABhC3eZrrfaoy9RmLfbN5Lw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0f28d82813924a53978fb7fb96d10a1d?x-expires=1648004400&x-signature=VLX6KHHTTuzGt5%2FL0hCU5GdpqM0%3D",
+        "bitrate": 257269,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7019497792168379397",
+        "uniqueId": "frogking64",
+        "nickname": "I stand with. Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ab677e4602ec6b1bc50e1e89d35cec37~c5_100x100.jpeg?x-expires=1648069200&x-signature=R%2BDxR24NNi%2B4iGCTdKSOgGHZTuU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ab677e4602ec6b1bc50e1e89d35cec37~c5_720x720.jpeg?x-expires=1648069200&x-signature=k%2BQmu7nF%2FMe7Bzy8U3yS5kOwNSI%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ab677e4602ec6b1bc50e1e89d35cec37~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=ldrhP1ir6D2n5yElryvpAHlNb6s%3D",
+        "signature": "always remember bro\u2019s before hoe\u2019s",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA457c-4wshWQU164MFS78r3YlkcGjMDrrFMqhB_HQX2ZHJ4pXzrcsLfS7MWCfyULQ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6935656834619443973",
+        "title": "Prom Night",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d24fb9b0f851428c9ca5128e540760a0",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/df6b3ea9cbcf43ddb932300d3039726b.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/df6b3ea9cbcf43ddb932300d3039726b.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/df6b3ea9cbcf43ddb932300d3039726b.jpeg",
+        "authorName": "Riovaz",
+        "original": false,
+        "duration": 6,
+        "album": "Prom Night"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 68
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 417,
+        "followerCount": 1229,
+        "heartCount": 2670,
+        "videoCount": 224,
+        "diggCount": 6654,
+        "heart": 2670
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Yooo what happened to my inbox"
+            ]
+        }
+    ],
+    "isAd": false
+}

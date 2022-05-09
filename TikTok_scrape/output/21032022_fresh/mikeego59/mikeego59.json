@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6857227078497944582",
+        "shortId": "",
+        "uniqueId": "mikeego59",
+        "nickname": "Mike",
+        "avatarLarger": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/252425eedae1075c5cba0fdea33abc3d~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=N8yubJs5ng%2Fon9B20vBWFOuhf84%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/252425eedae1075c5cba0fdea33abc3d~c5_720x720.jpeg?x-expires=1647986400&x-signature=9cPWBnHFcgZxckAnYYWi%2FhxYPsc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/252425eedae1075c5cba0fdea33abc3d~c5_100x100.jpeg?x-expires=1647986400&x-signature=u%2B75BLZ5FBTsaa6iV44xcAS8KiU%3D",
+        "signature": "",
+        "createTime": 1596572729,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtMK-dkpyQz24AJuczL6KWIV04KCQlv4R-TrgV0Y8Eu3P0aoD6VZ5uGzZC34fgGi1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2589,
+        "followingCount": 811,
+        "heart": 39100,
+        "heartCount": 39100,
+        "videoCount": 2657,
+        "diggCount": 4378
+    },
+    "itemList": []
+}

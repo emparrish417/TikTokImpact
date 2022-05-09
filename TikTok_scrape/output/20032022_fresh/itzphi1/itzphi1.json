@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6800076937932194821",
+        "shortId": "",
+        "uniqueId": "itzphi1",
+        "nickname": "Pew",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/35193d6d504fd7609f1cefdc1aa1eb0e~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=Fc5icn%2BVERyuqgnqIF8bDGRkwfw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/35193d6d504fd7609f1cefdc1aa1eb0e~c5_720x720.jpeg?x-expires=1647900000&x-signature=sHOoaTAHTQj%2BGoM0vsMo8fg1tls%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/35193d6d504fd7609f1cefdc1aa1eb0e~c5_100x100.jpeg?x-expires=1647900000&x-signature=hdNkTKhXZG9C5BsnqsESNXvaGhw%3D",
+        "signature": "Bay Area",
+        "createTime": 1583266495,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUdup3GRes5jrGmSbUVXW8hElJPyfQ2q-7AU5SWW7EpLtUgmaBDpPKeZ5_0uZ6IVp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 9026,
+        "followingCount": 91,
+        "heart": 851900,
+        "heartCount": 851900,
+        "videoCount": 36,
+        "diggCount": 0
+    },
+    "itemList": []
+}

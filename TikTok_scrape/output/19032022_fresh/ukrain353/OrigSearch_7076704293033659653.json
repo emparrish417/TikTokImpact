@@ -1,0 +1,90 @@
+{
+    "id": "7076704293033659653",
+    "desc": "",
+    "createTime": 1647673618,
+    "video": {
+        "id": "7076704293033659653",
+        "height": 1286,
+        "width": 576,
+        "duration": 36,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/94fd429b9f764d679660a7d675a00c55?x-expires=1647752400&x-signature=JprC%2FcS1fMXzNJwa%2F6hwsz%2Fw3lI%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/60dc941bfbf3497998c03cb11a859a21_1647673619?x-expires=1647752400&x-signature=kmmmUr47z%2F2QXHwtKVPLfq2Rhj4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/29292998db9143cd8e4d1e344b8c42ff_1647673620?x-expires=1647752400&x-signature=gJTCw0PfJl9EewIBJTa7wCKaaUY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/301c941ed9e3a1ecc5998aed3923abaf/6236bdea/video/tos/useast2a/tos-useast2a-ve-0068c003/ad94f556986948b3aa0c92fa94fe6610/?a=1988&br=726&bt=363&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtqb_DXq&l=202203192338140101131350410838185B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlpNTM6ZnRyOzMzNzczM0ApZmc0OWg5ZGRpNzkzZmZoNmdwZjBycjRvLm5gLS1kMTZzczIzMjAyX15eMWFeYTUwYzQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/301c941ed9e3a1ecc5998aed3923abaf/6236bdea/video/tos/useast2a/tos-useast2a-ve-0068c003/ad94f556986948b3aa0c92fa94fe6610/?a=1988&br=726&bt=363&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtqb_DXq&l=202203192338140101131350410838185B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlpNTM6ZnRyOzMzNzczM0ApZmc0OWg5ZGRpNzkzZmZoNmdwZjBycjRvLm5gLS1kMTZzczIzMjAyX15eMWFeYTUwYzQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/60dc941bfbf3497998c03cb11a859a21_1647673619~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=fKRiOCLl9zsQoJgD3Z83bZ9mJyM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/60dc941bfbf3497998c03cb11a859a21_1647673619~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=lZP6gTCGVhdDDSw1bcdONOHSd0k%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/94fd429b9f764d679660a7d675a00c55?x-expires=1647752400&x-signature=JprC%2FcS1fMXzNJwa%2F6hwsz%2Fw3lI%3D",
+        "bitrate": 372702,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6852390128351839237",
+        "uniqueId": "ukrain353",
+        "nickname": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u0442\u043e\u043f",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98f7d98c50d8f1242ccf97cc8c6f1c12~c5_100x100.jpeg?x-expires=1647817200&x-signature=Amr4IFaGMX%2FMHGw9gXvc7qE70zU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98f7d98c50d8f1242ccf97cc8c6f1c12~c5_720x720.jpeg?x-expires=1647817200&x-signature=SAWEUc0a6f3HISnHbuRb9E4qDjw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98f7d98c50d8f1242ccf97cc8c6f1c12~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=aRSXVpwlbHYKPVImk97pwhLWsqo%3D",
+        "signature": "3000\u2705\n3250\u2705\n3500\u2705\n3750\u2705\n4000\u274c",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6WgCuK2RQARLFyW4dLYg90FHEB6WtpqkbBJ9Ni5ei-EdAYRSrNFKrDkwCsegpkWy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7020309159116310529",
+        "title": "MALINOVAYA LADA",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/5b0126c219764235bf5e95320b696c29",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/27ced7bfbfe34c16ab1f6a3b7c65288f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/27ced7bfbfe34c16ab1f6a3b7c65288f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/27ced7bfbfe34c16ab1f6a3b7c65288f.jpeg",
+        "authorName": "GAYAZOV$ BROTHER$",
+        "original": false,
+        "duration": 60,
+        "album": "MALINOVAYA LADA"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 79
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 777,
+        "followerCount": 3832,
+        "heartCount": 15800,
+        "videoCount": 57,
+        "diggCount": 1539,
+        "heart": 15800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

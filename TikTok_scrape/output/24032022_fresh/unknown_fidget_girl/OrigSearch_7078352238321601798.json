@@ -1,0 +1,104 @@
+{
+    "id": "7078352238321601798",
+    "desc": "",
+    "createTime": 1648057308,
+    "video": {
+        "id": "7078352238321601798",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/90d221cbb2014e9080275f016b3465c5?x-expires=1648170000&x-signature=IorcxQPAeBVlKK0zW58vI8W%2BJVo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d88544c0a9f74b64aafb6ad95d65ce54_1648057309?x-expires=1648170000&x-signature=lSTDefLNmKh5je8k%2Ffh3Tg2q2vs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/55e4bf6b727d4c359c2806916f9cb32b_1648057310?x-expires=1648170000&x-signature=13vlwl94pezCZHEpDw%2FVB%2BVPGi8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fac8567b799651dc7c8a4555871421bb/623d1d72/video/tos/useast2a/tos-useast2a-pve-0068/33d499c25a2946e9a2ca2e89428d4f93/?a=1988&br=3874&bt=1937&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcxpJDXq&l=20220324193956010113135207263E5C57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzpxeTY6Zm9vOzMzNzczM0ApNjY8aDM8NWU4Nzs1NzU8aWcxMW9ucjRna3FgLS1kMTZzc2MvYV4tNTU0YDRjMy1eYTQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fac8567b799651dc7c8a4555871421bb/623d1d72/video/tos/useast2a/tos-useast2a-pve-0068/33d499c25a2946e9a2ca2e89428d4f93/?a=1988&br=3874&bt=1937&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcxpJDXq&l=20220324193956010113135207263E5C57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzpxeTY6Zm9vOzMzNzczM0ApNjY8aDM8NWU4Nzs1NzU8aWcxMW9ucjRna3FgLS1kMTZzc2MvYV4tNTU0YDRjMy1eYTQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d88544c0a9f74b64aafb6ad95d65ce54_1648057309~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=I3TYgRK5zxEu8zX6lRxjcTLLocU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d88544c0a9f74b64aafb6ad95d65ce54_1648057309~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=l4AyZ%2Fv2DM%2BjHV9fmzExewVE3a0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/90d221cbb2014e9080275f016b3465c5?x-expires=1648170000&x-signature=IorcxQPAeBVlKK0zW58vI8W%2BJVo%3D",
+        "bitrate": 1984127,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7068732495508374534",
+        "uniqueId": "unknown_fidget_girl",
+        "nickname": "Meisha Ireland203",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fa73d79e95cd748e7ad79a584cb0fed3~c5_100x100.jpeg?x-expires=1648234800&x-signature=BdS7OInLyAp8hIeG5RaPXyIo9lc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fa73d79e95cd748e7ad79a584cb0fed3~c5_720x720.jpeg?x-expires=1648234800&x-signature=%2BwX%2FCAqggimF1f6SHJysZSp1ays%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fa73d79e95cd748e7ad79a584cb0fed3~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=Iu159rB4J0YPFCUSTDyfx0MijOM%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0wCIUIfekqaqQK12oj32lkPgyUtVmFUctL2Nhj5WaHbFfHqxYsoKcMit8lVzuI7x",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7032021369508563759",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7032021462567537454.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46b212358f5d1fb2566f05d8160432ea~c5_100x100.jpeg?x-expires=1648234800&x-signature=ZPpNfzYc3V%2F7JVy11A2bMc7v5hM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46b212358f5d1fb2566f05d8160432ea~c5_720x720.jpeg?x-expires=1648234800&x-signature=Ld%2BUzIRJSR7oTWsT4l8ufY92aSw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/46b212358f5d1fb2566f05d8160432ea~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=aGVUYD8%2FhKk9nhp%2B0UZT%2FcqFfFQ%3D",
+        "authorName": "Angel Nowhere",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 67
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Outfit Rating",
+            "ID": "1397476"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 116,
+        "followerCount": 33,
+        "heartCount": 131,
+        "videoCount": 51,
+        "diggCount": 503,
+        "heart": 131
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Not bad"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,99 @@
+{
+    "id": "7078375978589752582",
+    "desc": "",
+    "createTime": 1648062836,
+    "video": {
+        "id": "7078375978589752582",
+        "height": 1024,
+        "width": 576,
+        "duration": 6,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bfa54a0482aa46c79e8a8e1e2c375919?x-expires=1648170000&x-signature=bTERkksSXlw631H8wHhTegVByrY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/788e59e3404e42a2b76bcffd5ddeb27e_1648062837?x-expires=1648170000&x-signature=5rbB1qlpKZQPDogJylH88h1X2%2BY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4659a4966030413aa7db033c3b1b393d_1648062837?x-expires=1648170000&x-signature=swOtfajR8iAgzWDOspjvfvQwfGA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5e40f1ee8259158f1fa8294aad13fae5/623d1d55/video/tos/useast2a/tos-useast2a-ve-0068c003/772058d99cfc450894ce6716601d253b/?a=1988&br=2702&bt=1351&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7The_pJDXq&l=2022032419392701011300602922E24B26&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajlrNTM6ZnZxOzMzNzczM0ApPGU4Z2k4M2VlN2c2Z2Q7NmdxaC9ycjRfLnFgLS1kMTZzcy02X2EvL2BgMTMxNGM1NTQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5e40f1ee8259158f1fa8294aad13fae5/623d1d55/video/tos/useast2a/tos-useast2a-ve-0068c003/772058d99cfc450894ce6716601d253b/?a=1988&br=2702&bt=1351&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7The_pJDXq&l=2022032419392701011300602922E24B26&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajlrNTM6ZnZxOzMzNzczM0ApPGU4Z2k4M2VlN2c2Z2Q7NmdxaC9ycjRfLnFgLS1kMTZzcy02X2EvL2BgMTMxNGM1NTQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/788e59e3404e42a2b76bcffd5ddeb27e_1648062837~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=ZIBOES4f%2BSsbtebgUZOIjaY%2B6DA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/788e59e3404e42a2b76bcffd5ddeb27e_1648062837~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=6k03fOgGnUrQg%2BNGetp64N2KjVc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bfa54a0482aa46c79e8a8e1e2c375919?x-expires=1648170000&x-signature=bTERkksSXlw631H8wHhTegVByrY%3D",
+        "bitrate": 1383559,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6911009710460453893",
+        "uniqueId": "ukrainesupporters00",
+        "nickname": "I support Ukraine",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92deffe2a1d11f0ced725aec65a202e0~c5_100x100.jpeg?x-expires=1648234800&x-signature=OAy5g2FJVmyrejDyg6Ne%2Fcem7ZQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92deffe2a1d11f0ced725aec65a202e0~c5_720x720.jpeg?x-expires=1648234800&x-signature=Z5I9vSw4M%2BNQA5R1b%2FVqmlFuzuk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/92deffe2a1d11f0ced725aec65a202e0~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=QkNwb%2BN1h1awxavvTAkNIqZUoN4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAy0nUIVQZIuyrjClISw48Vw0_F2GhTipRcardr2MqsGpJmpR_oCKkEEFuWY5rtn0E",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6929763762322343937",
+        "title": "These Days",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8f07fc5313a04cbd990aea432d4147ba",
+        "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/9ecb1c2a061c44d9bb5d0e39b9acd902~c5_100x100.jpeg",
+        "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/9ecb1c2a061c44d9bb5d0e39b9acd902~c5_200x200.jpeg",
+        "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/9ecb1c2a061c44d9bb5d0e39b9acd902~c5_720x720.jpeg",
+        "authorName": "Nico",
+        "original": false,
+        "duration": 60,
+        "album": "Chelsea Girl"
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 120
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 378,
+        "followerCount": 207,
+        "heartCount": 440,
+        "videoCount": 48,
+        "diggCount": 3330,
+        "heart": 440
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83c\udd92",
+                "Thank you guys for 200 followers\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

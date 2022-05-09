@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6937000004608541702",
+        "shortId": "",
+        "uniqueId": "carlysverypriv",
+        "nickname": "user8738176272187",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8a516fe80b2d82bc4c42ef627bb2a2ce~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=wTZn8vkx0PPfjHEFiep52EO09kQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8a516fe80b2d82bc4c42ef627bb2a2ce~c5_720x720.jpeg?x-expires=1647986400&x-signature=7L5W5Lub3hK61jdZsn1h0Rfz1tM%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8a516fe80b2d82bc4c42ef627bb2a2ce~c5_100x100.jpeg?x-expires=1647986400&x-signature=58lAtLySNqFKVH9MGdmUl87%2FZD4%3D",
+        "signature": "",
+        "createTime": 1615146272,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAExhZejsbsRJ5ihGPnioKJBcHKG8Oa7DkBU3ztz72PFa7zw1LKV1Up2dB5L570Iwa",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 27,
+        "followingCount": 19,
+        "heart": 1733,
+        "heartCount": 1733,
+        "videoCount": 93,
+        "diggCount": 0
+    },
+    "itemList": []
+}

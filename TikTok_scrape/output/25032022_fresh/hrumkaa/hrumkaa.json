@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6864139390260659202",
+        "shortId": "",
+        "uniqueId": "hrumkaa",
+        "nickname": "\ud83c\udf1a",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a3d8f9fcb0112e274111042072d27d9b~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=XixQWKAKAEYj90FQyiPA8%2BvjGYo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a3d8f9fcb0112e274111042072d27d9b~c5_720x720.jpeg?x-expires=1648314000&x-signature=Z4%2BNOmhZrfEDl5wJoAlUMNEk8W4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a3d8f9fcb0112e274111042072d27d9b~c5_100x100.jpeg?x-expires=1648314000&x-signature=yQjOTWbevWqkHfgJLKa7nFKqD2g%3D",
+        "signature": "",
+        "createTime": 1611957892,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXQ2OMtCDwWT-SVdwG-ey_uYOXeDubsB9soZAQFr1CiwbryzrsVkhVnebVs23WdZv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 27,
+        "followingCount": 74,
+        "heart": 1145,
+        "heartCount": 1145,
+        "videoCount": 18,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6808945376549962758",
+        "shortId": "",
+        "uniqueId": "meidastouch",
+        "nickname": "MeidasTouch.com",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663636329507846~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=9MCTu60nSrKLQ7qH1%2B4L8aD2T8Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663636329507846~c5_720x720.jpeg?x-expires=1648314000&x-signature=AdMQQlv9x5bzkQXu0w9RFwDRL30%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663636329507846~c5_100x100.jpeg?x-expires=1648314000&x-signature=1WQL8PRtBuAnbKIFU%2BkIY3oUoP8%3D",
+        "signature": "\ud83d\udcfa Producing the most hard-hitting, impactful and most watched political videos.",
+        "createTime": 1585331714,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcR8MhVSpjJEmD5OkvwGtklUOqFTnzDfg1UUn54XJydZlvOwN32bhPDA2GL96dIj8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://secure.actblue.com/donate/mt-2021",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 481000,
+        "followingCount": 211,
+        "heart": 26300000,
+        "heartCount": 26300000,
+        "videoCount": 879,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,99 @@
+{
+    "id": "7077135577157520645",
+    "desc": "",
+    "createTime": 1647774033,
+    "video": {
+        "id": "7077135577157520645",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a592ca0996c5442aaddb638e65f6cad8?x-expires=1647835200&x-signature=7NTwSB%2B%2BS5JQLdgRbGQvj2C0RUg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f4262d8fcdb44cf5b460c0c4dc01dc95_1647774034?x-expires=1647835200&x-signature=e%2BRacwu5l4DEOCS1jTHFftss43w%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d3ed1145007244b5b4187a8e037b6c8a_1647774035?x-expires=1647835200&x-signature=qmGCBVQCpr%2F22NM0CWOzMGi%2Ftm8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0ef4b32c6d13a50808bbe1ba3f4a1f3e/6237ff2d/video/tos/useast2a/tos-useast2a-pve-0068/7cc0be9ee11c4e13bd5f3bdfef4dc230/?a=1988&br=1156&bt=578&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNc_DXq&l=20220320222921010113006133233065C2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anh0Ojk6ZjxqOzMzNzczM0ApZTo8N2dlNTtlNzU4ZTozOGcyb2tgcjRfZG9gLS1kMTZzczNjNjFhNDEyMzUuLTFfMC46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0ef4b32c6d13a50808bbe1ba3f4a1f3e/6237ff2d/video/tos/useast2a/tos-useast2a-pve-0068/7cc0be9ee11c4e13bd5f3bdfef4dc230/?a=1988&br=1156&bt=578&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNc_DXq&l=20220320222921010113006133233065C2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anh0Ojk6ZjxqOzMzNzczM0ApZTo8N2dlNTtlNzU4ZTozOGcyb2tgcjRfZG9gLS1kMTZzczNjNjFhNDEyMzUuLTFfMC46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f4262d8fcdb44cf5b460c0c4dc01dc95_1647774034~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=gzall8xp9JEzGZMeWGBAxqJynAs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f4262d8fcdb44cf5b460c0c4dc01dc95_1647774034~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=6Tb8f%2FaKm5PVV8xldl9YiYp0YgU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a592ca0996c5442aaddb638e65f6cad8?x-expires=1647835200&x-signature=7NTwSB%2B%2BS5JQLdgRbGQvj2C0RUg%3D",
+        "bitrate": 592349,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7068623438274298885",
+        "uniqueId": "robloxclubqueens1",
+        "nickname": "I love Ukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6859a1ef231f4e1950016a64297569e7~c5_100x100.jpeg?x-expires=1647900000&x-signature=quSM9%2B4yWvpvrgUKDzauBVlyePM%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/6859a1ef231f4e1950016a64297569e7~c5_720x720.jpeg?x-expires=1647900000&x-signature=Ww2FckCZ20Q6kLUP42VazvvdzNs%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6859a1ef231f4e1950016a64297569e7~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=oAF4EaP%2FPn%2F7dGkCut0q3koEEME%3D",
+        "signature": "I hate Russia and love Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAALXloIY86O3jyMbY62V2BrUIld2MxYqkIdKczxic4zXWVcYNnLROeB0gAwCjoMrVF",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6737403815722552069",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1644874560132118.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654774674242566~c5_100x100.jpeg?x-expires=1647900000&x-signature=g3p8tJ0eIvCReq%2FRrJPaU0MNi%2BI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654774674242566~c5_720x720.jpeg?x-expires=1647900000&x-signature=D3SW05VjtZhhlQ4Hmqw9s%2Fxn25w%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654774674242566~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=2wEBjXZ4yN7os8mveuRdc%2B7TPmU%3D",
+        "authorName": "Merle's Footstool",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 6,
+        "playCount": 298
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 3,
+        "followerCount": 5,
+        "heartCount": 71,
+        "videoCount": 58,
+        "diggCount": 65,
+        "heart": 71
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Like for team Russia",
+                "Follow for team Ukrain "
+            ]
+        }
+    ],
+    "isAd": false
+}

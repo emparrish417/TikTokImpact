@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7052637696493487110",
+        "shortId": "",
+        "uniqueId": "sunguard.ua",
+        "nickname": "Sunguard.ukraine",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/406ee44bdbd27f4b5f8bfef52df55cc5.jpeg?x-expires=1648173600&x-signature=qN4k%2BEZJMSZSs2bVL%2Fa8vXdX4ko%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/406ee44bdbd27f4b5f8bfef52df55cc5.jpeg?x-expires=1648173600&x-signature=Qb2mHgEjf3DKoecxAYomHuLpdGI%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/406ee44bdbd27f4b5f8bfef52df55cc5.jpeg?x-expires=1648173600&x-signature=gF3lk1Jftp%2BBsxtVI8uefd3AXD4%3D",
+        "signature": "Sunguard-\u0441\u043e\u043d\u0446\u0435\u0437\u0430\u0445\u0438\u0441\u043d\u0456 \u0440\u043e\u043b\u0435\u0442\u0438 \n\u25aa\ufe0f \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0456\u044f \u0432\u0456\u0434 \u0432\u0438\u0440\u043e\u0431\u043d\u0438\u043a\u0430\n\u25aa\ufe0f \u0440\u043e\u043b\u0435\u0442\u0438/\u0436\u0430\u043b\u044e\u0437\u0456/\u043f\u043b\u0456\u0441\u0435",
+        "createTime": 1642070981,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAth4kThZ9Wvr8kgOZS3rWV-u--CsOHjIMs_i9jUWOmXQyzc0RPQ1awzL_RJFoWJ6Y",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "http://sunguard.com.ua/",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Professional Services",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 16,
+        "followingCount": 79,
+        "heart": 14,
+        "heartCount": 14,
+        "videoCount": 14,
+        "diggCount": 0
+    },
+    "itemList": []
+}

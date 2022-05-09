@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7051727478523446277",
+        "shortId": "",
+        "uniqueId": "jamorantson12",
+        "nickname": "Jamorant",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1971e1c431c13d423e841a4feaa3bf38~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=45fTqA%2BOtNyYtk9jrr1jA6X1Mow%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1971e1c431c13d423e841a4feaa3bf38~c5_720x720.jpeg?x-expires=1647986400&x-signature=pPo0r61W%2BjkFC398kvcykCb0zQU%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1971e1c431c13d423e841a4feaa3bf38~c5_100x100.jpeg?x-expires=1647986400&x-signature=M%2F7nU1mKuPKW3TgdkrLBMJ5CZc0%3D",
+        "signature": "Big brrr",
+        "createTime": 1641858595,
+        "verified": false,
+        "secUid": "MS4wLjABAAAArrXPYX88JaDX9ANlnF6bxP1Oq1KVx7bRdZPJvzd8fH6f0uemmHL5lKZlUWCR07fu",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1123,
+        "followingCount": 1069,
+        "heart": 811,
+        "heartCount": 811,
+        "videoCount": 26,
+        "diggCount": 0
+    },
+    "itemList": []
+}

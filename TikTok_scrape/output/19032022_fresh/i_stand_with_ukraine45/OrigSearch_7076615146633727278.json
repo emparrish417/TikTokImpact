@@ -1,0 +1,90 @@
+{
+    "id": "7076615146633727278",
+    "desc": "",
+    "createTime": 1647652860,
+    "video": {
+        "id": "7076615146633727278",
+        "height": 292,
+        "width": 308,
+        "duration": 9,
+        "ratio": "360p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9a13eadd06ff4fca8a0119eb8e476caf?x-expires=1647752400&x-signature=UZTFkStX%2FY0WIrW7c5LR3CYJ6WM%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/35705b99a5ed4c8d903b91df5661f301_1647652861?x-expires=1647752400&x-signature=cEyEsOyyb7ss%2BKW4fmlKBYvffA4%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fb9fbcf8e75f4fbf9e26f57e1f2a2b59_1647652861?x-expires=1647752400&x-signature=SSbMXlR5NGIto2ZWBhFxOVtsZGk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/bb6418c1e0471cf982eda0963f5ed8d4/6236bdbd/video/tos/useast5/tos-useast5-pve-0068-tx/4a74cbd95e4f4c35b97c9bd6684d5e69/?a=1988&br=330&bt=165&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzpmeWc6ZnZsOzMzZzczNEApOWY6OWU6ZDxkN2VkMzhoNGdeLWVtcjQwc25gLS1kMS9zczIzYzYwXzYtMF9jYl81Yy06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/bb6418c1e0471cf982eda0963f5ed8d4/6236bdbd/video/tos/useast5/tos-useast5-pve-0068-tx/4a74cbd95e4f4c35b97c9bd6684d5e69/?a=1988&br=330&bt=165&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzpmeWc6ZnZsOzMzZzczNEApOWY6OWU6ZDxkN2VkMzhoNGdeLWVtcjQwc25gLS1kMS9zczIzYzYwXzYtMF9jYl81Yy06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/35705b99a5ed4c8d903b91df5661f301_1647652861~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=Jd51JUfnAvZfWYiAEDx5%2B%2FIj0%2FQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/35705b99a5ed4c8d903b91df5661f301_1647652861~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=C3MBycDKNt9qUycVUhCizDHlvxg%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9a13eadd06ff4fca8a0119eb8e476caf?x-expires=1647752400&x-signature=UZTFkStX%2FY0WIrW7c5LR3CYJ6WM%3D",
+        "bitrate": 169148,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "lowest",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6775261472580355078",
+        "uniqueId": "i_stand_with_ukraine45",
+        "nickname": "Colt45",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/25c6c735b406030360f80eb6ba841e7d~c5_100x100.jpeg?x-expires=1647817200&x-signature=q9SoJFGQJ99cV50bWBmfHT3oC%2Bk%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/25c6c735b406030360f80eb6ba841e7d~c5_720x720.jpeg?x-expires=1647817200&x-signature=GEl3%2BeuHCZBdMTHgxQeqCg3g%2FHA%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/25c6c735b406030360f80eb6ba841e7d~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=uMQcYJHVT3ZXGO5NXTwpVs0yrCY%3D",
+        "signature": "Bro gang",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFueBc4K3msecFLVoReQtUh4XEsLf_1kql7uwNDpkiMwSqlx_ru3aBBbfiQBPeFKS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076615121623173930",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076615144993753902.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/25c6c735b406030360f80eb6ba841e7d~c5_100x100.jpeg?x-expires=1647817200&x-signature=q9SoJFGQJ99cV50bWBmfHT3oC%2Bk%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/25c6c735b406030360f80eb6ba841e7d~c5_720x720.jpeg?x-expires=1647817200&x-signature=GEl3%2BeuHCZBdMTHgxQeqCg3g%2FHA%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/25c6c735b406030360f80eb6ba841e7d~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=uMQcYJHVT3ZXGO5NXTwpVs0yrCY%3D",
+        "authorName": "Colt45",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 90
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 10000,
+        "followerCount": 854,
+        "heartCount": 2862,
+        "videoCount": 315,
+        "diggCount": 79500,
+        "heart": 2862
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

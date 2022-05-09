@@ -1,0 +1,96 @@
+{
+    "id": "7076838242221296938",
+    "desc": "",
+    "createTime": 1647704803,
+    "video": {
+        "id": "7076838242221296938",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e2787f0df4fc424bafbd6abcbfb5ddc2?x-expires=1647752400&x-signature=WmRdQ03DrpWy4VX%2F5Wqn2h40KnY%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c30c9f2827a94f2fa268c31a7d6901ac_1647704804?x-expires=1647752400&x-signature=zS7YjD4mM0H1H4TnFWVuRxU3AD8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8aa2622b876e4f89af7a38e8e37ee579_1647704805?x-expires=1647752400&x-signature=adR7Mr7qn1wZqIkE8x21ZvsKxKU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/79e9ffd66f479b176348c2a369948b0b/6236bdd4/video/tos/useast5/tos-useast5-ve-0068c004-tx/a89f8d0d22814816ac87a8791a864f7f/?a=1988&br=4724&bt=2362&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtqb_DXq&l=202203192338140101131350410838185B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2R4Ojw6ZnB5OzMzZzczNEApaTY2ZTY0OWU7Nzc1aDNmZWdwbGdzcjRfaW5gLS1kMS9zczUzMy81L2M0NGJeMjM1MTA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/79e9ffd66f479b176348c2a369948b0b/6236bdd4/video/tos/useast5/tos-useast5-ve-0068c004-tx/a89f8d0d22814816ac87a8791a864f7f/?a=1988&br=4724&bt=2362&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thtqb_DXq&l=202203192338140101131350410838185B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2R4Ojw6ZnB5OzMzZzczNEApaTY2ZTY0OWU7Nzc1aDNmZWdwbGdzcjRfaW5gLS1kMS9zczUzMy81L2M0NGJeMjM1MTA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c30c9f2827a94f2fa268c31a7d6901ac_1647704804~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=AWdf%2BK0IPkk8b3qdFNCoinrMJiU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c30c9f2827a94f2fa268c31a7d6901ac_1647704804~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=KbkoWiN6n8VMibbbUKMFIUGlfCk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e2787f0df4fc424bafbd6abcbfb5ddc2?x-expires=1647752400&x-signature=WmRdQ03DrpWy4VX%2F5Wqn2h40KnY%3D",
+        "bitrate": 2419102,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7056972325952422959",
+        "uniqueId": "amayahstandswithukraine",
+        "nickname": "Amayah\ud83d\ude29\ud83d\ude29",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f884a3247b0c4d9bd6e2747b068e880~c5_100x100.jpeg?x-expires=1647817200&x-signature=MSUu%2B9umWhBKqnO4f7XvQXQuQeY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f884a3247b0c4d9bd6e2747b068e880~c5_720x720.jpeg?x-expires=1647817200&x-signature=T%2BQdWJYOiu%2F5JRjTlKfZG8SUTiU%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f884a3247b0c4d9bd6e2747b068e880~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=I6boyt0heS%2BzQl2obj3Veza05KE%3D",
+        "signature": "Amayah /does dance",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZvRwNhDeY7YdUERogcftiqHOWWdjKHlUwgborNfcttOQMyNUhp7Nms-oFxN_aH7q",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6961027901781216006",
+        "title": "primadonna by MARINA",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6961028024179493637.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1ac2d185b8e146d25603be7845d88b87~c5_100x100.jpeg?x-expires=1647817200&x-signature=16hguTecrkS1DjZHiipGBoayTiE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1ac2d185b8e146d25603be7845d88b87~c5_720x720.jpeg?x-expires=1647817200&x-signature=fnZC8ZaEJ8kTg2dOVEqMKJizuFc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1ac2d185b8e146d25603be7845d88b87~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=Pmsl2%2BZ3lGVryoMBs2sraDKxqkI%3D",
+        "authorName": "nisa",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 18
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "grey aesthetic",
+            "ID": "1199634"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 422,
+        "followerCount": 73,
+        "heartCount": 515,
+        "videoCount": 92,
+        "diggCount": 2574,
+        "heart": 515
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,98 @@
+{
+    "id": "7078691575789800750",
+    "desc": "",
+    "createTime": 1648136317,
+    "video": {
+        "id": "7078691575789800750",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/24b0eca364514245bf6e3528ebd63e4f?x-expires=1648249200&x-signature=8hP8Lxw0PXkKWyRm4tfuYY51FJo%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/174548f0dbda4512bc2b658ef9b6a5c2_1648136318?x-expires=1648249200&x-signature=qO%2B9SqNEVXITo3gQDM%2FP3Gg%2FxeQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b7f1588bcc3843398a7e3aa04d246914_1648136318?x-expires=1648249200&x-signature=zW520w%2F7V3L7uf0uLoQ959qXQr8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0031b0a4d0b4ebdec2537994a23f2548/623e4f0a/video/tos/useast5/tos-useast5-ve-0068c003-tx/d570c1917f73429ca50d406d243ce511/?a=1988&br=256&bt=128&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThRizJDXq&l=2022032517234401011313519218E6F024&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzZscjo6Znc8OzMzZzczNEApaWU6NmQ7N2Q0NzxlNDppOGcuXi5pcjRvLXJgLS1kMS9zcy9hYC8wYzI2MWIzYTIzYS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0031b0a4d0b4ebdec2537994a23f2548/623e4f0a/video/tos/useast5/tos-useast5-ve-0068c003-tx/d570c1917f73429ca50d406d243ce511/?a=1988&br=256&bt=128&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThRizJDXq&l=2022032517234401011313519218E6F024&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzZscjo6Znc8OzMzZzczNEApaWU6NmQ7N2Q0NzxlNDppOGcuXi5pcjRvLXJgLS1kMS9zcy9hYC8wYzI2MWIzYTIzYS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/174548f0dbda4512bc2b658ef9b6a5c2_1648136318~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=SaW9yCNvGjpT44UvYXlbaZ3FeEU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/174548f0dbda4512bc2b658ef9b6a5c2_1648136318~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=wWozJ%2BbAsDLnv27kZNHClHsrLiM%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/24b0eca364514245bf6e3528ebd63e4f?x-expires=1648249200&x-signature=00FiEsVmmf0Jl3YugD5uQn5bQx0%3D",
+        "bitrate": 131989,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6784994372259202053",
+        "uniqueId": "everythingrecoveryshow",
+        "nickname": "UKRAINE WAR REPORT",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f265b8a43c445cd2da0495dced605a69~c5_100x100.jpeg?x-expires=1648314000&x-signature=1IYnbrQrqNrTMSokesnqoNZuLmE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f265b8a43c445cd2da0495dced605a69~c5_720x720.jpeg?x-expires=1648314000&x-signature=yWB5MTKPG%2BLh2TDrRMIiqRVJGIs%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f265b8a43c445cd2da0495dced605a69~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=Gy5Le3pXS6NJSv07mVpuTT2il8w%3D",
+        "signature": "go to the youtube channel on my tic toc profile!\nrecoveryplaylist an warplaylist",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWmE1pNksfhYbZOsWML5Kk-_1vrpyab3Ku7JvTRfD0X-4yRPRppU-bziFWV5ewQUc",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6732129806218954753",
+        "title": "Violin",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/0422aa0dcc1c4eb6a1521985bf466039",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/5784d2e89f8d4504b195e62fe0110397.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/5784d2e89f8d4504b195e62fe0110397.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/5784d2e89f8d4504b195e62fe0110397.jpeg",
+        "authorName": "Grooving Gecko",
+        "original": false,
+        "duration": 60,
+        "album": "Violin"
+    },
+    "stats": {
+        "diggCount": 11,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 1297
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 192,
+        "followerCount": 1114,
+        "heartCount": 11300,
+        "videoCount": 1612,
+        "diggCount": 75,
+        "heart": 11300
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "report #14 of 3/24/22\nundisputable champion of Ukraine news\n\ud83c\uddfa\ud83c\udde6\ud83e\udd47\ud83c\uddfa\ud83c\uddf8"
+            ]
+        }
+    ],
+    "isAd": false
+}

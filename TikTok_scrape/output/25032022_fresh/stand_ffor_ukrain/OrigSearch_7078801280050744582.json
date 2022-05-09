@@ -1,0 +1,140 @@
+{
+    "id": "7078801280050744582",
+    "desc": "#duet with @sixtysixoriginal",
+    "createTime": 1648161859,
+    "video": {
+        "id": "7078801280050744582",
+        "height": 960,
+        "width": 540,
+        "duration": 19,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6893df3fc3484b0e906d4520199c4e0a?x-expires=1648249200&x-signature=x8Gc8nwP%2F%2FZk%2Bgmpj%2FMrMh1cEL8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/282aa4288d194c2a9847fa6845cf4a05_1648161860?x-expires=1648249200&x-signature=MlhQc6wloVuWjGPhM7%2FbfwoaIhM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b93b093959394b26aff73d33ffe8bf6e_1648161861?x-expires=1648249200&x-signature=RWabwbTxzvbr8zHp%2FqCIA%2FUD0WU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4d11166a6cd9f80867b95d4ab4f9fd39/623e4f7b/video/tos/useast2a/tos-useast2a-ve-0068c004/9f0af300f2014ecaad7c86f1d0f6bbff/?a=1988&br=460&bt=230&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Ths7zJDXq&l=2022032517252801011300613217BF0B8A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3E6dWY6ZjlpOzMzNzczM0ApZmdoOzc3NWRoN2k1aDU5Z2dtLS9xcjRfNXJgLS1kMTZzczAxYC0vLWNeMzFiL2IyYGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4d11166a6cd9f80867b95d4ab4f9fd39/623e4f7b/video/tos/useast2a/tos-useast2a-ve-0068c004/9f0af300f2014ecaad7c86f1d0f6bbff/?a=1988&br=460&bt=230&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Ths7zJDXq&l=2022032517252801011300613217BF0B8A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3E6dWY6ZjlpOzMzNzczM0ApZmdoOzc3NWRoN2k1aDU5Z2dtLS9xcjRfNXJgLS1kMTZzczAxYC0vLWNeMzFiL2IyYGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/282aa4288d194c2a9847fa6845cf4a05_1648161860~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=J3XmrTpkUj0c13lzyHrbqr%2BXhwc%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/282aa4288d194c2a9847fa6845cf4a05_1648161860~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=px673AkeNoOdKQFVQfwq2hoHZRY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6893df3fc3484b0e906d4520199c4e0a?x-expires=1648249200&x-signature=x8Gc8nwP%2F%2FZk%2Bgmpj%2FMrMh1cEL8%3D",
+        "bitrate": 236184,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6988984940159616005",
+        "uniqueId": "stand_ffor_ukrain",
+        "nickname": "Jordan Hall",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a1970c55f23f06cb821545f7d9bab910~c5_100x100.jpeg?x-expires=1648314000&x-signature=e%2BJng0yce6ConS3rK37wZXGUt%2Fk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a1970c55f23f06cb821545f7d9bab910~c5_720x720.jpeg?x-expires=1648314000&x-signature=cz6M5ub6UIitqB5rZi58vp%2BbwaA%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a1970c55f23f06cb821545f7d9bab910~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=W9zbW9RMj27rAOQ1%2FZtf0hkufeo%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGljtfjrK87Ny3cxH9iySb_Ol4CH_GM7LGrWuPqT01RJ2cYkLsvrvj29QqoTrYMUM",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7073141498052741893",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7073141506902739717.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7ebd9027a3e903fb481e23669f937294~c5_100x100.jpeg?x-expires=1648314000&x-signature=36bnqpk5N%2Fm5OZ7KQuZuRVP69L0%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7ebd9027a3e903fb481e23669f937294~c5_720x720.jpeg?x-expires=1648314000&x-signature=v1PV09fChndpTfq70u%2FoTyeKb00%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7ebd9027a3e903fb481e23669f937294~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=g3mtOpu4EJLdY5f%2B1foQVz1Maw8%3D",
+        "authorName": "Sixtysix",
+        "original": true,
+        "duration": 19,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "30496",
+            "title": "duet",
+            "desc": "Use our Duet feature because two is always better than one.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 12,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 126
+    },
+    "duetInfo": {
+        "duetFromId": "7073141531363773701"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "7073141531363773701",
+            "start": 11,
+            "end": 28,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6788878195061490694",
+            "isCommerce": false,
+            "userUniqueId": "sixtysixoriginal",
+            "secUid": "MS4wLjABAAAAACOtszgGir9WE61N0w_3ILGXVwD27exJcTYIIOSt26vH2XWOhqacvP6Z8VENsYJl",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 5,
+            "hashtagName": "duet",
+            "hashtagId": "30496",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 3079,
+        "followerCount": 1105,
+        "heartCount": 2270,
+        "videoCount": 97,
+        "diggCount": 4735,
+        "heart": 2270
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Come on Ukraine\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

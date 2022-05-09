@@ -1,0 +1,90 @@
+{
+    "id": "7077153463242624262",
+    "desc": "",
+    "createTime": 1647778197,
+    "video": {
+        "id": "7077153463242624262",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e8d4e67ee2aa488c877bfe59a4051c13?x-expires=1647835200&x-signature=71FC7KG9AFNxI8H2awsUS6YK86k%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d18fbe6ad69b49658f9719be86d6c96f_1647778198?x-expires=1647835200&x-signature=EbF76FTWcpccSlSn19vZluImKxE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f68b5cc4101a433cb87822337d7e5c0f_1647778198?x-expires=1647835200&x-signature=xYX6BlHTcFmhtAHOB5iaVQ%2BrZrA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4788b4525f89c9727a39901ac67595e7/6237ff2c/video/tos/useast2a/tos-useast2a-ve-0068c002/3ffc2f5d47b94707b4c92458c509a0b6/?a=1988&br=1562&bt=781&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNc_DXq&l=20220320222921010113006133233065C2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w1ZWQ6ZndrOzMzNzczM0ApNTVkOGY7Zjs2N2c5NmllZWdjM3E2cjRvZm9gLS1kMTZzczQvLWA1NC0yYi5iNS0yY2I6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4788b4525f89c9727a39901ac67595e7/6237ff2c/video/tos/useast2a/tos-useast2a-ve-0068c002/3ffc2f5d47b94707b4c92458c509a0b6/?a=1988&br=1562&bt=781&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNc_DXq&l=20220320222921010113006133233065C2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w1ZWQ6ZndrOzMzNzczM0ApNTVkOGY7Zjs2N2c5NmllZWdjM3E2cjRvZm9gLS1kMTZzczQvLWA1NC0yYi5iNS0yY2I6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d18fbe6ad69b49658f9719be86d6c96f_1647778198~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=A%2FVH9z7EKhVtAdMDOEbTu%2BmddV4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d18fbe6ad69b49658f9719be86d6c96f_1647778198~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=1DUjai3q7%2BtT3r6h1Sdar1KF7M4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e8d4e67ee2aa488c877bfe59a4051c13?x-expires=1647835200&x-signature=71FC7KG9AFNxI8H2awsUS6YK86k%3D",
+        "bitrate": 800333,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7064905798514607110",
+        "uniqueId": "ukraine_648",
+        "nickname": "Ukraine_6485",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b56f7302abf520a5820c07a852d529e~c5_100x100.jpeg?x-expires=1647900000&x-signature=WxRMhUmjvl93IjFH0HN3nxRf%2Bcw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b56f7302abf520a5820c07a852d529e~c5_720x720.jpeg?x-expires=1647900000&x-signature=tr5lDG2HCTDZ9%2F0dL9ouR6sZStM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b56f7302abf520a5820c07a852d529e~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=SAX7oD%2BHHxuV3vXFVMnX0O7XZQk%3D",
+        "signature": "\u0437\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0443 \u0449\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e \u0432\u0456\u0439\u043d\u0438",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAX6DsIqEmusIA4lqvHRJ_JIT8-CUx9u6WEGKZavI7OkfJQL5wX43B4Elpsu8Cb4ER",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7065071309000017921",
+        "title": "Del Valle e Suco, Deu Mole e Vapo Funk",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/f3a91d92254e46d58a4dfa85a54cd454",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/9034563a71964346a22acc7368934f80.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/9034563a71964346a22acc7368934f80.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/9034563a71964346a22acc7368934f80.jpeg",
+        "authorName": "Pointhits",
+        "original": false,
+        "duration": 32,
+        "album": "Del Valle e Suco, Deu Mole e Vapo Funk"
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 155
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 23,
+        "followerCount": 233,
+        "heartCount": 277,
+        "videoCount": 22,
+        "diggCount": 295,
+        "heart": 277
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7077336052377161002",
+    "desc": "",
+    "createTime": 1647820709,
+    "video": {
+        "id": "7077336052377161002",
+        "height": 1024,
+        "width": 576,
+        "duration": 21,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c0dcef08e0eb490d8b1a99cb6918865b?x-expires=1647921600&x-signature=hXZ8jp7%2FqCToObKcGRjwErJbcNo%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4930f3297f054ef3a89f4a2536d3c90a_1647820710?x-expires=1647921600&x-signature=2jZaPaHAe87KDvKOmt0TmKtcm2M%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6109ba9fcf67461eb6df72f97f9cb14a_1647820710?x-expires=1647921600&x-signature=RmOGqI%2B0M%2BOPfT4jL6XHWVLLss8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/98956999bd3e6abc73d918f74c9ccdfc/62395026/video/tos/useast5/tos-useast5-pve-0068-tx/e948d6d180f8429bb957a433fdc8474d/?a=1988&br=3482&bt=1741&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3zKMDXq&l=2022032122265701011300621410ABE946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF3eTs6Znd1OzMzZzczNEApOWk6ODU8PGU7Nzo4NTY5Nmdsa2I2cjRfcW9gLS1kMS9zczUzLzFiLTI2YjRhYWE2MDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/98956999bd3e6abc73d918f74c9ccdfc/62395026/video/tos/useast5/tos-useast5-pve-0068-tx/e948d6d180f8429bb957a433fdc8474d/?a=1988&br=3482&bt=1741&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3zKMDXq&l=2022032122265701011300621410ABE946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anF3eTs6Znd1OzMzZzczNEApOWk6ODU8PGU7Nzo4NTY5Nmdsa2I2cjRfcW9gLS1kMS9zczUzLzFiLTI2YjRhYWE2MDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4930f3297f054ef3a89f4a2536d3c90a_1647820710~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=WE%2FX%2FTH8vmTLTyFjsfIeR%2FVh%2B0M%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4930f3297f054ef3a89f4a2536d3c90a_1647820710~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=SbO2xjlXYxXCg7eGyvevSgCUOf8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c0dcef08e0eb490d8b1a99cb6918865b?x-expires=1647921600&x-signature=Xh3dH6DAqyO8%2BI9lsM3EZ7PRUbs%3D",
+        "bitrate": 1783412,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6830626589912810502",
+        "uniqueId": "newsnow2022",
+        "nickname": "Glory to Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eb8061a63ab2b70670112d6df37a3f7~c5_100x100.jpeg?x-expires=1647986400&x-signature=KfAv6i9p%2BuSkSN6cgdyPj1moLmI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eb8061a63ab2b70670112d6df37a3f7~c5_720x720.jpeg?x-expires=1647986400&x-signature=99miGAc1GZfX3kCZiWPXdGrnj%2FA%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eb8061a63ab2b70670112d6df37a3f7~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=UQJSSEA%2FfVWKplvsYNTBI8RTWT4%3D",
+        "signature": "Please donate to Venmo \n@bee_leave\nThank you!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAdv55sJ2YqtlZtLDAdvulMHWhb_ikTZSCUrjmw92Viv2peeCQct6JGChRMgtSh9pF",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077336027437959982",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7077336052171590446.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eb8061a63ab2b70670112d6df37a3f7~c5_100x100.jpeg?x-expires=1647986400&x-signature=KfAv6i9p%2BuSkSN6cgdyPj1moLmI%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eb8061a63ab2b70670112d6df37a3f7~c5_720x720.jpeg?x-expires=1647986400&x-signature=99miGAc1GZfX3kCZiWPXdGrnj%2FA%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eb8061a63ab2b70670112d6df37a3f7~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=UQJSSEA%2FfVWKplvsYNTBI8RTWT4%3D",
+        "authorName": "Glory to Ukraine \ud83c\uddfa\ud83c\udde6",
+        "original": true,
+        "duration": 21,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 20,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 385
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 8,
+        "followerCount": 1980,
+        "heartCount": 10300,
+        "videoCount": 73,
+        "diggCount": 503,
+        "heart": 10300
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

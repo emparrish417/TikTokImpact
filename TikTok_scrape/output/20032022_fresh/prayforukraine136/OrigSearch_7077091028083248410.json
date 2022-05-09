@@ -1,0 +1,119 @@
+{
+    "id": "7077091028083248410",
+    "desc": "#chikoy",
+    "createTime": 1647763660,
+    "video": {
+        "id": "7077091028083248410",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/d246a82a7a0145aa84355dc707f48ca1?x-expires=1647835200&x-signature=8AJ4If45vnIID52b0xGJ%2B3Sht1o%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/99b0f4ae902a4f8babf44f0dfad1ee11_1647763661?x-expires=1647835200&x-signature=qRL9IdP0AyPU9iWoYJY%2BbFGpDlw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/81df72cf671341c3bef19959719b27b9_1647763662?x-expires=1647835200&x-signature=%2F2BSN7Hq2iqdanU5TZqq0%2FHI2%2Bg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b013462728baa074ac9157afbccc84e9/6237ff6d/video/tos/useast2a/tos-useast2a-pve-0037-aiso/11e408a1498b44e698af9e9c6f93c5f1/?a=1988&br=1456&bt=728&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thj7c_DXq&l=20220320223027010113006133113505D7&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZpeDg6ZmtoOzMzZjgzM0ApOzw7PDVkNWRoNzU0OTc2N2c1YWRvcjQwLm9gLS1kL2NzczZhY2AuXzFfNTQ2MzYtNi46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b013462728baa074ac9157afbccc84e9/6237ff6d/video/tos/useast2a/tos-useast2a-pve-0037-aiso/11e408a1498b44e698af9e9c6f93c5f1/?a=1988&br=1456&bt=728&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thj7c_DXq&l=20220320223027010113006133113505D7&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZpeDg6ZmtoOzMzZjgzM0ApOzw7PDVkNWRoNzU0OTc2N2c1YWRvcjQwLm9gLS1kL2NzczZhY2AuXzFfNTQ2MzYtNi46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/99b0f4ae902a4f8babf44f0dfad1ee11_1647763661~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=3Dlw4mKAr6PbiGbTzkI2P%2BysPJg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/99b0f4ae902a4f8babf44f0dfad1ee11_1647763661~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=N476fhxhttgUADJ%2BUMy6VxipYNc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/d246a82a7a0145aa84355dc707f48ca1?x-expires=1647835200&x-signature=8AJ4If45vnIID52b0xGJ%2B3Sht1o%3D",
+        "bitrate": 745727,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7038492495924200453",
+        "uniqueId": "prayforukraine136",
+        "nickname": "Kapatid ni chikoy",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ad05ae2aaa0c058b523f980ec5461648~c5_100x100.jpeg?x-expires=1647900000&x-signature=CbuvmWkTTMFfHcfhDq%2Byp9pblCo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ad05ae2aaa0c058b523f980ec5461648~c5_720x720.jpeg?x-expires=1647900000&x-signature=gxVerjXswd71z8lU42KXAZSrlt8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ad05ae2aaa0c058b523f980ec5461648~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=H7ZkPf%2BVokDxK41DhxDOE7Pd6s0%3D",
+        "signature": "HELLO CHIKOY FAM",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADpWd5AvhYawmXO5zHewcyGUbAxZOSwEt3NGd7uWeWrZySPFrl9mQURiEFpc9Exrm",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076389848185178907",
+        "title": "original sound - pc ni Chickoy",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7076389847572810522.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/54aed995c015a7acd10c9c5b4c8b597f~c5_100x100.jpeg?x-expires=1647900000&x-signature=wDAr7wv2bthRgYXPc873xjW6a%2FE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/54aed995c015a7acd10c9c5b4c8b597f~c5_720x720.jpeg?x-expires=1647900000&x-signature=8p58aYBED3dzcfOtfaJo13uxbs4%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/54aed995c015a7acd10c9c5b4c8b597f~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=SVaG56cjOIBi6vAdPvaH1%2BJiSKA%3D",
+        "authorName": "pc ni Chikoy",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1597881981391873",
+            "title": "chikoy",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 242,
+        "shareCount": 4,
+        "commentCount": 27,
+        "playCount": 1477
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "chikoy",
+            "hashtagId": "1597881981391873",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 408,
+        "followerCount": 1067,
+        "heartCount": 935,
+        "videoCount": 3,
+        "diggCount": 409,
+        "heart": 935
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

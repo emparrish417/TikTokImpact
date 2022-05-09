@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7036387337979069445",
+        "shortId": "",
+        "uniqueId": "harambe.jazz",
+        "nickname": "Jazz",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/834a6158eb4dac87070dcaff3c255354~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=CX5yAgI5P6mgMOQ3rlH0MW94AVY%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/834a6158eb4dac87070dcaff3c255354~c5_720x720.jpeg?x-expires=1648069200&x-signature=ZKGLJftVGHU2UyXJQfyddIt9%2BSI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/834a6158eb4dac87070dcaff3c255354~c5_100x100.jpeg?x-expires=1648069200&x-signature=BgiujEHhJhEOGuh9mA6mu2Tjtoc%3D",
+        "signature": "Unpopular Frankness\u2122\ufe0f - speaking off the dome, and I will not be silenced \ud83e\udd73",
+        "createTime": 1638305691,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEtfQxfDta74pngeg3XWK3WgpGehM_oY6M11ZkAO5s6Mfef-y2qAmPfXqIf7I-hQF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.facebook.com/xxpowered",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 25300,
+        "followingCount": 484,
+        "heart": 224900,
+        "heartCount": 224900,
+        "videoCount": 599,
+        "diggCount": 0
+    },
+    "itemList": []
+}

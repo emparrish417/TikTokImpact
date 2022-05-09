@@ -1,0 +1,127 @@
+{
+    "id": "7078548561935322374",
+    "desc": "#ukraine",
+    "createTime": 1648103020,
+    "video": {
+        "id": "7078548561935322374",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ce1c1ddf1b7341dab7eb2a662949a30b?x-expires=1648170000&x-signature=GF1H2N6PYmW9tughRz8KKBZmDp4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c9700c568b374025ab3760dd02737deb_1648103021?x-expires=1648170000&x-signature=Jj3J64%2Bi2R7rVB%2FeKw5L9NOmq7I%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/999d58c9d479402d9d3fa2f40e16f634_1648103022?x-expires=1648170000&x-signature=y5U37tHi%2By70ppB3xlpLxHKQlBY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9e1daccf31733f39c89ff1406fca2520/623d1d06/video/tos/useast2a/tos-useast2a-pve-0068/32a2ca440e154461a2ff26f02c1d56a2/?a=1988&br=450&bt=225&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqopJDXq&l=2022032419380401011313519224294423&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amdlPGc6ZmczOzMzNzczM0ApOWQ6MzRkOGUzNzc3NGhpPGdqcDNicjRnbXJgLS1kMTZzczNeNDAxNi1gXmAyNC8wX2M6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9e1daccf31733f39c89ff1406fca2520/623d1d06/video/tos/useast2a/tos-useast2a-pve-0068/32a2ca440e154461a2ff26f02c1d56a2/?a=1988&br=450&bt=225&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqopJDXq&l=2022032419380401011313519224294423&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amdlPGc6ZmczOzMzNzczM0ApOWQ6MzRkOGUzNzc3NGhpPGdqcDNicjRnbXJgLS1kMTZzczNeNDAxNi1gXmAyNC8wX2M6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c9700c568b374025ab3760dd02737deb_1648103021~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=PRpNVX5Jy8uJgdmLtFF08ZB3Ww4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c9700c568b374025ab3760dd02737deb_1648103021~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=55lUf09Tnn5%2Fqg39Fy78iSHtSuI%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ce1c1ddf1b7341dab7eb2a662949a30b?x-expires=1648170000&x-signature=GF1H2N6PYmW9tughRz8KKBZmDp4%3D",
+        "bitrate": 230732,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7064076134124602374",
+        "uniqueId": "azra.zi",
+        "nickname": "Azra",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76ac76f91829e162e7fa3149f9a9c80a~c5_100x100.jpeg?x-expires=1648234800&x-signature=wVcBM2VS9SgzwFUHvhuSXhddVZs%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76ac76f91829e162e7fa3149f9a9c80a~c5_720x720.jpeg?x-expires=1648234800&x-signature=XguT9dxMLAtz9KpToUH0aJ0naEM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76ac76f91829e162e7fa3149f9a9c80a~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=ze5K8XcLZsPWje%2FkBGcLd483t60%3D",
+        "signature": "Minor\nDrown",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYgA5LGjauhErJ6Io1ZlK2voMfH34HpzIw94a-L4Ss1IJgJkLLNVJLItqzabpqYGS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7042506254484278063",
+        "title": "Has To Be by CapzLock",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7042506083318991621.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/67618047c19102a0a1c58ee29a2c011b~c5_100x100.jpeg?x-expires=1648234800&x-signature=b2A%2F74ZsB17yZi2TX1eBpIye5tc%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/67618047c19102a0a1c58ee29a2c011b~c5_720x720.jpeg?x-expires=1648234800&x-signature=EgGXwK9u4aCgIMBieFzHBDDgrzk%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/67618047c19102a0a1c58ee29a2c011b~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=LAO0T0Oa6pdKDVrRqsfWbm113HQ%3D",
+        "authorName": "CapzLock",
+        "original": true,
+        "duration": 21,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 15,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 348
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 21,
+        "followerCount": 22,
+        "heartCount": 181,
+        "videoCount": 5,
+        "diggCount": 77,
+        "heart": 181
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I really deeped how much of a trend the Ukrain vs Russia situation was to some people, I\u2019m not seeing it being talked about as much and it disgusting people dying wasn\u2019t a trend doing vids about a how their going to end up in the army and their army clothes do people not have shame anymore, people are still dying and still getting hurt and people need to stop treating this situation as a funny little thing even if they don\u2019t talk about it anymore that\u2019s fine but don\u2019t make jokes about something that doesn\u2019t affect you peoples loved ones and suffering "
+            ]
+        }
+    ],
+    "isAd": false
+}

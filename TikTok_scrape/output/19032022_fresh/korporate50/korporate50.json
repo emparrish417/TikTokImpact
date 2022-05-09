@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6532070070414213121",
+        "shortId": "",
+        "uniqueId": "korporate50",
+        "nickname": "Korporate",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665089205345286~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=KCFbEtjGK%2Flwf8CSY0iOCe2Kjv8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665089205345286~c5_720x720.jpeg?x-expires=1647817200&x-signature=2cLJYsCruvNl0AZ2IdaYECWwvZ8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665089205345286~c5_100x100.jpeg?x-expires=1647817200&x-signature=GWOt4m2AlIfOv7Q1F0%2Fa%2BhMMwJI%3D",
+        "signature": "My Name Is Korporate. On Gaude.",
+        "createTime": 1586627377,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAReFWTdrRJ3As5pk80UO3AZ75lbN9rTyV0TK0siE1QbsboohLdFu2pt19w2bB59m1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://m.soundcloud.com/korporate-1",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 773400,
+        "followingCount": 1,
+        "heart": 3600000,
+        "heartCount": 3600000,
+        "videoCount": 61,
+        "diggCount": 0
+    },
+    "itemList": []
+}

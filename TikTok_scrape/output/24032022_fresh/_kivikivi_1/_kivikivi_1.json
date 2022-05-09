@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7068518603460920366",
+        "shortId": "",
+        "uniqueId": "_kivikivi_1",
+        "nickname": "Help Ukraine",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7ae7b4a427599f2cfbdffd9116217958~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=JshSQzZ1Lgy%2B8eK9MhHuJkvhaj4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7ae7b4a427599f2cfbdffd9116217958~c5_720x720.jpeg?x-expires=1648234800&x-signature=cWMc%2FYkGmcw6rktUOpPbGL2gDEo%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7ae7b4a427599f2cfbdffd9116217958~c5_100x100.jpeg?x-expires=1648234800&x-signature=mhy86GRN9UOCtjpQDklHtirVZ8w%3D",
+        "signature": "HELP Ukraine \n\u0420\u0430\u0448\u0438\u0441\u0442\u044b \u043d\u0430\u043f\u0430\u043b\u0438 \u043d\u0430 \u0423\u043a\u0440\u0430\u0438\u043d\u0443 \u0431\u043e\u043c\u0431\u044f\u0442 \u0434\u0435\u0442\u0435\u0439 \ud83d\ude31\ud83d\ude4f\ud83e\udd7a\n\u041f\u041e\u0414\u041f\u0418\u0421\u041a\u0410 \u041f\u0416 \ud83d\udc47\ud83d\udc47\ud83e\udd2d",
+        "createTime": 1645767783,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASe55kyAzPP02C6RcX9t9cb6PP87tGlSKoONoqytyKfSH2Yu1BKU2D2i8MYh8Btwu",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/channel/UCA6D_EwWEDp1tfNLWJMZcgQ",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7428,
+        "followingCount": 9,
+        "heart": 127700,
+        "heartCount": 127700,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

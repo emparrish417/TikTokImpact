@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6856399656093451269",
+        "shortId": "",
+        "uniqueId": "leftcoastchris",
+        "nickname": "LeftcoastChris",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b59dfa46b20e679f883dd110680a5a0e~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=TSU97ZKIGdut2ePjOOzEtr5e4T8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b59dfa46b20e679f883dd110680a5a0e~c5_720x720.jpeg?x-expires=1647986400&x-signature=JnajzhAjkepTzp1GAzC5oDyK2lU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b59dfa46b20e679f883dd110680a5a0e~c5_100x100.jpeg?x-expires=1647986400&x-signature=otbzRRQyQH2xcd517xn%2F0Wezi3k%3D",
+        "signature": "",
+        "createTime": 1597930425,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAab_VrN-WHWXkO1nhqCe0pWJNGsAQ9K0gBDevWhOQy38Fx1bIiY4eiwuMkN_rlqM9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://mobile.twitter.com/cwebbonline",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8298,
+        "followingCount": 256,
+        "heart": 563800,
+        "heartCount": 563800,
+        "videoCount": 305,
+        "diggCount": 0
+    },
+    "itemList": []
+}

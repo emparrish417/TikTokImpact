@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6822792554197074950",
+        "shortId": "",
+        "uniqueId": "rbn.gage",
+        "nickname": "Robin Gage",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad47bdefc93f434139829b4b80dd9b04~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=Ju81URLZ%2F5eP3KXZj1buU1uIAbU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad47bdefc93f434139829b4b80dd9b04~c5_720x720.jpeg?x-expires=1648069200&x-signature=8p720Gl43%2BvyN%2FX%2BLAGfI%2BWz3ug%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad47bdefc93f434139829b4b80dd9b04~c5_100x100.jpeg?x-expires=1648069200&x-signature=qz6byFc%2B8ca%2B9MK20vPJpZI%2BQpE%3D",
+        "signature": "cosplayer, adventurer, 49er fan",
+        "createTime": 1588526567,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2kVTFxa8OVXokdYMmV1Z0DpjNFIT1Phf5KVko4UKN5QtoSRt2fSMz6tjNxn8H6Mj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.robingage.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 39800,
+        "followingCount": 2851,
+        "heart": 528500,
+        "heartCount": 528500,
+        "videoCount": 1242,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,175 @@
+{
+    "id": "7077550794400173318",
+    "desc": "#zaporozhye #ukraine\ud83c\uddfa\ud83c\udde6 #ukraine",
+    "createTime": 1647870708,
+    "video": {
+        "id": "7077550794400173318",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5f81b39a069e4f2fa52d6f6613072154?x-expires=1647921600&x-signature=XB1BQGR8KjyxUbvioHQdVe3E44M%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/306343918b4f4df9bd83de94526c6979_1647870709?x-expires=1647921600&x-signature=o9Hev0I1lUZleOTezk0LEnEErHU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/41bf60d10884482fa6eb583a758bc848_1647870709?x-expires=1647921600&x-signature=DEWTk3RKSpcCEh0VnCDyTMcZBV4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8c24b46a3507b576d2df55a56fb00c0b/62395020/video/tos/useast2a/tos-useast2a-pve-0068/7c2da521644b49eb914cf5419c83919d/?a=1988&br=2822&bt=1411&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3zKMDXq&l=2022032122265701011300621410ABE946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRwZDg6ZnM7OzMzNzczM0ApPGg4ZDM3aWVlNzs2OTY2ZGcvYy1pcjRvMnBgLS1kMTZzc2IxNmMyLWMzLy8tNS1hXmM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8c24b46a3507b576d2df55a56fb00c0b/62395020/video/tos/useast2a/tos-useast2a-pve-0068/7c2da521644b49eb914cf5419c83919d/?a=1988&br=2822&bt=1411&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3zKMDXq&l=2022032122265701011300621410ABE946&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRwZDg6ZnM7OzMzNzczM0ApPGg4ZDM3aWVlNzs2OTY2ZGcvYy1pcjRvMnBgLS1kMTZzc2IxNmMyLWMzLy8tNS1hXmM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/306343918b4f4df9bd83de94526c6979_1647870709~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=McqRvKuhroqMlnFvxkkaoerLK7k%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/306343918b4f4df9bd83de94526c6979_1647870709~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=yDNhVS8ibcMU7ocylYguosWKv9A%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5f81b39a069e4f2fa52d6f6613072154?x-expires=1647921600&x-signature=XB1BQGR8KjyxUbvioHQdVe3E44M%3D",
+        "bitrate": 1445032,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6878285584113484806",
+        "uniqueId": "ruslanalushchevskaya",
+        "nickname": "\u0420\u0443\u0441\u043b\u0430\u043d\u0430 \u041b\u0443\u0449\u0435\u0432\u0441\u043a\u0430\u044f",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7452fcfa0e8a502269b12d0920579ff2~c5_100x100.jpeg?x-expires=1647986400&x-signature=mkeDVsSpQoYhLO%2B46uw2CedMIno%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7452fcfa0e8a502269b12d0920579ff2~c5_720x720.jpeg?x-expires=1647986400&x-signature=M1WX4DjpqeAS28baJT87B0bc62A%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7452fcfa0e8a502269b12d0920579ff2~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=Molhgb0wjM0cTWW%2BQK8PANtK7zE%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGfDaPwg5Uo6KXMnIqdMmOT4X9m0JUfnKqUhlj5giYEG_dSjA-1WN9qdoJRWL-2z8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6537880620578802433",
+        "title": "Kolybel'naja",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8f66e571eb47413b8e565df880153614",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/135f24f554e94ba58709cc25257586d9.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/135f24f554e94ba58709cc25257586d9.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/135f24f554e94ba58709cc25257586d9.jpeg",
+        "authorName": "Jah Khalib",
+        "original": false,
+        "duration": 184,
+        "album": "E.G.O."
+    },
+    "challenges": [
+        {
+            "id": "35895538",
+            "title": "zaporozhye",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1592381310170118",
+            "title": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 194
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 11,
+            "hashtagName": "zaporozhye",
+            "hashtagId": "35895538",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 12,
+            "end": 24,
+            "hashtagName": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "1592381310170118",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 25,
+            "end": 33,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Ukraine",
+            "ID": "1648458"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 15,
+        "followerCount": 174,
+        "heartCount": 3899,
+        "videoCount": 212,
+        "diggCount": 2463,
+        "heart": 3899
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

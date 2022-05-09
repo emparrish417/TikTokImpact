@@ -1,0 +1,98 @@
+{
+    "id": "7078831454834134315",
+    "desc": "",
+    "createTime": 1648168885,
+    "video": {
+        "id": "7078831454834134315",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b0e9986ac6d041608354c7bb5f4d784a?x-expires=1648249200&x-signature=ZxTjM7NqVkRrrWAdtu6NhG6ooIw%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2f5057a0c48a430fbdc0db1ce8540277_1648168885?x-expires=1648249200&x-signature=1F5Htf7LEepSZOZOFXpqI3o51lI%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bccc7adcf4824986b588b0909b6fccb7_1648168886?x-expires=1648249200&x-signature=ueAXZQjMTd41M5mmEkc3YwyjV7s%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/baa419b274a8ca117be22f15a923fb72/623e4f30/video/tos/useast5/tos-useast5-ve-0068c001-tx/a88240145738492bb29943977f080148/?a=1988&br=3810&bt=1905&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNzJDXq&l=2022032517241701011300613316C22D57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNmM2U6ZnhqOzMzZzczNEApNjtpPDRoOTtlNzg7Zzc7OmcyZ15wcjRncnJgLS1kMS9zczQyMF4wYl40NDJjNjAwXl46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/baa419b274a8ca117be22f15a923fb72/623e4f30/video/tos/useast5/tos-useast5-ve-0068c001-tx/a88240145738492bb29943977f080148/?a=1988&br=3810&bt=1905&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThlNzJDXq&l=2022032517241701011300613316C22D57&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anNmM2U6ZnhqOzMzZzczNEApNjtpPDRoOTtlNzg7Zzc7OmcyZ15wcjRncnJgLS1kMS9zczQyMF4wYl40NDJjNjAwXl46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2f5057a0c48a430fbdc0db1ce8540277_1648168885~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=H4cnGHQJL52DKFUle4bUfbWJSqs%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2f5057a0c48a430fbdc0db1ce8540277_1648168885~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=%2FII6il254PJDP36WdbUxcSFL2Hc%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b0e9986ac6d041608354c7bb5f4d784a?x-expires=1648249200&x-signature=p7Xu7i4daHZmMwDcWF9MI4RSS%2BE%3D",
+        "bitrate": 1951269,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7065122913936409646",
+        "uniqueId": "nesbitthalo8",
+        "nickname": "Savannah gf \u2764\ufe0f",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d79e15b551024dd9227c8bf7036f8192~c5_100x100.jpeg?x-expires=1648314000&x-signature=owmecwAlf4GMQpEMWNbJ54PEWEk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d79e15b551024dd9227c8bf7036f8192~c5_720x720.jpeg?x-expires=1648314000&x-signature=nghnKxC8qkHlkPze2TOxVVXPvw8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d79e15b551024dd9227c8bf7036f8192~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=RsvjrNfunoUzOS%2FpUX51%2BuUwqUU%3D",
+        "signature": "2022-03-24 \ud83d\udc8d\ud83d\ude0d\nAmos halo_nesbit2021 \nGay \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAHY-Do_hR3OUQd-uuvkANMEDYqJLcqrSIr44EMYWMiJhJsY1bVYLsQWHnZrkFufKm",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7064104962263042863",
+        "title": "location",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7064104989219769134.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648314000&x-signature=KBSIW425PbFGoxgHtNZoV9yxfqo%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648314000&x-signature=RrqTbTW4GncP8TfnFycxuTSLR%2Bw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=6IMu%2FdMT%2Bq2Qkd7Ezus2RFU2Bw4%3D",
+        "authorName": "\ud83e\udec0",
+        "original": true,
+        "duration": 30,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 34
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 289,
+        "followerCount": 54,
+        "heartCount": 209,
+        "videoCount": 104,
+        "diggCount": 215,
+        "heart": 209
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "I had my soft brush bc I was bout get a shower then brush my wavy hair for a hour it\u2019s just satisfying \n"
+            ]
+        }
+    ],
+    "isAd": false
+}

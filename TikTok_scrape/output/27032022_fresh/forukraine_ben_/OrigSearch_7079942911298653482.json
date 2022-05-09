@@ -1,0 +1,90 @@
+{
+    "id": "7079942911298653482",
+    "desc": "",
+    "createTime": 1648427665,
+    "video": {
+        "id": "7079942911298653482",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1133f1a042fe49279b989e11560897dc?x-expires=1648450800&x-signature=cJqJQjmji%2BD%2FtfmJSFzTFuOvh64%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/70085a847c804431aa1f37eda0544d05_1648427666?x-expires=1648450800&x-signature=bRF7GYH0e3jW0S%2BnU7tVQ1D4n%2FQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7387d11400544f85a3c3b643adaa6e6e_1648427667?x-expires=1648450800&x-signature=TELS9%2FWnEbE2C%2FFyvKQB7dW44ig%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/83608fb4c9c2b2c09ccbe3e8c896196f/62415e4d/video/tos/useast5/tos-useast5-ve-0068c004-tx/1f99abda58a44d4d859e0363c5ec0ab0/?a=1988&br=2470&bt=1235&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV.agDXq&l=20220328010534010113006226261156FC&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anB4PDk6ZjVqPDMzZzczNEApZmU1OWU2N2RmNzUzaGgzZGc0NWJhcjRvMi1gLS1kMS9zcy1fMl8wLS4vY2NiMWFhXmM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/83608fb4c9c2b2c09ccbe3e8c896196f/62415e4d/video/tos/useast5/tos-useast5-ve-0068c004-tx/1f99abda58a44d4d859e0363c5ec0ab0/?a=1988&br=2470&bt=1235&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV.agDXq&l=20220328010534010113006226261156FC&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anB4PDk6ZjVqPDMzZzczNEApZmU1OWU2N2RmNzUzaGgzZGc0NWJhcjRvMi1gLS1kMS9zcy1fMl8wLS4vY2NiMWFhXmM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/70085a847c804431aa1f37eda0544d05_1648427666~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=DbGEXpLa8Bulw9MwCuXpTLbe398%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/70085a847c804431aa1f37eda0544d05_1648427666~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=iKRstDxWaO8WklpULsjBL6dIV0Y%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1133f1a042fe49279b989e11560897dc?x-expires=1648450800&x-signature=cJqJQjmji%2BD%2FtfmJSFzTFuOvh64%3D",
+        "bitrate": 1265004,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6908476005661541382",
+        "uniqueId": "forukraine_ben_",
+        "nickname": "Ben Blandford",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7dbd5dd4a097e71bd05821ffa93b5f2~c5_100x100.jpeg?x-expires=1648515600&x-signature=zMroNgSXk83N5%2F35vg9aLef0Z4c%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7dbd5dd4a097e71bd05821ffa93b5f2~c5_720x720.jpeg?x-expires=1648515600&x-signature=osqDez%2B5ewxE3i8%2FFveOwkMWn5w%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7dbd5dd4a097e71bd05821ffa93b5f2~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=9HuC4TrAtD0rcfpCni3yROJpBRM%3D",
+        "signature": "I\u2019m folllowing back every one that follows",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAz5KewTGRXC8GGtwy6MRnKF1NolgxfUcIcyOKeKDGfuukqN7A70GPFRqt2p71qAUv",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7079942877966813998",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7079942910854040366.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7dbd5dd4a097e71bd05821ffa93b5f2~c5_100x100.jpeg?x-expires=1648515600&x-signature=zMroNgSXk83N5%2F35vg9aLef0Z4c%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7dbd5dd4a097e71bd05821ffa93b5f2~c5_720x720.jpeg?x-expires=1648515600&x-signature=osqDez%2B5ewxE3i8%2FFveOwkMWn5w%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7dbd5dd4a097e71bd05821ffa93b5f2~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=9HuC4TrAtD0rcfpCni3yROJpBRM%3D",
+        "authorName": "Ben Blandford",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 2
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1907,
+        "followerCount": 363,
+        "heartCount": 525,
+        "videoCount": 102,
+        "diggCount": 2418,
+        "heart": 525
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

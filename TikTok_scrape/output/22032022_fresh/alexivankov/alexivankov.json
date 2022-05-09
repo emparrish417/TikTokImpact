@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6664836815076327430",
+        "shortId": "",
+        "uniqueId": "alexivankov",
+        "nickname": "Alex Ivankov",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/481e5b97910011660173c109a335f8ae~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=A%2BIGYWe5l%2B9Lz1ENK7YHVLbbLk8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/481e5b97910011660173c109a335f8ae~c5_720x720.jpeg?x-expires=1648069200&x-signature=MjvpJdyZ3cMbTUlI4DrxyOsZrzg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/481e5b97910011660173c109a335f8ae~c5_100x100.jpeg?x-expires=1648069200&x-signature=uHg7xlaBwwZ5YV%2Fc58%2FHAOIjNrU%3D",
+        "signature": "\u0427\u0438\u0438\u0438\u0437\u0437\ud83d\udc7d",
+        "createTime": 1551778362,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmBfeIo3UeICu03y4p3ezkoHLFYWmsqAncqXxgIPeuRvqunxpkHuGWud7GwKnt95U",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 91,
+        "followingCount": 138,
+        "heart": 8064,
+        "heartCount": 8064,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

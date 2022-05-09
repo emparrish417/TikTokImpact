@@ -1,0 +1,119 @@
+{
+    "id": "7068397268512132354",
+    "desc": "#prayforukraine\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1645739487,
+    "video": {
+        "id": "7068397268512132354",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/0c5de8f9bb10465c8c1984ffd1d9fde8?x-expires=1647752400&x-signature=J9E8JmfH8p4TK9BIBNXDqT9q9FM%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/fb45490be1184e82b806d086e26efe39_1645739490?x-expires=1647752400&x-signature=o43NOoSvB9Pkbe5OBJqz7z8qrgs%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5c6788500af84ff49ca1151dec7f8555_1645739492?x-expires=1647752400&x-signature=1DvB5we64Hf39TKGgqyLQZALPrA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/61904777336c94488aebaffab85513ce/6236bf5c/video/tos/alisg/tos-alisg-pve-0037c001/d7eeb6a0b2ec499a80bf29a2436a0a94/?a=1988&br=1884&bt=942&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7TheNb_DXq&l=202203192344450101131352111F2782FC&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzlxbjM6Zm95OzMzODczNEApZzVkPDRkNTw6Nzo1ODNoOmdma2RwcjRfb19gLS1kMS1zczAvMGAvMTEuNDIuMC00MzM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/61904777336c94488aebaffab85513ce/6236bf5c/video/tos/alisg/tos-alisg-pve-0037c001/d7eeb6a0b2ec499a80bf29a2436a0a94/?a=1988&br=1884&bt=942&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7TheNb_DXq&l=202203192344450101131352111F2782FC&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzlxbjM6Zm95OzMzODczNEApZzVkPDRkNTw6Nzo1ODNoOmdma2RwcjRfb19gLS1kMS1zczAvMGAvMTEuNDIuMC00MzM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/fb45490be1184e82b806d086e26efe39_1645739490~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=8yQA7SK%2FZncUQrWQ6k9g%2BwsnCN4%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/fb45490be1184e82b806d086e26efe39_1645739490~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=ctzk9ryqPdVAQY8CFKaO%2FVpKk7A%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/0c5de8f9bb10465c8c1984ffd1d9fde8?x-expires=1647752400&x-signature=J9E8JmfH8p4TK9BIBNXDqT9q9FM%3D",
+        "bitrate": 965628,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6819230993922049030",
+        "uniqueId": "ninachkaaaaa",
+        "nickname": "Ninachkaaa",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e148fe1d687c192e5ebb3079834f6831.jpeg?x-expires=1647817200&x-signature=gHy%2FqOFGCeFeEnsE512eo1AuDA8%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e148fe1d687c192e5ebb3079834f6831.jpeg?x-expires=1647817200&x-signature=6pxPC5B4DcjS9ijykb17ULhc4yY%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/e148fe1d687c192e5ebb3079834f6831.jpeg?x-expires=1647817200&x-signature=qTlQ9hXkQ00CB1ZGqmKGtrcfvUg%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJXGqBHCiT33nenrSrZHoSnT3npccpOQTHfMhINrNVMTZtO58u8wU3eec57Xw9jdG",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030344552103873281",
+        "title": "Another love",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7030344527114210049.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/14ca2e98ae6ee68beddacd08d7a6732a.jpeg?x-expires=1647817200&x-signature=ME2pQHzZpg9EZCyZtedZjc85%2Fqw%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/14ca2e98ae6ee68beddacd08d7a6732a.jpeg?x-expires=1647817200&x-signature=h7zWhfr3NeKtkXMTZq3nqPAgwbU%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/14ca2e98ae6ee68beddacd08d7a6732a.jpeg?x-expires=1647817200&x-signature=LauztKvwORX6lfKKshGWmUkPtI0%3D",
+        "authorName": ".",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "7063419712386007046",
+            "title": "prayforukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1500000,
+        "shareCount": 16500,
+        "commentCount": 17000,
+        "playCount": 11000000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 19,
+            "hashtagName": "prayforukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "7063419712386007046",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 118,
+        "followerCount": 11900,
+        "heartCount": 1500000,
+        "videoCount": 38,
+        "diggCount": 2856,
+        "heart": 1500000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

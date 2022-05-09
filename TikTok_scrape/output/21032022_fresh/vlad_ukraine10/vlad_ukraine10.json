@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7044174895592276998",
+        "shortId": "",
+        "uniqueId": "vlad_ukraine10",
+        "nickname": "\u0425\u0442\u043e \u0437\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0443 \u0432\u0441\u0456 \u0441\u044e\u0434\u0438\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/213eab688c37571740e9a3e7357b4d02~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=PaSnL1a4dCm7wuyg2XJuzQOOLrs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/213eab688c37571740e9a3e7357b4d02~c5_720x720.jpeg?x-expires=1647986400&x-signature=jtO1WiWsFpX3Pg8m6b1NeglryOE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/213eab688c37571740e9a3e7357b4d02~c5_100x100.jpeg?x-expires=1647986400&x-signature=0JW%2F8afVbI1fHEJ%2F%2F227zuXqBF8%3D",
+        "signature": "\ud83d\udc49\u0412\u0441\u0456 \u0445\u0442\u043e \u0437\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0443 \u0441\u044e\u0434\u0438\ud83d\udc48",
+        "createTime": 1640099881,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUTH9ujb7TLL_PLwJiW2hxSK70sTfjusyYwvpiuo5dLTPUkTWJgWWwcOAgC6E3yoG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 118,
+        "followingCount": 484,
+        "heart": 279,
+        "heartCount": 279,
+        "videoCount": 33,
+        "diggCount": 0
+    },
+    "itemList": []
+}

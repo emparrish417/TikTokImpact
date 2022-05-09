@@ -1,0 +1,96 @@
+{
+    "id": "7077036652832509226",
+    "desc": "~Just hold on we\u2019re going home \ud83d\udc98.~",
+    "createTime": 1647750999,
+    "video": {
+        "id": "7077036652832509226",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/171aaae0d7904f65b3005fdc422bc12c?x-expires=1647835200&x-signature=cf9zH1hlOjg2ayalmgDrzHKiuwE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/dc2cb75db0d54ec5bcdbe679b9a07930_1647751000?x-expires=1647835200&x-signature=Vhuuea2unHZ1n3VkIbp9h0Yj8EM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ae13f4c1efd54995a2dd976553f24d2e_1647751000?x-expires=1647835200&x-signature=g0dgRr0XcNKwvMJhUhwWaJIkm6o%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a3b28fc7d3132708c36eea3b9ce84468/6237ff42/video/tos/useast5/tos-useast5-pve-0068-tx/7f56abb667ca4371a7b1c2446e4d3493/?a=1988&br=1484&bt=742&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgNc_DXq&l=202203202229390101131350430113EC50&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3FlPDM6Zm9kOzMzZzczNEApZWZmNjs2ZDtnNzc7aDZpZ2dwL29lcjRfcm9gLS1kMS9zcy0uMF5gYjY0NF5hMzBgM2E6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a3b28fc7d3132708c36eea3b9ce84468/6237ff42/video/tos/useast5/tos-useast5-pve-0068-tx/7f56abb667ca4371a7b1c2446e4d3493/?a=1988&br=1484&bt=742&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgNc_DXq&l=202203202229390101131350430113EC50&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3FlPDM6Zm9kOzMzZzczNEApZWZmNjs2ZDtnNzc7aDZpZ2dwL29lcjRfcm9gLS1kMS9zcy0uMF5gYjY0NF5hMzBgM2E6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dc2cb75db0d54ec5bcdbe679b9a07930_1647751000~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=uofBtURP939GbiIrtyJEe5HFsO0%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dc2cb75db0d54ec5bcdbe679b9a07930_1647751000~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=e%2FdODpmb13FBLCQmRyAAEa6Ww%2B0%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/171aaae0d7904f65b3005fdc422bc12c?x-expires=1647835200&x-signature=fTTx3cIv0A%2BDzr06YayFC1CxAJc%3D",
+        "bitrate": 760117,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6951585430719595525",
+        "uniqueId": "iireland_",
+        "nickname": "\ud83e\udd8c\ud83d\ude11",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7127f291a6761b40689743f4f386ad7~c5_100x100.jpeg?x-expires=1647900000&x-signature=pTG%2BRtCp8ChqxuMTGayFRHQnPd0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7127f291a6761b40689743f4f386ad7~c5_720x720.jpeg?x-expires=1647900000&x-signature=WCF%2B3%2FgaB4MWQOqqtx5AVymChvA%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7127f291a6761b40689743f4f386ad7~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=gZ7rwd%2FrUvBKsWqojGkCIVryORk%3D",
+        "signature": "Ig:iireland_\n\ud83d\udc7b:iiireland.09",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYKBFuUEp1WseZalRV-dGz6h1oDFi4gw-lTyMakCyXZPlmEU0Bsvw7chT8RpZVVG0",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7043191434593356591",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7043185946493373231.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1a4fecb756d643d1d6aa1baf93977738~c5_100x100.jpeg?x-expires=1647900000&x-signature=9PeTqcSaBkufoevYDk1QxFjUJ1w%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1a4fecb756d643d1d6aa1baf93977738~c5_720x720.jpeg?x-expires=1647900000&x-signature=XWwtvACIdq9UFiThpniXO84EI48%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1a4fecb756d643d1d6aa1baf93977738~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=QpS9o2%2BQdIhQYlZ4AygD6YiWhwQ%3D",
+        "authorName": "Ja morant\u2019s wife\ud83d\ude0c",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 88
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Stop Motion",
+            "ID": "974801"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 479,
+        "followerCount": 218,
+        "heartCount": 2389,
+        "videoCount": 162,
+        "diggCount": 20500,
+        "heart": 2389
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6919553636448502789",
+        "shortId": "",
+        "uniqueId": "stakuyi",
+        "nickname": "Steven Bell",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5ca394a6088a3c4d6006fb01a0f805d~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=r%2B9fth6LfrPNx%2BoJGRCZYCaF7hY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5ca394a6088a3c4d6006fb01a0f805d~c5_720x720.jpeg?x-expires=1648173600&x-signature=r%2B1mxQ0sO91iHYsG0GFRPuAm29s%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5ca394a6088a3c4d6006fb01a0f805d~c5_100x100.jpeg?x-expires=1648173600&x-signature=KmG6VclB2hxgUCD9N9B5KYDZg40%3D",
+        "signature": "Subscribe to my YouTube, podcast, and twitch \u2b07\ufe0f",
+        "createTime": 1611084249,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZwJtKqb7IYFpUn1spf9_pJzoGO0XAXZS0oCydLUQtw0VK5A88JZnw0cV2Xns6tUz",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Stakuyi",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 697500,
+        "followingCount": 114,
+        "heart": 28500000,
+        "heartCount": 28500000,
+        "videoCount": 968,
+        "diggCount": 0
+    },
+    "itemList": []
+}

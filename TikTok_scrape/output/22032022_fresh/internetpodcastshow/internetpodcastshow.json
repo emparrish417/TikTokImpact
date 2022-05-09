@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7077454409647866926",
+        "shortId": "",
+        "uniqueId": "internetpodcastshow",
+        "nickname": "IPS",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d4ffbbaa827721492eac99ad0555b71~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=JEI5APEdtRn7OX2mRX5dMU%2B9zyA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d4ffbbaa827721492eac99ad0555b71~c5_720x720.jpeg?x-expires=1648069200&x-signature=D3RIkiEPJjtXut7b0SwIJupQVCo%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d4ffbbaa827721492eac99ad0555b71~c5_100x100.jpeg?x-expires=1648069200&x-signature=Y9%2FCKYWkMEtG6x5KLL6LzphuSsg%3D",
+        "signature": "insomnia driven, probably incoherent\nBy @BrooklynBrando",
+        "createTime": 1647848411,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2ajGpuUfTLiRd_SFEG0brrpYcSrhVZgxcV554fIFRR7bRnhFwE0i1qKM8nqJfKli",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22,
+        "followingCount": 8,
+        "heart": 208,
+        "heartCount": 208,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

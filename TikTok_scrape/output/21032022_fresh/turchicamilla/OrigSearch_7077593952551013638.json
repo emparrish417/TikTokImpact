@@ -1,0 +1,127 @@
+{
+    "id": "7077593952551013638",
+    "desc": "#prayforukraine",
+    "createTime": 1647880756,
+    "video": {
+        "id": "7077593952551013638",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d3c26e020e2f4f879b3c6892554d8b17?x-expires=1647921600&x-signature=6BsEc3RXWwpTExt2YYmgufietww%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bff44b54dd724facb6aa9d6ad1f49e76_1647880757?x-expires=1647921600&x-signature=bTSipnT%2F2R5NkeILgQ8gLsEO0cQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ccea5c9f950c4b4f9106d443f3bd6f22_1647880758?x-expires=1647921600&x-signature=S%2FkteODk3DFCTrFvxXJJbwxrrtU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2dd29736ba1acf597903b3694b48845f/62394fff/video/tos/useast2a/tos-useast2a-ve-0068c004/999c34c5afda4925a62922d8a145fe62/?a=1988&br=3332&bt=1666&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThDzKMDXq&l=202203212226340101130060621EF8BC02&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJmZDs6ZmVkOzMzNzczM0ApODtpOmhkZDs1NzQ6NDtkNGc1NWRwcjRnaHBgLS1kMTZzcy02M2AyLmBfYTNjLmEtYC06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2dd29736ba1acf597903b3694b48845f/62394fff/video/tos/useast2a/tos-useast2a-ve-0068c004/999c34c5afda4925a62922d8a145fe62/?a=1988&br=3332&bt=1666&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThDzKMDXq&l=202203212226340101130060621EF8BC02&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJmZDs6ZmVkOzMzNzczM0ApODtpOmhkZDs1NzQ6NDtkNGc1NWRwcjRnaHBgLS1kMTZzcy02M2AyLmBfYTNjLmEtYC06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bff44b54dd724facb6aa9d6ad1f49e76_1647880757~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=nd0yoifupDQlDJ5%2FjhG0sb%2FPKEA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bff44b54dd724facb6aa9d6ad1f49e76_1647880757~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=6nBNP22V2ZLO8Nt5CO88KvXUuxs%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d3c26e020e2f4f879b3c6892554d8b17?x-expires=1647921600&x-signature=6BsEc3RXWwpTExt2YYmgufietww%3D",
+        "bitrate": 1706976,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "196729563744247808",
+        "uniqueId": "turchicamilla",
+        "nickname": "cami",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b7947cc41f4ec7f64c71776d22819d82~c5_100x100.jpeg?x-expires=1647986400&x-signature=6S8V7waukO7vqXNWcJplo1z8pj4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b7947cc41f4ec7f64c71776d22819d82~c5_720x720.jpeg?x-expires=1647986400&x-signature=%2FUrFvaVx2L9KLCp0eO%2FZ3Ml%2FdKE%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b7947cc41f4ec7f64c71776d22819d82~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=zHYgSW%2FOJEDQyP35ndG65vm%2BpqQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfJZFLT8OriyIXdVloE9-OKOOYfbV50QYq2aez72CmdPOFszdqN2UcO-olpjWi-5H",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7061325687696739119",
+        "title": "Beep",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7061325693023652654.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/365b0539d26f7463e744c600e26aceec~c5_100x100.jpeg?x-expires=1647986400&x-signature=%2FeiY%2BPhTSfimJ7xNTv7hKOf60ro%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/365b0539d26f7463e744c600e26aceec~c5_720x720.jpeg?x-expires=1647986400&x-signature=N7DuzPYQCHMVnZrqaAz5Jm8Cd1w%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/365b0539d26f7463e744c600e26aceec~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=K1jg6Y0uSWpYTVMbZ7hCW1uVkms%3D",
+        "authorName": "Andrew\ud83e\udd74",
+        "original": true,
+        "duration": 4,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "2035517",
+            "title": "prayforukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 113,
+        "shareCount": 1,
+        "commentCount": 1,
+        "playCount": 1592
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 15,
+            "hashtagName": "prayforukraine",
+            "hashtagId": "2035517",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 382,
+        "followerCount": 365,
+        "heartCount": 8346,
+        "videoCount": 7,
+        "diggCount": 7117,
+        "heart": 8346
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Putin che calcola il m3g4cazz0n3 che gliene frega delle manifestazioni nelle scuole"
+            ]
+        }
+    ],
+    "isAd": false
+}

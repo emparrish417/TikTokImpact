@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6921983553888044038",
+        "shortId": "",
+        "uniqueId": "made.in.chuuk",
+        "nickname": "\ud83c\uddeb\ud83c\uddf2",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9840de5f92fad7c97fede92d5a1b7f54~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=cEtGKu%2B8%2BmISTMrFfuOOiGxR6%2FY%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9840de5f92fad7c97fede92d5a1b7f54~c5_720x720.jpeg?x-expires=1647986400&x-signature=VnS1O1j1SSsVdKozz8VbPxNkY04%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9840de5f92fad7c97fede92d5a1b7f54~c5_100x100.jpeg?x-expires=1647986400&x-signature=rf4r7DsWHOJM21dMo64wkbGdVWc%3D",
+        "signature": "",
+        "createTime": 1611650129,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUlVi5KCbCkd0d2cSB89764DePizFN22pCksebcmSKyDBilb5DjWBxxeSCuPI_l83",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6588,
+        "followingCount": 699,
+        "heart": 41900,
+        "heartCount": 41900,
+        "videoCount": 78,
+        "diggCount": 0
+    },
+    "itemList": []
+}

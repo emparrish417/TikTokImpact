@@ -1,0 +1,98 @@
+{
+    "id": "7076885240169483525",
+    "desc": "",
+    "createTime": 1647715746,
+    "video": {
+        "id": "7076885240169483525",
+        "height": 1024,
+        "width": 576,
+        "duration": 90,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2f0faf181233418b940930fa73123000?x-expires=1647752400&x-signature=7q%2Fb9nTIM3BKRs5ItNXBBMX%2FRn0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8c435f408261443c9ff84f59fc0dd087_1647715749?x-expires=1647752400&x-signature=YE85%2FS9qYKdxjPGYR4xubWQDb98%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/efce988c54dc4039bd1c658bda4e70ac_1647715749?x-expires=1647752400&x-signature=et3ZIahDA%2F6K5lmXxANOgVulwVg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/1f73a1cc66506b695501020f1a6c70d8/6236bdef/video/tos/useast2a/tos-useast2a-ve-0068c004/a1ae550f6c7a41448ce8e4ceab0218e3/?a=1988&br=912&bt=456&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25kbWk6ZmU1OzMzNzczM0ApNjw1NWhlaWQ3N2g6N2Y6aGcvbTFzcjRnNm9gLS1kMTZzcy82LzA1MTQwMF5iYC4vYS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/1f73a1cc66506b695501020f1a6c70d8/6236bdef/video/tos/useast2a/tos-useast2a-ve-0068c004/a1ae550f6c7a41448ce8e4ceab0218e3/?a=1988&br=912&bt=456&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25kbWk6ZmU1OzMzNzczM0ApNjw1NWhlaWQ3N2g6N2Y6aGcvbTFzcjRnNm9gLS1kMTZzcy82LzA1MTQwMF5iYC4vYS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8c435f408261443c9ff84f59fc0dd087_1647715749~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=6%2BSs5%2BmRBeDZVBgWS3pxd3N7nJg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8c435f408261443c9ff84f59fc0dd087_1647715749~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=HjMrRudw745RepWq0Cqf0X3kMKQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2f0faf181233418b940930fa73123000?x-expires=1647752400&x-signature=7q%2Fb9nTIM3BKRs5ItNXBBMX%2FRn0%3D",
+        "bitrate": 467776,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7019752210146739206",
+        "uniqueId": "le_rail_des_hdf",
+        "nickname": "Soutiens aux ukrainien !",
+        "avatarThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/52dc0a0885ec198813f67fe51a083bb4~c5_100x100.jpeg?x-expires=1647817200&x-signature=7jamSSXXOxjMY6DBds2Y%2BlCeTKw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/52dc0a0885ec198813f67fe51a083bb4~c5_720x720.jpeg?x-expires=1647817200&x-signature=kmEBu5lFRMJwoeoJr%2B14ijTO5Nc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/52dc0a0885ec198813f67fe51a083bb4~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=%2BsQ%2FSppIkT6SH7gMzkR%2BVxPQc3Y%3D",
+        "signature": "LELAND BOURRET -15 ans \n\ud83d\udccdBEUVRY\ud83d\udccd",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg7yHSLwvanlMO0fnRkXpoxD8R1xBO6syhaYdlZifLfg5E4T3MX9-A1QRtIrlMF7i",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6739973799774521346",
+        "title": "Counting Stars",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/0ed90c028a4f4a9a94f8d7c5a6d80aaf",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/091a28cb8ef94433a5395f4822f62314.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/091a28cb8ef94433a5395f4822f62314.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/091a28cb8ef94433a5395f4822f62314.jpeg",
+        "authorName": "OneRepublic",
+        "original": false,
+        "duration": 256,
+        "album": "Now That's What I Call a Summer Holiday"
+    },
+    "stats": {
+        "diggCount": 13,
+        "shareCount": 0,
+        "commentCount": 15,
+        "playCount": 105
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 657,
+        "followerCount": 1444,
+        "heartCount": 6080,
+        "videoCount": 89,
+        "diggCount": 2395,
+        "heart": 6080
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Quel est la particularit\u00e9 de cette rame POS ?"
+            ]
+        }
+    ],
+    "isAd": false
+}

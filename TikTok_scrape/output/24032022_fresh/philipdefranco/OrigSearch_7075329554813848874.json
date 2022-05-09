@@ -1,0 +1,165 @@
+{
+    "id": "7075329554813848874",
+    "desc": "The UN Says Very Bad Thing Is Now Possible Again #SmoothLikeNitroPepsi #ukraine #russia",
+    "createTime": 1647353536,
+    "video": {
+        "id": "7075329554813848874",
+        "height": 1024,
+        "width": 576,
+        "duration": 28,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7e74906653894e179d59c5826232952d_1647353538~tplv-dmt-logom:tos-useast5-p-0000-tx/cc5b836748254eb7b85fddf5cb85ebd2.image?x-expires=1648170000&x-signature=p3gI0oA%2FEmWet5n5Mv%2B0%2BaM8pqk%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3efcd8c75dc042bfa176da5816e66885_1647353536?x-expires=1648170000&x-signature=piMLviVxJdvgd0%2Bb6jyq3iceHPA%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e35c2e05cf744afb92642f0a3872b538_1647353537?x-expires=1648170000&x-signature=sqBO%2FMY%2FcPTC3D3N9Xqq%2B66vZKc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/073ccea750f8473d2ca0859934a9ecd9/623d1db7/video/tos/useast5/tos-useast5-ve-0068c002-tx/c67bf53d65ad49a19531821cee7ed946/?a=1988&br=2656&bt=1328&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThCxpJDXq&l=20220324194043010113135194262D44D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am11dmY6ZjQ8OzMzZzczNEApZDc7PGk1NTw5N2RoNGk6O2dkcGYtcjRnb2xgLS1kMS9zc14tMy0wXzNiMy5hYV9eLS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/073ccea750f8473d2ca0859934a9ecd9/623d1db7/video/tos/useast5/tos-useast5-ve-0068c002-tx/c67bf53d65ad49a19531821cee7ed946/?a=1988&br=2656&bt=1328&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThCxpJDXq&l=20220324194043010113135194262D44D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am11dmY6ZjQ8OzMzZzczNEApZDc7PGk1NTw5N2RoNGk6O2dkcGYtcjRnb2xgLS1kMS9zc14tMy0wXzNiMy5hYV9eLS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3efcd8c75dc042bfa176da5816e66885_1647353536~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=3MuuI%2Bc5Bu6GfK%2FLtqu0ULCmXI8%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3efcd8c75dc042bfa176da5816e66885_1647353536~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=IqI9kZktjP4ngCHK4tW%2BWStD7n0%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7e74906653894e179d59c5826232952d_1647353538?x-expires=1648170000&x-signature=OXNPBSAgL0h7vEMfc6y60iS41ew%3D",
+        "bitrate": 1360024,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6738971592736572421",
+        "uniqueId": "philipdefranco",
+        "nickname": "Philip DeFranco",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_100x100.jpeg?x-expires=1648234800&x-signature=Y49QkUyPwRPzFQlUcSiWVDo4pM0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_720x720.jpeg?x-expires=1648234800&x-signature=MyyaUTXuqTQ86DhvNoCrVjoqOdY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=9CckSeSSRjmZI6y7z7rVPYWORJo%3D",
+        "signature": "A dad who covers the news for you. Quickies here. Daily Deep Dives on YT.",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAYxh3-0i3xINKGzPTlpmkW_T6z9Dz6J1ZBGF0UTdjR1WshI2LheZ5Jswoe_tGpsoy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075329500690680622",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7075329534983441198.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_100x100.jpeg?x-expires=1648234800&x-signature=Y49QkUyPwRPzFQlUcSiWVDo4pM0%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_720x720.jpeg?x-expires=1648234800&x-signature=MyyaUTXuqTQ86DhvNoCrVjoqOdY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665975830064134~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=9CckSeSSRjmZI6y7z7rVPYWORJo%3D",
+        "authorName": "Philip DeFranco",
+        "original": true,
+        "duration": 28,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 431500,
+        "shareCount": 4156,
+        "commentCount": 3558,
+        "playCount": 3400000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 49,
+            "end": 70,
+            "hashtagName": "smoothlikenitropepsi",
+            "hashtagId": "",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 71,
+            "end": 79,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 80,
+            "end": 87,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 574,
+        "followerCount": 1900000,
+        "heartCount": 48100000,
+        "videoCount": 311,
+        "diggCount": 9020,
+        "heart": 48100000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "UN Says Very Bad Thing Is Now Possible Again"
+            ]
+        }
+    ],
+    "isAd": false
+}

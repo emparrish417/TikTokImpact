@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6971822573634978822",
+        "shortId": "",
+        "uniqueId": "cnn",
+        "nickname": "CNN",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7efc6b4a85fda8609fa567345d0d37d5~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=vwpCkgHdEUr1LgV5Dw0ATeCLLCg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7efc6b4a85fda8609fa567345d0d37d5~c5_720x720.jpeg?x-expires=1647817200&x-signature=lA8hytzekOabeaaCRwygnJ%2BGq6o%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7efc6b4a85fda8609fa567345d0d37d5~c5_100x100.jpeg?x-expires=1647817200&x-signature=LTpksm7g%2BC44lAuXawKWQ7zAWSY%3D",
+        "signature": "It\u2019s our job to #GoThere and bring you the news.",
+        "createTime": 1630264966,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAOVL3gR6qKaY1C7FWW5x3dNZ-IXOYUrMA9PQ4k2kOZU9FNqvxo-xV4p_dUsQxtDUW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "cnn.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 290300,
+        "followingCount": 10,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 156,
+        "diggCount": 0
+    },
+    "itemList": []
+}

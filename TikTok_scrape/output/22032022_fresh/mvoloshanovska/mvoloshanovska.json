@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6963248887491314693",
+        "shortId": "",
+        "uniqueId": "mvoloshanovska",
+        "nickname": "maria!",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/385639d0141bcaae02a31d140f83fe84~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=xDJVNitwjhur%2BW0mxQtVsPZ9RRg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/385639d0141bcaae02a31d140f83fe84~c5_720x720.jpeg?x-expires=1648069200&x-signature=tN9V9KzLeuGdLZO3QouRtgkav4g%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/385639d0141bcaae02a31d140f83fe84~c5_100x100.jpeg?x-expires=1648069200&x-signature=pqVrx4lfp%2BLpjtQ7W3IwnP0a9fU%3D",
+        "signature": "du u get deja vu?)",
+        "createTime": 1621257834,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-l-YJwLdHpsGBu-KirQTRJ9xP93_kYQ1X0aNE5zuDzQGnP8JWx8TT1pjdZmEkSvf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 382,
+        "followingCount": 180,
+        "heart": 32500,
+        "heartCount": 32500,
+        "videoCount": 105,
+        "diggCount": 8335
+    },
+    "itemList": []
+}

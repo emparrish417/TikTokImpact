@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6789055087207220230",
+        "shortId": "",
+        "uniqueId": "thejackshoe",
+        "nickname": "Jack Schue",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a07dea2e20f62396e2a72989d4d7a89d~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=qjccyUy3z0UyqkSnSJXesPqAEs4%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a07dea2e20f62396e2a72989d4d7a89d~c5_720x720.jpeg?x-expires=1648314000&x-signature=bikK5xM%2FjxTtWrlsfXReAshJpBo%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a07dea2e20f62396e2a72989d4d7a89d~c5_100x100.jpeg?x-expires=1648314000&x-signature=TNq5F2oESWf9rfCa7QK1gCqG2H0%3D",
+        "signature": "19 \ni'm a grown up",
+        "createTime": 1580700362,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAz5ky_ZtHZh7B7m-2HUhzVExNP85F-rr8StV5jpqW2KfSK-CBLtmVj-MiXDcjsgkG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://epk.recordunion.com/thejackshoe",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14300,
+        "followingCount": 116,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 69,
+        "diggCount": 0
+    },
+    "itemList": []
+}

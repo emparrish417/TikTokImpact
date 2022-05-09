@@ -1,0 +1,96 @@
+{
+    "id": "7077026471172214062",
+    "desc": "I mean..I look good for 100!! lol",
+    "createTime": 1647748629,
+    "video": {
+        "id": "7077026471172214062",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/366f0aaf50674d528a779c58a9c8dd84?x-expires=1647835200&x-signature=hAhXU2MZR5gXk%2FmhKYoO2gd4si0%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9ea4ebd2dff442d990d55012917e503d_1647748629?x-expires=1647835200&x-signature=jqxw7IKfE8HpJctlWtg3dhfuokY%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d5ed6f6298074d2a9b2a98d97447d0b9_1647748630?x-expires=1647835200&x-signature=y6EKfK7ygO0NsKS3RJUOoOXAeQE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/475e9640e04a85611184b2837e1502f6/6237ff55/video/tos/useast5/tos-useast5-ve-0068c001-tx/43188cfb00104297ae72023df1bc5698/?a=1988&br=1356&bt=678&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzdtbzk6ZnVkOzMzZzczNEApPDc1OmQ5Ojw7NzY0OGQ4ZmcucjRycjRnX29gLS1kMS9zc140NjVhYTE2LS42X2FeM186Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/475e9640e04a85611184b2837e1502f6/6237ff55/video/tos/useast5/tos-useast5-ve-0068c001-tx/43188cfb00104297ae72023df1bc5698/?a=1988&br=1356&bt=678&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Nc_DXq&l=202203202230030101131351490137B3DD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzdtbzk6ZnVkOzMzZzczNEApPDc1OmQ5Ojw7NzY0OGQ4ZmcucjRycjRnX29gLS1kMS9zc140NjVhYTE2LS42X2FeM186Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9ea4ebd2dff442d990d55012917e503d_1647748629~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=a0pJZeHdXaWZIDk%2FxHvgJEEz7V0%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9ea4ebd2dff442d990d55012917e503d_1647748629~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=%2FLKCtQ3tsE6AI9wdN6nB%2FnTR7vA%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/366f0aaf50674d528a779c58a9c8dd84?x-expires=1647835200&x-signature=ime9nyzo9WASVgr6iVArIcmEi5A%3D",
+        "bitrate": 694712,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6892055324669248518",
+        "uniqueId": "roryireland86",
+        "nickname": "JoJo",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_100x100.jpeg?x-expires=1647900000&x-signature=wOe7KQ%2BqF%2FBMktmYRhupxzft880%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_720x720.jpeg?x-expires=1647900000&x-signature=rjyI%2FzK7OfGIoCVPaOoOcKRNarw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=avHWWmEAfBWoUupN5aTfP73%2Ff%2FQ%3D",
+        "signature": "happily married mom of 4 #Canna-Parent World Wide",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKPwwSOqgGLqBR86w5iJVAoe-AOddIfhen-r6uz3Tx-HeIYU4hPdq2jPxgSPzk7cy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6728562975734515713",
+        "title": "Love You So",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6a790bec1bf640c185753440ca131a7e",
+        "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_100x100.jpeg",
+        "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_200x200.jpeg",
+        "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_720x720.jpeg",
+        "authorName": "The King Khan & BBQ Show",
+        "original": false,
+        "duration": 60,
+        "album": "The King Khan & BBQ Show"
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 221
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "HOW OLD DO I LOOK",
+            "ID": "1466138"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9969,
+        "followerCount": 1518,
+        "heartCount": 1533,
+        "videoCount": 233,
+        "diggCount": 20500,
+        "heart": 1533
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

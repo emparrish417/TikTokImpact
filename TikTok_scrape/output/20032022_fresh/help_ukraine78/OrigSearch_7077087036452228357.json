@@ -1,0 +1,90 @@
+{
+    "id": "7077087036452228357",
+    "desc": "",
+    "createTime": 1647762733,
+    "video": {
+        "id": "7077087036452228357",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6f86b1060e294b948a8969fb243399e9?x-expires=1647835200&x-signature=yLlad67SM1rVQtOTV9TYPODHZkY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1e52803263f7447591c4178ab010d393_1647762733?x-expires=1647835200&x-signature=vbw00WF3ESUj1STvlwOZ9R82vaU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/66ef3962df274ca3b23ff9e86bf61a46_1647762734?x-expires=1647835200&x-signature=LYHxxPjVvTCWhRsT%2FynC7UeadZ4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a6cebc9f5443d40bc5c545916693bb73/6237ff42/video/tos/useast2a/tos-useast2a-pve-0068/1a420bbe31d143369f88cb6f61e3a52a/?a=1988&br=1898&bt=949&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgNc_DXq&l=202203202229390101131350430113EC50&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxvNmY6ZjlnOzMzNzczM0ApNTxlaWU2NztoN2k5MztoZ2ctNC5mcjRnbm9gLS1kMTZzc18zLy1fYS82LV4xMC8zX2I6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a6cebc9f5443d40bc5c545916693bb73/6237ff42/video/tos/useast2a/tos-useast2a-pve-0068/1a420bbe31d143369f88cb6f61e3a52a/?a=1988&br=1898&bt=949&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThgNc_DXq&l=202203202229390101131350430113EC50&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxvNmY6ZjlnOzMzNzczM0ApNTxlaWU2NztoN2k5MztoZ2ctNC5mcjRnbm9gLS1kMTZzc18zLy1fYS82LV4xMC8zX2I6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1e52803263f7447591c4178ab010d393_1647762733~tplv-tiktok-play.jpeg?x-expires=1648418400&x-signature=AR6xgkSZLcgBm6jL8Hb7wldvT9w%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1e52803263f7447591c4178ab010d393_1647762733~tplv-tiktokx-share-play.jpeg?x-expires=1648418400&x-signature=sUURY3cbbExMDRCpWlRmwjzHtoc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6f86b1060e294b948a8969fb243399e9?x-expires=1647835200&x-signature=yLlad67SM1rVQtOTV9TYPODHZkY%3D",
+        "bitrate": 972426,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7046399293021193221",
+        "uniqueId": "help_ukraine78",
+        "nickname": "Messi is bad",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/19fd635703b96e22248067a5ee43fe3c~c5_100x100.jpeg?x-expires=1647900000&x-signature=blibUu2jq0us4uDKl9GIhmokHm0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/19fd635703b96e22248067a5ee43fe3c~c5_720x720.jpeg?x-expires=1647900000&x-signature=yBzR9eA8Tj1aY23RfudqSY14YoM%3D",
+        "avatarLarger": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/19fd635703b96e22248067a5ee43fe3c~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=05h2SpG83BjRcrJXGHlWmENK46s%3D",
+        "signature": "i follow back",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhZ1fHKAqZ6Z7BopmOLBxsF-rSRlQ1ypbi6Zsh3ueD5252XmeMTmRQQhCujcvdSgb",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077086992370060038",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7077086981552982789.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/19fd635703b96e22248067a5ee43fe3c~c5_100x100.jpeg?x-expires=1647900000&x-signature=blibUu2jq0us4uDKl9GIhmokHm0%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/19fd635703b96e22248067a5ee43fe3c~c5_720x720.jpeg?x-expires=1647900000&x-signature=yBzR9eA8Tj1aY23RfudqSY14YoM%3D",
+        "coverLarge": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/19fd635703b96e22248067a5ee43fe3c~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=05h2SpG83BjRcrJXGHlWmENK46s%3D",
+        "authorName": "Messi is bad",
+        "original": true,
+        "duration": 14,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 38
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 47,
+        "followerCount": 8,
+        "heartCount": 26,
+        "videoCount": 2,
+        "diggCount": 61,
+        "heart": 26
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

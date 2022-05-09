@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6721484628525843461",
+        "shortId": "",
+        "uniqueId": "militaryclip",
+        "nickname": "MilitaryClip",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/72339a818392e674be3385ed7c54160f~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=y6jJd6AxYaV4J0d2Lxfos02ebV8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/72339a818392e674be3385ed7c54160f~c5_720x720.jpeg?x-expires=1648314000&x-signature=IuTDpeApRVZETgQXPczxCd%2FpLBI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/72339a818392e674be3385ed7c54160f~c5_100x100.jpeg?x-expires=1648314000&x-signature=5h5Yzmwb6M1CnUrqRe%2Bion8jmVs%3D",
+        "signature": "World wide Military content",
+        "createTime": 1570804511,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvjvKAremSKI9_FUDFCKEnD5ipS3I3IGIJ42ZyJ8J6dhThh9XnC8bDc8x7msb6Wx6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://discord.gg/militaryclip",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 115700,
+        "followingCount": 383,
+        "heart": 1900000,
+        "heartCount": 1900000,
+        "videoCount": 266,
+        "diggCount": 0
+    },
+    "itemList": []
+}

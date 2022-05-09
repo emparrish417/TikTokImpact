@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6787448310405350405",
+        "shortId": "",
+        "uniqueId": "ashhbashh69",
+        "nickname": "AshBash",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9165b7f5cb3827b59fdfcd34db5f34d2~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=xNR3mflpsRb60PX6kNpa9cYfrXE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9165b7f5cb3827b59fdfcd34db5f34d2~c5_720x720.jpeg?x-expires=1648515600&x-signature=BalFES1R9KMfHnWnuTdvmd4Yw7A%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9165b7f5cb3827b59fdfcd34db5f34d2~c5_100x100.jpeg?x-expires=1648515600&x-signature=0Y2GuleeAzOKPUl4TnZ6aKurHXk%3D",
+        "signature": "Raw uncut footage - NJ",
+        "createTime": 1580326505,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXDe0nS8Psr0JqurSIaksRFvvjOIJxrNcNucEcThdK7gsPNNUjpG5fJdKLi4GBE-t",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 50200,
+        "followingCount": 39,
+        "heart": 734200,
+        "heartCount": 734200,
+        "videoCount": 264,
+        "diggCount": 0
+    },
+    "itemList": []
+}

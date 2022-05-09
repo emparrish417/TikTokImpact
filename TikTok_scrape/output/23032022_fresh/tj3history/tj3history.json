@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6976075357996762117",
+        "shortId": "",
+        "uniqueId": "tj3history",
+        "nickname": "TJ3History",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5fa675f333dc5bdf05afd72a0d47266b~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=UU9tJbuFBBIgDWvGMJ9dL6w2Qx0%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5fa675f333dc5bdf05afd72a0d47266b~c5_720x720.jpeg?x-expires=1648173600&x-signature=2xg8EIkFqqmFAOFRXLMT7g2iFfQ%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5fa675f333dc5bdf05afd72a0d47266b~c5_100x100.jpeg?x-expires=1648173600&x-signature=QQNP42PkZxscKo7ke6hsV47vkjY%3D",
+        "signature": "WWII History YouTuber - 60k subscribers . See you in the skies.",
+        "createTime": 1641481823,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADLEwvCOQS1vSLSk6g5M5JXEwWrSDqyQTuduTmUKfMFH4uD3qDupVPjFW1PQUsqkm",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/c/TJ3Gaming",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 103,
+        "followingCount": 17,
+        "heart": 1549,
+        "heartCount": 1549,
+        "videoCount": 21,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6922502419217662982",
+        "shortId": "",
+        "uniqueId": "ukraine_ru07",
+        "nickname": "\u044f \u043f\u043e\u043b\u0443 \u0423\u043a\u0440\u0430\u0438\u043d\u0435\u0446\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/437ec598fbcdfa540b9c063a42f1ac9c~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=OmCIvP%2FrqN0TqWGNO3O34fJfz8g%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/437ec598fbcdfa540b9c063a42f1ac9c~c5_720x720.jpeg?x-expires=1648234800&x-signature=QFIoYm4OHa697K5y20%2Fy4sJbq3M%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/437ec598fbcdfa540b9c063a42f1ac9c~c5_100x100.jpeg?x-expires=1648234800&x-signature=bRDL1rH3TuDMW4q3VfWbhrp02vQ%3D",
+        "signature": "\u0442\u0443\u0442 \u0441\u0441\u044b\u043b\u043e\u0447\u043a\u0430 \u043d\u0430 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u043c \u0435\u0441\u0442\u044c \u0437\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u0431\u0443\u0434\u0443 \u0440\u0430\u0434 \u0438 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 12\u043a \ud83d\ude01",
+        "createTime": 1611770763,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAI_CFW4E3gwnEliReELjXYgD3YGgey7zLqnjYzTpvmhCo22o21ip0xCiKaGA0CqMb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "https://t.me/Ben_Memes_22",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12200,
+        "followingCount": 195,
+        "heart": 222300,
+        "heartCount": 222300,
+        "videoCount": 406,
+        "diggCount": 45000
+    },
+    "itemList": []
+}

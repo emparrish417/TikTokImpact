@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6969301803360486406",
+        "shortId": "",
+        "uniqueId": "russiavs.ukrain",
+        "nickname": "Funny people",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=x2p%2Fi3E%2BgqMeV%2Biu8Ch46cBlXrY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_720x720.jpeg?x-expires=1647900000&x-signature=Mf9toJnFMFqQOXVRpVx4jgoWJRY%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd32db416eefc5537ffa968d0db667a5~c5_100x100.jpeg?x-expires=1647900000&x-signature=w5cGrKGT9eIYtw74bofm%2BwJkpxA%3D",
+        "signature": "Russia vs Ukrain",
+        "createTime": 1625750809,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAK2GVPbTtGK2AWCNkpQYplEPfit-euynWt1fUx3UTgjxXjsFqh3OPvxzVPTkfEy7O",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5,
+        "followingCount": 2,
+        "heart": 34,
+        "heartCount": 34,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7079791902945447214",
+    "desc": "Peace for Russian and Ukrainian",
+    "createTime": 1648392507,
+    "video": {
+        "id": "7079791902945447214",
+        "height": 576,
+        "width": 1024,
+        "duration": 27,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5a9b9ee9fd3d463eae03c523df15d3cf?x-expires=1648450800&x-signature=C3H7DnYLEYPygXn6yl8ugoKeZVY%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/efd73073cecc480d8a43a32bc86a685e_1648392507?x-expires=1648450800&x-signature=tFuz6g%2BnqesAFIGkVA0VJii9O5Q%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4d1baa426aab46e383f65815b06966b5_1648392507?x-expires=1648450800&x-signature=8CFIuAXnUtPBmGMgNVtRvHUt2HA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ff8d76539f715da37974b4bbdd350ffe/62415e22/video/tos/useast5/tos-useast5-ve-0068c003-tx/e7061b1f265641b7a4613311ed5acc1f/?a=1988&br=3174&bt=1587&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdGagDXq&l=2022032801043901011313513424E37920&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzNvbGU6Zmc6PDMzZzczNEApZmg5ZmRpO2U0Nzg7ZjNkOmctZGBscjRfZi1gLS1kMS9zczViYDYyXzAzYWM1NmE0LjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ff8d76539f715da37974b4bbdd350ffe/62415e22/video/tos/useast5/tos-useast5-ve-0068c003-tx/e7061b1f265641b7a4613311ed5acc1f/?a=1988&br=3174&bt=1587&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdGagDXq&l=2022032801043901011313513424E37920&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzNvbGU6Zmc6PDMzZzczNEApZmg5ZmRpO2U0Nzg7ZjNkOmctZGBscjRfZi1gLS1kMS9zczViYDYyXzAzYWM1NmE0LjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/efd73073cecc480d8a43a32bc86a685e_1648392507~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=5QYHjFs9N7H9K5WUOrHPLId44hc%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/efd73073cecc480d8a43a32bc86a685e_1648392507~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=yENhZWTquJ7LJ4IgVMsGtggYips%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5a9b9ee9fd3d463eae03c523df15d3cf?x-expires=1648450800&x-signature=EFc%2BSamJcXVRAXVJTiwYGTouaCs%3D",
+        "bitrate": 1625432,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6659132975803285509",
+        "uniqueId": "laaakana",
+        "nickname": "David Bailey",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1628320919798789~c5_100x100.jpeg?x-expires=1648515600&x-signature=6UZ4fVA63%2F%2BAT35OJ8RuLYORkKo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1628320919798789~c5_720x720.jpeg?x-expires=1648515600&x-signature=Ev01AfSqxelp3gdq5l56D%2BySCvw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1628320919798789~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=Y5b0XDXEUDWmttALvLuTlEMh248%3D",
+        "signature": "Spam Account\n cash.app/$LaaDavid\n#LogicPro #M1 #FinalCutPro\n#MainStage #BookTalk",
+        "verified": false,
+        "secUid": "MS4wLjABAAAANxJCQ0ECKzd_HJSPg-5qlUomqXNk5ygwOoEaOnphigt_BrpgLdq8H12DQYR4WDP1",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7079791878123866926",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7079791906632354603.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1628320919798789~c5_100x100.jpeg?x-expires=1648515600&x-signature=6UZ4fVA63%2F%2BAT35OJ8RuLYORkKo%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1628320919798789~c5_720x720.jpeg?x-expires=1648515600&x-signature=Ev01AfSqxelp3gdq5l56D%2BySCvw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1628320919798789~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=Y5b0XDXEUDWmttALvLuTlEMh248%3D",
+        "authorName": "David Bailey",
+        "original": true,
+        "duration": 27,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 177
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 20,
+        "followerCount": 55,
+        "heartCount": 57,
+        "videoCount": 7,
+        "diggCount": 767,
+        "heart": 57
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

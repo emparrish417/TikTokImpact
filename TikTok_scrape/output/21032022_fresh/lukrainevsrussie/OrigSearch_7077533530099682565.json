@@ -1,0 +1,132 @@
+{
+    "id": "7077533530099682565",
+    "desc": "#duo avec @sayriksyt",
+    "createTime": 1647866689,
+    "video": {
+        "id": "7077533530099682565",
+        "height": 1024,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bf51d554a4f2491a8e7b836318443131?x-expires=1647921600&x-signature=S%2BOGSf2TA5nsFJyMiW3GfE9P08E%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/506e8fa05f45472ebb4dc938433a6f63_1647866690?x-expires=1647921600&x-signature=DybVdVwTfcm%2FAP2aSzGpD0m6jto%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/57b14b23c5f6464f86db48d7c168d021_1647866691?x-expires=1647921600&x-signature=tRMFHQGxClrZyDgkUXIkAfa7uTQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/104f80ee31afce317ab93401a60cda3f/6239509e/video/tos/useast2a/tos-useast2a-pve-0068/8288ee677bc94e0abd38f080f9e54c5a/?a=1988&br=968&bt=484&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThGgKMDXq&l=202203212228560101131352001EE636E5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzh2OWg6ZjU6OzMzNzczM0ApPDdkZzk2PGQ3N2VpPGQ7ZWcyMmhecjRnM3BgLS1kMTZzczNhMy9hMTUwYGFiYWJgLzY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/104f80ee31afce317ab93401a60cda3f/6239509e/video/tos/useast2a/tos-useast2a-pve-0068/8288ee677bc94e0abd38f080f9e54c5a/?a=1988&br=968&bt=484&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThGgKMDXq&l=202203212228560101131352001EE636E5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzh2OWg6ZjU6OzMzNzczM0ApPDdkZzk2PGQ3N2VpPGQ7ZWcyMmhecjRnM3BgLS1kMTZzczNhMy9hMTUwYGFiYWJgLzY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/506e8fa05f45472ebb4dc938433a6f63_1647866690~tplv-tiktok-play.jpeg?x-expires=1648504800&x-signature=4ffb7OtbfC4Nwj21BvjKa%2BO01pI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/506e8fa05f45472ebb4dc938433a6f63_1647866690~tplv-tiktokx-share-play.jpeg?x-expires=1648504800&x-signature=HUTRddIJc4xaSk%2B358OaxE2E0LQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bf51d554a4f2491a8e7b836318443131?x-expires=1647921600&x-signature=S%2BOGSf2TA5nsFJyMiW3GfE9P08E%3D",
+        "bitrate": 495775,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6923231538068259846",
+        "uniqueId": "lukrainevsrussie",
+        "nickname": "\u2026.....",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/34ebab5c43a457ee3777313d52bb5342~c5_100x100.jpeg?x-expires=1647986400&x-signature=JMvry%2FNVtgKARY0baBwAe5ypAug%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/34ebab5c43a457ee3777313d52bb5342~c5_720x720.jpeg?x-expires=1647986400&x-signature=JZSfPfVuBQN1C6iI5z%2ByqSOd8wU%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/34ebab5c43a457ee3777313d52bb5342~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=B7rRwHU1YWRC%2Fpy45aI%2BVVZGsaI%3D",
+        "signature": "100\u2714\ufe0f200\u2714\ufe0f300\u2714\ufe0f 400\u2714\ufe0f500\u2714\ufe0f600\u274c\n1000\u274c2000\u274c3000\u274c",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAy8yYjul2zKV5awUmVMYiKm5PBJVJzAHER6bCOnDUvKdkG0u2kY2ir-h4RLMLnT2b",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7009397730875378438",
+        "title": "son original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7009397812773358342.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f87b0a713009bb34ee3b766f9afc7ee7~c5_100x100.jpeg?x-expires=1647986400&x-signature=c4Iaa0iNa6zDWbnFGeHToeNVx%2F0%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f87b0a713009bb34ee3b766f9afc7ee7~c5_720x720.jpeg?x-expires=1647986400&x-signature=7273aPrG4BTpBM1ZvRGyLf79YAs%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f87b0a713009bb34ee3b766f9afc7ee7~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=kOGWvsGJBBwRY6AsjhxqmE9cmX4%3D",
+        "authorName": "Kyky7skills",
+        "original": true,
+        "duration": 21,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "40631",
+            "title": "duo",
+            "desc": "Use our Duet feature because two is always better than one",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/379b30bc607189673ffdd1d1b1e01d8e",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/379b30bc607189673ffdd1d1b1e01d8e",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/379b30bc607189673ffdd1d1b1e01d8e",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 186,
+        "shareCount": 3,
+        "commentCount": 14,
+        "playCount": 1931
+    },
+    "duetInfo": {
+        "duetFromId": "7062430406632639750"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "7062430406632639750",
+            "start": 10,
+            "end": 20,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6959696892058518534",
+            "isCommerce": false,
+            "userUniqueId": "sayriksyt",
+            "secUid": "MS4wLjABAAAA8YC6PZGajmPCRLBkX795KMrgLZQ3yIZ-sHfLVrUGVC168pIBtPVMfbawyi6NwdMu",
+            "subType": 1
+        },
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 4,
+            "hashtagName": "duo",
+            "hashtagId": "40631",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 682,
+        "followerCount": 565,
+        "heartCount": 2486,
+        "videoCount": 121,
+        "diggCount": 451,
+        "heart": 2486
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

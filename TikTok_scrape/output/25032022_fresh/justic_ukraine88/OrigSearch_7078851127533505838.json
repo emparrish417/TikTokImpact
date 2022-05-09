@@ -1,0 +1,99 @@
+{
+    "id": "7078851127533505838",
+    "desc": "",
+    "createTime": 1648173465,
+    "video": {
+        "id": "7078851127533505838",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/869018ffe4334de69c77d5cfae79cea7?x-expires=1648249200&x-signature=1oHQxBje9g8EsjS9D2Nb7oSaxJI%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/99097d5c4446404ca886144e054372ed_1648173465?x-expires=1648249200&x-signature=rQu1G1HHCncrRsj%2FcM3uGyJcI5Y%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7df51843eebf426098ff58a21ed25a6b_1648173466?x-expires=1648249200&x-signature=1fgIDo4i%2FVp857NdfUwkjmybf6Q%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2a14e6f2ed65b558efae82c3529d58f6/623e4f4d/video/tos/useast5/tos-useast5-pve-0068-tx/3d4ea85ffb2543a0ae7dd877e5ef52bc/?a=1988&br=416&bt=208&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThFNzJDXq&l=2022032517245101011300622724F663F0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlqNTU6ZnBsOzMzZzczNEApMzY8aTgzOmU1NzY8NWQ3ZGdvcmo2cjRnL3JgLS1kMS9zc2MyNWBiMGIyYC5iMl9jLTM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2a14e6f2ed65b558efae82c3529d58f6/623e4f4d/video/tos/useast5/tos-useast5-pve-0068-tx/3d4ea85ffb2543a0ae7dd877e5ef52bc/?a=1988&br=416&bt=208&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThFNzJDXq&l=2022032517245101011300622724F663F0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlqNTU6ZnBsOzMzZzczNEApMzY8aTgzOmU1NzY8NWQ3ZGdvcmo2cjRnL3JgLS1kMS9zc2MyNWBiMGIyYC5iMl9jLTM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/99097d5c4446404ca886144e054372ed_1648173465~tplv-tiktok-play.jpeg?x-expires=1648832400&x-signature=%2B9xnaZ62vqjtJl7JXdxOEh%2FAd%2BQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/99097d5c4446404ca886144e054372ed_1648173465~tplv-tiktokx-share-play.jpeg?x-expires=1648832400&x-signature=989kb9GK2cEEtQ1wio7YZRGWRss%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/869018ffe4334de69c77d5cfae79cea7?x-expires=1648249200&x-signature=1oHQxBje9g8EsjS9D2Nb7oSaxJI%3D",
+        "bitrate": 213285,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7040544747236377605",
+        "uniqueId": "justic_ukraine88",
+        "nickname": "\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4de0ed6f692ab38acaa1b7e5cccf88e7~c5_100x100.jpeg?x-expires=1648314000&x-signature=WoNZjeJ%2BOIFv%2FTr6Ad%2Fifbm8YAE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4de0ed6f692ab38acaa1b7e5cccf88e7~c5_720x720.jpeg?x-expires=1648314000&x-signature=11ITSIYh7YAxl48aS9fzEIYJ8PA%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4de0ed6f692ab38acaa1b7e5cccf88e7~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=H1ANcxb2ncAZHGgCwT68Yj0wEXM%3D",
+        "signature": "Please follow",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhdHO-sZ0wBiGKrPrDFQrCHW7HSAtuMI32V1sbm656Sxwmj5MX1I25PZcC1NUifps",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6795407744489752577",
+        "title": "Just a Cloud Away",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a9dc60e62f334229af15a0b1650029ff",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
+        "authorName": "Pharrell Williams",
+        "original": false,
+        "duration": 60,
+        "album": "Despicable Me 2 (Original Motion Picture Soundtrack)"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 7,
+        "playCount": 29
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 303,
+        "followerCount": 190,
+        "heartCount": 759,
+        "videoCount": 55,
+        "diggCount": 4677,
+        "heart": 759
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Help me get ",
+                "200"
+            ]
+        }
+    ],
+    "isAd": false
+}

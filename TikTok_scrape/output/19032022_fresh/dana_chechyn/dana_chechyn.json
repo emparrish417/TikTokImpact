@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6923985211012121606",
+        "shortId": "",
+        "uniqueId": "dana_chechyn",
+        "nickname": "Dana",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23bd1e13f80c80fce948770d4c95bca3~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=ILPUqdocyfOp3kMfzJWWLAh1rOM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23bd1e13f80c80fce948770d4c95bca3~c5_720x720.jpeg?x-expires=1647817200&x-signature=vEDrbGngrHmOJhZFNXMlbAUzL70%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23bd1e13f80c80fce948770d4c95bca3~c5_100x100.jpeg?x-expires=1647817200&x-signature=cfyycfdpmcoXJyW2QK045uNYUb4%3D",
+        "signature": ".",
+        "createTime": 1612116225,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGUeFdUKmzkE8b6VdhQB56nX472SBMkRueRMMJ8jwXx5XRKN_cl4OabmlR4eidQau",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 26,
+        "followingCount": 164,
+        "heart": 54,
+        "heartCount": 54,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

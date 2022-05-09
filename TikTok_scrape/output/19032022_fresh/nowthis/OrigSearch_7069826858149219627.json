@@ -1,0 +1,133 @@
+{
+    "id": "7069826858149219627",
+    "desc": "A Ukrainian couple got married in #Kyiv as Russian forces invaded. Now, they\u2019re joining the fight.",
+    "createTime": 1646072339,
+    "video": {
+        "id": "7069826858149219627",
+        "height": 1024,
+        "width": 576,
+        "duration": 48,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cdaf3805cec54cd99bc82c751228cbc5_1646072347~tplv-dmt-logom:tos-useast5-p-0000-tx/18c6ef7551154b8e9f91f7b76d5962bd.image?x-expires=1647752400&x-signature=a%2F2SkEOKyWpCt0jQdgocQyxluH4%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6a7d0bd74c284ac881f4b3d995b9d036_1646072340?x-expires=1647752400&x-signature=OxY5tbK8a1Eka2jJRCbFSXFS76w%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5e23c8cbc1854f69bb3d1a7a9250b3c1_1646072340?x-expires=1647752400&x-signature=%2BqoOGLzgcRVOQSQr9ccf966d8Ec%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e81c6561d99d9763ed87d934fc2877aa/6236be8c/video/tos/useast5/tos-useast5-ve-0068c004-tx/9033b06a07f245cca6de6b9bfc3606ec/?a=1988&br=1866&bt=933&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi.b_DXq&l=20220319234044010113006135062C44F5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lwajo6ZnVrOzMzZzczNEApNWloOWU4M2U1Nzs7NjxmaWdgZzVrcjRfLWJgLS1kMS9zc2MtNmAwXi42NmNeY2NjY2E6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e81c6561d99d9763ed87d934fc2877aa/6236be8c/video/tos/useast5/tos-useast5-ve-0068c004-tx/9033b06a07f245cca6de6b9bfc3606ec/?a=1988&br=1866&bt=933&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thi.b_DXq&l=20220319234044010113006135062C44F5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lwajo6ZnVrOzMzZzczNEApNWloOWU4M2U1Nzs7NjxmaWdgZzVrcjRfLWJgLS1kMS9zc2MtNmAwXi42NmNeY2NjY2E6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6a7d0bd74c284ac881f4b3d995b9d036_1646072340~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=1M%2FBkzns%2BtEOfVlEYsRSgW08aQo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6a7d0bd74c284ac881f4b3d995b9d036_1646072340~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=ViOy0ERasG3uEM1k6%2ByhEIySTMM%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cdaf3805cec54cd99bc82c751228cbc5_1646072347?x-expires=1647752400&x-signature=D8ApHmX5Lnwk%2BLb8lD50KpippbY%3D",
+        "bitrate": 956185,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6650201683875299333",
+        "uniqueId": "nowthis",
+        "nickname": "nowthis",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_100x100.jpeg?x-expires=1647817200&x-signature=gClnZUKVeiFdO6U2l1RBYCSmQVk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_720x720.jpeg?x-expires=1647817200&x-signature=GnUsuHHMFZM4YiXEj%2Bn5mri8JEI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=KAg4Eq68nx8y1HOxqf15RyAS5cE%3D",
+        "signature": "Common Cents, Ep 1 \ud83d\udc47",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAqqXqeS9G9YFlTYklY1JXLQYP32to1WC0AFGrmwr5tHFjGBj01YAKRDsOw68lyeMW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069826823278070574",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7069826847056071467.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_100x100.jpeg?x-expires=1647817200&x-signature=gClnZUKVeiFdO6U2l1RBYCSmQVk%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_720x720.jpeg?x-expires=1647817200&x-signature=GnUsuHHMFZM4YiXEj%2Bn5mri8JEI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651842204625926~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=KAg4Eq68nx8y1HOxqf15RyAS5cE%3D",
+        "authorName": "nowthis",
+        "original": true,
+        "duration": 48,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "5030717",
+            "title": "kyiv",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 853200,
+        "shareCount": 16600,
+        "commentCount": 4648,
+        "playCount": 3700000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 34,
+            "end": 39,
+            "hashtagName": "kyiv",
+            "hashtagId": "5030717",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 54,
+        "followerCount": 4400000,
+        "heartCount": 148900000,
+        "videoCount": 1160,
+        "diggCount": 397,
+        "heart": 148900000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Love in the time of\nPutin's war on Ukraine"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "Love during\nan invasion"
+            ]
+        }
+    ],
+    "isAd": false
+}

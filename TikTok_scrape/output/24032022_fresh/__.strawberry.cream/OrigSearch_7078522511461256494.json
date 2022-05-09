@@ -1,0 +1,173 @@
+{
+    "id": "7078522511461256494",
+    "desc": "#duet with @ffion.gwen.evans #Ukraine",
+    "createTime": 1648096954,
+    "video": {
+        "id": "7078522511461256494",
+        "height": 576,
+        "width": 648,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8610879d2ecf4396b683fd4c94c59262?x-expires=1648170000&x-signature=swYbkuZShZFG4De%2F5if4Hcyv6ZM%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/67cbb40c68a048ca8597e70b36449da6_1648096954?x-expires=1648170000&x-signature=MTiBJ9xJqLILi8WwhB1EEjW1kW8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/de670dd59beb4b5fb2ae52a773a4dc3e_1648096954?x-expires=1648170000&x-signature=%2BgpuqMEi6C9%2FQyKKKYYJJbR29QQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5ef30707d1b3cd0a69ebc2259d05c8d2/623d1d03/video/tos/useast5/tos-useast5-ve-0068c004-tx/16e59088be4a47b9a45f9c70170d20f1/?a=1988&br=270&bt=135&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqopJDXq&l=2022032419380401011313519224294423&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVzMzo6ZnF5OzMzZzczNEApZTc8M2g1PDxoN2hkPGdmOmduZmMxcjRfXnFgLS1kMS9zczYuMy81NjRiXl4yMy1hNjE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5ef30707d1b3cd0a69ebc2259d05c8d2/623d1d03/video/tos/useast5/tos-useast5-ve-0068c004-tx/16e59088be4a47b9a45f9c70170d20f1/?a=1988&br=270&bt=135&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqopJDXq&l=2022032419380401011313519224294423&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVzMzo6ZnF5OzMzZzczNEApZTc8M2g1PDxoN2hkPGdmOmduZmMxcjRfXnFgLS1kMS9zczYuMy81NjRiXl4yMy1hNjE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/67cbb40c68a048ca8597e70b36449da6_1648096954~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=VjGRi8J04tr%2ByTBk4xN5%2B6S5F3Y%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/67cbb40c68a048ca8597e70b36449da6_1648096954~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=xaBFLM64WtBK8b3ibt1mO0bGW%2Fk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8610879d2ecf4396b683fd4c94c59262?x-expires=1648170000&x-signature=swYbkuZShZFG4De%2F5if4Hcyv6ZM%3D",
+        "bitrate": 138574,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7026155488255853615",
+        "uniqueId": "__.strawberry.cream",
+        "nickname": "\u2600\ufe0f",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd15999392ed35cd74cb912dd34d44d5~c5_100x100.jpeg?x-expires=1648234800&x-signature=GHQIpz%2F8eVPuAkfQI5nmlBy9%2FTM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd15999392ed35cd74cb912dd34d44d5~c5_720x720.jpeg?x-expires=1648234800&x-signature=lPZyHBzRSjS6GXoQfVPJwRtA1pQ%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bd15999392ed35cd74cb912dd34d44d5~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=Bn3I0dQx2s5ZSf0rqfSYO31Om98%3D",
+        "signature": "My other account:\nStrawberry._frogg0",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiR_Xuw1AdWelhAGmL9t5rBGHB7jbnfXTvwzACYPZbmHzlnx70I3Wi5_aUZE0BqrH",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7037954445849742085",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7037954475902241542.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/481f0362b01ebde6e15a6b0a2a95f877~c5_100x100.jpeg?x-expires=1648234800&x-signature=vIKuOlnhOdNt7P%2BvBVIwFUxwRh8%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/481f0362b01ebde6e15a6b0a2a95f877~c5_720x720.jpeg?x-expires=1648234800&x-signature=YyHDp2eVzCnqLx%2Fd8w3qljoawhg%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/481f0362b01ebde6e15a6b0a2a95f877~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=KUgsAKOVFSzzmQQJy4azGAwKVcQ%3D",
+        "authorName": "mira",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "30496",
+            "title": "duet",
+            "desc": "Use our Duet feature because two is always better than one.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 420
+    },
+    "duetInfo": {
+        "duetFromId": "7070237358909623558"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "7070237358909623558",
+            "start": 11,
+            "end": 28,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6619186069413101573",
+            "isCommerce": false,
+            "userUniqueId": "ffion.gwen.evans",
+            "secUid": "MS4wLjABAAAAbszCNCOcDf9JbKnBe3iiw19zUkb9lHX057PfwjNkzyTbelRb9ECys8gxFLWCFwnK",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 5,
+            "hashtagName": "duet",
+            "hashtagId": "30496",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 29,
+            "end": 37,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 165,
+        "followerCount": 436,
+        "heartCount": 6446,
+        "videoCount": 78,
+        "diggCount": 698,
+        "heart": 6446
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Let\u2019s spell Ukraine",
+                "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+                "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+                "\ud83c\uddfa\ud83c\udde6",
+                "\ud83c\uddfa\ud83c\udde6",
+                "\ud83c\uddfa\ud83c\udde6",
+                "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+                "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+                "Duet with an K"
+            ]
+        }
+    ],
+    "isAd": false
+}

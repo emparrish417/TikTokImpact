@@ -1,0 +1,98 @@
+{
+    "id": "7079661320206863621",
+    "desc": "",
+    "createTime": 1648362105,
+    "video": {
+        "id": "7079661320206863621",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3a2ca06ad933400cbdd7757dc43f84d8?x-expires=1648450800&x-signature=p3uGe%2Ff%2FsjE10kyXE%2FIVaBDZ%2BZc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0a238bd77e1c49dcb3ad23db5b919fba_1648362106?x-expires=1648450800&x-signature=jDHC9tAMcXhvq7TrjoyssGxG5yI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/507ee2fb410146faa29c90455b604dcd_1648362106?x-expires=1648450800&x-signature=k31uPK1C%2BONMnJNid3Ky9adzcH4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2dbb894ad413dc6e7fc449c08701d096/62415e23/video/tos/useast2a/tos-useast2a-pve-0068/f274829e891a48d6ace85693cc07dfb6/?a=1988&br=2724&bt=1362&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbGagDXq&l=2022032801045201011313514321BEC590&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anFma2Y6ZnQzPDMzNzczM0ApOTo4NTk6PGRmNzY6aTM6aGctbG1scjRvMS1gLS1kMTZzczFeYTQtNGEyYjUtNl5fLi06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2dbb894ad413dc6e7fc449c08701d096/62415e23/video/tos/useast2a/tos-useast2a-pve-0068/f274829e891a48d6ace85693cc07dfb6/?a=1988&br=2724&bt=1362&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbGagDXq&l=2022032801045201011313514321BEC590&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anFma2Y6ZnQzPDMzNzczM0ApOTo4NTk6PGRmNzY6aTM6aGctbG1scjRvMS1gLS1kMTZzczFeYTQtNGEyYjUtNl5fLi06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0a238bd77e1c49dcb3ad23db5b919fba_1648362106~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=dkC%2BTE6FnrolT8pOIjex0CGT4Mo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0a238bd77e1c49dcb3ad23db5b919fba_1648362106~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=Z36963j1Sh9%2BLrxSyJ3PEIhkn1Q%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3a2ca06ad933400cbdd7757dc43f84d8?x-expires=1648450800&x-signature=p3uGe%2Ff%2FsjE10kyXE%2FIVaBDZ%2BZc%3D",
+        "bitrate": 1395674,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6888766117818598406",
+        "uniqueId": "hoffedas_ukraine_gewinnt",
+        "nickname": "f\u00fcr_frieden_russland+ukraine\ud83e\udd1d",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/483252a80d25d3a8ba4314082cb4eafd~c5_100x100.jpeg?x-expires=1648515600&x-signature=aABm7rDVSOCIBYKicTiAl%2BSSXD0%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/483252a80d25d3a8ba4314082cb4eafd~c5_720x720.jpeg?x-expires=1648515600&x-signature=v9uwuwYv3I%2BFVpN%2BB%2B8SXCpnW1I%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/483252a80d25d3a8ba4314082cb4eafd~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=hWTLzz%2BACUuGtxb%2Fjv1%2BbTxZvgc%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\u262e\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83e\udd1d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJYcHD4HKyfD415AkCrNlNIWax1UH4kGr93hz67-9rtHutDRbSfwTygQ2zqF-Bqqi",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078721130776972038",
+        "title": "Originalton",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7078721152985844486.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ff17302d0aef302acdd247f50fdeb75~c5_100x100.jpeg?x-expires=1648515600&x-signature=VLpAMxPM4hVEyLRUzH3MZfyEhI4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ff17302d0aef302acdd247f50fdeb75~c5_720x720.jpeg?x-expires=1648515600&x-signature=eDb90%2Fr8effHdrI5PzCBDHmywgw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2ff17302d0aef302acdd247f50fdeb75~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=Oqq9cqSX%2FZRr9Rm%2B5W%2FdlVny2NI%3D",
+        "authorName": "\ud83d\udda4\ud83e\udd77",
+        "original": true,
+        "duration": 17,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 99,
+        "shareCount": 0,
+        "commentCount": 13,
+        "playCount": 1871
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 5199,
+        "followerCount": 5302,
+        "heartCount": 33100,
+        "videoCount": 322,
+        "diggCount": 7761,
+        "heart": 33100
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Sorry Mexy nochmal Ruhe in Frieden Kiara\ud83d\ude2d\ud83d\ude2a\ud83d\ude2a\ud83e\udd7a"
+            ]
+        }
+    ],
+    "isAd": false
+}

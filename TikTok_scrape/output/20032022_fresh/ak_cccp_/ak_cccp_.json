@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6897619185587110913",
+        "shortId": "",
+        "uniqueId": "ak_cccp_",
+        "nickname": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0443\u0437\u044c\u043c\u0438\u043d \u041e\u043b\u0435\u0433\u043e\u0432\u0438\u0447",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/48832287bba0e4d92e0c49c2ca2efd47.jpeg?x-expires=1647900000&x-signature=06DpKtWGwLsACfkZA91%2BPEvvehY%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/48832287bba0e4d92e0c49c2ca2efd47.jpeg?x-expires=1647900000&x-signature=tGz%2BQfjedjNyBxdU9xGLNCV%2Fhf0%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/48832287bba0e4d92e0c49c2ca2efd47.jpeg?x-expires=1647900000&x-signature=i%2FEhNrFVFTVyPCCLXPhEXhcvK48%3D",
+        "signature": "\u041d\u0415 \u0414\u0410\u0414\u0418\u041c \u0417\u0410\u0411\u042b\u0422\u042c \u041d\u0410\u0428\u0423 \u041e\u0411\u0429\u0423\u042e \u0418\u0421\u0422\u041e\u0420\u0418\u042e, \u0413\u0415\u0420\u041e\u0415\u0412 \u0412\u041e\u0412\ud83d\udcaa\u2665\ufe0f\ud83d\udd4a\ufe0f\ud83e\udd40\u041d\u041e\u0412\u041e\u0421\u0422\u0418 \u0421\u041d\u0413 \n\u0422\u0415\u041b\u0415\u0413\u0420\u0410\u041c\u041c \ud83d\udc47",
+        "createTime": 1605977593,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiW1d3hYlYk4ItprUdS4DUipA1X2HCdkVvGoVzrp7y4hhdBQeEhB59YiUzz-RjpCG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/ak_cccp",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13700,
+        "followingCount": 215,
+        "heart": 284700,
+        "heartCount": 284700,
+        "videoCount": 379,
+        "diggCount": 0
+    },
+    "itemList": []
+}

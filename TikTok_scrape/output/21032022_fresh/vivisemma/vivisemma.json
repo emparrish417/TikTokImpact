@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7077292329630975019",
+        "shortId": "",
+        "uniqueId": "vivisemma",
+        "nickname": "Vivi",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e9dce935e93399919fe3f433e4ab3798~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=hzhsn56QYbzdT0tp8oSARlYwnN4%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e9dce935e93399919fe3f433e4ab3798~c5_720x720.jpeg?x-expires=1647986400&x-signature=8cz8Sm%2Fr08S35D9QvjwKaIrlAHc%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e9dce935e93399919fe3f433e4ab3798~c5_100x100.jpeg?x-expires=1647986400&x-signature=lQpFGGuhmjFcuhIn%2Fd78epcr1C4%3D",
+        "signature": "News Junkie",
+        "createTime": 1647810650,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2n5sQcH_ab0IUtkOViJfLOjmStUDqotlhFmO3J6Camd9C5H-HL-69vTG4bFKIIIq",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 112,
+        "followingCount": 337,
+        "heart": 28,
+        "heartCount": 28,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6913966342404719617",
+        "shortId": "",
+        "uniqueId": "yurii_0001",
+        "nickname": "#",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/288151bee7ec4c96518d71d599ed130c.jpeg?x-expires=1647900000&x-signature=iqDb0RyUphRoo4DoRqpOmKGsuhQ%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/288151bee7ec4c96518d71d599ed130c.jpeg?x-expires=1647900000&x-signature=FeCnZFUCW5gLblweThXRqPb6JrU%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/288151bee7ec4c96518d71d599ed130c.jpeg?x-expires=1647900000&x-signature=SqlQdAiRKkES6bKPt8l9U91FgeM%3D",
+        "signature": "",
+        "createTime": 1609783453,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtlwIg9Zeb__H7wwqmM4w18HNJbCgkk9nkEqGGCyCOuohisxmgZvmAn_gD1F43mwF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 30,
+        "followingCount": 653,
+        "heart": 152,
+        "heartCount": 152,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

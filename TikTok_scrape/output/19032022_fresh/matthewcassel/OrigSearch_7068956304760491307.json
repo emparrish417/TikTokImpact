@@ -1,0 +1,165 @@
+{
+    "id": "7068956304760491307",
+    "desc": "Last night\u2019s fighting in Kyiv was the most intense yet since #Russia invaded #Ukraine three days ago. Reporting for @viceworldnews",
+    "createTime": 1645869653,
+    "video": {
+        "id": "7068956304760491307",
+        "height": 1024,
+        "width": 576,
+        "duration": 45,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c17066db2b82455fa95a0d62edfb7d2d?x-expires=1647752400&x-signature=CZXtvN3KiQtfef9aR0vqFxHjLB0%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b402b36d6ef246f39c7855a77cb8d233_1645869654?x-expires=1647752400&x-signature=bNhtoHliU%2B7YzasCDKZ%2F%2F6km6Ko%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2cdd3e4a511541f7bd7d3fb7ea5ece02_1645869654?x-expires=1647752400&x-signature=Wz64hwz4%2FZHFS0B8lhDm6P8jsCM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4e27ed7b5f421d7fc845c5b243c9afb0/6236bebe/video/tos/useast5/tos-useast5-ve-0068c003-tx/dbad274632334333a97d15b9113e56ad/?a=1988&br=4582&bt=2291&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3bb_DXq&l=20220319234136010113006132114782FF&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Jpdmg6ZnB5OzMzZzczNEApNTM4N2hnZ2RkNzk2NzhpOGdsYGdgcjQwZWBgLS1kMS9zcy4yMV8tLWExLmI0MjAyMGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4e27ed7b5f421d7fc845c5b243c9afb0/6236bebe/video/tos/useast5/tos-useast5-ve-0068c003-tx/dbad274632334333a97d15b9113e56ad/?a=1988&br=4582&bt=2291&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3bb_DXq&l=20220319234136010113006132114782FF&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Jpdmg6ZnB5OzMzZzczNEApNTM4N2hnZ2RkNzk2NzhpOGdsYGdgcjQwZWBgLS1kMS9zcy4yMV8tLWExLmI0MjAyMGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b402b36d6ef246f39c7855a77cb8d233_1645869654~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=AIRgjhW7Un7J6N540q9%2BgaUmVoQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b402b36d6ef246f39c7855a77cb8d233_1645869654~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=7wKAqtuNYmfRKGSMwk%2Bq3p%2FwoWI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c17066db2b82455fa95a0d62edfb7d2d?x-expires=1647752400&x-signature=O8kNc%2Bg6aFkMdzTn4ylUUs7X2kU%3D",
+        "bitrate": 2346857,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6744206405044126726",
+        "uniqueId": "matthewcassel",
+        "nickname": "matthewcassel",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_100x100.jpeg?x-expires=1647817200&x-signature=NlY9jHUu1KYeNiD8L3t%2FMfpK3ok%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_720x720.jpeg?x-expires=1647817200&x-signature=ASqKbdJzZOm9Ppkoo0%2Fs%2BdjRGZ0%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=66brgMI7XfJqMSukFjogL2ujYWE%3D",
+        "signature": "VICE News correspondent",
+        "verified": false,
+        "secUid": "MS4wLjABAAAACSxXQDf4ZzvpDfUBEwJoZxfM4KFriZjaJFHqYUt7axlTPzegapeQMaIzYVf1PiYv",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068956231121275694",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7068956286624287530.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_100x100.jpeg?x-expires=1647817200&x-signature=NlY9jHUu1KYeNiD8L3t%2FMfpK3ok%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_720x720.jpeg?x-expires=1647817200&x-signature=ASqKbdJzZOm9Ppkoo0%2Fs%2BdjRGZ0%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=66brgMI7XfJqMSukFjogL2ujYWE%3D",
+        "authorName": "matthewcassel",
+        "original": true,
+        "duration": 45,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 211100,
+        "shareCount": 3860,
+        "commentCount": 1947,
+        "playCount": 1700000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 116,
+            "end": 130,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6886828060440937477",
+            "isCommerce": false,
+            "userUniqueId": "viceworldnews",
+            "secUid": "MS4wLjABAAAAzfZva6oX4AzL5hQVHS72tcUCstZTv-Tk0s4-A2Gp7aR2-J8NilayROuktItlzr76",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 61,
+            "end": 68,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 77,
+            "end": 85,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 17,
+        "followerCount": 282600,
+        "heartCount": 3700000,
+        "videoCount": 16,
+        "diggCount": 96,
+        "heart": 3700000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "The fighting in Kyiv overnight was the most intense yet and continues  as the Russians forces continue their assault on the Ukrainian capital"
+            ]
+        }
+    ],
+    "isAd": false
+}

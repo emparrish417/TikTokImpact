@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6887370430266737669",
+        "shortId": "",
+        "uniqueId": "aravosis",
+        "nickname": "John Aravosis",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=hRr030Mu5%2BsT6RxTnsNcrqOweRw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_720x720.jpeg?x-expires=1648234800&x-signature=qOaxTQjBS7fLUBaf%2FgxVS40JYqI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dca08a33762bc020041ce870de5d92df~c5_100x100.jpeg?x-expires=1648234800&x-signature=i1u2pEkygB6%2BdmkG8ZDva%2Fw00D8%3D",
+        "signature": "Lawyer\nJournalist\nAdvocate\n \nDaily LIVE updates and Q&A about Ukraine.",
+        "createTime": 1604788878,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAggOIu6D8NPtN_ebORmkNYr3MNsvhWLzT3Tx9Rde6Rt5qHuUeiC7Nnn4vwBW1dxpk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "HTTPS://beacons.ai/aravosis",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 388300,
+        "followingCount": 78,
+        "heart": 16800000,
+        "heartCount": 16800000,
+        "videoCount": 1419,
+        "diggCount": 634
+    },
+    "itemList": []
+}

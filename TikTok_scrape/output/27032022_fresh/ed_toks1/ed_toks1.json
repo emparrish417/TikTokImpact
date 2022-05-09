@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7077940992645432362",
+        "shortId": "",
+        "uniqueId": "ed_toks1",
+        "nickname": "ed_toks1",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/50bf74c374bcdeebb8b856fa3f6bedd2~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=L8q%2BdNEdXxqyL5%2BEWu3YJ28Ed68%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/50bf74c374bcdeebb8b856fa3f6bedd2~c5_720x720.jpeg?x-expires=1648515600&x-signature=YLjVXxMyvFpixTFd3EJGnbwIX2I%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/50bf74c374bcdeebb8b856fa3f6bedd2~c5_100x100.jpeg?x-expires=1648515600&x-signature=wezPUCtjsw33l3BnWl3Mc9%2FrjKo%3D",
+        "signature": "Backup acct\nHelp Send USMC Vet & Supplies to Ukraine\nLink & Socials in Linktree",
+        "createTime": 1647961647,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAP7DrEjWjDfyiclHfCp7mn412w22KCA27sSlA20gEPmPOnE8Q8KFQ4xUOmRRwpL5-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/eddye2",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1069,
+        "followingCount": 25,
+        "heart": 5461,
+        "heartCount": 5461,
+        "videoCount": 74,
+        "diggCount": 0
+    },
+    "itemList": []
+}

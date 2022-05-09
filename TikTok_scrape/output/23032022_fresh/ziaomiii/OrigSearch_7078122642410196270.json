@@ -1,0 +1,120 @@
+{
+    "id": "7078122642410196270",
+    "desc": "This took awhile",
+    "createTime": 1648003851,
+    "video": {
+        "id": "7078122642410196270",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/851710b3419147bd8bd89a3bef7f544c?x-expires=1648108800&x-signature=j7kS6Hg6l0Xq4W%2BQlfrSGQp6nZo%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8be14cef145d4683a4a5254f6f78ded1_1648003852?x-expires=1648108800&x-signature=OnCAATz41RuQTnm0vC6g7F%2BQ4Ss%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4b85db6098514b46bdfac6dab46f9f05_1648003852?x-expires=1648108800&x-signature=JIxeLBaxSdVWvpXJYvi6ToHKLHM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/437aa8bfd776f875bf1c5a09d071c5c2/623c304d/video/tos/useast5/tos-useast5-ve-0068c002-tx/14f438ec749e4824aea6d8aecd0ad163/?a=1988&br=642&bt=321&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThGFgMDXq&l=20220324024808010113135141059AED8A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M208eWc6ZnA7OzMzZzczNEApZ2VmOmdpaGU6NzQzM2ZnZmc1MWltcjRnY3FgLS1kMS9zczBfMF8vMzMvLjE2NWIwNl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/437aa8bfd776f875bf1c5a09d071c5c2/623c304d/video/tos/useast5/tos-useast5-ve-0068c002-tx/14f438ec749e4824aea6d8aecd0ad163/?a=1988&br=642&bt=321&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThGFgMDXq&l=20220324024808010113135141059AED8A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M208eWc6ZnA7OzMzZzczNEApZ2VmOmdpaGU6NzQzM2ZnZmc1MWltcjRnY3FgLS1kMS9zczBfMF8vMzMvLjE2NWIwNl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8be14cef145d4683a4a5254f6f78ded1_1648003852~tplv-tiktok-play.jpeg?x-expires=1648692000&x-signature=0i1VHbwhstEAZnTGHXicqm6cxw0%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8be14cef145d4683a4a5254f6f78ded1_1648003852~tplv-tiktokx-share-play.jpeg?x-expires=1648692000&x-signature=3RkkB8AMyWWc2C9lELHf3l8rEAI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/851710b3419147bd8bd89a3bef7f544c?x-expires=1648108800&x-signature=j7kS6Hg6l0Xq4W%2BQlfrSGQp6nZo%3D",
+        "bitrate": 328894,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7003473161765749766",
+        "uniqueId": "ziaomiii",
+        "nickname": "\ud83c\uddfa\ud83c\udde6STAND WITH UKRAINE\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bfdbb1ee04c4dd3ed505c772be300e08~c5_100x100.jpeg?x-expires=1648173600&x-signature=USWh3RAbngIEOUhzD58JtREJLew%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bfdbb1ee04c4dd3ed505c772be300e08~c5_720x720.jpeg?x-expires=1648173600&x-signature=3mn3SOYHINE47XJ8TcmlC04sQys%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bfdbb1ee04c4dd3ed505c772be300e08~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=a9%2BBUbJwvSFJO%2BmEVEC3Q9D3COQ%3D",
+        "signature": "\ud83d\udc8d\nLive laugh love Itzy\ud83d\udc9e\n\ud83d\udc8d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0N5i25gsbwW4zSVuk9jytEjaAKeW6NTKbvG2t4P8xtr9RIW6VlErD3rIcLYEa5Dz",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075517826957675306",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7075517841718053674.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e17d418aaef278d521c33f021ec771b6~c5_100x100.jpeg?x-expires=1648173600&x-signature=o8wGEonJ01DBX3ML05YAC6R9p4Q%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e17d418aaef278d521c33f021ec771b6~c5_720x720.jpeg?x-expires=1648173600&x-signature=60dk4HDacrY3iV%2BSTuczHND7Weg%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e17d418aaef278d521c33f021ec771b6~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=XSm%2Ff5eyx5pxqOlyoXqo%2FDaX3%2BY%3D",
+        "authorName": "sped up audios :)",
+        "original": true,
+        "duration": 5,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 54
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 145,
+        "followerCount": 78,
+        "heartCount": 500,
+        "videoCount": 110,
+        "diggCount": 1561,
+        "heart": 500
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Spelling my name with my music taste\ud83d\udc4c",
+                "g\ni \no\nv\na\nn\nn\na",
+                "K",
+                "ty Perry",
+                "Brun",
+                "Mars",
+                "tzy ",
+                "F",
+                "irytale",
+                "Melanie Marti",
+                "ez",
+                "Washin",
+                "Machine heart",
+                "Me a",
+                "d my husband",
+                "deja ",
+                "u"
+            ]
+        }
+    ],
+    "isAd": false
+}

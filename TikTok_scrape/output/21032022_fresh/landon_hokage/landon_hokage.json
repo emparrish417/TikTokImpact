@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7077292797652730923",
+        "shortId": "",
+        "uniqueId": "landon_hokage",
+        "nickname": "Landon_hokage",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d40eb02dc7af72d6c60d3f62fd8cc3f~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=UuJJyHkWBPJogc8v%2FOa95Ek9hp8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d40eb02dc7af72d6c60d3f62fd8cc3f~c5_720x720.jpeg?x-expires=1647986400&x-signature=JjZIGNE%2FirOXqNUGrG94IWDks7c%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d40eb02dc7af72d6c60d3f62fd8cc3f~c5_100x100.jpeg?x-expires=1647986400&x-signature=Vk35lhTnVCPKKQlt92iIAnLSx5A%3D",
+        "signature": "",
+        "createTime": 1647810843,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkVz4h4uJZ55ksQXIsPFps6HgJqa-OFSCB5gZSPzxuMM9Jrpghdu_zWVUsW9d2LSI",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3,
+        "followingCount": 1,
+        "heart": 25,
+        "heartCount": 25,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,133 @@
+{
+    "id": "7076845919957814570",
+    "desc": "#distorted",
+    "createTime": 1647706591,
+    "video": {
+        "id": "7076845919957814570",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9f66b1075f78425d98fc7c8f33204a2e?x-expires=1647752400&x-signature=B6I54uGUcGSSskMpQNbzqcSy%2Fcg%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e7ab69c815cc43cba247f4980228c3e8_1647706592?x-expires=1647752400&x-signature=WV2O7dM2mbjqvut95GZIp1gCmbI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/41340e75174c42f9a9e4b265fb6b85bd_1647706592?x-expires=1647752400&x-signature=HfZkmtTEVsISWGFPCfEtivIaOJ8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8f8947405590d3ebe45f11c393d54f6b/6236bd9c/video/tos/useast5/tos-useast5-ve-0068c003-tx/641b14c31ee546dda84a60170cd95a1d/?a=1988&br=2178&bt=1089&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV3cWc6ZmkzOzMzZzczNEApOmc5Mzo1PGU5NzRmOzhpNGduY2JlcjRvMG9gLS1kMS9zczYtYzNhLzU2MDQ0LWM2LS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8f8947405590d3ebe45f11c393d54f6b/6236bd9c/video/tos/useast5/tos-useast5-ve-0068c003-tx/641b14c31ee546dda84a60170cd95a1d/?a=1988&br=2178&bt=1089&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThKxb_DXq&l=202203192337250101130061141D4E4352&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV3cWc6ZmkzOzMzZzczNEApOmc5Mzo1PGU5NzRmOzhpNGduY2JlcjRvMG9gLS1kMS9zczYtYzNhLzU2MDQ0LWM2LS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e7ab69c815cc43cba247f4980228c3e8_1647706592~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=pV3STKcmsAnQpZ7aISUbZFr%2FoxA%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/e7ab69c815cc43cba247f4980228c3e8_1647706592~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=j6VqsfCbbh1qFnDYPpRa7Jl6fYQ%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9f66b1075f78425d98fc7c8f33204a2e?x-expires=1647752400&x-signature=B6I54uGUcGSSskMpQNbzqcSy%2Fcg%3D",
+        "bitrate": 1115794,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6994899186169152518",
+        "uniqueId": "ukraine1063",
+        "nickname": "Anthony",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b7cb4e03b68842e33d6844092c294297~c5_100x100.jpeg?x-expires=1647817200&x-signature=Qu9voFOx%2BjsWJ%2FzJVK2PowX3a6k%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b7cb4e03b68842e33d6844092c294297~c5_720x720.jpeg?x-expires=1647817200&x-signature=SXtYWNgBd2LS%2Bv0j8xUY%2Ba5RdcE%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b7cb4e03b68842e33d6844092c294297~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=wYzcYqE7%2B38i7zZ%2FiYtsJJAYBTc%3D",
+        "signature": "Ukraine\ud83c\uddfa\ud83c\udde6 help or is to late",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAehhWuZUMfCjSjIBARrjZrTKSDjBQ3AKdbOwElel6GfvOc3sWj0CfLh01lkW4q0Fx",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7057315929235000070",
+        "title": "sonido original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7057315971526150917.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96d469faad6dea40c73114207580a032~c5_100x100.jpeg?x-expires=1647817200&x-signature=D%2BaeC%2BSIOQL37%2FptSo11mZK%2Fjqw%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96d469faad6dea40c73114207580a032~c5_720x720.jpeg?x-expires=1647817200&x-signature=00h%2BQG2Olasns5Mv%2FHvCBe%2B7mYM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/96d469faad6dea40c73114207580a032~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=JPk22QkGErt7oAl3ZNr0ifwZnZ4%3D",
+        "authorName": "\u2661 \u2661",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "2677962",
+            "title": "distorted",
+            "desc": "Is this what we really look like? Use our new Creative Effect and serve a #Distorted look. ",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 82
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "distorted",
+            "hashtagId": "2677962",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Distorted",
+            "ID": "244131"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 307,
+        "followerCount": 551,
+        "heartCount": 1861,
+        "videoCount": 91,
+        "diggCount": 791,
+        "heart": 1861
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "now I'm strong"
+            ]
+        }
+    ],
+    "isAd": false
+}

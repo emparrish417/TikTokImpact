@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6916239714229027846",
+        "shortId": "",
+        "uniqueId": "ill_make_u_sad",
+        "nickname": "Blec",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1688535486841857.jpeg?x-expires=1648069200&x-signature=MFfma5fqYTkxMVDIAJLa0omQa7I%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1688535486841857.jpeg?x-expires=1648069200&x-signature=gALHYZrLAJDACkxFQqsJMPEj%2BTA%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1688535486841857.jpeg?x-expires=1648069200&x-signature=j4vGYjMpM6MUtb2tDWPgEkP%2BAxc%3D",
+        "signature": "",
+        "createTime": 1610312925,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUjr8ZCfYgu1GSN3vAv2CIpuAlu35c1VUeiRJH5I-DNNlhs4jOLIgDIApENpawz1i",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14,
+        "followingCount": 364,
+        "heart": 384,
+        "heartCount": 384,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

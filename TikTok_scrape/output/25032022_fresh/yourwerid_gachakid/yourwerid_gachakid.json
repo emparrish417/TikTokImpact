@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6827126755796059141",
+        "shortId": "",
+        "uniqueId": "yourwerid_gachakid",
+        "nickname": "I stand with Ukraine \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/765f1b0a73803c29629b5882cd289dc2~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=hyoQOdU6LsQmwfWrL8Oa6D79jZc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/765f1b0a73803c29629b5882cd289dc2~c5_720x720.jpeg?x-expires=1648314000&x-signature=qImJjFns4oxoEwJLZpkQSt8aEms%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/765f1b0a73803c29629b5882cd289dc2~c5_100x100.jpeg?x-expires=1648314000&x-signature=YZ3DIscASvg2N025dkOlFqN0oTg%3D",
+        "signature": "Hi\ud83d\udd2a",
+        "createTime": 1612053060,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxAApgrkJBKBQy-Jv5xkrRlXgMW8QI17EmVjrSNTLAdH2yg-3k6DgSAL63g1K6G_j",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 164,
+        "followingCount": 1577,
+        "heart": 716,
+        "heartCount": 716,
+        "videoCount": 84,
+        "diggCount": 0
+    },
+    "itemList": []
+}

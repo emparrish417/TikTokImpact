@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7018674418374657029",
+        "shortId": "",
+        "uniqueId": "smushkov",
+        "nickname": "smushkov",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ec99be782e66a20554ead37ae6238f7~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=bKJfsMVEd99XYrRdPq4frDSvArc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ec99be782e66a20554ead37ae6238f7~c5_720x720.jpeg?x-expires=1648515600&x-signature=Pu7C4mkuCWVhjLz0OIY8LYBJ67Q%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ec99be782e66a20554ead37ae6238f7~c5_100x100.jpeg?x-expires=1648515600&x-signature=eV%2FrIDJP%2B2scinD4BIbXwp%2Fgr%2BM%3D",
+        "signature": "SMUSHKOV on air",
+        "createTime": 1634162898,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAp0BN7fcql9eRQzwsfNbopFq4V4Efhtc8owuuNzCyyxgd1IbwIRfprjgGJyld5Qgb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17,
+        "followingCount": 2,
+        "heart": 42,
+        "heartCount": 42,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

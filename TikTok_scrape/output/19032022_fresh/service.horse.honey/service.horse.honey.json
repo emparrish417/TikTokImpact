@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6522909299843290112",
+        "shortId": "",
+        "uniqueId": "service.horse.honey",
+        "nickname": "Service Horse Honey",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e5d803043b427331203a5a4b8e5e798~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=LaZVQz5pA4uFAOJugPbRhin8CXU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e5d803043b427331203a5a4b8e5e798~c5_720x720.jpeg?x-expires=1647817200&x-signature=gskWVtmNd%2Bd9uR6uTws0ebqOqpI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e5d803043b427331203a5a4b8e5e798~c5_100x100.jpeg?x-expires=1647817200&x-signature=ekKcyUR7aaUg52HGHuhSNvny44c%3D",
+        "signature": "Procyon Training is an animal training business located in Ocala FL.",
+        "createTime": 1518761970,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVSsY2Rc5Ydb9PzCNSsgh_pkAWVNO_E5rcvsDb6pQl2JxRfd0dR2rV7E7mcaPt_66",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "ProcyonTraining.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 19700,
+        "followingCount": 10000,
+        "heart": 620400,
+        "heartCount": 620400,
+        "videoCount": 175,
+        "diggCount": 0
+    },
+    "itemList": []
+}

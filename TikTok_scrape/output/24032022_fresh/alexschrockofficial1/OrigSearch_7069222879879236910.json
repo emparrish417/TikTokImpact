@@ -1,0 +1,98 @@
+{
+    "id": "7069222879879236910",
+    "desc": "Pray for Ukraine",
+    "createTime": 1645931714,
+    "video": {
+        "id": "7069222879879236910",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3d410002cd464acd820d20363b9fe3af?x-expires=1648170000&x-signature=EFufPuHsFeFQffKf9FzH6%2F2S2Ls%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/238843ac73ad4167b11b95aa1c152e10_1645931714?x-expires=1648170000&x-signature=UgpADe5Jb8KyqzmMyGqhmX4mUb0%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/433446088ecf410ba776c4987de3ac48_1645931715?x-expires=1648170000&x-signature=exfFJ3xmeqQAeWTO8YIuLimbrlQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f555d20da5da523a070fc027dc1c6fee/623d1ed3/video/tos/useast5/tos-useast5-pve-0068-tx/26a5aff0e72f4b178a085b0609c0f69e/?a=1988&br=780&bt=390&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2mpJDXq&l=202203241945460101130061951F2BA27A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdtPGc6ZmhoOzMzZzczNEApZ2g6ZWhkOGRkNzRlZDU7OmdvZHIzcjRna2FgLS1kMS9zczVfYTQuMWFiYDYvY2AuXjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f555d20da5da523a070fc027dc1c6fee/623d1ed3/video/tos/useast5/tos-useast5-pve-0068-tx/26a5aff0e72f4b178a085b0609c0f69e/?a=1988&br=780&bt=390&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2mpJDXq&l=202203241945460101130061951F2BA27A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajdtPGc6ZmhoOzMzZzczNEApZ2g6ZWhkOGRkNzRlZDU7OmdvZHIzcjRna2FgLS1kMS9zczVfYTQuMWFiYDYvY2AuXjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/238843ac73ad4167b11b95aa1c152e10_1645931714~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=PJpIi5Q1wfOt8FWstojRmsqTsTY%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/238843ac73ad4167b11b95aa1c152e10_1645931714~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=lNf%2BLhoQ0ATKS8x95QQSWq6w0TQ%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3d410002cd464acd820d20363b9fe3af?x-expires=1648170000&x-signature=EFufPuHsFeFQffKf9FzH6%2F2S2Ls%3D",
+        "bitrate": 400026,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6670951146415341573",
+        "uniqueId": "alexschrockofficial1",
+        "nickname": "Alex schrock",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ac336848823956835add3f23465ffb7~c5_100x100.jpeg?x-expires=1648234800&x-signature=5KzLZTYJaif7T%2BZN4n5N%2F6UriaI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ac336848823956835add3f23465ffb7~c5_720x720.jpeg?x-expires=1648234800&x-signature=7VBaRyKZB9nAbYhL8wnyxVlFBmg%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ac336848823956835add3f23465ffb7~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=rdbMptUVpUI1bPIyZfgmuS2%2BdEM%3D",
+        "signature": "Dm me on insta \nStand with Ukraine\nReporting the news",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_zS4s4Ut7t8_XwfhUDD4EZarKdV79BM29dEXzfupUEIg8hjAZUEbIIp48NxzIa0y",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030344552103873281",
+        "title": "Another love",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7030344527114210049.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/14ca2e98ae6ee68beddacd08d7a6732a.jpeg?x-expires=1648234800&x-signature=UC%2BGH048rG5dZcEzmNf1Nn1bBkM%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/14ca2e98ae6ee68beddacd08d7a6732a.jpeg?x-expires=1648234800&x-signature=9LRXr13TWoUUbXVSCd76OKp41lY%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/14ca2e98ae6ee68beddacd08d7a6732a.jpeg?x-expires=1648234800&x-signature=V9d8j1J%2FHHb7Y7kufe2H6ytf1eo%3D",
+        "authorName": ".",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 249500,
+        "shareCount": 1605,
+        "commentCount": 1846,
+        "playCount": 2200000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1267,
+        "followerCount": 470400,
+        "heartCount": 15300000,
+        "videoCount": 702,
+        "diggCount": 17200,
+        "heart": 15300000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                " A Ukrainian  road company is removing street signs. They said the enemy has poor communication, and can\u2019t navigate the terrain. In a recent fb post the company said let\u2019s help them go straight to hell"
+            ]
+        }
+    ],
+    "isAd": false
+}

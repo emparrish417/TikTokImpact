@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6825198894537819141",
+        "shortId": "",
+        "uniqueId": "photofarrell",
+        "nickname": "Scott O'Farrell",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e6207aff24a7cc2b1d15b5bff8ac50c0~c5_1080x1080.jpeg?x-expires=1648314000&x-signature=wTIt1Sv0EXZOAAj273riSaKymrQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e6207aff24a7cc2b1d15b5bff8ac50c0~c5_720x720.jpeg?x-expires=1648314000&x-signature=BrhQFrvJ9nv5L%2FRsE6OMGIk1PVE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e6207aff24a7cc2b1d15b5bff8ac50c0~c5_100x100.jpeg?x-expires=1648314000&x-signature=r5thJw00AjKUj5BlEugHRuGkPNo%3D",
+        "signature": "Cats and Bicycles",
+        "createTime": 1596999336,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtHdYm1IgGU08uH940t1xuDkJWO3ulWKjiBOCnL4eVkPtNalBeWFwaW9Sh0-3q_i0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 134,
+        "followingCount": 154,
+        "heart": 1470,
+        "heartCount": 1470,
+        "videoCount": 125,
+        "diggCount": 0
+    },
+    "itemList": []
+}

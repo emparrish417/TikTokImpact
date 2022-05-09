@@ -1,0 +1,169 @@
+{
+    "id": "7078368627958795525",
+    "desc": "#44single #feelgood #northernireland",
+    "createTime": 1648061124,
+    "video": {
+        "id": "7078368627958795525",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1b27aa80c6c24be783c2e36ec6435d1f?x-expires=1648170000&x-signature=1ew9723K3eueP9GFD8TalM2Wzrc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5869e6885f304807aabddef26d3dc21a_1648061125?x-expires=1648170000&x-signature=R4rAlhfeUgtBBbmXjwtwrAqRH2E%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f5a9d6b4dc4d4cc59fa902e9b0892e81_1648061126?x-expires=1648170000&x-signature=F8EBE6PNO0IvC73azgT9nNR%2FfaY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9a4b74285ea6a80e113c46dd6ab9ff16/623d1d39/video/tos/useast2a/tos-useast2a-ve-0068c003/452ea8b76cd94201b7f063370e1bc641/?a=1988&br=542&bt=271&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThL_pJDXq&l=2022032419385501011313502003346F16&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlxdWU6ZnJwOzMzNzczM0ApNWc8N2c7N2RkNzg6Omc5aWdkZy5qcjRvaHFgLS1kMTZzczMvXzRgXzZeLl8wNS1fNjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9a4b74285ea6a80e113c46dd6ab9ff16/623d1d39/video/tos/useast2a/tos-useast2a-ve-0068c003/452ea8b76cd94201b7f063370e1bc641/?a=1988&br=542&bt=271&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThL_pJDXq&l=2022032419385501011313502003346F16&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlxdWU6ZnJwOzMzNzczM0ApNWc8N2c7N2RkNzg6Omc5aWdkZy5qcjRvaHFgLS1kMTZzczMvXzRgXzZeLl8wNS1fNjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5869e6885f304807aabddef26d3dc21a_1648061125~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=uZuVG9SDoeJUIYxMUzokn0hczu0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5869e6885f304807aabddef26d3dc21a_1648061125~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=89GKIe5eSzERfw5mbIer%2BSMaswY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1b27aa80c6c24be783c2e36ec6435d1f?x-expires=1648170000&x-signature=1ew9723K3eueP9GFD8TalM2Wzrc%3D",
+        "bitrate": 278522,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6958452276144505862",
+        "uniqueId": "sabrinatweed",
+        "nickname": "sabrinatweed",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6958452536697487366~c5_100x100.jpeg?x-expires=1648234800&x-signature=0hfV0odFI1Vbk4W%2Bw3ze5vT5IiU%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/musically-maliva-obj/6958452536697487366~c5_720x720.jpeg?x-expires=1648234800&x-signature=ivZWXFWpRmxwmm1Tkb3audLq9jc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6958452536697487366~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=WfNQkXEM%2B5iviSP%2BgcuSWUZRMNY%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXaMG7XGdAd5MPl2-BxpshhBjVhJnHLQlI-u2L0ZUHwOlfMCmN_LdVXHCrF3p6sH2",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7038285442835417861",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7038285464364747526.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc2cc899941adb095d82acc5dcc0f57b~c5_100x100.jpeg?x-expires=1648234800&x-signature=aAl6vvA1HPev80XQn6RpbKlvyqQ%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc2cc899941adb095d82acc5dcc0f57b~c5_720x720.jpeg?x-expires=1648234800&x-signature=l7XrokK%2F7PWwYxLRTOv5CFWNHnI%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc2cc899941adb095d82acc5dcc0f57b~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=5blPX8VDP12FBSUbs8Z4hvmvkik%3D",
+        "authorName": "officialbrandonsim19",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1662474203563013",
+            "title": "44single",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "50491",
+            "title": "feelgood",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1591757",
+            "title": "northernireland",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 257
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 9,
+            "hashtagName": "44single",
+            "hashtagId": "1662474203563013",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 10,
+            "end": 19,
+            "hashtagName": "feelgood",
+            "hashtagId": "50491",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 20,
+            "end": 36,
+            "hashtagName": "northernireland",
+            "hashtagId": "1591757",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 152,
+        "followerCount": 128,
+        "heartCount": 258,
+        "videoCount": 6,
+        "diggCount": 571,
+        "heart": 258
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

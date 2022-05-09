@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6610895470465597446",
+        "shortId": "",
+        "uniqueId": "benesherick",
+        "nickname": "Ben Esherick \ud83e\udd28\u2049\ufe0f",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d77f7e0755cdf38d7a84b54103916e1f~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=XIRNVpRDt3d5Q1EvG3CCgmIBqfE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d77f7e0755cdf38d7a84b54103916e1f~c5_720x720.jpeg?x-expires=1648069200&x-signature=CvFB5Qgtdc%2BSBvedPwHBBWHq2O0%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d77f7e0755cdf38d7a84b54103916e1f~c5_100x100.jpeg?x-expires=1648069200&x-signature=edyCW0Zj8wmPOwme3S%2BLbTLoooc%3D",
+        "signature": "business email: Ben@tiddle.io\nsnapchat: ben_esherick\ni\u2019m 19\nconnecticut",
+        "createTime": 1539220522,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADa1nBQJ5dWCHRxH2kSeK7xiLh6zUn3ImNwIWDyJVOi-0sht25TbXO66CqcZygtxK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://ankerfast.club/3i5itJP",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 744300,
+        "followingCount": 977,
+        "heart": 47500000,
+        "heartCount": 47500000,
+        "videoCount": 1069,
+        "diggCount": 0
+    },
+    "itemList": []
+}

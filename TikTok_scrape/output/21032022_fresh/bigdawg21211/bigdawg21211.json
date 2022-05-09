@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6947299935009244166",
+        "shortId": "",
+        "uniqueId": "bigdawg21211",
+        "nickname": "bigdawg21211",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eaaf04948a4dd9eaad9ce6fd2836cd8e~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=92cnnig6poMaBpUS9hMPgur7Apw%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eaaf04948a4dd9eaad9ce6fd2836cd8e~c5_720x720.jpeg?x-expires=1647986400&x-signature=g6xpq67S6%2FkX3mOH44Z%2B8uFjN0E%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eaaf04948a4dd9eaad9ce6fd2836cd8e~c5_100x100.jpeg?x-expires=1647986400&x-signature=s6IFz5mI9bsrCQS3z8tFMj2hZjI%3D",
+        "signature": "",
+        "createTime": 1617573173,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAc1DqWwJ0VCZQpk7IXdn9IWqdRBTqBrFVKdH96cPMyWkWz4nopZkLpR7YM8QyMoMh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11400,
+        "followingCount": 203,
+        "heart": 299300,
+        "heartCount": 299300,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

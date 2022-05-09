@@ -1,0 +1,98 @@
+{
+    "id": "7079614380148657454",
+    "desc": "Let's \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f for Ukraine \u2764\ufe0f\u2764\ufe0f",
+    "createTime": 1648351173,
+    "video": {
+        "id": "7079614380148657454",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fde9250ee9534f248741017911301c89?x-expires=1648450800&x-signature=1Ja7oXBVxxnIOdMG3x%2BwRx3Fmwc%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f48e8a5ab1304369bde302a96261c575_1648351174?x-expires=1648450800&x-signature=ANN9rvpX7K862EAIl3VXuWBlnSU%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/70f5283e823b4838a822eb0638f5d0cc_1648351175?x-expires=1648450800&x-signature=K9Bi7%2BGVej0KkSNDz8tmVzHwqz0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/59353cd6a61e91651a4b0812f04709f1/62415df5/video/tos/useast5/tos-useast5-ve-0068c003-tx/67a83c61e8484e0e9e6d2b180f62d6fe/?a=1988&br=716&bt=358&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1GagDXq&l=202203280104110101131351350F04FE5F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RoN2k6Zjx3OzMzZzczNEApNWZmNmVoNmQ1NzpnNDplZGczLXNscjQwYnNgLS1kMS9zc2IvYDVgYzMtYzMzM2NeMDM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/59353cd6a61e91651a4b0812f04709f1/62415df5/video/tos/useast5/tos-useast5-ve-0068c003-tx/67a83c61e8484e0e9e6d2b180f62d6fe/?a=1988&br=716&bt=358&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1GagDXq&l=202203280104110101131351350F04FE5F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RoN2k6Zjx3OzMzZzczNEApNWZmNmVoNmQ1NzpnNDplZGczLXNscjQwYnNgLS1kMS9zc2IvYDVgYzMtYzMzM2NeMDM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f48e8a5ab1304369bde302a96261c575_1648351174~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=gvkQqw0rot8SeN0JkiPmiD0zT%2Fg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f48e8a5ab1304369bde302a96261c575_1648351174~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=F6ETg8LulXLNZCdwQbhz8DuZ84I%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fde9250ee9534f248741017911301c89?x-expires=1648450800&x-signature=1Ja7oXBVxxnIOdMG3x%2BwRx3Fmwc%3D",
+        "bitrate": 367047,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6865491003039908869",
+        "uniqueId": "supportukrainepls78754",
+        "nickname": "Stand with Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bab6f44030cce81400a922942fc2f09e~c5_100x100.jpeg?x-expires=1648515600&x-signature=K2eZZ%2BaskKpyC4VVOPgmqNbov0U%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bab6f44030cce81400a922942fc2f09e~c5_720x720.jpeg?x-expires=1648515600&x-signature=vsuk4w5j%2BVTCSfSO0i%2BuTXs211E%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bab6f44030cce81400a922942fc2f09e~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=aayYxLiyer0sNq%2BdZxel5%2Bzvj7g%3D",
+        "signature": "Supporting Ukraine through TikTok Videos",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAfSsKZuz72W0qloJNap8tfez5SyTaRG9Tx7_djRjqtm1SZdZOFInxHM7pGLgyJrzk",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6728562975734515713",
+        "title": "Love You So",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6a790bec1bf640c185753440ca131a7e",
+        "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_100x100.jpeg",
+        "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_200x200.jpeg",
+        "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/b14b44e661ac4760918e327255dad09f~c5_720x720.jpeg",
+        "authorName": "The King Khan & BBQ Show",
+        "original": false,
+        "duration": 60,
+        "album": "The King Khan & BBQ Show"
+    },
+    "stats": {
+        "diggCount": 11,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 967
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 3656,
+        "followerCount": 5695,
+        "heartCount": 12200,
+        "videoCount": 90,
+        "diggCount": 6569,
+        "heart": 12200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Let's take a moment to \ud83d\udc4f\ud83d\udc4f for Ukraine \u2764\ufe0f\u2764\ufe0f and how much they are fighting for their freedom \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+            ]
+        }
+    ],
+    "isAd": false
+}

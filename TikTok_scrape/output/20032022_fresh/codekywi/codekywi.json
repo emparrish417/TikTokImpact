@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6540341312099456000",
+        "shortId": "",
+        "uniqueId": "codekywi",
+        "nickname": "Kywi",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be472c3990abaa3af362d972cf1feb3b~c5_1080x1080.jpeg?x-expires=1647900000&x-signature=AICvcEU82BO%2BLbcO3GEy97knWTw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be472c3990abaa3af362d972cf1feb3b~c5_720x720.jpeg?x-expires=1647900000&x-signature=pcHu3FGeUgTw%2Fz1DqO%2BbASTw38c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/be472c3990abaa3af362d972cf1feb3b~c5_100x100.jpeg?x-expires=1647900000&x-signature=MKmdTVQHp6Ae2QXYK7YC4v8boSo%3D",
+        "signature": "",
+        "createTime": 1522791877,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPZZkfADOk2KgChZD4NpZT1v983SRfK7-Yy3l7re4aMFEqDU_WqDNQxVI07pA9uoS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12700,
+        "followingCount": 133,
+        "heart": 1694,
+        "heartCount": 1694,
+        "videoCount": 8,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,100 @@
+{
+    "id": "7076865550508477738",
+    "desc": "I think I was watching TikTok more though",
+    "createTime": 1647711162,
+    "video": {
+        "id": "7076865550508477738",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/256a1496d157423695147a2534de44fe?x-expires=1647752400&x-signature=Du%2FV%2BUhcYzok%2B%2F9hNNaWlhJcZ%2Fw%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fb5ff27b53c14ae4b801d8b3e3e2c252_1647711162?x-expires=1647752400&x-signature=x3mnEMatrjMa9ZehdrTO0X6Yvtw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fcdb2553ae914b4e95c397d9028b3ca2_1647711163?x-expires=1647752400&x-signature=sdEatKTkHvp70ZnT1T8qP6YXjBU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7e279426ab6bfe66d82cb22e55e6dd6e/6236bdc4/video/tos/useast5/tos-useast5-ve-0068c004-tx/16aebda199404ba6b0b297e9f2b80aee/?a=1988&br=3246&bt=1623&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3N3eWc6ZjM0OzMzZzczNEApNjVmOWhmZWVlNzk6ZjZoNGdpMmVtcjQwM29gLS1kMS9zcy4zMl9gLmBiLS8vLTBiY186Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7e279426ab6bfe66d82cb22e55e6dd6e/6236bdc4/video/tos/useast5/tos-useast5-ve-0068c004-tx/16aebda199404ba6b0b297e9f2b80aee/?a=1988&br=3246&bt=1623&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3N3eWc6ZjM0OzMzZzczNEApNjVmOWhmZWVlNzk6ZjZoNGdpMmVtcjQwM29gLS1kMS9zcy4zMl9gLmBiLS8vLTBiY186Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fb5ff27b53c14ae4b801d8b3e3e2c252_1647711162~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=Jw6WAWw26DWthlAvxbtGgUPWNxo%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fb5ff27b53c14ae4b801d8b3e3e2c252_1647711162~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=o6v0UFo%2BRVpmD6IbbEye9lNLCsk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/256a1496d157423695147a2534de44fe?x-expires=1647752400&x-signature=Du%2FV%2BUhcYzok%2B%2F9hNNaWlhJcZ%2Fw%3D",
+        "bitrate": 1662580,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6855754458387923973",
+        "uniqueId": "elibear133",
+        "nickname": "Go Ukrainian \ud83d\udc99\ud83d\udc9b",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0cd44baba5c9ddb4b841e83f3fa8d336~c5_100x100.jpeg?x-expires=1647817200&x-signature=6TcfSBLZFalM6YR5jiQOU4sWtMw%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0cd44baba5c9ddb4b841e83f3fa8d336~c5_720x720.jpeg?x-expires=1647817200&x-signature=Se2jbJg%2BzXGf5hsJBRx85rm6xmY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0cd44baba5c9ddb4b841e83f3fa8d336~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=0hHODckbIvyMeybbFl6RR%2BinVPE%3D",
+        "signature": "Plz Follow My TikTok Page And Get Me To 150 Followers.And if u don\u2019t mind like?;",
+        "verified": false,
+        "secUid": "MS4wLjABAAAABgp3BjEILYNmcphfHKu1efCAbmeeiz0xV0Jv8WNI5WoLBhE1Rj2dpeBwI-LuqLjA",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7058463948324767746",
+        "title": "Rocking A Cardigan in Atlanta",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d9da0664319d4b24961dedcf2cdbbaf2",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c9379f35a05f49f489ae60d7ac7f7d19.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/c9379f35a05f49f489ae60d7ac7f7d19.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c9379f35a05f49f489ae60d7ac7f7d19.jpeg",
+        "authorName": "lil Shordie Scott",
+        "original": false,
+        "duration": 60,
+        "album": "Rocking A Cardigan in Atlanta"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 16
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 349,
+        "followerCount": 111,
+        "heartCount": 1021,
+        "videoCount": 309,
+        "diggCount": 8085,
+        "heart": 1021
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Guess where I am",
+                "I just finished my skating class and I\u2019m watching my friend ",
+                "Back home"
+            ]
+        }
+    ],
+    "isAd": false
+}

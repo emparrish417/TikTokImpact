@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "81959130097152000",
+        "shortId": "",
+        "uniqueId": "gma",
+        "nickname": "Good Morning America",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18d935bf048d17f775824c4d7ea8f90a~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=ldo%2FNo%2BqjLMro8KQaOFLYU4ydOo%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18d935bf048d17f775824c4d7ea8f90a~c5_720x720.jpeg?x-expires=1648173600&x-signature=OC4KijPZfTbRfdoVJnUyDs4dsWI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18d935bf048d17f775824c4d7ea8f90a~c5_100x100.jpeg?x-expires=1648173600&x-signature=mGQPtWtWT2WhSpT1KKluH0xOvKw%3D",
+        "signature": "Riiiise and shineee \u2600\ufe0f",
+        "createTime": 1459912094,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAFz0jKaRMU1Zn_h5alHOEaCyTFKuiy5FMFw6mRrdRsTMWruGUKVjpR-b-ZR3uvaTd",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linkin.bio/goodmorningamerica/tiktok",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 804000,
+        "followingCount": 74,
+        "heart": 13000000,
+        "heartCount": 13000000,
+        "videoCount": 916,
+        "diggCount": 0
+    },
+    "itemList": []
+}

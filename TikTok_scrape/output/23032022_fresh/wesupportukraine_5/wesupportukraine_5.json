@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7068720886287483910",
+        "shortId": "",
+        "uniqueId": "wesupportukraine_5",
+        "nickname": "#WeSupportUkraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/44918d2b963cfc3ff9ab1e274cf29aba~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=z61AmCOjEtNt7AV5XIdMgapbbgg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/44918d2b963cfc3ff9ab1e274cf29aba~c5_720x720.jpeg?x-expires=1648173600&x-signature=6z64Me8ja%2FDCzN9D5zdVptSrs6c%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/44918d2b963cfc3ff9ab1e274cf29aba~c5_100x100.jpeg?x-expires=1648173600&x-signature=mXKyXxEDz29QR%2FUdxCID2z2KQ7M%3D",
+        "signature": "Goal 30k",
+        "createTime": 1645814851,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZxe7es_mGV6aNjRdnR_H3-qo0bpRG-huwSg5zqWeHgcq3KDaBEyFpP9fvn6Vr3An",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 27500,
+        "followingCount": 34,
+        "heart": 314500,
+        "heartCount": 314500,
+        "videoCount": 40,
+        "diggCount": 0
+    },
+    "itemList": []
+}

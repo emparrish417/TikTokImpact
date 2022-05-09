@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6800960154118112262",
+        "shortId": "",
+        "uniqueId": "keelybasa",
+        "nickname": "Keely",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1662986219558917~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=cH9YBl9Ry9iQjCimbnzok4Yw7tc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1662986219558917~c5_720x720.jpeg?x-expires=1648234800&x-signature=04%2BHurWbo6EDml6VmGEEO4%2F0od0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1662986219558917~c5_100x100.jpeg?x-expires=1648234800&x-signature=o9Ef0wQgDJpjHCTgBY9LNcxmyZ4%3D",
+        "signature": "Sharing my stories and thoughts",
+        "createTime": 1583472381,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAelHW7Ov4XjVAZeolsxyeN12XposFVJJvlsmcVuOSWqAzfXT_-CBlhgkLUOtZ4qYj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://support.okizu.org/campaign/100-for-100-2020/c289664",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 28300,
+        "followingCount": 251,
+        "heart": 3000000,
+        "heartCount": 3000000,
+        "videoCount": 107,
+        "diggCount": 0
+    },
+    "itemList": []
+}

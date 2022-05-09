@@ -1,0 +1,90 @@
+{
+    "id": "7076729682347035930",
+    "desc": "If you know you know\u2026..",
+    "createTime": 1647679527,
+    "video": {
+        "id": "7076729682347035930",
+        "height": 924,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/5688784014154887b3d8180164314acc?x-expires=1647752400&x-signature=SebY78rbiNDREUUNx%2FridhjHLZ0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/72d5dcf1d3eb4092b360530f700a69d9_1647679528?x-expires=1647752400&x-signature=rRXjP7jz6lhEUJ8Va82YQKJ8Oe8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/cab98f6db32243ee9d4d2259c791b579_1647679529?x-expires=1647752400&x-signature=mE%2F7e5fSkAzz3LJgHfpNQ%2Bl2w94%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/86eba2d51910d6c1f0740310db5fe061/6236bdbe/video/tos/useast2a/tos-useast2a-pve-0037-aiso/e9e8d235494249da8bcbeb7b3adf167d/?a=1988&br=1040&bt=520&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NqbGc6ZjpzOzMzZjgzM0ApaTQzZjY0aWQ6NzM3Zzs3ZWdmNWAtcjRnZG5gLS1kL2NzczYvY2MxNi0uYDRfNTAuNGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/86eba2d51910d6c1f0740310db5fe061/6236bdbe/video/tos/useast2a/tos-useast2a-pve-0037-aiso/e9e8d235494249da8bcbeb7b3adf167d/?a=1988&br=1040&bt=520&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th_qb_DXq&l=20220319233756010113135189102BEC31&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NqbGc6ZjpzOzMzZjgzM0ApaTQzZjY0aWQ6NzM3Zzs3ZWdmNWAtcjRnZG5gLS1kL2NzczYvY2MxNi0uYDRfNTAuNGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/72d5dcf1d3eb4092b360530f700a69d9_1647679528~tplv-tiktok-play.jpeg?x-expires=1648335600&x-signature=5tBEe6f1qA31DM9X4%2FZz8DamF%2Bs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/72d5dcf1d3eb4092b360530f700a69d9_1647679528~tplv-tiktokx-share-play.jpeg?x-expires=1648335600&x-signature=SUIiMDRkMVUL276QKF4XkcjAh%2Fk%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/5688784014154887b3d8180164314acc?x-expires=1647752400&x-signature=SebY78rbiNDREUUNx%2FridhjHLZ0%3D",
+        "bitrate": 532961,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6963877202002166785",
+        "uniqueId": "free_ukrain1",
+        "nickname": "\u271d\ufe0fSeargent Optim\u271d\ufe0f",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c322f5654ca81da302a1c7e88a979c9a~c5_100x100.jpeg?x-expires=1647817200&x-signature=EIplBKFhBUn0Ct5PaGbWuFfh%2FGE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c322f5654ca81da302a1c7e88a979c9a~c5_720x720.jpeg?x-expires=1647817200&x-signature=kOVCKUr%2FpKJoahwdVZ4n6j45Lu8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c322f5654ca81da302a1c7e88a979c9a~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=5OmOEP%2FmQF63FgfDyZfBHVfV2fs%3D",
+        "signature": "Bruh idk waht to say",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIZzZqUlKyEH4djLwrWEJYwZrguUhZo911xsC9iET5MMJBbVcBsJefdofyTeL2jwB",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076729686176385819",
+        "title": "original sound - \u271d\ufe0fSeargent Optim\u271d\ufe0f",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7076729687203941146.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c322f5654ca81da302a1c7e88a979c9a~c5_100x100.jpeg?x-expires=1647817200&x-signature=EIplBKFhBUn0Ct5PaGbWuFfh%2FGE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c322f5654ca81da302a1c7e88a979c9a~c5_720x720.jpeg?x-expires=1647817200&x-signature=kOVCKUr%2FpKJoahwdVZ4n6j45Lu8%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c322f5654ca81da302a1c7e88a979c9a~c5_1080x1080.jpeg?x-expires=1647817200&x-signature=5OmOEP%2FmQF63FgfDyZfBHVfV2fs%3D",
+        "authorName": "\u271d\ufe0fSeargent Optim\u271d\ufe0f",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 560
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 264,
+        "followerCount": 973,
+        "heartCount": 10200,
+        "videoCount": 62,
+        "diggCount": 26300,
+        "heart": 10200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

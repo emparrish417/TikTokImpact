@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7031662061769163781",
+        "shortId": "",
+        "uniqueId": "pjlikesfood",
+        "nickname": "PJ",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e8279c16239b4e9822c782934978e80~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=K9L8nCTGbAYEfpeHJtwrdLu17lI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e8279c16239b4e9822c782934978e80~c5_720x720.jpeg?x-expires=1648069200&x-signature=R8ws2zN02aZsn3YRMQjfPbXD1GU%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3e8279c16239b4e9822c782934978e80~c5_100x100.jpeg?x-expires=1648069200&x-signature=PBVN%2BHQz8tYy2HH8F3Mbia3Q%2Fg8%3D",
+        "signature": "I stand with Ukraine\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1637186442,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPf3w3cx6yITTr4XoWiPzF_CPDQOt8iPvEFEnSdWCwbh6nafgORLFgyr12U4MavVJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 357,
+        "followingCount": 1085,
+        "heart": 1405,
+        "heartCount": 1405,
+        "videoCount": 166,
+        "diggCount": 0
+    },
+    "itemList": []
+}

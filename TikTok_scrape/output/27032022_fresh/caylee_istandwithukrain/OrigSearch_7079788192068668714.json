@@ -1,0 +1,90 @@
+{
+    "id": "7079788192068668714",
+    "desc": "p",
+    "createTime": 1648391643,
+    "video": {
+        "id": "7079788192068668714",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ab0574b5d9b34962a98ee104149fcbcf?x-expires=1648450800&x-signature=U6h3%2BqxnAAWyOIXfo4N2qmcYSpw%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a4392d1b23b54d5284b98e02d53f7f0f_1648391645?x-expires=1648450800&x-signature=sATO%2Fr9%2FeCQqZeUceStd%2BmH%2FNdk%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c3d08dbb7c754ad5a49f15fd71d51ef9_1648391645?x-expires=1648450800&x-signature=oX0nHlrreBDPrGm%2BoAa6qtrl7Bk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7d5cc31424aa19e60d2a01a9c0975ba1/62415e5a/video/tos/useast5/tos-useast5-ve-0068c003-tx/82da236383744c73a564dcc631a9c9a5/?a=1988&br=7294&bt=3647&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2.agDXq&l=2022032801054701011300608611FEC581&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am55Omk6Zjc6PDMzZzczNEApZDY6O2hlOmVoN2Q7OzU2O2cta15icjQwNi1gLS1kMS9zczYzYjZiXy9gYl9eXi00Ni86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7d5cc31424aa19e60d2a01a9c0975ba1/62415e5a/video/tos/useast5/tos-useast5-ve-0068c003-tx/82da236383744c73a564dcc631a9c9a5/?a=1988&br=7294&bt=3647&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2.agDXq&l=2022032801054701011300608611FEC581&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am55Omk6Zjc6PDMzZzczNEApZDY6O2hlOmVoN2Q7OzU2O2cta15icjQwNi1gLS1kMS9zczYzYjZiXy9gYl9eXi00Ni86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a4392d1b23b54d5284b98e02d53f7f0f_1648391645~tplv-tiktok-play.jpeg?x-expires=1649034000&x-signature=RcwlThJLQsGe17JsMLCzeBNJOaU%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a4392d1b23b54d5284b98e02d53f7f0f_1648391645~tplv-tiktokx-share-play.jpeg?x-expires=1649034000&x-signature=ap9w6awC0z%2Ff5m%2B6CTMINNNXeSU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ab0574b5d9b34962a98ee104149fcbcf?x-expires=1648450800&x-signature=U6h3%2BqxnAAWyOIXfo4N2qmcYSpw%3D",
+        "bitrate": 3734952,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7024897829358633989",
+        "uniqueId": "caylee_istandwithukrain",
+        "nickname": "caylee",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36c6b614199315fd1d7a5f0503acdae3~c5_100x100.jpeg?x-expires=1648515600&x-signature=3gyFEfyTTdC4xPVX7aRG9ds1af0%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36c6b614199315fd1d7a5f0503acdae3~c5_720x720.jpeg?x-expires=1648515600&x-signature=9VXdD6NhxH42twLPw7b%2Fjw48Ln8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36c6b614199315fd1d7a5f0503acdae3~c5_1080x1080.jpeg?x-expires=1648515600&x-signature=YmlJF%2BxiAN%2Fiu9LFk5bnqXijOgo%3D",
+        "signature": "hola:)\nlove y'all\u2728\ud83d\udcab",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA2LwmY-oog6BwUHUEsFlBOuud0xxDxDWlCJHqHa3iwwnyR-y7OfNnPM4nskW5dKRp",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7002223274583214854",
+        "title": "Dance with Me Tonight",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e8bbeac398534230a355945261c830f4",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/90ca8d82a0054acd87b6143084e4bbb1.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/90ca8d82a0054acd87b6143084e4bbb1.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/90ca8d82a0054acd87b6143084e4bbb1.jpeg",
+        "authorName": "Olly Murs",
+        "original": false,
+        "duration": 21,
+        "album": "You Know I Know (Deluxe)"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 24
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 603,
+        "followerCount": 123,
+        "heartCount": 1066,
+        "videoCount": 371,
+        "diggCount": 1744,
+        "heart": 1066
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

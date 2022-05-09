@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6899158117687477253",
+        "shortId": "",
+        "uniqueId": "boutiques_of_ukraine",
+        "nickname": "boutiques_of_ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7091f7267fd3310141dd0a1966cba9ba~c5_1080x1080.jpeg?x-expires=1648173600&x-signature=YG%2B9w19Yx3%2F%2BqhyWtzcq8ljF6aA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7091f7267fd3310141dd0a1966cba9ba~c5_720x720.jpeg?x-expires=1648173600&x-signature=BHNLckP2Nv0eex428a6%2BS26X%2Fhk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7091f7267fd3310141dd0a1966cba9ba~c5_100x100.jpeg?x-expires=1648173600&x-signature=%2FIrbhhlHkva%2BhkyQ2s9z4uTkX0Y%3D",
+        "signature": "",
+        "createTime": 1606335613,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKF1friEricuwAeGRjcQgqVCQ3ON88kfqPJ8oVGqL27nwXSeNTbirq7khcux1AQl7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 119,
+        "followingCount": 10,
+        "heart": 3,
+        "heartCount": 3,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

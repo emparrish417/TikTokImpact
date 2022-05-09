@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6681570691505488898",
+        "shortId": "",
+        "uniqueId": "newfuo",
+        "nickname": "ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/bafe61e01d8589d2837b153016554532~c5_1080x1080.jpeg?x-expires=1648069200&x-signature=XAUlcQvUyQRWNlhghwc%2FSPqbWfQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/bafe61e01d8589d2837b153016554532~c5_720x720.jpeg?x-expires=1648069200&x-signature=qGo3%2B1ywjJENXola%2FZpBOaoZqLc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/bafe61e01d8589d2837b153016554532~c5_100x100.jpeg?x-expires=1648069200&x-signature=uLAd7zcOswDBSSak9mUl2GBdV8k%3D",
+        "signature": "\ud83d\udc37\ud83d\udc37\ud83d\udc37\ud83d\udc37\ud83d\udc37",
+        "createTime": 1555656174,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPzChR4mwwf7SG9lRdXXnFklgqHSZDrNRDY8slj8v5oei59zLeDFkDOv7_CFFfUgy",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Clothing & Accessories",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 234,
+        "followingCount": 267,
+        "heart": 2373,
+        "heartCount": 2373,
+        "videoCount": 131,
+        "diggCount": 0
+    },
+    "itemList": []
+}

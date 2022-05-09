@@ -1,0 +1,96 @@
+{
+    "id": "7078514251576659246",
+    "desc": "Hmm..looks like an animal..",
+    "createTime": 1648095030,
+    "video": {
+        "id": "7078514251576659246",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b7dc7e5fbc114d6a9e792292a2307245?x-expires=1648170000&x-signature=Y3J1eaRUJaeanBIwen98YJuBesQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9e890b53623a4b658d9492d3dfc49a19_1648095031?x-expires=1648170000&x-signature=%2FMu5OqXzNU7EMjYH3dy6mODwmjQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cdfbcdc159ed47389e444a3f41b01a4a_1648095032?x-expires=1648170000&x-signature=nslVbaL%2B1FoAq1I4C%2BYDHJMI5OM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a5b773cc7fc6786110601eb13f3cad1c/623d1d8a/video/tos/useast5/tos-useast5-pve-0068-tx/7b04df72b3b24866a91438b00199d1b2/?a=1988&br=1946&bt=973&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th7xpJDXq&l=20220324194013010113135068092333D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZyM2U6ZmZ4OzMzZzczNEApN2Y8M2k1NDw0NzUzZWRoOGctMDZwcjRvcnFgLS1kMS9zc2MzXi5eNmMtNjQtXjJgMTY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a5b773cc7fc6786110601eb13f3cad1c/623d1d8a/video/tos/useast5/tos-useast5-pve-0068-tx/7b04df72b3b24866a91438b00199d1b2/?a=1988&br=1946&bt=973&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th7xpJDXq&l=20220324194013010113135068092333D5&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZyM2U6ZmZ4OzMzZzczNEApN2Y8M2k1NDw0NzUzZWRoOGctMDZwcjRvcnFgLS1kMS9zc2MzXi5eNmMtNjQtXjJgMTY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9e890b53623a4b658d9492d3dfc49a19_1648095031~tplv-tiktok-play.jpeg?x-expires=1648753200&x-signature=mZw6Q17LYs24WyCmw0lrxka5wL8%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9e890b53623a4b658d9492d3dfc49a19_1648095031~tplv-tiktokx-share-play.jpeg?x-expires=1648753200&x-signature=716mEe89AqzsWn%2BYysq%2FpN8Cdik%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b7dc7e5fbc114d6a9e792292a2307245?x-expires=1648170000&x-signature=Y3J1eaRUJaeanBIwen98YJuBesQ%3D",
+        "bitrate": 996922,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6892055324669248518",
+        "uniqueId": "roryireland86",
+        "nickname": "JoJo",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_100x100.jpeg?x-expires=1648234800&x-signature=llHrhg5wrB7ETZiz0ZD2A%2BLts2Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_720x720.jpeg?x-expires=1648234800&x-signature=KjflI88HAdcsP%2B6JSA3MZD1%2BT70%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=SOlEAAgsogoV1ejrmiSf1Wj7Egg%3D",
+        "signature": "happily married mom of 4 #Canna-Parent World Wide",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKPwwSOqgGLqBR86w5iJVAoe-AOddIfhen-r6uz3Tx-HeIYU4hPdq2jPxgSPzk7cy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6989653946969164549",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6989654074777930501.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/33d0c8bec837c3084c3934edf35fcf4e~c5_100x100.jpeg?x-expires=1648234800&x-signature=J36G2UXBMjNq9F43LPk1QC4hTto%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/33d0c8bec837c3084c3934edf35fcf4e~c5_720x720.jpeg?x-expires=1648234800&x-signature=CE11gY6H3U%2BSYGlMN5xcWr75KcQ%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/33d0c8bec837c3084c3934edf35fcf4e~c5_1080x1080.jpeg?x-expires=1648234800&x-signature=BWOt7fd3SlpByW4c89NTz5TZ1vY%3D",
+        "authorName": "Ella",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 222
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Easter Egg Drawing",
+            "ID": "1021742"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9975,
+        "followerCount": 1525,
+        "heartCount": 1773,
+        "videoCount": 326,
+        "diggCount": 20700,
+        "heart": 1773
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

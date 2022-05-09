@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6843501777665950726",
+        "shortId": "",
+        "uniqueId": "jellybean_ismid69",
+        "nickname": "Jellybean_ismid",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f58ff43846e40dd502627ade319ef4eb~c5_1080x1080.jpeg?x-expires=1647986400&x-signature=VQiu0YnpHGXZJ%2Br9Fc62vDCDec4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f58ff43846e40dd502627ade319ef4eb~c5_720x720.jpeg?x-expires=1647986400&x-signature=4L21ItavIANfk9kzRWSslV55i8Q%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f58ff43846e40dd502627ade319ef4eb~c5_100x100.jpeg?x-expires=1647986400&x-signature=wC9hj0a1w%2BQnx%2Ba7Lv8nLH6X7CM%3D",
+        "signature": "No bio yet",
+        "createTime": 1628046218,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAd3T3ei2RNu9-rqqwv8DON7B11-JWqsuOkviLQmRrXjHMrvFVqldhK5odM-EPpvn0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1183,
+        "followingCount": 2372,
+        "heart": 3612,
+        "heartCount": 3612,
+        "videoCount": 75,
+        "diggCount": 0
+    },
+    "itemList": []
+}
