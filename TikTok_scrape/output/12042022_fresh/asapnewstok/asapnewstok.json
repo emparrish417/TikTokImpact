@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6897768171157341189",
+        "shortId": "",
+        "uniqueId": "asapnewstok",
+        "nickname": "ASAPNews",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/92540c756308138e715c11f6ec842b88~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=WxKBFIQDki6qMl%2FzRMHk8E1TC1c%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/92540c756308138e715c11f6ec842b88~c5_720x720.jpeg?x-expires=1649905200&x-signature=JWl5X%2BCBINjKSD%2F2tUEXEhw0vxo%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/92540c756308138e715c11f6ec842b88~c5_100x100.jpeg?x-expires=1649905200&x-signature=kE8h7eva43WhYRldL2%2FWO20N4ds%3D",
+        "signature": "Educational content\nMilitary documentation and quick news update",
+        "createTime": 1613977864,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUGXwCU8Ss95EUXzAPE_PkMbpTx2X7Ct8RtQ1y8ylJwg8qzEiCd7qfZsnvyojobLp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2754,
+        "followingCount": 120,
+        "heart": 47800,
+        "heartCount": 47800,
+        "videoCount": 90,
+        "diggCount": 0
+    },
+    "itemList": []
+}

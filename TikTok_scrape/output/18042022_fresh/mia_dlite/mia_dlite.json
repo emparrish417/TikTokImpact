@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6912452778539418629",
+        "shortId": "",
+        "uniqueId": "mia_dlite",
+        "nickname": "Maria",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/815cb7c76589ebf9ffc7231c3a261865~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=UjD8FrhejQpCgS2PoGxBkF9iSPw%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/815cb7c76589ebf9ffc7231c3a261865~c5_720x720.jpeg?x-expires=1650481200&x-signature=%2B30bNOzQxg%2FXoRUWk4ip53kxj7o%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/815cb7c76589ebf9ffc7231c3a261865~c5_100x100.jpeg?x-expires=1650481200&x-signature=gpWguKI%2B0w3ZsFoaBKUtJQ%2F%2BoAU%3D",
+        "signature": "She/Her",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgpouNeLlJchCJp1y_OwTvBnMmGKY3w3ceZS27ABT_STljpPPulqFMIlH7K3XDVE2",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 138,
+        "followingCount": 580,
+        "heart": 1039,
+        "heartCount": 1039,
+        "videoCount": 60,
+        "diggCount": 0
+    },
+    "itemList": []
+}

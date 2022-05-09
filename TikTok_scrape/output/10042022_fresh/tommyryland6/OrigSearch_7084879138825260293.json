@@ -1,0 +1,90 @@
+{
+    "id": "7084879138825260293",
+    "desc": "",
+    "createTime": 1649576973,
+    "video": {
+        "id": "7084879138825260293",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/edf44874893b4cc8bbbf6c8ca9a1a197?x-expires=1649649600&x-signature=MsbnnGowGHeYnaoSxM%2B%2F1kv5Zz0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ec19fccc3b0645d8a3864397506f60b1_1649576974?x-expires=1649649600&x-signature=Gs%2FJcRDWMtIsSQyef4MLY%2BFKlLE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9b2032b6b6f542b08daaa5fa2adc69e7_1649576974?x-expires=1649649600&x-signature=eyO8auhKQcHiLNyhkR1lanr6a7A%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/1733a03c28169b582966ce6948a23afd/6253ae68/video/tos/useast2a/tos-useast2a-ve-0068c001/c82a893b4e6f424a8c8e661e701e2a08/?a=1988&br=1476&bt=738&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.EIDXq&l=2022041022281401011300615605B6BC0A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajlzb2k6ZjQ7PDMzNzczM0ApZ2dkZjk6OGU8N2RoN2c4N2dmZmlfcjRvbDZgLS1kMTZzc140MjMvLWNhYl4zLTU2MjE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/1733a03c28169b582966ce6948a23afd/6253ae68/video/tos/useast2a/tos-useast2a-ve-0068c001/c82a893b4e6f424a8c8e661e701e2a08/?a=1988&br=1476&bt=738&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.EIDXq&l=2022041022281401011300615605B6BC0A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajlzb2k6ZjQ7PDMzNzczM0ApZ2dkZjk6OGU8N2RoN2c4N2dmZmlfcjRvbDZgLS1kMTZzc140MjMvLWNhYl4zLTU2MjE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ec19fccc3b0645d8a3864397506f60b1_1649576974~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=I3x3DTUwli8w7ISz73bQ5Q22HMM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ec19fccc3b0645d8a3864397506f60b1_1649576974~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=7RLsMDsEZ81l3bPjUeZtQLGkLkY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/edf44874893b4cc8bbbf6c8ca9a1a197?x-expires=1649649600&x-signature=MsbnnGowGHeYnaoSxM%2B%2F1kv5Zz0%3D",
+        "bitrate": 755722,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7074136161685881862",
+        "uniqueId": "tommyryland6",
+        "nickname": "I stand with Ukraine<3",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d091fe0fab4b91d7e53c878b05ab76ec~c5_100x100.jpeg?x-expires=1649714400&x-signature=7OdKed2dOaW7xMwgOjgv%2B2ZAUfE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d091fe0fab4b91d7e53c878b05ab76ec~c5_720x720.jpeg?x-expires=1649714400&x-signature=aPZrKC6cziBMVQE8bxkZeOx%2F%2FuU%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d091fe0fab4b91d7e53c878b05ab76ec~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=c3FMMXA2PKkLcaHPUd0BYZTi%2Be4%3D",
+        "signature": "I\u2019m following everyone who follows me @support_ukrain7",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAzSxZU7fdlkzMigw4djH9L4ZqBg2GbU3yT9wI_Ppvg7L-jpAdDXvouNBf0Qus_Z6g",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7084879093645069062",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7084879086262586117.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d091fe0fab4b91d7e53c878b05ab76ec~c5_100x100.jpeg?x-expires=1649714400&x-signature=7OdKed2dOaW7xMwgOjgv%2B2ZAUfE%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d091fe0fab4b91d7e53c878b05ab76ec~c5_720x720.jpeg?x-expires=1649714400&x-signature=aPZrKC6cziBMVQE8bxkZeOx%2F%2FuU%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d091fe0fab4b91d7e53c878b05ab76ec~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=c3FMMXA2PKkLcaHPUd0BYZTi%2Be4%3D",
+        "authorName": "I stand with Ukraine<3",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 71
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 86,
+        "followerCount": 35,
+        "heartCount": 163,
+        "videoCount": 28,
+        "diggCount": 225,
+        "heart": 163
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

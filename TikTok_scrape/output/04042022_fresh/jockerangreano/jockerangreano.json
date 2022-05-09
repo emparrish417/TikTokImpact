@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7072853913455821829",
+        "shortId": "",
+        "uniqueId": "jockerangreano",
+        "nickname": "Andrew",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7072854346400006149~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=vK410apA0dmm%2BP2D%2F13iP2WWl6g%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7072854346400006149~c5_720x720.jpeg?x-expires=1649196000&x-signature=LhyvDhpwU4ZzrJAM02Rev9%2FNdMo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7072854346400006149~c5_100x100.jpeg?x-expires=1649196000&x-signature=XZhs%2FdDnXg8BOP2nVs%2F7FqoIc2A%3D",
+        "signature": "interactive video",
+        "createTime": 1646777230,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvkZ2_1qKgw3URtTtUK_-rWuDoDkrWnqlmM1gKNCpNyuhdNYAiiufbTylpybCZiHc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10,
+        "followingCount": 14,
+        "heart": 70,
+        "heartCount": 70,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

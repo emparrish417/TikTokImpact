@@ -1,0 +1,98 @@
+{
+    "id": "7081151677235023131",
+    "desc": "",
+    "createTime": 1648709103,
+    "video": {
+        "id": "7081151677235023131",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/573e1ccd8a234292ac54cd4530edbf62?x-expires=1648785600&x-signature=rBVMw8g%2BeLKtwnQZgACr6yY2QLA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e4d082b6105b4052b2fcf2ccbfff5c36_1648709105?x-expires=1648785600&x-signature=EH6uYdTCBZ4nytGuBMiYq6%2FW8Po%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/cc31e9c9d6ea4205882e51d8eb36da2e_1648709106?x-expires=1648785600&x-signature=3melUfpo1Bg2NP2A9E5h23FTqIY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ab5bc99019604364ff5dfa5373b7318b/62468310/video/tos/useast2a/tos-useast2a-pve-0037-aiso/235cf2c7d384404d98b227a1141cbd4a/?a=1988&br=1082&bt=541&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThUl0zDXq&l=2022033122434801011313507712894BE9&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3dtZzY6ZjxuPDMzZjgzM0ApaWhmNTloZjw2N2RnNDM5M2dhNmZtcjRfbi9gLS1kL2Nzc2JjMTUuM15eYjMyXy8tYjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ab5bc99019604364ff5dfa5373b7318b/62468310/video/tos/useast2a/tos-useast2a-pve-0037-aiso/235cf2c7d384404d98b227a1141cbd4a/?a=1988&br=1082&bt=541&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThUl0zDXq&l=2022033122434801011313507712894BE9&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3dtZzY6ZjxuPDMzZjgzM0ApaWhmNTloZjw2N2RnNDM5M2dhNmZtcjRfbi9gLS1kL2Nzc2JjMTUuM15eYjMyXy8tYjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/e4d082b6105b4052b2fcf2ccbfff5c36_1648709105~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=1c2ZLwHsUsSrjy%2FAzpgDnLBW58Y%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/e4d082b6105b4052b2fcf2ccbfff5c36_1648709105~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=o4gAXjMxotsS20E9r%2BH%2BB0O76bc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/573e1ccd8a234292ac54cd4530edbf62?x-expires=1648785600&x-signature=rBVMw8g%2BeLKtwnQZgACr6yY2QLA%3D",
+        "bitrate": 554499,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6951087296612533249",
+        "uniqueId": "ukraine0594",
+        "nickname": "UKRAINE AND PHILIPPINES",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/cbd52fdfd656c894467c86b9b580cd27~c5_100x100.jpeg?x-expires=1648850400&x-signature=Vf1F5et5Lq8D4Tc5J%2B123y8ACXQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/cbd52fdfd656c894467c86b9b580cd27~c5_720x720.jpeg?x-expires=1648850400&x-signature=SrwlTjkxFvlBm03ISSx6EWnQ4qM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/cbd52fdfd656c894467c86b9b580cd27~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=sJNfoRArLMIjx%2BENOgRzkqn%2B2XY%3D",
+        "signature": "none",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEVWDW7Q_5FpjSQam1mlNXoRDch9BhyjrvfEwG_38ex5OX8IEu6Gf8frNvy-UkYWl",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078193928977042203",
+        "title": "original sound - KONO DIO DA",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7078193923961031450.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/35b3c4e27f306296213d09276f7eeeb8.jpeg?x-expires=1648850400&x-signature=DVI3UYOHPE2DKU7Fh4qqcezyFuQ%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/35b3c4e27f306296213d09276f7eeeb8.jpeg?x-expires=1648850400&x-signature=RJzoXCqP3VAol3DtrLtDIXnl6yc%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/35b3c4e27f306296213d09276f7eeeb8.jpeg?x-expires=1648850400&x-signature=JGmKVdQdG7L1MysbB2Bn%2BGxqTg4%3D",
+        "authorName": "KONO DIO DA",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 23,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 198
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1376,
+        "followerCount": 2341,
+        "heartCount": 18000,
+        "videoCount": 155,
+        "diggCount": 37600,
+        "heart": 18000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "AGAIN"
+            ]
+        }
+    ],
+    "isAd": false
+}

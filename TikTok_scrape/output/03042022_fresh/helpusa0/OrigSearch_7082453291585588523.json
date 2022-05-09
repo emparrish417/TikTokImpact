@@ -1,0 +1,90 @@
+{
+    "id": "7082453291585588523",
+    "desc": "",
+    "createTime": 1649012159,
+    "video": {
+        "id": "7082453291585588523",
+        "height": 576,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7ebb6d08869a4da09e4f5bdb77fb8699?x-expires=1649052000&x-signature=XLX8s7Xo3sEm23wt4JM8BY5blJA%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/72be6eec5c824bad992331d83e00709f_1649012160?x-expires=1649052000&x-signature=9GLpXHatYi4OumEqIzl7tBj5YR8%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8beaebb0315e496fb2b9846fbb2501d0_1649012160?x-expires=1649052000&x-signature=WFTERi%2FfOZbL1g%2FDDuwBPIX10t0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e46de7051a4d0c6fa77b5e3f82717cfa/624a9720/video/tos/useast5/tos-useast5-ve-0068c004-tx/8fc513b4f7334209915678f11a0b7e3b/?a=1988&br=782&bt=391&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThpvRqDXq&l=20220404005818010113006254203EE60B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZ2bGU6Zmh4PDMzZzczNEApNjM3PGU5ZDs3N2g7NmY0PGcwX15scjRvbzFgLS1kMS9zc2JiMV4vLi01Y19iYC5iXzY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e46de7051a4d0c6fa77b5e3f82717cfa/624a9720/video/tos/useast5/tos-useast5-ve-0068c004-tx/8fc513b4f7334209915678f11a0b7e3b/?a=1988&br=782&bt=391&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThpvRqDXq&l=20220404005818010113006254203EE60B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZ2bGU6Zmh4PDMzZzczNEApNjM3PGU5ZDs3N2g7NmY0PGcwX15scjRvbzFgLS1kMS9zc2JiMV4vLi01Y19iYC5iXzY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72be6eec5c824bad992331d83e00709f_1649012160~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=6H91O7V9fwYdQoKbf0e3NPD9xAM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72be6eec5c824bad992331d83e00709f_1649012160~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=KO4ulj1fn4kxWaJXwit%2Bn8DEEv0%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7ebb6d08869a4da09e4f5bdb77fb8699?x-expires=1649052000&x-signature=XLX8s7Xo3sEm23wt4JM8BY5blJA%3D",
+        "bitrate": 401146,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6877624459977868294",
+        "uniqueId": "helpusa0",
+        "nickname": "Pray for Ukrainian",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94ecd071c7530009cef7c679a8c3f3bd~c5_100x100.jpeg?x-expires=1649116800&x-signature=iVB3gESELaRc3QwVz3zSdF3qQjo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94ecd071c7530009cef7c679a8c3f3bd~c5_720x720.jpeg?x-expires=1649116800&x-signature=6mMIsdTO1uzZulGTuekHNcSonY8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94ecd071c7530009cef7c679a8c3f3bd~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=nfulsdM%2B8xbltFsiZ15Frcer%2BZI%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcNzarIwaP2hrwOj9_eZF0srBG-JIRngypye_PSA8YHWOB9OnB9cIs6bug5U7p9jI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082453276553481003",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7082453296950037291.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94ecd071c7530009cef7c679a8c3f3bd~c5_100x100.jpeg?x-expires=1649116800&x-signature=iVB3gESELaRc3QwVz3zSdF3qQjo%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94ecd071c7530009cef7c679a8c3f3bd~c5_720x720.jpeg?x-expires=1649116800&x-signature=6mMIsdTO1uzZulGTuekHNcSonY8%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94ecd071c7530009cef7c679a8c3f3bd~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=nfulsdM%2B8xbltFsiZ15Frcer%2BZI%3D",
+        "authorName": "Pray for Ukrainian",
+        "original": true,
+        "duration": 22,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 6
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 603,
+        "followerCount": 133,
+        "heartCount": 571,
+        "videoCount": 105,
+        "diggCount": 1311,
+        "heart": 571
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,119 @@
+{
+    "id": "7081060880959409450",
+    "desc": "@tbh \ud83e\udd1d part two",
+    "createTime": 1648687963,
+    "video": {
+        "id": "7081060880959409450",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a0fa6f28515342d1886807df15c8b0cf?x-expires=1648785600&x-signature=nuLBbcYeMdhCnM2eMTaJn4QkM8g%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/67b6033967ce464281ca0395e1978116_1648687964?x-expires=1648785600&x-signature=5Tua05QocPJU52uHCpRTqOmu8PI%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9d5fa0922683414c9eb6946df37584aa_1648687964?x-expires=1648785600&x-signature=swwaA%2FCuMewbmeBsRgOjRf1oV6s%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/355cafd4ebb931db971fa508ab1c9f93/6246839c/video/tos/useast5/tos-useast5-ve-0068c003-tx/589a105ed44b4549be5233afb75b05be/?a=1988&br=358&bt=179&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbX0zDXq&l=20220331224612010113135143211839CF&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI1cTM6ZjtpPDMzZzczNEApaWU6PGk5NmQ5NzszOGc5NGdwai8tcjQwZC9gLS1kMS9zc15iNV5eMTZgY14zLV4wNjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/355cafd4ebb931db971fa508ab1c9f93/6246839c/video/tos/useast5/tos-useast5-ve-0068c003-tx/589a105ed44b4549be5233afb75b05be/?a=1988&br=358&bt=179&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThbX0zDXq&l=20220331224612010113135143211839CF&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI1cTM6ZjtpPDMzZzczNEApaWU6PGk5NmQ5NzszOGc5NGdwai8tcjQwZC9gLS1kMS9zc15iNV5eMTZgY14zLV4wNjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/67b6033967ce464281ca0395e1978116_1648687964~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=4ocSf6EXvhpA4MiAZqU87b8ucus%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/67b6033967ce464281ca0395e1978116_1648687964~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=DSkAiQ4RVli6xxpIkdAlZYPnYSc%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a0fa6f28515342d1886807df15c8b0cf?x-expires=1648785600&x-signature=hcAGgGjQYz0oXnWXIUvQUNvwGeM%3D",
+        "bitrate": 183459,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7073275940718871598",
+        "uniqueId": "istandukraine20",
+        "nickname": "Rose",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b4a25f44da3ebc7cd1328e5643b94030~c5_100x100.jpeg?x-expires=1648850400&x-signature=bhlbzNlBL0BmgAXZip7LkqUun2E%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b4a25f44da3ebc7cd1328e5643b94030~c5_720x720.jpeg?x-expires=1648850400&x-signature=5WdBDiQKZk6ULaG8E1Cb0tlpero%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b4a25f44da3ebc7cd1328e5643b94030~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=EOBUosnnTnn23szU%2FCSMCsAULqQ%3D",
+        "signature": "Heyy <333",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbS8AfVZ5wo9afrCJiFIpJaNp3fLkfxG40iRG4JXgLhfpfRFBsHuTvg2aECRqll19",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7041405645559515909",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7041405685392886534.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9e8fd124f45218b2775003b93770f725~c5_100x100.jpeg?x-expires=1648850400&x-signature=PDpoVOHyhXXDXJeLxNJCDwYAH9Y%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9e8fd124f45218b2775003b93770f725~c5_720x720.jpeg?x-expires=1648850400&x-signature=vF70wG1CfBmpI9Sm4pu9AxPx3VQ%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9e8fd124f45218b2775003b93770f725~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=SHJ1vhCGcfyCfRgFFpNpndZWZro%3D",
+        "authorName": "j e n \ud83d\udc9f\ud83d\udc90",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 25
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7017130732804850693",
+            "isCommerce": false,
+            "userUniqueId": "tbh.eden10",
+            "secUid": "MS4wLjABAAAAU9ElBerFiqVeKeojgOB9msq_TuaabbvXAkHtHu0hwNDH3xSZ_QCAIy2T4KrsKTSz",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 97,
+        "followerCount": 37,
+        "heartCount": 160,
+        "videoCount": 21,
+        "diggCount": 2881,
+        "heart": 160
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Part two",
+                "What I love about my friends ",
+                "Eden: nice, PRETTY \ud83e\udd29, funny \n\ud83d\udc51\u2764\ufe0f\ud83d\udc95",
+                "Ruth: kind, funny, SLAY QUEEN\n\ud83e\udd29\ud83d\udc95\ud83d\udc85\ud83d\udc51",
+                "Bawi: funny , nice, GORGEOUS \n\ud83d\udc95\u2764\ufe0f\ud83d\udc51\ud83e\udd29\ud83e\udd70",
+                "Gaby: funny, kind, just like me \n\ud83e\udd29\ud83d\udc95\u2764\ufe0f\ud83d\ude1c",
+                "Kendall: loves burning houses in roblox like me, \nFunny, nice \ud83d\udc51\ud83e\udd23\ud83d\udc95"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,119 @@
+{
+    "id": "7087951880243940614",
+    "desc": "#istandwithukraine",
+    "createTime": 1650292400,
+    "video": {
+        "id": "7087951880243940614",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c58d34c25c5e4dd08f3a8fba15b9250a?x-expires=1650330000&x-signature=xdfaOWBbd%2FbTDdXRUU%2FNaOrn5u8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0076e953cf6343ab8ee22a1c33fea22c_1650292401?x-expires=1650330000&x-signature=n%2BMhVB27L79u4Y3d6d035uJdbTo%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/27dd221bc0fc4202911859bfff3d7c14_1650292402?x-expires=1650330000&x-signature=eN9VWHWk0pTymzpxjOhqXK748gY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5b77f0fced5096277a7e00c3ef413ea5/625e0d3b/video/tos/useast2a/tos-useast2a-ve-0068c004/d6df0f1fbc0249abbe5c52537f1ad3c4/?a=1988&br=626&bt=313&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zrzxwwe2NV7Gfl7Gb&l=202204181915240101130061330EF5FB22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV2dWc6ZmRxPDMzNzczM0ApaDtoNzU2M2RpNzw0ZGdkM2dwb2w2cjRnYWJgLS1kMTZzcy9iMzFiNl9hXl4vYzYyNjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5b77f0fced5096277a7e00c3ef413ea5/625e0d3b/video/tos/useast2a/tos-useast2a-ve-0068c004/d6df0f1fbc0249abbe5c52537f1ad3c4/?a=1988&br=626&bt=313&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zrzxwwe2NV7Gfl7Gb&l=202204181915240101130061330EF5FB22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajV2dWc6ZmRxPDMzNzczM0ApaDtoNzU2M2RpNzw0ZGdkM2dwb2w2cjRnYWJgLS1kMTZzcy9iMzFiNl9hXl4vYzYyNjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0076e953cf6343ab8ee22a1c33fea22c_1650292401~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=tRR%2BWEa%2BBbZTB1GBlSnupogB2hM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0076e953cf6343ab8ee22a1c33fea22c_1650292401~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=BM1khx2CWDkRVvUexaodNMwWnFE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c58d34c25c5e4dd08f3a8fba15b9250a?x-expires=1650330000&x-signature=xdfaOWBbd%2FbTDdXRUU%2FNaOrn5u8%3D",
+        "bitrate": 320545,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7014521260756059142",
+        "uniqueId": "rascalcharlie",
+        "nickname": "rascalcharlie",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8df4931855479583878ab38d80697ffc~c5_100x100.jpeg?x-expires=1650481200&x-signature=RDQV47%2B%2Fx3ZKT6oP9OyjCQSIXsk%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8df4931855479583878ab38d80697ffc~c5_720x720.jpeg?x-expires=1650481200&x-signature=Cs%2FoqPA3OduHfy6mizwYe%2BI8UYU%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8df4931855479583878ab38d80697ffc~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=HhH7TMLmBswXDTLxS3oyEkoKbac%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAk2JMSt7CKLeWCwl2CwzoKysgD6d4e1wCqZhNEihElmCtpKkQq4yjOz_RJuF0BKwf",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6815358514588813314",
+        "title": "Depressed",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e51525191298468eb7f9d7f24989c17e",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/8ec064ea198648f5adc95b7c40d594c2.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/8ec064ea198648f5adc95b7c40d594c2.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/8ec064ea198648f5adc95b7c40d594c2.jpeg",
+        "authorName": "Leanboys",
+        "original": false,
+        "duration": 60,
+        "album": "Depressed"
+    },
+    "challenges": [
+        {
+            "id": "7039123912994586626",
+            "title": "istandwithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 41
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 18,
+            "hashtagName": "istandwithukraine",
+            "hashtagId": "7039123912994586626",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 8,
+        "followerCount": 12,
+        "heartCount": 29,
+        "videoCount": 20,
+        "diggCount": 69,
+        "heart": 29
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

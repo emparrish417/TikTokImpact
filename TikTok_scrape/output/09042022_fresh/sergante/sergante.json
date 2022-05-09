@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6784767342376551430",
+        "shortId": "",
+        "uniqueId": "sergante",
+        "nickname": "Serge",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1656437506226182~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=eEPjxMDnAZfv2yOWIBCQXhjaz2k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1656437506226182~c5_720x720.jpeg?x-expires=1649638800&x-signature=UWIMIb%2BszPHe9HfrDLLQz7x1qn0%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1656437506226182~c5_100x100.jpeg?x-expires=1649638800&x-signature=qSnsdSX96rgy0ilxxByq0M854rI%3D",
+        "signature": "",
+        "createTime": 1579701906,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASVrUL8chm6QUUoMQe1Xe5aYW8hpiJWJMHpMzwpxpHFXkhnUNT6lxCJuFxaE5Pz8h",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 227,
+        "followingCount": 2895,
+        "heart": 1065,
+        "heartCount": 1065,
+        "videoCount": 76,
+        "diggCount": 0
+    },
+    "itemList": []
+}

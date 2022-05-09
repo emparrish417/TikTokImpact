@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6752120233127281670",
+        "shortId": "",
+        "uniqueId": "tetipa",
+        "nickname": "TaPa",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663639240173574~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=L%2BnKpbQQyBgnBWyBo6livaniCQs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663639240173574~c5_720x720.jpeg?x-expires=1649372400&x-signature=gTE4wl0TbnD1Odxq2wd7udQecdo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1663639240173574~c5_100x100.jpeg?x-expires=1649372400&x-signature=80SnvHKsXlFOkvIcJDUrbAdyMFo%3D",
+        "signature": "Uka\u0407nian\ud83d\udc99\ud83d\udc9b",
+        "createTime": 1572100611,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnn-NX3FW9pG2kuB6yhwCY3XLeIZT2cWyszDpf8tSzG1KNNp9XUYdtYeLGJcdHq43",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 19,
+        "followingCount": 99,
+        "heart": 91,
+        "heartCount": 91,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

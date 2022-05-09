@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6728821482690429953",
+        "shortId": "",
+        "uniqueId": "yk",
+        "nickname": "yk",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/1da29a076216d81dbe87900dd940bd34.jpeg?x-expires=1650934800&x-signature=68urk4nnpq3KXl%2Bl49QvZKdtndg%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/1da29a076216d81dbe87900dd940bd34.jpeg?x-expires=1650934800&x-signature=s6Hboaxyt7S5n5BzIO5ZIVv%2FSsA%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1da29a076216d81dbe87900dd940bd34.jpeg?x-expires=1650934800&x-signature=PEN117e8Qj6s8%2FGtggXnEFDQ%2Fzg%3D",
+        "signature": "Taking photos for a living\ud83d\udcf8\nPrints and presets\ud83d\udc47\ud83c\udffb",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAKQP7ON79i2MqPOG2l57cSGvmX-3haK6a6U4WnaCtYhnjyFPCgYzE2fHZPLONWJXw",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/yikkeat",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1700000,
+        "followingCount": 32,
+        "heart": 40200000,
+        "heartCount": 40200000,
+        "videoCount": 372,
+        "diggCount": 0
+    },
+    "itemList": []
+}

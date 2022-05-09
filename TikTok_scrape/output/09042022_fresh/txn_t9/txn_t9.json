@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7067589211763999749",
+        "shortId": "",
+        "uniqueId": "txn_t9",
+        "nickname": "TXN_T9",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fc9537ae56d58cd805d1c8ee207f8d01~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=FDq5YJvTzdsvxL7PWJZ0J7negNw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fc9537ae56d58cd805d1c8ee207f8d01~c5_720x720.jpeg?x-expires=1649638800&x-signature=EEN5zej%2FYeFBm5nlNBuptgvURHg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fc9537ae56d58cd805d1c8ee207f8d01~c5_100x100.jpeg?x-expires=1649638800&x-signature=Q4b9eu7xasN%2FkpdN64GVyjtl8%2FQ%3D",
+        "signature": "\ud83d\udda4\u2728 Do good and good come to you\u2728\ud83d\udda4\n\ud83d\udda4\u2728Don\u2019t Forget Follow\u2728\ud83d\udda4",
+        "createTime": 1645551465,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIg7pyROxWyZwibEP29vN3IulTDmmfeCSRtEUDY96mwL9CqnPmLEh8IaIxJqOOnRK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 94200,
+        "followingCount": 20,
+        "heart": 935,
+        "heartCount": 935,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

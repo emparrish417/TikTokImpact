@@ -1,0 +1,96 @@
+{
+    "id": "7081507923377114411",
+    "desc": "",
+    "createTime": 1648792050,
+    "video": {
+        "id": "7081507923377114411",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f22eedd103a94913bf9c5294220e06ec?x-expires=1648875600&x-signature=8oHJERO3rWi4UHwUrCke1k3wE0A%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b87b89e7d36f417ab37c2a62d83139d5_1648792051?x-expires=1648875600&x-signature=Pu5mqXxZX7vuBQ9HOnYZTqFBqGc%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e57d2398b0c74a04a1ce9a74a4834fd5_1648792051?x-expires=1648875600&x-signature=HZDCVBPkMDQC2yGhAhpwcEPQwPI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c5fcbcb13f25d2df95fda8c123926c8a/6247e3ae/video/tos/useast5/tos-useast5-ve-0068c002-tx/772347cda8af46cc9c9104c5b497fce8/?a=1988&br=1228&bt=614&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9XxzDXq&l=20220401234814010113135050165A24AB&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2g2aTw6ZnI8PDMzZzczNEApZWg1NWU6ODw7NzM0MzozNmcxX200cjQwMDBgLS1kMS9zczQ2Mi0wLS4xLTFgLjM1YF46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c5fcbcb13f25d2df95fda8c123926c8a/6247e3ae/video/tos/useast5/tos-useast5-ve-0068c002-tx/772347cda8af46cc9c9104c5b497fce8/?a=1988&br=1228&bt=614&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9XxzDXq&l=20220401234814010113135050165A24AB&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2g2aTw6ZnI8PDMzZzczNEApZWg1NWU6ODw7NzM0MzozNmcxX200cjQwMDBgLS1kMS9zczQ2Mi0wLS4xLTFgLjM1YF46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b87b89e7d36f417ab37c2a62d83139d5_1648792051~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=nK8lZZTjPMU1ogemi5irIZ4rncM%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/b87b89e7d36f417ab37c2a62d83139d5_1648792051~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=FqryUAPxDBMHbyh8L%2B10Ng40TsU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f22eedd103a94913bf9c5294220e06ec?x-expires=1648875600&x-signature=KZ9N1RuScwhfv2hZJpPDPhxRkCw%3D",
+        "bitrate": 629088,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7052527422208099375",
+        "uniqueId": "followmeforyouukrain1",
+        "nickname": "Follow me if you Stan with\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4a9b195306e952bdd24bff054fe88ddc~c5_100x100.jpeg?x-expires=1648940400&x-signature=K9YjHpdboPhQCgUcWbWKT76Y7YM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4a9b195306e952bdd24bff054fe88ddc~c5_720x720.jpeg?x-expires=1648940400&x-signature=GpII%2BTJezHgny31SJ2IjcqxrIc8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4a9b195306e952bdd24bff054fe88ddc~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=dTFzNe2zdwwEpyZWPdpUXHwDchY%3D",
+        "signature": "Pls \nfollow me",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAImP9llqFfq6CnnMcpUfH-b0OtzPJIUO752ObIVSeiDWDaNYd90vrtgs7bDxmPbER",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030869625311086594",
+        "title": "Sunroof",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/986dfec9a96747239819231f7dc93931",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "authorName": "Nicky Youre & dazy",
+        "original": false,
+        "duration": 60,
+        "album": "Sunroof"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 92
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Lens Swap",
+            "ID": "1066688"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 191,
+        "followerCount": 71,
+        "heartCount": 318,
+        "videoCount": 88,
+        "diggCount": 815,
+        "heart": 318
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

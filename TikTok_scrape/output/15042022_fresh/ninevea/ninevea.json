@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6684616149692613638",
+        "shortId": "",
+        "uniqueId": "ninevea",
+        "nickname": "Ninuca Gabrichidze",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/0bfd49afe8e279d612855bb0e154ac71.jpeg?x-expires=1650240000&x-signature=RsMSKYwY6ZHC6m3Em6hf9YtuoYQ%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/0bfd49afe8e279d612855bb0e154ac71.jpeg?x-expires=1650240000&x-signature=rQWzl59HIOPZ9lY51aTMCLRC4nc%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0bfd49afe8e279d612855bb0e154ac71.jpeg?x-expires=1650240000&x-signature=9xDYv2DFMQ1geiVFqojPfY6bt%2BM%3D",
+        "signature": "\ud83e\uddda\ud83c\udffb\u200d\u2640\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArXVJxNEBnkFoUl_Ed-ihURHz6AJkU5859FUZxweDC1JAC_5qf0jO-YsLWU1P4JqE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2486,
+        "followingCount": 395,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 9,
+        "diggCount": 0
+    },
+    "itemList": []
+}

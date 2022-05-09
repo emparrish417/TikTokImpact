@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7069362080919045122",
+        "shortId": "",
+        "uniqueId": "hehehe_sui_",
+        "nickname": "sui",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/2302bd928de8da4b9e77c09f65eaa1b3.jpeg?x-expires=1650578400&x-signature=AA53%2F4%2B%2BrGGpstGvaPbHeThMFZA%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/2302bd928de8da4b9e77c09f65eaa1b3.jpeg?x-expires=1650578400&x-signature=ljzVpBbLnDqCgXf0j%2FeDRgB30b0%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/2302bd928de8da4b9e77c09f65eaa1b3.jpeg?x-expires=1650578400&x-signature=FmOnny8PArITPj25QSmVVg4iMgA%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4kThseBUJwFTHe8hVvh4Tgn1N_ZaIrzqlpA5bTrQeh6uYssnV4A4SsymoSWZnijz",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 16700,
+        "followingCount": 1,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

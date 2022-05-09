@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6840796973375046661",
+        "shortId": "",
+        "uniqueId": "david.heath",
+        "nickname": "David Heath",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29c41ad2b8fc23dd8dcabcaa4b877a77~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=Bc5hjCLEMx1X4Sj1wOlXd5fZKeM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29c41ad2b8fc23dd8dcabcaa4b877a77~c5_720x720.jpeg?x-expires=1650664800&x-signature=tpyXJSTnMyjQutPAY2Jr8LDDdAw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29c41ad2b8fc23dd8dcabcaa4b877a77~c5_100x100.jpeg?x-expires=1650664800&x-signature=s1moj6X470RHzlXs7YZlbwxCjQs%3D",
+        "signature": "Journalist, plz order my book, Longshot, the race for a vaccine. \u2b07\ufe0f follow me",
+        "verified": false,
+        "secUid": "MS4wLjABAAAALjeDZ2Rm6VgISuWXuzp_FLJuT41RsKxAXNzxVvIic5SGUmVQozk0cy7-_dPdi28K",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.david-heath.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 81700,
+        "followingCount": 750,
+        "heart": 3900000,
+        "heartCount": 3900000,
+        "videoCount": 1149,
+        "diggCount": 0
+    },
+    "itemList": []
+}

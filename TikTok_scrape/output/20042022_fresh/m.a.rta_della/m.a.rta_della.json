@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6780075716983915526",
+        "shortId": "",
+        "uniqueId": "m.a.rta_della",
+        "nickname": "\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d576ec65874c29b1667fffb8bf6e37c4~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=kJ4n7Rms1Xy2IPZtjcdsb8UyxvM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d576ec65874c29b1667fffb8bf6e37c4~c5_720x720.jpeg?x-expires=1650664800&x-signature=uiGJR7MAylwoPPiq%2FpxR60Mzdic%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d576ec65874c29b1667fffb8bf6e37c4~c5_100x100.jpeg?x-expires=1650664800&x-signature=zZx5wFnIgzzyVMSlS3PD1iR0ODk%3D",
+        "signature": "marta_della",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAofcdMjfYXlwLPzidog82mrwx-3WgDIWcbbQJlJGyQp45D3xwZ-k-r2P5FIjWZcf-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 115,
+        "followingCount": 80,
+        "heart": 315,
+        "heartCount": 315,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

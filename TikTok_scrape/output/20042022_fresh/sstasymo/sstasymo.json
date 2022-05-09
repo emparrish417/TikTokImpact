@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6777700498088772613",
+        "shortId": "",
+        "uniqueId": "sstasymo",
+        "nickname": "Stacy Mo",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4d2758d701feb56cf3887e94744b620a~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=PoVSqgGoHv2Nnv59VsP3d9mjow4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4d2758d701feb56cf3887e94744b620a~c5_720x720.jpeg?x-expires=1650664800&x-signature=cqbdbs%2BrMZml3Cx4wbKNrRoV1QI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4d2758d701feb56cf3887e94744b620a~c5_100x100.jpeg?x-expires=1650664800&x-signature=Eo5%2BqVScPnNBCQ%2BIEGUqgjuN0Dw%3D",
+        "signature": "Kyiv",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAP2zKuUXDWoRW1lt3N4QxbS5OW5DwlYmnLz6l1lIhbbqmqUoS0BDc7R7ZlMohOhb0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1147,
+        "followingCount": 15,
+        "heart": 109700,
+        "heartCount": 109700,
+        "videoCount": 120,
+        "diggCount": 66300
+    },
+    "itemList": []
+}

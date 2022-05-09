@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6966234696955872261",
+        "shortId": "",
+        "uniqueId": "unique.planet",
+        "nickname": "unique.planet",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d05047643fdf992c0e2ecb80875ce55c~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=G2SpnvMQeLvis1eob%2BoefIDSlyk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d05047643fdf992c0e2ecb80875ce55c~c5_720x720.jpeg?x-expires=1650664800&x-signature=DLF5WBXtpTGBHijhehMkOUCvKxw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d05047643fdf992c0e2ecb80875ce55c~c5_100x100.jpeg?x-expires=1650664800&x-signature=6SA5uljP%2BSvy0lvUfaBZalwHSps%3D",
+        "signature": "All about our Planet \ud83c\udf0e \ud83c\udf0d \ud83c\udf0f\n\ud83d\udce7: ryan@undercurrent.net\n(Business & Cr. Removal)",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIA9st8qf2os_ZlQc5EiTRA3omoT6gB2Cjp3tCFo9cPfyrRc9BfZXOlvYgq7gAeVO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/uniqueplanet",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5900000,
+        "followingCount": 162,
+        "heart": 180500000,
+        "heartCount": 180500000,
+        "videoCount": 387,
+        "diggCount": 0
+    },
+    "itemList": []
+}

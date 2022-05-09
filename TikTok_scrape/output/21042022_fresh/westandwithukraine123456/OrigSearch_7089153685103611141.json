@@ -1,0 +1,104 @@
+{
+    "id": "7089153685103611141",
+    "desc": "",
+    "createTime": 1650572217,
+    "video": {
+        "id": "7089153685103611141",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/db922fd187c0456a8cf5d34b0bb17b05?x-expires=1650600000&x-signature=O2yZhFbdKTXHzyxj8rZmchv3AmY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7519b8285a454798b7c57b2b20996c25_1650572219?x-expires=1650600000&x-signature=VrRnC%2FUXFA5N%2Be5sITV0BCO%2FPyo%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4e612bd40975425ebb70fe99df6fb36a_1650572219?x-expires=1650600000&x-signature=SIetcnLSFosO%2F8CmjcrJ9l1rBLw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/18c7a6d304174307d1baabc7f323fc3f/62623322/video/tos/useast2a/tos-useast2a-pve-0068/041bb2c606f64f348195c48a84e9d1dc/?a=1988&br=2360&bt=1180&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZALZNwe2NTGefl7Gb&l=202204212246110101131351100AC56E18&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amloM2c6ZmR1PDMzNzczM0ApNjY4N2VmPDxnN2hkaDM1ZWc1NWAtcjQwaGRgLS1kMTZzc19fMmA0MGEyL2NiYjMwNTQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/18c7a6d304174307d1baabc7f323fc3f/62623322/video/tos/useast2a/tos-useast2a-pve-0068/041bb2c606f64f348195c48a84e9d1dc/?a=1988&br=2360&bt=1180&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZALZNwe2NTGefl7Gb&l=202204212246110101131351100AC56E18&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amloM2c6ZmR1PDMzNzczM0ApNjY4N2VmPDxnN2hkaDM1ZWc1NWAtcjQwaGRgLS1kMTZzc19fMmA0MGEyL2NiYjMwNTQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7519b8285a454798b7c57b2b20996c25_1650572219~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=t1326WIOWfiqvl%2Fc5dey2xGjb7U%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7519b8285a454798b7c57b2b20996c25_1650572219~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=5u%2BSIJIvFXYbtHUUs1GI0UaM9q8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/db922fd187c0456a8cf5d34b0bb17b05?x-expires=1650600000&x-signature=O2yZhFbdKTXHzyxj8rZmchv3AmY%3D",
+        "bitrate": 1208736,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6952926800134652933",
+        "uniqueId": "westandwithukraine123456",
+        "nickname": "\u03c1\ud835\ude33\uaac0\u03c1\u03c1\uaa97\u19c1\ud835\udcf2\ud835\ude33\uaab6123456789{\u1947\uaac0\ud835\ude34\ud835\udcfd}",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc585073c1a04262e9b80c34c15f5d7e~c5_100x100.jpeg?x-expires=1650751200&x-signature=DtaykTmyx2vvELb%2F%2FH9i8Mx4mTY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc585073c1a04262e9b80c34c15f5d7e~c5_720x720.jpeg?x-expires=1650751200&x-signature=gzasHuvL3%2F8Cufq9zV7GCYE0FLM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cc585073c1a04262e9b80c34c15f5d7e~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=YoNiI%2BmFIzsUvMkWB65V1c22cvA%3D",
+        "signature": "\u03c1\ud835\ude33\uaac0\u03c1\u03c1\uaa97\u19c1\ud835\udcf2\ud835\ude33\uaab6123456",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXe3-S_Dwm4GatXgMNRed0vQC8k7PSzCZmrcTJKccHk8CM9kxZV6MVhIsyds4v5WL",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6706896335980858118",
+        "title": "Originalton",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1637430629407781.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c63c47f07182f3d99a2edfffda7fe42e~c5_100x100.jpeg?x-expires=1650751200&x-signature=jKj7d0%2FhO2QJFUbPSyD8HsgwjOs%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c63c47f07182f3d99a2edfffda7fe42e~c5_720x720.jpeg?x-expires=1650751200&x-signature=6vyuRBBHw2ywgTGQ%2Frv7qff89vQ%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c63c47f07182f3d99a2edfffda7fe42e~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=Nxx5w7faqW7Dd%2F09qmLFxbXj4q8%3D",
+        "authorName": "Horse Senpai",
+        "original": true,
+        "duration": 22,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 0
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "freckles by emmasofija",
+            "ID": "1518982"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 441,
+        "followerCount": 199,
+        "heartCount": 784,
+        "videoCount": 233,
+        "diggCount": 936,
+        "heart": 784
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "im a horsey girl its true whos saying it thank you \ud835\ude9c\ud835\ude8a\ud835\ude92\ud835\ude8d \ud835\ude92\ud835\ude9d \ud835\ude96\ud835\ude8e\ud835\ude8a\ud835\ude97\ud835\ude9c \ud835\udd52\ud835\udd5d\ud835\udd60\ud835\udd65 \ud835\udd65\ud835\udd60 \ud835\udd5e\ud835\udd56\ud835\udc22\ud835\udc2d \ud835\udc26\ud835\udc1a\ud835\udc24\ud835\udc1e\ud835\udc2c \ud835\udc1f\ud835\udc1e\ud835\udc1e\ud835\udc25 \ud835\udc21\ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc32 \ud835\udc89\ud835\udc90\ud835\udc93\ud835\udc94\ud835\udc86\ud835\udc94 \ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc85\ud835\udc90\ud835\udc88\ud835\udc94 \ud835\udc84\ud835\udc82\ud835\udc8f \ud835\udc96 \ud835\udc83\ud835\udc86 \ud835\udc8d\ud835\udc8a\ud835\udc87\ud835\udc86  \ud835\udc66\ud835\udc5d\ud835\udc62 \ud835\udc50\ud835\udc4e\ud835\udc5b \ud835\udc5f\ud835\udc56\ud835\udc51\ud835\udc52 \ud835\udc61\u210e\ud835\udc52 \u210e\ud835\udc5c\ud835\udc5f\ud835\udc60\ud835\udc52 \ud835\udc66\ud835\udc5d\ud835\udc62 \ud835\udc50\ud835\udc4e\ud835\udc5b \ud835\udc5a\ud835\udc4e\ud835\udc58\ud835\udc52 \ud835\udc61\u210e\ud835\udc52 \u210e\ud835\udc5c\ud835\udc5f\ud835\udc60\ud835\udc52 \ud835\udc59\ud835\udc5c\ud835\udc63\ud835\udc52 \ud835\udc66\ud835\udc5d\ud835\udc62  \u0274\u1d0f \u1d0d\u1d00\u1d1b\u1d1b\u1d07\u0280 \u1d21\u029c\u1d00\u1d1b \u1d1b\u029c\u1d07\u028f \u1d0d\u1d07\u1d00\u0274 \u1d0d\u028f \u029f\u026a\u0493\u1d07 \u1d1b\u1d0f \u1d0d\u1d07 \ud835\udcc3\u2134\ud835\udcc9\ud835\udcbd\ud835\udcbe\u210a \ud835\udcea\ud835\udcf7\ud835\udced \ud835\udcf2\ud835\udcfd\ud835\udcfc \ud835\udcf8\ud835\udcfe\ud835\udcfb \ud835\udcfc\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd \u2071\u1d57\u02e2 \u1d4d\u1d52\u1d52\u1d48  I\u15b4 \u144c \u15eaO\u144eT \u15f7\u15f4\u14aa\u15f4I\u142f\u15f4 \u15f0\u15f4 T\u1587Y  \ud835\uddf6\ud835\ude01 \ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\uddfb\ud835\uddf6\ud835\uddf0\ud835\uddf2 \ud835\ude5e\ud835\ude69\ud835\ude68 \ud835\ude61\ud835\ude64\ud835\ude6b\ud835\ude5e\ud835\ude63\ud835\ude5c  \ud835\ude2a\ud835\ude35\ud835\ude34 \ud835\ude29\ud835\ude22\ud835\ude31\ud835\ude31\ud835\ude3a  \ud835\uddc2\ud835\uddcd \ud835\uddc6\ud835\uddba\ud835\uddc4\ud835\uddbe\ud835\uddcc \ud835\uddd2\ud835\uddc8\ud835\uddce\ud835\uddcb \ud835\uddc5\ud835\uddc2\ud835\uddbf\ud835\uddbe \ud835\uddba\ud835\uddc7\ud835\uddbd \ud835\uddc6\ud835\uddc8\ud835\uddcb\ud835\uddbe \ud835\uddc8\ud835\uddc7 \ud835\uddd2\ud835\uddc8\ud835\uddce  \u24cc\ufe0e\u24be\ufe0e\u24c1\ufe0e\u24c1\ufe0e \u24b7\ufe0e\u24ba\ufe0e \u24b6\ufe0e\u24b7\ufe0e\u24c8\ufe0e\u24c4\ufe0e\u24ca\ufe0e\u24c9\ufe0e\u24c1\ufe0e\u24ce\ufe0e  \ud83c\udd54\ufe0e\ud83c\udd67\ufe0e\ud83c\udd52\ufe0e\ud83c\udd64\ufe0e\ud83c\udd50\ufe0e\ud83c\udd62\ufe0e\ud83c\udd54\ufe0e\ud83c\udd53\ufe0e \ud83c\udd51\ufe0e\ud83c\udd64\ufe0e\ud83c\udd63\ufe0e \ud83c\udd66\ufe0e\ud83c\udd54\ufe0e \ud83c\udd5a\ufe0e\ud83c\udd54\ufe0e\ud83c\udd54\ufe0e\ud83c\udd5f\ufe0e \ud83c\udd56\ufe0e\ud83c\udd5f\ufe0e\ud83c\udd58\ufe0e\ud83c\udd5d\ufe0e\ud83c\udd56\ufe0e  \ud835\udd2d\ud835\udd32\ud835\udd2f \ud835\udd25\ud835\udd22\ud835\udd1e\ud835\udd2f\ud835\udd31 \ud835\udd25\ud835\udd1e\ud835\udd30 \ud835\udd1e \ud835\udd25 \ud835\udd1e\ud835\udd2b\ud835\udd21 \ud835\udd21  \ud835\udd93\ud835\udd94 \ud835\udd92\ud835\udd86\ud835\udd99\ud835\udd99\ud835\udd8a\ud835\udd97 \ud835\udd9c\ud835\udd8d\ud835\udd86\ud835\udd99 \ud835\udd8d\ud835\udd86\ud835\udd95\ud835\udd95\ud835\udd8a\ud835\udd93\ud835\udd98   g\u0361\u035ce\u0361\u035ct\u0361\u035c b\u0361\u035ca\u0361\u035cc\u0361\u035ck\u0361\u035c  o\u0306\u0308n\u0306\u0308   \ud83c\uddf3\u200a\ud83c\uddf4\u200a\ud83c\uddf9\u200a\ud83c\udded\u200a\ud83c\uddee\u200a\ud83c\uddf3\u200a\ud83c\uddec\u200a  \ud83c\udd32\ud83c\udd30\ud83c\udd3d \ud83c\udd3c\ud83c\udd30\ud83c\udd3a\ud83c\udd34 \ud83c\udd38\ud83c\udd43 \ud83c\udd30\ud83c\udd3d\ud83c\udd48 \ud83c\udd46\ud83c\udd3e\ud83c\udd41\ud83c\udd42\ud83c\udd34\ud83c\udd41 \ud83c\udd78\ufe0e\ud83c\udd75\ufe0e \ud83c\udd88\ufe0e\ud83c\udd7f\ufe0e\ud83c\udd84\ufe0e\ud83c\udd81\ufe0e \ud83c\udd86\ufe0e\ud83c\udd70\ufe0e\ud83c\udd72\ufe0e\ud83c\udd77\ufe0e\ud83c\udd78\ufe0e\ud83c\udd7d\ufe0e\ud83c\udd76\ufe0e \ud83c\udd83\ufe0e\ud83c\udd77\ufe0e\ud83c\udd78\ufe0e\ud83c\udd82\ufe0e \ud83c\udd78\ufe0e\ud83c\udd83\ufe0e\ud83c\udd82\ufe0e \ud83c\udd83\ufe0e\ud83c\udd81\ufe0e\ud83c\udd84\ufe0e\ud83c\udd74\ufe0e \ud835\udcf2 \uaadd\uaa96\uaa9c\uaac0  b\u034ee\u034ee\u034en\u034e r\u034ei\u034ed\u034ei\u034en\u034eg\u034e f\u034eo\u034er\u034e 4 y\u034ee\u034ea\u034er\u034es\u034e a\u034en\u034ed\u034e s\u034et\u034ei\u034el\u034el\u034e h\u034ea\u034ev\u034ee\u034e n\u034eo\u034et\u034e f\u034ea\u034el\u034el\u034ei\u034en\u034eg\u034e o\u034eu\u034et\u034e t\u034er\u034ey\u034e i\u034et\u034e"
+            ]
+        }
+    ],
+    "isAd": false
+}

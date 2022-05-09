@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6960759663579350021",
+        "shortId": "",
+        "uniqueId": "user_fn2",
+        "nickname": "I am with Ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/415db2a971848315ebbd648b7f56f2f8~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=uYTMuJi%2Bia%2F03ZrhZum1ute4gv0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/415db2a971848315ebbd648b7f56f2f8~c5_720x720.jpeg?x-expires=1649714400&x-signature=AObcTGwG9FdG1ZDSm0Jh%2FBjFyeA%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/415db2a971848315ebbd648b7f56f2f8~c5_100x100.jpeg?x-expires=1649714400&x-signature=MRyH%2B4z9q466B48trqGIOKbTwlI%3D",
+        "signature": "I Support Ukraine Russia is going to lose",
+        "createTime": 1620678321,
+        "verified": false,
+        "secUid": "MS4wLjABAAAARZbEKykwixDlY0zgkp8t1N8WSBCUO7xzKvJV35XOAsptrdNnfVabvLdg7ybgbt2v",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1115,
+        "followingCount": 2197,
+        "heart": 1016,
+        "heartCount": 1016,
+        "videoCount": 75,
+        "diggCount": 0
+    },
+    "itemList": []
+}

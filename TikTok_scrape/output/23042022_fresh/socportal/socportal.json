@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6845532672963625990",
+        "shortId": "",
+        "uniqueId": "socportal",
+        "nickname": "\u0421\u043e\u0446\u043f\u043e\u0440\u0442\u0430\u043b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=nXouKL4MaHggiyt2fp0F%2FqgxcUE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_720x720.jpeg?x-expires=1650934800&x-signature=RGjq6%2BbdJmHC3xeM690xAz3s7tQ%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_100x100.jpeg?x-expires=1650934800&x-signature=bfvv4Tw0BN%2BBv%2Fy%2FfWmw2b5QLI4%3D",
+        "signature": "Share the truth about war in Ukraine \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAU4bHyqb6h2qUgS08xKl-6Amv7iISEv8fv0PV-BOVq_ZHMuoenCPKq9iloEGMkn2K",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/Socportal_in_English",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 929,
+        "followingCount": 345,
+        "heart": 22700,
+        "heartCount": 22700,
+        "videoCount": 576,
+        "diggCount": 0
+    },
+    "itemList": []
+}

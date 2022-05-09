@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6738861462825862150",
+        "shortId": "",
+        "uniqueId": "lets.fly3",
+        "nickname": "Let's Fly aviation",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0acc52059f5fae0cb54a34fe9b591011~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=rN%2BY4FCQHOWP3BztEWEbl10%2FyEM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0acc52059f5fae0cb54a34fe9b591011~c5_720x720.jpeg?x-expires=1649800800&x-signature=%2BzrKxM4KGt68c2sYbJxSo4jcxZE%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0acc52059f5fae0cb54a34fe9b591011~c5_100x100.jpeg?x-expires=1649800800&x-signature=JqQ9QYJvapzHSAqJ7%2BqIY22%2FsQg%3D",
+        "signature": "",
+        "createTime": 1588907578,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAo9cMliozkguIrOWVmtWhXCnQ1zHH6OkDRALVTVuOU7D0Wbz4dMFR88CPC5guhQWJ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15,
+        "followingCount": 9,
+        "heart": 223,
+        "heartCount": 223,
+        "videoCount": 27,
+        "diggCount": 0
+    },
+    "itemList": []
+}

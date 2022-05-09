@@ -1,0 +1,90 @@
+{
+    "id": "7083299428152511787",
+    "desc": "",
+    "createTime": 1649209165,
+    "video": {
+        "id": "7083299428152511787",
+        "height": 444,
+        "width": 360,
+        "duration": 13,
+        "ratio": "360p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/aea7d92788b144829dc8cbd777dc85e8?x-expires=1649307600&x-signature=9gFLT%2FcR2z9odLe8PxkRJJqicEg%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7c021fe39a4441cf89a51b282db76b43_1649209166?x-expires=1649307600&x-signature=XKK0oOybhF%2BqtpR3wu8i2HDiFhM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/28f10d27a49c4e9a86f79267c7f99418_1649209166?x-expires=1649307600&x-signature=myM8i8WBtxdmO4S1I6lC80eN2dM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/def48ae9d8be81d9721a570a24eff97d/624e7454/video/tos/useast5/tos-useast5-ve-0068c004-tx/b450bc63dbd74faa8ff9253d81486a58/?a=1988&br=824&bt=412&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7ThdwSSDXq&l=202204062319030101131352140D8E2F05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am92Mzo6ZmxoPDMzZzczNEApNzYzODk7OmQ6NzU4NjQ4NGdhb14xcjQwcjNgLS1kMS9zc2I2MDA1X2MyNTM1LWA1YDU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/def48ae9d8be81d9721a570a24eff97d/624e7454/video/tos/useast5/tos-useast5-ve-0068c004-tx/b450bc63dbd74faa8ff9253d81486a58/?a=1988&br=824&bt=412&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=1&er=&ft=XY53A3E7nz7ThdwSSDXq&l=202204062319030101131352140D8E2F05&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am92Mzo6ZmxoPDMzZzczNEApNzYzODk7OmQ6NzU4NjQ4NGdhb14xcjQwcjNgLS1kMS9zc2I2MDA1X2MyNTM1LWA1YDU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7c021fe39a4441cf89a51b282db76b43_1649209166~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=EkMMWBsTMKLetbjuHU6GgpRH05Y%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7c021fe39a4441cf89a51b282db76b43_1649209166~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=ftnnnZ4NXYrFnsukkFoMABSvRfg%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/aea7d92788b144829dc8cbd777dc85e8?x-expires=1649307600&x-signature=9gFLT%2FcR2z9odLe8PxkRJJqicEg%3D",
+        "bitrate": 422536,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "lowest",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6772299628135089157",
+        "uniqueId": "istandwithukrainian1",
+        "nickname": "ME<3",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b607faa9ea03678afc5fa0b75c9892f9~c5_100x100.jpeg?x-expires=1649372400&x-signature=RmJZRj0WUONFocJhFcl7CKZ6PN8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b607faa9ea03678afc5fa0b75c9892f9~c5_720x720.jpeg?x-expires=1649372400&x-signature=UrynwLna2%2Fzxk61eOLxyM2Rz40I%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b607faa9ea03678afc5fa0b75c9892f9~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=rOhIKlEmg3IS5RDMetp9UCNr%2Bc8%3D",
+        "signature": "JESUS IS REAL  R.I.P 4-19-1945 (IDK) 10-20-2021 \ud83d\udd4a\ud83c\uddf2\ud83c\uddfd I STAND WITH UKRAINE \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtXDbxFtVvyycByf2na7BJFNpmkEy7VI5qvO5t6P16_-i3hMAavojcQcu25DHGYOn",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7083299404249189162",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7083299420959296298.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b607faa9ea03678afc5fa0b75c9892f9~c5_100x100.jpeg?x-expires=1649372400&x-signature=RmJZRj0WUONFocJhFcl7CKZ6PN8%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b607faa9ea03678afc5fa0b75c9892f9~c5_720x720.jpeg?x-expires=1649372400&x-signature=UrynwLna2%2Fzxk61eOLxyM2Rz40I%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b607faa9ea03678afc5fa0b75c9892f9~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=rOhIKlEmg3IS5RDMetp9UCNr%2Bc8%3D",
+        "authorName": "ME<3",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 25
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 5901,
+        "followerCount": 2610,
+        "heartCount": 6720,
+        "videoCount": 371,
+        "diggCount": 14700,
+        "heart": 6720
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

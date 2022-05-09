@@ -1,0 +1,96 @@
+{
+    "id": "7086187525680778502",
+    "desc": "",
+    "createTime": 1649881603,
+    "video": {
+        "id": "7086187525680778502",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/78f4a095a3ae4a86b98e2d7974b449c0?x-expires=1649962800&x-signature=eWt%2FCBivCVhLAz3nP7pdD3sa4To%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6ef1776e9c404a62b13fa4275c95258b_1649881605?x-expires=1649962800&x-signature=CpLaSIqOWuOv%2Fspyb4GkzbJtklU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fb434f2e40cf4123bbecc28e1021c6af_1649881605?x-expires=1649962800&x-signature=3AwMLbiIw2SbZqfi6xw2RM4ZUHs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c6c0ebf6299a8c1591485173c6d0bd26/62587422/video/tos/useast2a/tos-useast2a-ve-0068c002/b565669d9e594ed49d84d232b1756e18/?a=1988&br=1490&bt=745&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZClKLwe2NckRfl7Gb&l=2022041413205601011300616408B70161&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2hyZjk6ZnhtPDMzNzczM0ApNmYzOmhlPGQ7NzY1ZGY0O2dxMmUucjRnMF9gLS1kMTZzc140MF8xM2FgLS01MC5iNmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c6c0ebf6299a8c1591485173c6d0bd26/62587422/video/tos/useast2a/tos-useast2a-ve-0068c002/b565669d9e594ed49d84d232b1756e18/?a=1988&br=1490&bt=745&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZClKLwe2NckRfl7Gb&l=2022041413205601011300616408B70161&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2hyZjk6ZnhtPDMzNzczM0ApNmYzOmhlPGQ7NzY1ZGY0O2dxMmUucjRnMF9gLS1kMTZzc140MF8xM2FgLS01MC5iNmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6ef1776e9c404a62b13fa4275c95258b_1649881605~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=djjpNPzU417Qv84TkheDegANGUQ%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6ef1776e9c404a62b13fa4275c95258b_1649881605~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=KaHubFm8I3Ks0Gqfat26Rf2K634%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/78f4a095a3ae4a86b98e2d7974b449c0?x-expires=1649962800&x-signature=eWt%2FCBivCVhLAz3nP7pdD3sa4To%3D",
+        "bitrate": 763849,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6775189975236428805",
+        "uniqueId": "anainireland",
+        "nickname": "Ana L\u00edvia Teixeira",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df7a96acea023a3e57b7457e4df0a2c0~c5_100x100.jpeg?x-expires=1650114000&x-signature=GclW%2F1VTBXV%2F8WUQ4LLKBEmFSmw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df7a96acea023a3e57b7457e4df0a2c0~c5_720x720.jpeg?x-expires=1650114000&x-signature=ARPxG4t4pOcwfYuM5h6UzLy39xg%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df7a96acea023a3e57b7457e4df0a2c0~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=xNR%2BTZd82Xwxu52l%2Bk41HA499xI%3D",
+        "signature": "Insta: anainireland",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAufYkegfmiX6O5gthxTRFxq1wINgMb4plLZ6F8UtohTsdE1f7oGVKhXCAuSv4A_G6",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 3,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7078871588862462726",
+        "title": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3fcd7ca0efe5450989230f862c5a67ef",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/125d74462f5c43db8f3b3f108f423388.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/125d74462f5c43db8f3b3f108f423388.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/125d74462f5c43db8f3b3f108f423388.jpeg",
+        "authorName": "L7NNON & Os Hawaianos & DJ Bel da CDD",
+        "original": false,
+        "duration": 9,
+        "album": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)"
+    },
+    "stats": {
+        "diggCount": 599,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 3649
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Peachy",
+            "ID": "1254600"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 731,
+        "followerCount": 21100,
+        "heartCount": 97600,
+        "videoCount": 556,
+        "diggCount": 55100,
+        "heart": 97600
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

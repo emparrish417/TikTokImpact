@@ -1,0 +1,202 @@
+{
+    "id": "7068359943644089605",
+    "desc": "#biden #usa #russia #ukraine",
+    "createTime": 1645730796,
+    "video": {
+        "id": "7068359943644089605",
+        "height": 1024,
+        "width": 576,
+        "duration": 31,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f8707c585f66464d9227ad59d02c411c?x-expires=1650261600&x-signature=GXJkhf%2F1WnvPWVlFtWW%2BrhT34Gw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/43f7f450bd804d66837d493d7e6c9f86_1645730797?x-expires=1650261600&x-signature=rwK2rEmjzQAiRsa43xmIS%2BrF3T8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2f16829873344bb387a6e274f8a894d2_1645730799?x-expires=1650261600&x-signature=54Q%2BZ0S3WJf9DzaTfF58oaxXyI0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/334f67295d293da9397af1fabab400de/625d051e/video/tos/useast2a/tos-useast2a-pve-0068/d2f50e1916e24b57afafde2512498400/?a=1988&br=1112&bt=556&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z5mRwwe2N1q~fl7Gb&l=202204180028150101131350441460834F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3l2PDk6Zmh3OzMzNzczM0ApOzo8O2g5MztkN2hoZGY5NGduZ2czcjRfZl9gLS1kMTZzcy4vYWBiMDI1LWAuXzEyMS06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/334f67295d293da9397af1fabab400de/625d051e/video/tos/useast2a/tos-useast2a-pve-0068/d2f50e1916e24b57afafde2512498400/?a=1988&br=1112&bt=556&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z5mRwwe2N1q~fl7Gb&l=202204180028150101131350441460834F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3l2PDk6Zmh3OzMzNzczM0ApOzo8O2g5MztkN2hoZGY5NGduZ2czcjRfZl9gLS1kMTZzcy4vYWBiMDI1LWAuXzEyMS06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/43f7f450bd804d66837d493d7e6c9f86_1645730797~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=z4lUSC0Eat68r0bx0Wty1PhE69I%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/43f7f450bd804d66837d493d7e6c9f86_1645730797~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=gHaY37kU7gCZD5rewkWk3UaqUxE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/52424662a2086e221f175e13c360fc38?x-expires=1650261600&x-signature=qf6dpqqOxOSF%2B%2FTQPSGL7Z927IU%3D",
+        "bitrate": 569937,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6749951519867028486",
+        "uniqueId": "maxfostercnn",
+        "nickname": "Max Foster - news journalist",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/9129feb589e802f3200c947213b72563~c5_100x100.jpeg?x-expires=1650412800&x-signature=nuyRHWalLqt9944isoaAvT1uA2o%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/9129feb589e802f3200c947213b72563~c5_720x720.jpeg?x-expires=1650412800&x-signature=Xaj7vy2qVgNvcyEtVAXjHskmLcg%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/9129feb589e802f3200c947213b72563~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=EmLosSQdhGADh81KQxDFI9J0mVs%3D",
+        "signature": "Real stories in real time\nCNN London Anchor",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAomeClkfXwFnO9zEerOwQHd0CnIrPFX1hO0EZkIasflZ4Uu41aX7qiejsVBvW83e7",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6740262844136163330",
+        "title": "Nuvole Bianche",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/07f2e84d351742519a6a85b034f665de",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/997c6a11a05649eda466918db6e82b88.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/997c6a11a05649eda466918db6e82b88.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/997c6a11a05649eda466918db6e82b88.jpeg",
+        "authorName": "Yuval Salomon",
+        "original": false,
+        "duration": 60,
+        "album": "Nuvole Bianche"
+    },
+    "challenges": [
+        {
+            "id": "447299",
+            "title": "biden",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "9843",
+            "title": "usa",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "14927",
+            "title": "russia",
+            "desc": "\u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 #\u041e\u0442\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0439\u0442\u0438 \u043c\u044c\u044e\u0437\u0435\u0440\u043e\u0432 \u0438\u0437 \u0412\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b, \u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c\u0438 \u0432\u0438\u0434\u0435\u043e #Russia, \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435!!",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1000000,
+        "shareCount": 13300,
+        "commentCount": 35000,
+        "playCount": 9800000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 6,
+            "hashtagName": "biden",
+            "hashtagId": "447299",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 7,
+            "end": 11,
+            "hashtagName": "usa",
+            "hashtagId": "9843",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 12,
+            "end": 19,
+            "hashtagName": "russia",
+            "hashtagId": "14927",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 20,
+            "end": 28,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 67,
+        "followerCount": 719700,
+        "heartCount": 33800000,
+        "videoCount": 573,
+        "diggCount": 6000,
+        "heart": 33800000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "US getting involved in war with Russia\u2026?"
+            ]
+        }
+    ],
+    "isAd": false
+}

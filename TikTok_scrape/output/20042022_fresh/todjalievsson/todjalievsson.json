@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6851116530383012869",
+        "shortId": "",
+        "uniqueId": "todjalievsson",
+        "nickname": "Timur Todjaliev",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b984ed0358dd024dcec5cd8f5a8df03c~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=L0ofnQy8AJevQTfWxZWoH%2FwFkN4%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b984ed0358dd024dcec5cd8f5a8df03c~c5_720x720.jpeg?x-expires=1650664800&x-signature=%2B%2F46ZjThhJpSOWJsgRppPUvzbWk%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b984ed0358dd024dcec5cd8f5a8df03c~c5_100x100.jpeg?x-expires=1650664800&x-signature=rPRyz9YPqUwvje6dtKh8UiTqpQU%3D",
+        "signature": "\ud83e\udd23",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA8fI_-jRxnS99LtsoIycZuMnaj5IKkIzl8-sbdNH6KVlcUMsxALmbgIDU_3PXN_R6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24500,
+        "followingCount": 139,
+        "heart": 573300,
+        "heartCount": 573300,
+        "videoCount": 27,
+        "diggCount": 7628
+    },
+    "itemList": []
+}

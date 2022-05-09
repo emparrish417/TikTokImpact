@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6796486359616963589",
+        "shortId": "",
+        "uniqueId": "andyyjiang",
+        "nickname": "Andy Jiang",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e7c7bfdcbeeb4019a5899f95c3a6471~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=O5T%2FJqhQTDAvMOzpKAJYAe1qc24%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e7c7bfdcbeeb4019a5899f95c3a6471~c5_720x720.jpeg?x-expires=1651010400&x-signature=40S25mv1sjh59vtRmCDJtJEu8j0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6e7c7bfdcbeeb4019a5899f95c3a6471~c5_100x100.jpeg?x-expires=1651010400&x-signature=61eVP6a%2Fit96BS%2BxLezyHS7NN2o%3D",
+        "signature": "That storyteller guy :)\neric@undercurrent.net\nSign up for Morning Brew\ud83d\udc47",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAX5IPeHQ2Ipd9PwKM5yjE3Ig-dpY0NynA_I4F7QQbmF5HSCOBPtOqN5aZREA97uPR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://morningbrewdaily.com/andyjiang",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3400000,
+        "followingCount": 761,
+        "heart": 166100000,
+        "heartCount": 166100000,
+        "videoCount": 1199,
+        "diggCount": 0
+    },
+    "itemList": []
+}

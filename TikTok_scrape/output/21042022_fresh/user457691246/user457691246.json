@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7088738723751822382",
+        "shortId": "",
+        "uniqueId": "user457691246",
+        "nickname": "ireland",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cf6bcf18add811bf0612ff934874cb87~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=4PM%2FlXS9kIG8wxiPXg2apFF5iOU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cf6bcf18add811bf0612ff934874cb87~c5_720x720.jpeg?x-expires=1650751200&x-signature=mbWkBveHUzWuXfKDjJMOZ%2FbaY7k%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cf6bcf18add811bf0612ff934874cb87~c5_100x100.jpeg?x-expires=1650751200&x-signature=QjLq2SU0wPbFKvXkxKo62BHjEl8%3D",
+        "signature": "secret secret account",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAMfYGCIh81xejmKAKEWRNSt6Tvd-fbm5PGGLaXTjn-Ip5oChFXNZ5winFB0sOjOAA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5,
+        "followingCount": 6,
+        "heart": 2,
+        "heartCount": 2,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6782722178674623494",
+        "shortId": "",
+        "uniqueId": "emmadeady",
+        "nickname": "Emma Deady",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80a9c00e0d7e1b77be0d5750f2ab70b5~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=UCA%2BPShp33swR3XRLeHiot%2FjlTg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80a9c00e0d7e1b77be0d5750f2ab70b5~c5_720x720.jpeg?x-expires=1650751200&x-signature=uWbx%2FFWMNvGKHa9PW48c8JzpQpM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/80a9c00e0d7e1b77be0d5750f2ab70b5~c5_100x100.jpeg?x-expires=1650751200&x-signature=6FTIer%2Fii%2FKQ22zBOh7IG5rpY0A%3D",
+        "signature": "Fossil Fuels War",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsTgUIm2dPSIqJF6KC70Orj_PS4Aoqj6dBla7HkhjGbd1FUliKCkYP_N-UCOMQEg4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Emmadeady",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 25300,
+        "followingCount": 993,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 225,
+        "diggCount": 0
+    },
+    "itemList": []
+}

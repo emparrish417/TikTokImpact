@@ -1,0 +1,98 @@
+{
+    "id": "7082815056387394862",
+    "desc": "",
+    "createTime": 1649096390,
+    "video": {
+        "id": "7082815056387394862",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e2fed265dd284c3cb17d80bd0853212d?x-expires=1649131200&x-signature=Cn%2BgtyRRGsi%2FpGB%2BnwdjH0osqh0%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1a20904c7cfb478bb2b26e55515091d9_1649096390?x-expires=1649131200&x-signature=gR1o139rg6qkNVm6K3gDVFxgCd4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/116e4776b31043c6b68be262fc90f20d_1649096391?x-expires=1649131200&x-signature=59qFwdx2HJv9RA5kOb7YytNMB2M%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2d701848fec3b57bf0acb95329d1d667/624bc0ea/video/tos/useast5/tos-useast5-pve-0068-tx/34cd48ca54ec4314a3f4be268aface3d/?a=1988&br=4198&bt=2099&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9-eqDXq&l=202204042209030101130061561A694B2A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amwzZmc6ZmdtPDMzZzczNEApaTdnNDY5ZGU3NzY3M2Q5aWdlb2lhcjRvNTJgLS1kMS9zc18vYV9gYjNeMjY1YDYtMjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2d701848fec3b57bf0acb95329d1d667/624bc0ea/video/tos/useast5/tos-useast5-pve-0068-tx/34cd48ca54ec4314a3f4be268aface3d/?a=1988&br=4198&bt=2099&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9-eqDXq&l=202204042209030101130061561A694B2A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amwzZmc6ZmdtPDMzZzczNEApaTdnNDY5ZGU3NzY3M2Q5aWdlb2lhcjRvNTJgLS1kMS9zc18vYV9gYjNeMjY1YDYtMjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1a20904c7cfb478bb2b26e55515091d9_1649096390~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=n1Y2cvpnUiQD9bUJ7vUlDov%2Bjt8%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1a20904c7cfb478bb2b26e55515091d9_1649096390~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=z6m3O9CN75S1NCi6VvXHI5%2BoRGE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/e2fed265dd284c3cb17d80bd0853212d?x-expires=1649131200&x-signature=Cn%2BgtyRRGsi%2FpGB%2BnwdjH0osqh0%3D",
+        "bitrate": 2149724,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6986539806109975558",
+        "uniqueId": "its.ireland5",
+        "nickname": "Help me get 1000 followers",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/34704a31361b9c50c89bb5894767f7f9~c5_100x100.jpeg?x-expires=1649196000&x-signature=5eZyx0%2BrG1fIBg%2FvMNVMF9eAz2s%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/34704a31361b9c50c89bb5894767f7f9~c5_720x720.jpeg?x-expires=1649196000&x-signature=jqVzlSefUAfd8B%2FsMcg25BvtcII%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/34704a31361b9c50c89bb5894767f7f9~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=fEjKGHatsI%2B%2FxiJtmNWw9boUbwA%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAD4Ul46MD594WYkqd1I7ZYdTtDDFVy25e1Gy8aCZBtB1IjYa1y3VagYSsUy5psL_u",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7053109246283778821",
+        "title": "whos that chick",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7053109255125863173.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60ded620e3b9280a6218cde0593e38ca~c5_100x100.jpeg?x-expires=1649196000&x-signature=qvFPeszEGbnpiHO%2FOy0nMzv7Vr4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60ded620e3b9280a6218cde0593e38ca~c5_720x720.jpeg?x-expires=1649196000&x-signature=dPIiCKNd%2BJ9scm2af69AzjdCnzI%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/60ded620e3b9280a6218cde0593e38ca~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=JsYKHmucI386F%2Btf4CkFXhiQmuI%3D",
+        "authorName": "<3",
+        "original": true,
+        "duration": 11,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 3
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 542,
+        "followerCount": 171,
+        "heartCount": 589,
+        "videoCount": 509,
+        "diggCount": 2498,
+        "heart": 589
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "POV you\u2019re my hand\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

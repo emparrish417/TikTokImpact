@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6953325961983050757",
+        "shortId": "",
+        "uniqueId": "fundiambb1",
+        "nickname": "fundiambb",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d07d26403679f944305d908960144c9e~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=jVgN5oCAej4XrIaJ6WnOH%2B2ZFRw%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d07d26403679f944305d908960144c9e~c5_720x720.jpeg?x-expires=1650664800&x-signature=ZFkvBVYNtCv1rYWLwi1drl2U2KM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d07d26403679f944305d908960144c9e~c5_100x100.jpeg?x-expires=1650664800&x-signature=MoyquWJf%2BANb1yojg8eCUCk6kl0%3D",
+        "signature": "this page is for comedy reasons and is satire do not take it entirely serious\ud83d\udc99",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAr1yDyOH2CXqXftsSxz2yymLCYeRpOWuydprhFA1tFQEDOi5gi6x_PE2dLT8wvB7y",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Fundiambb",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 17700,
+        "followingCount": 1717,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 475,
+        "diggCount": 0
+    },
+    "itemList": []
+}

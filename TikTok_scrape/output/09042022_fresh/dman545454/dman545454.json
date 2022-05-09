@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6655134691753099270",
+        "shortId": "",
+        "uniqueId": "dman545454",
+        "nickname": "Chimpmunk",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b8f5dbb3afc71a2f324b589390eedc1f~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=X8xcglxywYddtpHUazIUWUwcQ9Y%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b8f5dbb3afc71a2f324b589390eedc1f~c5_720x720.jpeg?x-expires=1649638800&x-signature=Rte316hpR9VlFPtjEfsLY%2BlrRmI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b8f5dbb3afc71a2f324b589390eedc1f~c5_100x100.jpeg?x-expires=1649638800&x-signature=BnEly6Mt1nT4ob%2BkeA57TJgE%2BOc%3D",
+        "signature": "",
+        "createTime": 1549520154,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWeLBjbWyJgu5lse7_jqN1li23uoIdPcgi6Xt6oUtX10RzwnMXNzFQBpMVIESbKKM",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 806,
+        "followingCount": 3097,
+        "heart": 53,
+        "heartCount": 53,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

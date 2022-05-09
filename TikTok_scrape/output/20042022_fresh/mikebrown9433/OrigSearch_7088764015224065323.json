@@ -1,0 +1,96 @@
+{
+    "id": "7088764015224065323",
+    "desc": "",
+    "createTime": 1650481489,
+    "video": {
+        "id": "7088764015224065323",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/decdbe84f52f4b919fac5af64984a348?x-expires=1650513600&x-signature=216JzNHv0fe5Qkhqk0q5uhNYd18%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9cd76941271d4a19a9fc65c89c2fe181_1650481490?x-expires=1650513600&x-signature=Zxq%2F1GNmmsI75kllw82Iwm0uCvo%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/02a162d6e6a8459884bae96ce0b5664f_1650481491?x-expires=1650513600&x-signature=IeIJIUfDHngHtaPa7s%2FIlOKkPI0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6c1af3adb27d1e416295bb4c9cb50dc5/6260dcd5/video/tos/useast5/tos-useast5-ve-0068c002-tx/baf6316165234dd0b2f214d299727a39/?a=1988&br=2130&bt=1065&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZMtANwe2N.-7fl7Gb&l=202204202225490101131350981AE06318&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzk1OGQ6ZnA4PDMzZzczNEApaTo1NDQ7PGU0NzM7aDQzNGdlcG0tcjRnZGRgLS1kMS9zczQvLy9fLTIvNl9gLWNhNV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6c1af3adb27d1e416295bb4c9cb50dc5/6260dcd5/video/tos/useast5/tos-useast5-ve-0068c002-tx/baf6316165234dd0b2f214d299727a39/?a=1988&br=2130&bt=1065&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZMtANwe2N.-7fl7Gb&l=202204202225490101131350981AE06318&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzk1OGQ6ZnA4PDMzZzczNEApaTo1NDQ7PGU0NzM7aDQzNGdlcG0tcjRnZGRgLS1kMS9zczQvLy9fLTIvNl9gLWNhNV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9cd76941271d4a19a9fc65c89c2fe181_1650481490~tplv-tiktok-play.jpeg?x-expires=1651096800&x-signature=511Svhw48mVYnTJ8Zkkk7%2BdhZEU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9cd76941271d4a19a9fc65c89c2fe181_1650481490~tplv-tiktokx-share-play.jpeg?x-expires=1651096800&x-signature=%2FTQTC4l%2B3qtObb%2B1xZhPDqDThNU%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/decdbe84f52f4b919fac5af64984a348?x-expires=1650513600&x-signature=216JzNHv0fe5Qkhqk0q5uhNYd18%3D",
+        "bitrate": 1091573,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055884826352174085",
+        "uniqueId": "mikebrown9433",
+        "nickname": "WE STAND UKRAIN!\u270a",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1650664800&x-signature=tpmn3GexgTR1nnTOq%2B6U7vpeu64%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1650664800&x-signature=DngN4szUxcjHoh%2FZr7FEvbg13qg%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=Zaspn5%2BcB8nEww8Vum5fXm6ipRQ%3D",
+        "signature": "https://orangsa.bar/13274aa?s1=kri$ten\nYou're about to open an external website.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGgAQEHqHu61EVzvb_SDCl5X-7FhqqEbp78nzWkWPPuRgwuKVqleUMHU_fUlwdhNW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6748212024318102274",
+        "title": "New Thang",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/53a932192b624ecd984010581b372b67",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/4804ffbf3f8d47cb853d179925322fa5.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/4804ffbf3f8d47cb853d179925322fa5.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/4804ffbf3f8d47cb853d179925322fa5.jpeg",
+        "authorName": "Redfoo",
+        "original": false,
+        "duration": 7,
+        "album": "Party Rock Mansion"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 0
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "grey aesthetic",
+            "ID": "1199634"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 164,
+        "followerCount": 49,
+        "heartCount": 272,
+        "videoCount": 180,
+        "diggCount": 712,
+        "heart": 272
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

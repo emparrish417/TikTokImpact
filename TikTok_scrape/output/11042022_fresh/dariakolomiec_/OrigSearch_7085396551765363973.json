@@ -1,0 +1,144 @@
+{
+    "id": "7085396551765363973",
+    "desc": "#\u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430 @dariakolomiec_",
+    "createTime": 1649697440,
+    "video": {
+        "id": "7085396551765363973",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/911ddd1586644eb9bec52772e2de7b23_1649697443?x-expires=1649736000&x-signature=UuETBoALucVqh6yfJ6iYworNQzM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/495104ae0f3b47afb2e6d86298035709_1649697441?x-expires=1649736000&x-signature=gJ0%2BMDxQOg1qGMCSbYorTKp6U8E%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/cc8012cbce3d49a8a5a6f414d21876af_1649697442?x-expires=1649736000&x-signature=hhIvQAdq1sCyHwOnsbnySgQvSPM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/811a41b78fab83cb0c53d97c25e3ae67/6254fd4b/video/tos/useast2a/tos-useast2a-pve-0068/494e347c97634acf81a524fd163b8188/?a=1988&br=804&bt=402&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV_jaDXq&l=2022041122170201011313513407C309E2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3h3ZTo6Zjg5PDMzNzczM0ApaDQ1Njc3ZztpNzU3NzM4PGduNm5hcjRvMl5gLS1kMTZzc2JeYWI2NDBeMTU2MmE1NDM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/811a41b78fab83cb0c53d97c25e3ae67/6254fd4b/video/tos/useast2a/tos-useast2a-pve-0068/494e347c97634acf81a524fd163b8188/?a=1988&br=804&bt=402&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV_jaDXq&l=2022041122170201011313513407C309E2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3h3ZTo6Zjg5PDMzNzczM0ApaDQ1Njc3ZztpNzU3NzM4PGduNm5hcjRvMl5gLS1kMTZzc2JeYWI2NDBeMTU2MmE1NDM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/495104ae0f3b47afb2e6d86298035709_1649697441~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=nWFd0vMPwp7k1YM9cHpaDJP0q2s%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/495104ae0f3b47afb2e6d86298035709_1649697441~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=Lv%2BkomjkZqW9rML23eJY2hbb%2BU0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/911ddd1586644eb9bec52772e2de7b23_1649697443?x-expires=1649736000&x-signature=UuETBoALucVqh6yfJ6iYworNQzM%3D",
+        "bitrate": 411828,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7024937028957930502",
+        "uniqueId": "dariakolomiec_",
+        "nickname": "DariaKolomiec_",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_100x100.jpeg?x-expires=1649800800&x-signature=9yrzSG0a09pUV8fcMsJZixEk3Tg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_720x720.jpeg?x-expires=1649800800&x-signature=Pc%2FCVkk2j89sMuazcu9RGEVHr7M%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=5VazrAioBReMnHdMVEasaqi6ggw%3D",
+        "signature": "Host / Dj / Producer \nFounder MusiCures App \ud83c\udfb6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAs5rmOZpZR8ejZklAyPjNBxK_2xOOVrBkAljEeYNi6Qbuw8k_-uhq9z-TDu5CyQx9",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085396544828001030",
+        "title": "\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7085396524569561861.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_100x100.jpeg?x-expires=1649800800&x-signature=9yrzSG0a09pUV8fcMsJZixEk3Tg%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_720x720.jpeg?x-expires=1649800800&x-signature=Pc%2FCVkk2j89sMuazcu9RGEVHr7M%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=5VazrAioBReMnHdMVEasaqi6ggw%3D",
+        "authorName": "DariaKolomiec_",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "69443179",
+            "title": "\u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 139,
+        "shareCount": 0,
+        "commentCount": 14,
+        "playCount": 2347
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 23,
+            "end": 38,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7024937028957930502",
+            "isCommerce": false,
+            "userUniqueId": "dariakolomiec_",
+            "secUid": "MS4wLjABAAAAs5rmOZpZR8ejZklAyPjNBxK_2xOOVrBkAljEeYNi6Qbuw8k_-uhq9z-TDu5CyQx9",
+            "questionId": "7085394924845208581",
+            "questionContent": "Do you still think genocide against Ukrainians is just Putins responsibility? ",
+            "subType": 7
+        },
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "\u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f",
+            "hashtagId": "69443179",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 15,
+        "followerCount": 1502,
+        "heartCount": 20600,
+        "videoCount": 63,
+        "diggCount": 85,
+        "heart": 20600
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83e\udd2c",
+                "\ud83d\ude21\ud83d\ude16",
+                "Russian racer Artem Severyukhin demonstrated a Nazi salute on the podium in Portugal "
+            ]
+        }
+    ],
+    "isAd": false
+}

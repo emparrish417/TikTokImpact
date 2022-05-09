@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6749128602610893829",
+        "shortId": "",
+        "uniqueId": "sosadinva",
+        "nickname": "Liz",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/538f23a93adff9bba4148b91ecfe0f20~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=XCf7RjXkT9z4Tf2hjMkZgz%2Fa9K0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/538f23a93adff9bba4148b91ecfe0f20~c5_720x720.jpeg?x-expires=1649116800&x-signature=m0puottuMZcidXFdIPwQuFqSi4o%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/538f23a93adff9bba4148b91ecfe0f20~c5_100x100.jpeg?x-expires=1649116800&x-signature=15UELMh%2BfaXI8MP4yLiyCs%2FanV8%3D",
+        "signature": "sosadinva",
+        "createTime": 1571404132,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxlKyS1njTs_fzuy47vIEgCZ8PB_tGqeJGAfNKW2mARZF5PXMKld4nZB0E5xSMRCe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1709,
+        "followingCount": 2142,
+        "heart": 15800,
+        "heartCount": 15800,
+        "videoCount": 858,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6856968123455833094",
+        "shortId": "",
+        "uniqueId": "thedudetrader",
+        "nickname": "The Dude \u270c\ufe0f",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=Tl%2ByKOwZ5GInEu4VR4B9wTCHHp8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_720x720.jpeg?x-expires=1650240000&x-signature=sxmkaoPqhv7wwbefDWe%2FGNgMUbA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/eb427e285ee5722476eee4282238f13f~c5_100x100.jpeg?x-expires=1650240000&x-signature=FliUR%2FdPb6skyCs95zm6GJcx97M%3D",
+        "signature": "\ud83d\udca52006 Time Magazine's Person of the Year\ud83d\udca5 \nThis is just, like, my opinion, man",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATrPEKby_VIStuLost0vwnlaHaalBI8ndhOi6Nx4tT9silbfdv97benAr4OlOZrPK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://beacons.ai/thedudetrader",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 223600,
+        "followingCount": 729,
+        "heart": 15800000,
+        "heartCount": 15800000,
+        "videoCount": 2562,
+        "diggCount": 0
+    },
+    "itemList": []
+}

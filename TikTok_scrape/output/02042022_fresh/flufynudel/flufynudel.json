@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6653454917062426630",
+        "shortId": "",
+        "uniqueId": "flufynudel",
+        "nickname": "FlufyNudel",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/52d2db057ed798c2aa5e117a125f164e~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=3YGfvH5P3dxWfBWbbsdCshBQcdY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/52d2db057ed798c2aa5e117a125f164e~c5_720x720.jpeg?x-expires=1649008800&x-signature=8UxE1cd%2Ftxqsrul1PVmh2O30%2B0k%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/52d2db057ed798c2aa5e117a125f164e~c5_100x100.jpeg?x-expires=1649008800&x-signature=zsyJJRrlaFppG5RoJjEpE9triuU%3D",
+        "signature": "Dad Jokes, Live-Action Memes, Tech & Science, Trends, and Current Events.",
+        "createTime": 1549128771,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmgMsLuT3XjBq9tT0j-bmWbLR2gozIvM9syCz3JeOURBft-XILx9InVD8scw8zFvp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3535,
+        "followingCount": 240,
+        "heart": 121100,
+        "heartCount": 121100,
+        "videoCount": 178,
+        "diggCount": 0
+    },
+    "itemList": []
+}

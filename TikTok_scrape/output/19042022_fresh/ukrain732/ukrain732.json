@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7075229915355956229",
+        "shortId": "",
+        "uniqueId": "ukrain732",
+        "nickname": "Denis Fitan",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e9ed551ffdbe6457ff3a4c403fa83a41~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=vO3nA%2FSSi4J%2BVfDdpaLNYNH822A%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e9ed551ffdbe6457ff3a4c403fa83a41~c5_720x720.jpeg?x-expires=1650578400&x-signature=LcxBa%2BVQrZHzvNvtC1UUohxMWGw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e9ed551ffdbe6457ff3a4c403fa83a41~c5_100x100.jpeg?x-expires=1650578400&x-signature=pXbr08z3lrCRjD47SzdwScoL11A%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoDXevBRtxKrqi76EK71oZhh6rLsVNFsqKqM6TthXkuLMHaCPnFlC7Zc3Tl-z7slD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6,
+        "followingCount": 2,
+        "heart": 34,
+        "heartCount": 34,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

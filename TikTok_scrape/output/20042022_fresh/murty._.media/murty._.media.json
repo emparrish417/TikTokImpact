@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6930939767270704129",
+        "shortId": "",
+        "uniqueId": "murty._.media",
+        "nickname": "Media Coverage",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/f52e120921e68271a88a9c53e3c3aa65.jpeg?x-expires=1650664800&x-signature=Hj%2FCBWElZ8jQHvVDZdHPV%2BduFig%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/f52e120921e68271a88a9c53e3c3aa65.jpeg?x-expires=1650664800&x-signature=tojErNBLpSbim%2B1PChnn39c7jj8%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f52e120921e68271a88a9c53e3c3aa65.jpeg?x-expires=1650664800&x-signature=yS%2Fn5AmuhbBcY3Yn%2BrP9JlXGCIs%3D",
+        "signature": "\ud83d\udcfa Media/News Coverage \ud83d\udcfa",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaMxSPsVQD0rkfxn0POHPV9ZzHWUbQYfGZJYkWeMTCTAuA8Uuqy3CWCOqutFWb-y-",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 197900,
+        "followingCount": 0,
+        "heart": 2500000,
+        "heartCount": 2500000,
+        "videoCount": 248,
+        "diggCount": 0
+    },
+    "itemList": []
+}

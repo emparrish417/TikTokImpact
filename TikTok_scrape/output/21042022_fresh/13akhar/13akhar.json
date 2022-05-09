@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7087268287037457414",
+        "shortId": "",
+        "uniqueId": "13akhar",
+        "nickname": "Sergij Vikhnich",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e49e75d50ab220a4af8fa34b0f857d3a~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=1fr6fNDHjbGoclWkO2FY25xXVvk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e49e75d50ab220a4af8fa34b0f857d3a~c5_720x720.jpeg?x-expires=1650751200&x-signature=7AZ4AOnzw5gwizfmgg%2ByYqo%2F358%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e49e75d50ab220a4af8fa34b0f857d3a~c5_100x100.jpeg?x-expires=1650751200&x-signature=68VkhR%2F42TOdWaZ74PhXjKXWeqY%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZjUgB8ME3XleGoFP4SvQHvSc8iOlOEjjIEue7aRYKWc-kL6cSz8IRt1e8s4ItcL_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6,
+        "followingCount": 25,
+        "heart": 6,
+        "heartCount": 6,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

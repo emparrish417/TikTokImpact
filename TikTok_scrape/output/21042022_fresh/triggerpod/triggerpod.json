@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6999211959490102278",
+        "shortId": "",
+        "uniqueId": "triggerpod",
+        "nickname": "TRIGGERnometry",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6d7d8383e1f4a9b42b37a3b93801c12~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=9SFVU7Kgsm5xIpdJ%2BwkDqzKAesk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6d7d8383e1f4a9b42b37a3b93801c12~c5_720x720.jpeg?x-expires=1650751200&x-signature=DS5x7%2Fp7%2FuSKOSLepiKu4IpVDBA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b6d7d8383e1f4a9b42b37a3b93801c12~c5_100x100.jpeg?x-expires=1650751200&x-signature=VPz1KQQOiT9nRYy63rOC8UIi0M8%3D",
+        "signature": "\ud83c\udf99| Free Speech YouTube Show \n\n\u2b07\ufe0fLATEST VIDEO\u2b07\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAL20Mc24Cxbk40LkjkK30Tli6USXOraCGwOR6ZiXJdTufzzzh2SgWsBZe4b04iI5a",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://lnk.bio/bTRc",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 146400,
+        "followingCount": 1,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 138,
+        "diggCount": 0
+    },
+    "itemList": []
+}

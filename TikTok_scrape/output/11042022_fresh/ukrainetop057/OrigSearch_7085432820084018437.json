@@ -1,0 +1,127 @@
+{
+    "id": "7085432820084018437",
+    "desc": "#\u043f\u0436\u0440\u0435\u043a",
+    "createTime": 1649705885,
+    "video": {
+        "id": "7085432820084018437",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d110739ccde441a480f09690f6a8e9f6?x-expires=1649736000&x-signature=4DtnvYHV2cKBbmC2dfppL%2F%2BIcdE%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4c31f727166a445fac88395b638bfc6a_1649705886?x-expires=1649736000&x-signature=zbvKoqqEUnqlyV8YsNMTGD2GNJI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c95201ebe99841ee8a385446ab40b45c_1649705886?x-expires=1649736000&x-signature=mGB5exyDuTK%2Bk6hWPy4EBdyyUbg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/047213a8d4566b4174e2a40d8a4b6d02/6254fd6d/video/tos/useast2a/tos-useast2a-pve-0068/d66ea8e70f8541a9bfe6c848f19745cc/?a=1988&br=220&bt=110&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThrxjaDXq&l=202204112217390101131350680BC291D6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3hkdmY6Zmc7PDMzNzczM0ApPDU7NDppNmU5N2VkOjc5OmdzcTBjcjRfM15gLS1kMTZzc2BjYjFfYjMtMjM1NDUzNDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/047213a8d4566b4174e2a40d8a4b6d02/6254fd6d/video/tos/useast2a/tos-useast2a-pve-0068/d66ea8e70f8541a9bfe6c848f19745cc/?a=1988&br=220&bt=110&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThrxjaDXq&l=202204112217390101131350680BC291D6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3hkdmY6Zmc7PDMzNzczM0ApPDU7NDppNmU5N2VkOjc5OmdzcTBjcjRfM15gLS1kMTZzc2BjYjFfYjMtMjM1NDUzNDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4c31f727166a445fac88395b638bfc6a_1649705886~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=ZL4VgxhO3NGZ6inmiQcHifOpMXA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/4c31f727166a445fac88395b638bfc6a_1649705886~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=boL0voHnjYpKxdLiRsH%2B%2Fl96wQU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d110739ccde441a480f09690f6a8e9f6?x-expires=1649736000&x-signature=4DtnvYHV2cKBbmC2dfppL%2F%2BIcdE%3D",
+        "bitrate": 113215,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7074602723543483397",
+        "uniqueId": "ukrainetop057",
+        "nickname": "\u041f\u043e\u0434\u043f\u0438\u0448\u0443\u0441\u044c \u0432 \u0437\u0430\u0438\u043c\u043d\u043e",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb5bd054c5dde6682f8f42a7df6b8d58~c5_100x100.jpeg?x-expires=1649800800&x-signature=kSRa%2F4PRRuYtfusRtyyqNE0DUCY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb5bd054c5dde6682f8f42a7df6b8d58~c5_720x720.jpeg?x-expires=1649800800&x-signature=QXuAruv4VIduxHYA%2Finx9TWs6Mo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fb5bd054c5dde6682f8f42a7df6b8d58~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=AyqLLAIzoPj%2Bdu5bKqpTI%2FXlj2A%3D",
+        "signature": "\u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u0434\u043e\u0431\u0454\u043c\u043e 17 000 \u043f\u0456\u0434\u043f\u0438\u0441\u043d\u0438\u043a\u0456\u0432",
+        "verified": false,
+        "secUid": "MS4wLjABAAAABum6bq1cTUTH3iZoln8CrggqRqBokpB7n5Ds7xVb1-VrQ88UWIzTNhmQrLE4sucZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7073798988478073606",
+        "title": "white tiger edits Stefania",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7073798988847172358.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08a357bf9e598fd4bc9155386e354848~c5_100x100.jpeg?x-expires=1649800800&x-signature=7GLoJoU%2F5UCdZWU2l%2BtDNI3jlUY%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08a357bf9e598fd4bc9155386e354848~c5_720x720.jpeg?x-expires=1649800800&x-signature=J7OFX2R7V%2BCrVlV1ADFnQfxh%2F4E%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08a357bf9e598fd4bc9155386e354848~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=efCu86ssCHyqzecPvDHVvx20sj8%3D",
+        "authorName": "white tiger",
+        "original": true,
+        "duration": 16,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1602359819631622",
+            "title": "\u043f\u0436\u0440\u0435\u043a",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 527,
+        "shareCount": 8,
+        "commentCount": 18,
+        "playCount": 3195
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 6,
+            "hashtagName": "\u043f\u0436\u0440\u0435\u043a",
+            "hashtagId": "1602359819631622",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1780,
+        "followerCount": 15300,
+        "heartCount": 39800,
+        "videoCount": 71,
+        "diggCount": 855,
+        "heart": 39800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u042f\u043a\u0449\u043e \u0420\u043e\u0441\u0456\u044f \u043f\u0440\u043e\u0456\u0433\u0440\u0430\u0454 \u0442\u043e \u043b\u0430\u0439\u043a+ \u043f\u0456\u0434\u043f\u0438\u0441\u043a\u0430+ \u0440\u0435\u043f\u043e\u0441\u0442\ud83d\udc99\ud83d\udc9b\ud83c\uddfa\ud83c\udde6\ud83e\udd47"
+            ]
+        }
+    ],
+    "isAd": false
+}

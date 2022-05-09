@@ -1,0 +1,169 @@
+{
+    "id": "7047191132156988678",
+    "desc": "#\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 #nekoglai #tenderlybae",
+    "createTime": 1640802048,
+    "video": {
+        "id": "7047191132156988678",
+        "height": 576,
+        "width": 1024,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/032026521b4a42a2b3cbf6fa4b419293_1640802049?x-expires=1649649600&x-signature=8oV9PEKzWiZm9k2JEyHDGKKH5Ck%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/82a3fd88a02c4e9ca04a536e02ca3812_1640802058?x-expires=1649649600&x-signature=LB7ugogQHYtMmskjaQi6t8UvwNY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d5ef2615a40b422eb5dbe9eaa9b58f00_1640802050?x-expires=1649649600&x-signature=VuV142ePrXNPJrkdbrOpjOT4MCY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/713c8feff1017b2a92bc0a72bcc6aae2/6253b049/video/tos/useast2a/tos-useast2a-ve-0068c004/e5b575e669f4466d817ece46fb1270b7/?a=1988&br=2014&bt=1007&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmFEIDXq&l=2022041022361701011313514309C2E709&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RydTc6ZnhkOjMzNzczM0ApZTg2ZzdkZWU8N2g1PGc0N2dyY2xycjRvYTNgLS1kMTZzczFiXy81YWJjLmJiYl40XjE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/713c8feff1017b2a92bc0a72bcc6aae2/6253b049/video/tos/useast2a/tos-useast2a-ve-0068c004/e5b575e669f4466d817ece46fb1270b7/?a=1988&br=2014&bt=1007&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmFEIDXq&l=2022041022361701011313514309C2E709&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RydTc6ZnhkOjMzNzczM0ApZTg2ZzdkZWU8N2g1PGc0N2dyY2xycjRvYTNgLS1kMTZzczFiXy81YWJjLmJiYl40XjE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/82a3fd88a02c4e9ca04a536e02ca3812_1640802058~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=D74fQw8AISn5uKAK3M2ocIN2wP4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/82a3fd88a02c4e9ca04a536e02ca3812_1640802058~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=FOtGh1OVgnmbTDD8Ll5yXqnRhKg%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/032026521b4a42a2b3cbf6fa4b419293_1640802049?x-expires=1649649600&x-signature=8oV9PEKzWiZm9k2JEyHDGKKH5Ck%3D",
+        "bitrate": 1031278,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7043844889213191174",
+        "uniqueId": "xwzlwnn",
+        "nickname": "..",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51387928a5542937889fd9055b8c2e66~c5_100x100.jpeg?x-expires=1649714400&x-signature=1LI17UkN8R0LKAuigxpoS6I4erM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51387928a5542937889fd9055b8c2e66~c5_720x720.jpeg?x-expires=1649714400&x-signature=PqlkQ94rfDFp%2BnOUYC7eFcy7GFs%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51387928a5542937889fd9055b8c2e66~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=1%2Bgi6W13vWUoZ7pERBGiYl2j9Qs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsFSfGg3tncIcZPASJics1ZX9U-t_4ZAnXru8iGdO6BlHJMiLvi99limqfdzSeluD",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7047191106181679877",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7047191124406536965.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51387928a5542937889fd9055b8c2e66~c5_100x100.jpeg?x-expires=1649714400&x-signature=1LI17UkN8R0LKAuigxpoS6I4erM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51387928a5542937889fd9055b8c2e66~c5_720x720.jpeg?x-expires=1649714400&x-signature=PqlkQ94rfDFp%2BnOUYC7eFcy7GFs%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51387928a5542937889fd9055b8c2e66~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=1%2Bgi6W13vWUoZ7pERBGiYl2j9Qs%3D",
+        "authorName": "..",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "49711363",
+            "title": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1658534811475973",
+            "title": "nekoglai",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1618582654683301",
+            "title": "tenderlybae",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 453000,
+        "shareCount": 6268,
+        "commentCount": 2935,
+        "playCount": 3500000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 13,
+            "hashtagName": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+            "hashtagId": "49711363",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 14,
+            "end": 23,
+            "hashtagName": "nekoglai",
+            "hashtagId": "1658534811475973",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 24,
+            "end": 36,
+            "hashtagName": "tenderlybae",
+            "hashtagId": "1618582654683301",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 33,
+        "followerCount": 41800,
+        "heartCount": 1200000,
+        "videoCount": 174,
+        "diggCount": 19400,
+        "heart": 1200000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

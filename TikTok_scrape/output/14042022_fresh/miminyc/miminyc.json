@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "54487720948928513",
+        "shortId": "",
+        "uniqueId": "miminyc",
+        "nickname": "Mimi J",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ede484ef431800d7441c20b9c51d9f2~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=kM5SRdZzV3i1Rx%2BRdmrQyjpZO7Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ede484ef431800d7441c20b9c51d9f2~c5_720x720.jpeg?x-expires=1650114000&x-signature=DBfRdnsIfP0BpB3iU7V67Ao6Ydk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6ede484ef431800d7441c20b9c51d9f2~c5_100x100.jpeg?x-expires=1650114000&x-signature=dTIbfLUJMvROEd6BKxeJPu7QSBM%3D",
+        "signature": "",
+        "createTime": 1453362400,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJKoI_2DY_qJd6SI7yRq4AvgQN6vNZnMF0RbIWLsaYvycKm-A8zX-ZgFWV1n5GFSc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.etsy.com/shop/TrioCreationss?ref=simple-shop-header-name&listing_id=1126513595",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 37,
+        "followingCount": 67,
+        "heart": 35,
+        "heartCount": 35,
+        "videoCount": 4,
+        "diggCount": 0
+    },
+    "itemList": []
+}

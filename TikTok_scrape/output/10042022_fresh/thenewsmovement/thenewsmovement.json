@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6956598903438214150",
+        "shortId": "",
+        "uniqueId": "thenewsmovement",
+        "nickname": "The News Movement",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/559e07704c0a1ac114510e5a3cfbee45~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=ZMwVP61BNgRV8%2BI6tYRgQp6mxxA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/559e07704c0a1ac114510e5a3cfbee45~c5_720x720.jpeg?x-expires=1649714400&x-signature=oEc18CKd67WcB7%2FH8P6RO3Gs7fU%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/559e07704c0a1ac114510e5a3cfbee45~c5_100x100.jpeg?x-expires=1649714400&x-signature=OG%2FjS7ZGQF4eAWeFNwIJhq1lkF0%3D",
+        "signature": "Explaining our world. \nNo-bias news and original reporting. \nBorn social.",
+        "createTime": 1619709785,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAS2jdno0snQAv4Tfc2VukWCSuSP4pSvW6NsuemGatYaa_4GsIZIk2QEuyafrklYTQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "linktr.ee/thenewsmovement",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 20200,
+        "followingCount": 13,
+        "heart": 204700,
+        "heartCount": 204700,
+        "videoCount": 176,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6775992273907123205",
+        "shortId": "",
+        "uniqueId": "katriln",
+        "nickname": "katriiln",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654298847446021~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=Nic409J6iU9layMTaE3Fb%2FSxdKI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654298847446021~c5_720x720.jpeg?x-expires=1649800800&x-signature=WBH667RcgpW4yAdOC5yGmX7zkd4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1654298847446021~c5_100x100.jpeg?x-expires=1649800800&x-signature=8c2%2F4JMI%2FiSOCJHiMUVTnLttFuQ%3D",
+        "signature": "Odessa",
+        "createTime": 1577630054,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAarMUBVUQfkDjkhcUAlfVcOttjWjv79xqrf-XI4z9nHM3dbea4dIsJqp50-Jfb-2s",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 312,
+        "followingCount": 81,
+        "heart": 33900,
+        "heartCount": 33900,
+        "videoCount": 126,
+        "diggCount": 0
+    },
+    "itemList": []
+}

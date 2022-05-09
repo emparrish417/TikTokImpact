@@ -1,0 +1,98 @@
+{
+    "id": "7084803801860902190",
+    "desc": "",
+    "createTime": 1649559431,
+    "video": {
+        "id": "7084803801860902190",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bd76bd0640d64c29aba6efeabddaf500?x-expires=1649649600&x-signature=CC5VCRidI4dMM2SVQKUKa0Ymrk0%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7c2d1e5ece4944c4b2dfaf524ac324d4_1649559432?x-expires=1649649600&x-signature=4S84gHiwRmbbM19wFlHpCTb3Npk%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/b3f3dee62e1c49bfbc74931fc62521f4_1649559432?x-expires=1649649600&x-signature=GRh88hXxkydEgrhYnlm2kqUkHlQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5b7408b2738e3a196ad9fe793dde6ece/6253ae89/video/tos/useast5/tos-useast5-pve-0068-tx/eb589efbd28e483f9a06a692632ef698/?a=1988&br=5000&bt=2500&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThObEIDXq&l=2022041022284901011300606226C42485&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2p1Ojw6ZmY3PDMzZzczNEApNzo0NDM6Zjw6NzMzNmU7PGducmpzcjRnYjZgLS1kMS9zczYwLzUuYi9jXjVjYC4vNWA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5b7408b2738e3a196ad9fe793dde6ece/6253ae89/video/tos/useast5/tos-useast5-pve-0068-tx/eb589efbd28e483f9a06a692632ef698/?a=1988&br=5000&bt=2500&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThObEIDXq&l=2022041022284901011300606226C42485&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2p1Ojw6ZmY3PDMzZzczNEApNzo0NDM6Zjw6NzMzNmU7PGducmpzcjRnYjZgLS1kMS9zczYwLzUuYi9jXjVjYC4vNWA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7c2d1e5ece4944c4b2dfaf524ac324d4_1649559432~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=nxn2z8EUaoc3FOlDcMgSo65EVuI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/7c2d1e5ece4944c4b2dfaf524ac324d4_1649559432~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=xLH6Oo14G0ZVUFeiMLoYLZtaLnI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/bd76bd0640d64c29aba6efeabddaf500?x-expires=1649649600&x-signature=CC5VCRidI4dMM2SVQKUKa0Ymrk0%3D",
+        "bitrate": 2560421,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7027985178509968389",
+        "uniqueId": "ukraine.ball2007",
+        "nickname": "Tik Toker",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8ec0aa59bc8bd30a8faa09d45a6baf22~c5_100x100.jpeg?x-expires=1649714400&x-signature=9ZB%2BszRKmpkbitMN%2Bsd%2B7fZIPF4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8ec0aa59bc8bd30a8faa09d45a6baf22~c5_720x720.jpeg?x-expires=1649714400&x-signature=wilNToWZgn9G%2ByLIhfBhQGOXDMY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8ec0aa59bc8bd30a8faa09d45a6baf22~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=%2BDlvy38FEa%2FsAigsmDlFnQHFWLo%3D",
+        "signature": "This is the end of this account",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWSdFhpyStgPfiBYuOl9WR3vP1AR5cldxO5yVjtS_VxU1mPnpSmNFFgwryRplrWec",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7083652733986769710",
+        "title": "WJK9",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7083652747278502698.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8ec0aa59bc8bd30a8faa09d45a6baf22~c5_100x100.jpeg?x-expires=1649714400&x-signature=9ZB%2BszRKmpkbitMN%2Bsd%2B7fZIPF4%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8ec0aa59bc8bd30a8faa09d45a6baf22~c5_720x720.jpeg?x-expires=1649714400&x-signature=wilNToWZgn9G%2ByLIhfBhQGOXDMY%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8ec0aa59bc8bd30a8faa09d45a6baf22~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=%2BDlvy38FEa%2FsAigsmDlFnQHFWLo%3D",
+        "authorName": "Tik Toker",
+        "original": true,
+        "duration": 19,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 15,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 259
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 4077,
+        "followerCount": 3296,
+        "heartCount": 31800,
+        "videoCount": 768,
+        "diggCount": 10600,
+        "heart": 31800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "HELP WHY DOES MY GRANDMA HOUSE HAS WGN9\ud83d\udc80\u270b"
+            ]
+        }
+    ],
+    "isAd": false
+}

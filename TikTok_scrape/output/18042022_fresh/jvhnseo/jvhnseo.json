@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "97941837092397057",
+        "shortId": "",
+        "uniqueId": "jvhnseo",
+        "nickname": "john seo",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bb4318fc3d59807e101d62f9db2a77ec~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=DbNcm%2BligTS96JyWVixAnorj%2F2s%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bb4318fc3d59807e101d62f9db2a77ec~c5_720x720.jpeg?x-expires=1650481200&x-signature=Tbkhp9%2FHUzybHoCC6HEN5v7wuyI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bb4318fc3d59807e101d62f9db2a77ec~c5_100x100.jpeg?x-expires=1650481200&x-signature=dbOgNlLdtMudFAHpcdSYSIOZVX4%3D",
+        "signature": "Follow the Gram \u2197\ufe0f\n500k by April 17th\njvhnseo@gmail.com",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJ1ofd7UjEGb3YfmVVTQ-mUIxgkMWlPBB0H6a7I5ToAsXN9XnqAMI9x0ndKTk2m-g",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 501500,
+        "followingCount": 450,
+        "heart": 27200000,
+        "heartCount": 27200000,
+        "videoCount": 80,
+        "diggCount": 0
+    },
+    "itemList": []
+}

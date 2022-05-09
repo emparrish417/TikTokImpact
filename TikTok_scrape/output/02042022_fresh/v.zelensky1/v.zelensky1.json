@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7071568293488395270",
+        "shortId": "",
+        "uniqueId": "v.zelensky1",
+        "nickname": "Zelensky\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9ea3cd10f5c10663a2d0412a92251b6f~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=adMJSYjcGZsUI4siDzBnSRo3o5k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9ea3cd10f5c10663a2d0412a92251b6f~c5_720x720.jpeg?x-expires=1649008800&x-signature=8XiD%2FkAP3xPMIsD9Qt6QqNvVqIE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9ea3cd10f5c10663a2d0412a92251b6f~c5_100x100.jpeg?x-expires=1649008800&x-signature=sW1pqTdJ5LGXmpjuzIxafEbyL%2FA%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1646477819,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQ22BQ_ghlN2chDfhc8mi0qk_GF8fwu_pQptybQBAHhy7ROPqM4uIhf1SrxX2oGEt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 462900,
+        "followingCount": 0,
+        "heart": 5300000,
+        "heartCount": 5300000,
+        "videoCount": 32,
+        "diggCount": 0
+    },
+    "itemList": []
+}

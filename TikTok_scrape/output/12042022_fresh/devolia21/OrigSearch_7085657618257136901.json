@@ -1,0 +1,105 @@
+{
+    "id": "7085657618257136901",
+    "desc": "@team_ukraine_frere",
+    "createTime": 1649758226,
+    "video": {
+        "id": "7085657618257136901",
+        "height": 960,
+        "width": 540,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/478e09011009413e9b6bec51dee2f94e?x-expires=1649840400&x-signature=PB5h88Uup2pyj2rUjEDDSS%2FPMuw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a4840075551040a29afc981974382d07_1649758227?x-expires=1649840400&x-signature=3kkxXdp%2FjvGIV1HOsrykzrdzGLU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/97128aeda92f4cce9c7ef20607382810_1649758227?x-expires=1649840400&x-signature=WC3uIYGvZAFl%2B22FSCzfw3GEZwM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/bb65e3d3d68781db960241f7a601e068/625691e0/video/tos/useast2a/tos-useast2a-ve-0068c002/53fdf164d9df441db39e45c5e2775c2f/?a=1988&br=4100&bt=2050&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3J4aDXq&l=202204130303120101130062070CDBDD8D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzY7ajo6ZjVvPDMzNzczM0ApMzY8aTg4M2RlNzozM2U5N2dnYDVhcjRnLV5gLS1kMTZzczRgYC4xLy00LTBeNS5gYGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/bb65e3d3d68781db960241f7a601e068/625691e0/video/tos/useast2a/tos-useast2a-ve-0068c002/53fdf164d9df441db39e45c5e2775c2f/?a=1988&br=4100&bt=2050&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3J4aDXq&l=202204130303120101130062070CDBDD8D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzY7ajo6ZjVvPDMzNzczM0ApMzY8aTg4M2RlNzozM2U5N2dnYDVhcjRnLV5gLS1kMTZzczRgYC4xLy00LTBeNS5gYGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a4840075551040a29afc981974382d07_1649758227~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=uHnIsTs%2Bo9RnCvdKWirgbNiswo0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a4840075551040a29afc981974382d07_1649758227~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=1mdQswlzKaceEurc0ynYhLYZtpw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/478e09011009413e9b6bec51dee2f94e?x-expires=1649840400&x-signature=PB5h88Uup2pyj2rUjEDDSS%2FPMuw%3D",
+        "bitrate": 2099595,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7064553139731416069",
+        "uniqueId": "devolia21",
+        "nickname": "Charlotte Cernecca",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23263c3c936e2ece999565e9c54937c3~c5_100x100.jpeg?x-expires=1649905200&x-signature=XVE2tJBKP5%2Bpz1iTjEhd%2FAJdBf0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23263c3c936e2ece999565e9c54937c3~c5_720x720.jpeg?x-expires=1649905200&x-signature=DA%2B9ciFiEbTEgGPlWA5F1%2BB%2FTOc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/23263c3c936e2ece999565e9c54937c3~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=CkB5B23hKoZIelaTmAFBFoPeowQ%3D",
+        "signature": "Je suis en couple \u2764\ufe0f\nMon \u00e2ge \ud83e\udd2b\nMon pr\u00e9nom \ud83e\udd2b",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxyqt65tq6JNEmZVpkwyRa-yd9mA4YujlWM1oaog2H5L4mgiZcsdfK27c6zk4QIZ3",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7010805285842110465",
+        "title": "Best life",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b9b1c6c733614fb6992fe14c0013690d",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/2941630c13c247a8bb87514ca633cafe.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/2941630c13c247a8bb87514ca633cafe.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/2941630c13c247a8bb87514ca633cafe.jpeg",
+        "authorName": "Naps",
+        "original": false,
+        "duration": 51,
+        "album": "Best life"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 103
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 19,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7075374893818872837",
+            "isCommerce": false,
+            "userUniqueId": "team_ukraine_frere",
+            "secUid": "MS4wLjABAAAAqMtG9OOU5ljBxGC5we5IU0JZHyJgov1RUJIoAn1e2hIMC8uKUUUWdbN08-1yucuh",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 67,
+        "followerCount": 47,
+        "heartCount": 62,
+        "videoCount": 11,
+        "diggCount": 241,
+        "heart": 62
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

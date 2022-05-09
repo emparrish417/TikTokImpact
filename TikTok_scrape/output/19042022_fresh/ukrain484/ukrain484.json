@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "7087817134294549510",
+        "shortId": "",
+        "uniqueId": "ukrain484",
+        "nickname": "ukrain484",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a297761e5561fa36f3667a8da995185~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=saUp1tbcoviFbl51VyrLWtHjA5c%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a297761e5561fa36f3667a8da995185~c5_720x720.jpeg?x-expires=1650578400&x-signature=wR9iXJhVC020OsVC8vF5Hg7VLoA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a297761e5561fa36f3667a8da995185~c5_100x100.jpeg?x-expires=1650578400&x-signature=gkr61lrjE8satyTvE3wUJdgl7Xk%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4liZX2o2VZEWFJ1iETfe7lB4gcf1vdRMYpX_2BrHEF0pETpUGz5bJM5DGqBQsFcA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Baby",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 28,
+        "followingCount": 8,
+        "heart": 225,
+        "heartCount": 225,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

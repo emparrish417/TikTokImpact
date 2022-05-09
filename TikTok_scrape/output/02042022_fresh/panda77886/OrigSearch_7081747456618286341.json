@@ -1,0 +1,90 @@
+{
+    "id": "7081747456618286341",
+    "desc": "Material girl but in Ukrainian language",
+    "createTime": 1648847819,
+    "video": {
+        "id": "7081747456618286341",
+        "height": 1024,
+        "width": 576,
+        "duration": 5,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f521ee572dad4f7fb78cc5219d0e93e9?x-expires=1648944000&x-signature=RaZbHMDUOUzhbzwfVV1RwAcZQmw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b8e40bea47c848798f2f4d5db6a2a727_1648847820?x-expires=1648944000&x-signature=Hb5WoJ9MfvFTMVTblxwY5Mz7l5s%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/46f712f019fb4f68b4f1efa5c3cae927_1648847821?x-expires=1648944000&x-signature=2yp1RS4l4mIP6gehagKHU0xvA%2Fg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/15f505c0fc2165e38f32a73df9642de0/6248ed14/video/tos/useast2a/tos-useast2a-pve-0068/37ff77e094e14343a775444f0b8b3944/?a=1988&br=1564&bt=782&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7TheoVqDXq&l=202204021840470101131351430D8E0196&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRodjU6ZmxwPDMzNzczM0ApPDY3aDdnaDxmN2U4OjhoNGdzcWRgcjQwazBgLS1kMTZzczA1MDUtMTZhMjY0MzItMjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/15f505c0fc2165e38f32a73df9642de0/6248ed14/video/tos/useast2a/tos-useast2a-pve-0068/37ff77e094e14343a775444f0b8b3944/?a=1988&br=1564&bt=782&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7TheoVqDXq&l=202204021840470101131351430D8E0196&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzRodjU6ZmxwPDMzNzczM0ApPDY3aDdnaDxmN2U4OjhoNGdzcWRgcjQwazBgLS1kMTZzczA1MDUtMTZhMjY0MzItMjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b8e40bea47c848798f2f4d5db6a2a727_1648847820~tplv-tiktok-play.jpeg?x-expires=1649527200&x-signature=ui5VwVRgXOL72pFYIVeIugJNns8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b8e40bea47c848798f2f4d5db6a2a727_1648847820~tplv-tiktokx-share-play.jpeg?x-expires=1649527200&x-signature=sJKMyYR%2BWD%2FGtzMa4s9lt0M1lCE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f521ee572dad4f7fb78cc5219d0e93e9?x-expires=1648944000&x-signature=RaZbHMDUOUzhbzwfVV1RwAcZQmw%3D",
+        "bitrate": 801067,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7079561825042367493",
+        "uniqueId": "panda77886",
+        "nickname": "Panda87",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0fd09151cac23be01ccd506bab6ea3f4~c5_100x100.jpeg?x-expires=1649008800&x-signature=%2BEit%2FM%2FL%2BLeUDdxcx8MiLvDviAc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0fd09151cac23be01ccd506bab6ea3f4~c5_720x720.jpeg?x-expires=1649008800&x-signature=KROCbi6YoaKtnbT7ChVycZ3zdgw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0fd09151cac23be01ccd506bab6ea3f4~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=uMseQldTDzDzS%2BkC2KVbzSzNRuk%3D",
+        "signature": "Hola we stand for Ukrainian \ud83c\uddfa\ud83c\udde6\ud83c\uddec\ud83c\udde7",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjhfQDHs7_Wfds3-23dbKsO0RqWQf3Zqhd-fp0ce3jjk0SL3oJhjNrPIfbh9W7maW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081717858543160069",
+        "title": "Material girl",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7081717862414748422.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0fd09151cac23be01ccd506bab6ea3f4~c5_100x100.jpeg?x-expires=1649008800&x-signature=%2BEit%2FM%2FL%2BLeUDdxcx8MiLvDviAc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0fd09151cac23be01ccd506bab6ea3f4~c5_720x720.jpeg?x-expires=1649008800&x-signature=KROCbi6YoaKtnbT7ChVycZ3zdgw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0fd09151cac23be01ccd506bab6ea3f4~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=uMseQldTDzDzS%2BkC2KVbzSzNRuk%3D",
+        "authorName": "Panda87",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 19
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 32,
+        "followerCount": 5,
+        "heartCount": 11,
+        "videoCount": 21,
+        "diggCount": 74,
+        "heart": 11
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

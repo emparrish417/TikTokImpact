@@ -1,0 +1,90 @@
+{
+    "id": "7090528867642772742",
+    "desc": "",
+    "createTime": 1650892403,
+    "video": {
+        "id": "7090528867642772742",
+        "height": 1024,
+        "width": 576,
+        "duration": 30,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bd46dfad9b4f4b349a6d4d027da5cff2?x-expires=1650934800&x-signature=Vh6jQlTCFLVr0vDLtwJrc8MJIWM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/663a9e25920b460c9db99df49ec71397_1650892405?x-expires=1650934800&x-signature=HbsNIpPJP9U4nE7syHcKnB%2B7Zvs%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/48b7c51889e244ef9ed9eaf0fbf1d0f3_1650892405?x-expires=1650934800&x-signature=fU5Ge6Y4KAelFJdj57f6k%2Fvf2gA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e97d1f19d3732ee8b8af61a382fda518/62674be6/video/tos/useast2a/tos-useast2a-ve-0068c001/384482f275cc4e559445d66797a16016/?a=1988&br=2542&bt=1271&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z_8z4we2N.vyfl7Gb&l=202204251932560101131352111016E040&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzx5dDw6Zm88PDMzNzczM0ApN2hoOWY0NWRmN2hoNDY7N2doYTRicjRnbmdgLS1kMTZzcy0vYS9hLzUzMV81NC1jYzU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e97d1f19d3732ee8b8af61a382fda518/62674be6/video/tos/useast2a/tos-useast2a-ve-0068c001/384482f275cc4e559445d66797a16016/?a=1988&br=2542&bt=1271&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z_8z4we2N.vyfl7Gb&l=202204251932560101131352111016E040&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzx5dDw6Zm88PDMzNzczM0ApN2hoOWY0NWRmN2hoNDY7N2doYTRicjRnbmdgLS1kMTZzcy0vYS9hLzUzMV81NC1jYzU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/663a9e25920b460c9db99df49ec71397_1650892405~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=BkmTOlm0iV8qQE0%2FX%2Fw6E8Xt%2BA0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/663a9e25920b460c9db99df49ec71397_1650892405~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=I%2Bb9%2BnKTsO9dskcAJBUzTnitdW8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bd46dfad9b4f4b349a6d4d027da5cff2?x-expires=1650934800&x-signature=Vh6jQlTCFLVr0vDLtwJrc8MJIWM%3D",
+        "bitrate": 1301577,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7072411395862561797",
+        "uniqueId": "ukrainoshka2",
+        "nickname": "ukrainoshka2",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd9760fb64bee85ac39583e2cd3c5fab~c5_100x100.jpeg?x-expires=1651086000&x-signature=3A0Pfa8SXfPBa%2Ba8imdQ2GmjGgY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd9760fb64bee85ac39583e2cd3c5fab~c5_720x720.jpeg?x-expires=1651086000&x-signature=ltyuivb5xRsdn2zRbTUb9v35ojs%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cd9760fb64bee85ac39583e2cd3c5fab~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=Zp4pWd6hh7vNPnCQEL17sbPbWhw%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaxuL-H9_wOiAQgdpjvx56Dx9pbDvyGFIVQN2PwX2eNJHYEHhHULIoDfrg6lJV242",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085381808774859526",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7085381801459731206.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05423d0f42157b7d0412d5617a74b505~c5_100x100.jpeg?x-expires=1651086000&x-signature=XooLnha5A9xoLpjFxcPIM%2BNk%2BEA%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05423d0f42157b7d0412d5617a74b505~c5_720x720.jpeg?x-expires=1651086000&x-signature=w%2BV%2BYFAxhn5QWvrOxIzltnewPH4%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05423d0f42157b7d0412d5617a74b505~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=cr134v9ojyB8e1Pr%2Fe62Vyk6R6E%3D",
+        "authorName": "Diana",
+        "original": true,
+        "duration": 30,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 132,
+        "shareCount": 0,
+        "commentCount": 5,
+        "playCount": 815
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 161,
+        "followerCount": 1292,
+        "heartCount": 4409,
+        "videoCount": 33,
+        "diggCount": 335,
+        "heart": 4409
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

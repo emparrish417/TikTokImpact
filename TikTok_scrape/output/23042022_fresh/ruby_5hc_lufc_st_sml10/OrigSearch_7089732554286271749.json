@@ -1,0 +1,96 @@
+{
+    "id": "7089732554286271749",
+    "desc": "",
+    "createTime": 1650706997,
+    "video": {
+        "id": "7089732554286271749",
+        "height": 960,
+        "width": 540,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ed7eacc39c9d4d46be12ac68df2ca249?x-expires=1650783600&x-signature=x5IXie0jILz4cXrixU9S5G5cR6w%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/68ffcb993a174321bd85b50f2022e64a_1650706999?x-expires=1650783600&x-signature=pCLHcz5J8OaDBFmUgVctnoqgr8w%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/27ce4f8faf2c40469ae5dc2a7e8bc74c_1650706999?x-expires=1650783600&x-signature=ObVUCw%2FJPdS906O4hHqa9tT9fQg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/3f4891e3a93cc645d6c52678b767e622/6264fb2f/video/tos/useast2a/tos-useast2a-ve-0068c003/1227c4579a1f4501b98eb2a118307d46/?a=1988&br=5428&bt=2714&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZuUu4we2NP87fl7Gb&l=2022042401242001011313521406AC798B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amhqbjk6ZmR2PDMzNzczM0ApNzw4ZGlmZmVmNzU2Nzg2NGdobF8ycjRvaGVgLS1kMTZzczYxX2IvMjAvYjItLmExYjA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/3f4891e3a93cc645d6c52678b767e622/6264fb2f/video/tos/useast2a/tos-useast2a-ve-0068c003/1227c4579a1f4501b98eb2a118307d46/?a=1988&br=5428&bt=2714&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZuUu4we2NP87fl7Gb&l=2022042401242001011313521406AC798B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amhqbjk6ZmR2PDMzNzczM0ApNzw4ZGlmZmVmNzU2Nzg2NGdobF8ycjRvaGVgLS1kMTZzczYxX2IvMjAvYjItLmExYjA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/68ffcb993a174321bd85b50f2022e64a_1650706999~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=FqvYoDDS7vqmDdImJ8jG7nUuOdU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/68ffcb993a174321bd85b50f2022e64a_1650706999~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=ifeSiDb1DUfllxCVTjCGMbrbMJ4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ed7eacc39c9d4d46be12ac68df2ca249?x-expires=1650783600&x-signature=x5IXie0jILz4cXrixU9S5G5cR6w%3D",
+        "bitrate": 2779974,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7060217552908567558",
+        "uniqueId": "ruby_5hc_lufc_st_sml10",
+        "nickname": "Stay with ukrain \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2cd7209fa74b1d48926caa8d7810a083~c5_100x100.jpeg?x-expires=1650934800&x-signature=LRu1Avxx%2BK%2BHpcO2s2bx6veiYz0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2cd7209fa74b1d48926caa8d7810a083~c5_720x720.jpeg?x-expires=1650934800&x-signature=g%2FOq03yF90baoVw%2FDLxkpcGTb%2Fc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2cd7209fa74b1d48926caa8d7810a083~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=DsxtNdsZ7qy1Hdta12Ie8xIdwco%3D",
+        "signature": "50________________________\ud83d\ude97",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6ACZKLbyMonCyXTrLyvhDu2CJqMhm16x3P30cPsEPubwAv0_IeN2cHDmUddrYsrb",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067574132983991045",
+        "title": "Cool for the Summer - Sped Up (Nightcore)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fd45eb00fcc4d52a71f19b0d80ce3e1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "authorName": "Demi Lovato & Speed Radio",
+        "original": false,
+        "duration": 11,
+        "album": "Cool for the Summer - Sped Up (Nightcore)"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 14
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Midnight",
+            "ID": "1121448"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 274,
+        "followerCount": 117,
+        "heartCount": 478,
+        "videoCount": 84,
+        "diggCount": 368,
+        "heart": 478
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6591577655534878725",
+        "shortId": "",
+        "uniqueId": "max_on_a_board",
+        "nickname": "Max",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8234b67324f82ce8e3b190e94f375ae2~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=qyPyeUpzL4Jgvd9cPY%2B%2FqopwO%2Fw%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8234b67324f82ce8e3b190e94f375ae2~c5_720x720.jpeg?x-expires=1650664800&x-signature=x6b3oRD7NpFAGSTxqoKh8kd%2Blt4%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8234b67324f82ce8e3b190e94f375ae2~c5_100x100.jpeg?x-expires=1650664800&x-signature=AXwXawKW1SixSkpNBe9ymtY5TbU%3D",
+        "signature": "Gen Z is full of dumb ppl",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkWiPafKM6v84Cgr9g3Emp0SaqCDNHclFI4lLAKt5GywZlEDaenidFvTaO3T3W0t9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 53800,
+        "followingCount": 60,
+        "heart": 2800000,
+        "heartCount": 2800000,
+        "videoCount": 44,
+        "diggCount": 0
+    },
+    "itemList": []
+}

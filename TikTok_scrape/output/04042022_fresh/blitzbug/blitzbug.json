@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6708062485251326981",
+        "shortId": "",
+        "uniqueId": "blitzbug",
+        "nickname": "\ud80c\udd8f",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1888fd0014ee7017c203bec907700fed~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=9%2FTqpisHFhVUYvs%2Bvs0Ys4Pqndg%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1888fd0014ee7017c203bec907700fed~c5_720x720.jpeg?x-expires=1649196000&x-signature=QWaO6oVACiDo%2F%2FP8XN%2Fzk2tgI6M%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1888fd0014ee7017c203bec907700fed~c5_100x100.jpeg?x-expires=1649196000&x-signature=u5Mx4TH48fMJGOk58n7aORlzbXw%3D",
+        "signature": "She/they\nAsexual \nBisexual",
+        "createTime": 1561842583,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVJ0PKblOGDNvyVljoM5YOt1PL1cXpvYm2f5SD_9i6hLHDYDHvZqsn5IXxD4VAfTb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Blitzbug",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1700,
+        "followingCount": 48,
+        "heart": 698,
+        "heartCount": 698,
+        "videoCount": 44,
+        "diggCount": 0
+    },
+    "itemList": []
+}

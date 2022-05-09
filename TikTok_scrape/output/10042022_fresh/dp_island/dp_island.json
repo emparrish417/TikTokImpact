@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6750304271219246086",
+        "shortId": "",
+        "uniqueId": "dp_island",
+        "nickname": "Devin",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/35034d009d10d67642a49b00f0ed9963~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=eRE%2BRTgYoaAjKlC2VBTSxsF2%2BZw%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/35034d009d10d67642a49b00f0ed9963~c5_720x720.jpeg?x-expires=1649714400&x-signature=ckh%2BMZhcP%2FBBl0xMIECyulGMnG0%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/35034d009d10d67642a49b00f0ed9963~c5_100x100.jpeg?x-expires=1649714400&x-signature=e7Zgu5G%2Ftesq1HK6aIjZB3a9eq4%3D",
+        "signature": "23 | Pittsburgh \nAll socials @dp_island",
+        "createTime": 1571677723,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJmcwEkb90XfdRiCyFKFCVXknoOxRVHwHQzy6tmM7CxiPEs3krGuOpZ5AKUiyGAL9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "bioLink": {
+            "link": "https://twitch.tv/dp_island",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14600,
+        "followingCount": 12,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 127,
+        "diggCount": 40
+    },
+    "itemList": []
+}

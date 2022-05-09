@@ -1,0 +1,99 @@
+{
+    "id": "7084960218152586502",
+    "desc": "",
+    "createTime": 1649595849,
+    "video": {
+        "id": "7084960218152586502",
+        "height": 1024,
+        "width": 576,
+        "duration": 16,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1eae2617b5f94efb9930a65406d424da?x-expires=1649649600&x-signature=sW9JPvAylu2Lxg8szAOdi6dcSKw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/00b49fab1ec34775beb5eb6e6df67f39_1649595850?x-expires=1649649600&x-signature=7grJ9HA6bN%2FXceekg4GHGqRYEP0%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4129645a5047412c9bafabd65b88bdc8_1649595850?x-expires=1649649600&x-signature=9w%2F1bCrh9v81DeBfisdHhpmxNII%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/78623cbf02474dc7a4623c7b44669ebe/6253aea1/video/tos/useast2a/tos-useast2a-ve-0068c001/f22cd7aef1ef47309cafb58eac195114/?a=1988&br=1632&bt=816&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3bEIDXq&l=202204102229050101131351651DA420E3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo3bmg6ZmlnPDMzNzczM0ApNTc7ODczOzs2Nzo7ZDhpZ2deYmhscjRfXzZgLS1kMTZzc14vLi9fNjYuNC1gMS82Ly46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/78623cbf02474dc7a4623c7b44669ebe/6253aea1/video/tos/useast2a/tos-useast2a-ve-0068c001/f22cd7aef1ef47309cafb58eac195114/?a=1988&br=1632&bt=816&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th3bEIDXq&l=202204102229050101131351651DA420E3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo3bmg6ZmlnPDMzNzczM0ApNTc7ODczOzs2Nzo7ZDhpZ2deYmhscjRfXzZgLS1kMTZzc14vLi9fNjYuNC1gMS82Ly46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/00b49fab1ec34775beb5eb6e6df67f39_1649595850~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=Lt9Z6tlK2%2BaZnA8pTwG7VcJHh3A%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/00b49fab1ec34775beb5eb6e6df67f39_1649595850~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=3pCh97aGi2r3Ow70LluXK3z2S74%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1eae2617b5f94efb9930a65406d424da?x-expires=1649649600&x-signature=sW9JPvAylu2Lxg8szAOdi6dcSKw%3D",
+        "bitrate": 835622,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6845346505987343365",
+        "uniqueId": "saveukraine415",
+        "nickname": "Harley and Cody",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8272f0b836a91ed862d9f117777d6291~c5_100x100.jpeg?x-expires=1649714400&x-signature=0OE0QbCeRaOyhdgxFWcUpNxLaeQ%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8272f0b836a91ed862d9f117777d6291~c5_720x720.jpeg?x-expires=1649714400&x-signature=xnwXAcOb%2FEUx%2FTjnArNtYiPnO8U%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8272f0b836a91ed862d9f117777d6291~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=d%2Bij%2F10gCzV9ZGV5ebqobIMTCs8%3D",
+        "signature": "SAVE UKRINE \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_IxnlEeXXnz8Nt7seTpSPRvfMZ8OS9ZDsI1-zOGLlku_FQJUC3UfiFyht35LPk3r",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6971235107218721541",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6971235210524478213.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db7b11b6063dbe9d74bd815df223859a~c5_100x100.jpeg?x-expires=1649714400&x-signature=Pmm%2BxVIA0x%2FtDlk81rEzQSAV6kQ%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db7b11b6063dbe9d74bd815df223859a~c5_720x720.jpeg?x-expires=1649714400&x-signature=r9wSkNJi7ZumxAlEYtpkZY7aqyo%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db7b11b6063dbe9d74bd815df223859a~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=Cmlh4MNXchgfp4Q52sRLCZp5br0%3D",
+        "authorName": "Mexico \ud83c\uddf2\ud83c\uddfd",
+        "original": true,
+        "duration": 56,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 6
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 42,
+        "followerCount": 3333,
+        "heartCount": 6607,
+        "videoCount": 108,
+        "diggCount": 1493,
+        "heart": 6607
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Send to  a old duo\ud83e\udd7a\ud83d\ude22",
+                "Fishy for life\ud83d\udc20"
+            ]
+        }
+    ],
+    "isAd": false
+}

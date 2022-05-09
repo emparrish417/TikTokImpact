@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6970970696336000005",
+        "shortId": "",
+        "uniqueId": "r_ivanov15",
+        "nickname": "\u0420\u0443\u043c\u0431\u0430\u0442\u0430!",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/45466e789b796b6619b1c0159fc857e0~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=HvQj3wxZT%2FGUHrogOWaSBSXIBIY%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/45466e789b796b6619b1c0159fc857e0~c5_720x720.jpeg?x-expires=1650412800&x-signature=%2BPCodJ78EhJ877VmO%2BQ8jRDyAWU%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/45466e789b796b6619b1c0159fc857e0~c5_100x100.jpeg?x-expires=1650412800&x-signature=JZuzm%2BOxffDoMxobHHDCGubqp34%3D",
+        "signature": "\u0421\u0430\u043c\u043e \u0411\u042a\u041b\u0413\u0410\u0420\u0418\u042f!!!\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83d\udc51\ud83d\udc51\ud83d\udc51\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVCijlchXSmWVDboSdo6EeRDZMio5CIkOyBv69yXx98Ron6B703xdC6bfZ5KTNFs1",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Pets",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5925,
+        "followingCount": 1875,
+        "heart": 46400,
+        "heartCount": 46400,
+        "videoCount": 75,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,101 @@
+{
+    "id": "7085371505793682694",
+    "desc": "\u0424\u0430\u043a\u0442\u044b",
+    "createTime": 1649691609,
+    "video": {
+        "id": "7085371505793682694",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f2be910f424c4132973ed7d99c3a7fd0?x-expires=1649736000&x-signature=L0sXyPOUPvI2BmgKO9rTzto0Yew%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8f09fe33547b420db5f782f65c73c7c9_1649691610?x-expires=1649736000&x-signature=gltCSdd%2BVFVwAMiJB2E%2F7hJeY1Y%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d1ddb02da32c4ad89474d7f67daf9e33_1649691611?x-expires=1649736000&x-signature=azXjVw8Gzdd7D1%2Ff6x4%2FmjWaLxk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0e2e9a905ffd3d6b499ebe8b4dbe0010/6254fd4d/video/tos/useast2a/tos-useast2a-ve-0068c003/c4dd28b84c564c71a12233a3fcdfb252/?a=1988&br=1034&bt=517&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV_jaDXq&l=2022041122170201011313513407C309E2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajd2NzM6Zm83PDMzNzczM0ApNzk3Njo0NmUzN2Y0OTw4Z2doMnEycjRfa15gLS1kMTZzczNjNi41NDYzMS0tMjUuXzE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0e2e9a905ffd3d6b499ebe8b4dbe0010/6254fd4d/video/tos/useast2a/tos-useast2a-ve-0068c003/c4dd28b84c564c71a12233a3fcdfb252/?a=1988&br=1034&bt=517&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV_jaDXq&l=2022041122170201011313513407C309E2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajd2NzM6Zm83PDMzNzczM0ApNzk3Njo0NmUzN2Y0OTw4Z2doMnEycjRfa15gLS1kMTZzczNjNi41NDYzMS0tMjUuXzE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8f09fe33547b420db5f782f65c73c7c9_1649691610~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=CMpOTb1U5GiSctZUqP8jzMndPqo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8f09fe33547b420db5f782f65c73c7c9_1649691610~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=4IfxTiIIVOQCKuZpNoqXlrpVR30%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f2be910f424c4132973ed7d99c3a7fd0?x-expires=1649736000&x-signature=L0sXyPOUPvI2BmgKO9rTzto0Yew%3D",
+        "bitrate": 529633,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7078661199739487237",
+        "uniqueId": "ukrainian_sting",
+        "nickname": "ukrainian_sting",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e28b32a7a23362c7e47f4780a37a0266~c5_100x100.jpeg?x-expires=1649800800&x-signature=lCafvDnwkfBO8FCiUmkkRR%2BEwg0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e28b32a7a23362c7e47f4780a37a0266~c5_720x720.jpeg?x-expires=1649800800&x-signature=6cnCWmo11XRpLOW8zmI2VXxQ2iI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e28b32a7a23362c7e47f4780a37a0266~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=4VVR77%2BJAnaJ36aCnpPycIvhZD0%3D",
+        "signature": "Ukraine, Kyiv \ud83c\uddfa\ud83c\udde6\nProfessional fighter \ud83e\udd4a\nCertified kickboxing coach \ud83d\uddd2",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvQ_XTvgeBsd45Qs29oGjb7gpnartkJyhUaDGHhpY0gvFcj5-UsV49YrxDh4SA0IZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077847570864769798",
+        "title": "\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7077847616154815238.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d62a053b328b2137df911dd90e355c4~c5_100x100.jpeg?x-expires=1649800800&x-signature=t4ZpMkE0RxNo2p42bKiE9HcfvPw%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d62a053b328b2137df911dd90e355c4~c5_720x720.jpeg?x-expires=1649800800&x-signature=C248vIGn3Mum3h%2FkKeR3GVslbuM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0d62a053b328b2137df911dd90e355c4~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=TcUe%2BmzbZyDjZpfcV5aEiRSQkuQ%3D",
+        "authorName": "\u0443\u043a\u0440\u0430\u0457\u043d\u0430",
+        "original": true,
+        "duration": 16,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1367,
+        "shareCount": 14,
+        "commentCount": 67,
+        "playCount": 10300
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 97,
+        "followerCount": 2652,
+        "heartCount": 132800,
+        "videoCount": 43,
+        "diggCount": 2130,
+        "heart": 132800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u0441 \u0441\u0430\u043c\u044b\u043c \u043d\u0438\u0437\u043a\u0438\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c IQ",
+                "\u042d\u0440\u0438\u0442\u0440\u0435\u044f \ud83c\uddea\ud83c\uddf7 ",
+                "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u043e\u0440\u0440\u0435\u044f \ud83c\uddf0\ud83c\uddf5",
+                "\u0440\u043e\u0441\u0441\u0438\u044f \ud83c\uddf7\ud83c\uddfa "
+            ]
+        }
+    ],
+    "isAd": false
+}

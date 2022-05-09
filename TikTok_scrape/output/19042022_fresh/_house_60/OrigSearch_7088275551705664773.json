@@ -1,0 +1,125 @@
+{
+    "id": "7088275551705664773",
+    "desc": "#aesthetic",
+    "createTime": 1650367761,
+    "video": {
+        "id": "7088275551705664773",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/22616d0fb09248ec84307f2262e3ba16_1650367763?x-expires=1650427200&x-signature=JIFj8JRiza4NGXB9rAiq03clQg8%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/746277949a364c0f887831be1a5b9384_1650367762?x-expires=1650427200&x-signature=%2BcStA5CUGYPVyqa3MbLwX9fX95Y%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/968bc22d8207448db006e1ceca0929d6_1650367763?x-expires=1650427200&x-signature=1J7Q2nGJV6MWxMThgXSB4KWONaI%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4e1484f5a191075f67d74b6d71b5a631/625f8a5a/video/tos/useast2a/tos-useast2a-ve-0068c003/807263080c284fa5a39ad677b9370b6d/?a=1988&br=1342&bt=671&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIQiwwe2NaF~fl7Gb&l=202204192221350101130061350117FD62&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3UzdGU6Znc8PDMzNzczM0ApMzY1NGVoZGVkN2doOmVnO2djLmxxcjRnbWNgLS1kMTZzc18tYmMxNl5gY15hMzAuMmI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4e1484f5a191075f67d74b6d71b5a631/625f8a5a/video/tos/useast2a/tos-useast2a-ve-0068c003/807263080c284fa5a39ad677b9370b6d/?a=1988&br=1342&bt=671&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIQiwwe2NaF~fl7Gb&l=202204192221350101130061350117FD62&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3UzdGU6Znc8PDMzNzczM0ApMzY1NGVoZGVkN2doOmVnO2djLmxxcjRnbWNgLS1kMTZzc18tYmMxNl5gY15hMzAuMmI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/746277949a364c0f887831be1a5b9384_1650367762~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=KaqOAxL8Ygjo0LgAJ5lHSvSG928%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/746277949a364c0f887831be1a5b9384_1650367762~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=Fwz805gtXG2D1hcHKYR31YTPd8M%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/22616d0fb09248ec84307f2262e3ba16_1650367763?x-expires=1650427200&x-signature=JIFj8JRiza4NGXB9rAiq03clQg8%3D",
+        "bitrate": 687668,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7062988251246625798",
+        "uniqueId": "_house_60",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\ud835\ude75\ud835\ude81\ud835\ude7e\ud835\ude7c \ud835\ude84\ud835\ude7a\ud835\ude81\ud835\ude70\ud835\ude78\ud835\ude7d\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4873dd92c768f00eb71a70eaec1df96~c5_100x100.jpeg?x-expires=1650578400&x-signature=0yQGPyHvqU7Rr6WaO5ckUSu%2FsRg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4873dd92c768f00eb71a70eaec1df96~c5_720x720.jpeg?x-expires=1650578400&x-signature=a2V8t3be0u3EHQf1S%2F6oQSiDGkM%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4873dd92c768f00eb71a70eaec1df96~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=OQbA41ZwrdLm0MDIYGfw43wijAI%3D",
+        "signature": "\ud83e\uddfa\ud835\ude77\ud835\ude74\ud835\ude7b\ud835\ude7b\ud835\ude7e\ud835\ude86\ud83e\uddfa",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATwJNfG-V3BOJfPF67tIFE6G_8taM5J_lNFIk5_S5TwaQHo-8XvD2eqK2Vie9j4co",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067574132983991045",
+        "title": "Cool for the Summer - Sped Up (Nightcore)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fd45eb00fcc4d52a71f19b0d80ce3e1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "authorName": "Demi Lovato & Speed Radio",
+        "original": false,
+        "duration": 11,
+        "album": "Cool for the Summer - Sped Up (Nightcore)"
+    },
+    "challenges": [
+        {
+            "id": "22816",
+            "title": "aesthetic",
+            "desc": "Art is the imposing of a pattern on experience, and our #Aesthetic enjoyment is recognition of the pattern. Create your aesthetic video. Can't wait to see your creative ideas.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb2d5633e2213ac1f1954394119430c1",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb2d5633e2213ac1f1954394119430c1",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb2d5633e2213ac1f1954394119430c1",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 77
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "aesthetic",
+            "hashtagId": "22816",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "low exposure",
+            "ID": "1250812"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 6,
+        "followerCount": 770,
+        "heartCount": 9020,
+        "videoCount": 283,
+        "diggCount": 544,
+        "heart": 9020
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6936688815637595141",
+        "shortId": "",
+        "uniqueId": "tf1info",
+        "nickname": "TF1 INFO",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d5b7a053147215e5d988ad919f6c954~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=SOlA9Egs9KXcj8qOSJJjPHwRgB4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d5b7a053147215e5d988ad919f6c954~c5_720x720.jpeg?x-expires=1650412800&x-signature=oMVWp6OFNHiYZLzPFh0tZ4bcIhU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5d5b7a053147215e5d988ad919f6c954~c5_100x100.jpeg?x-expires=1650412800&x-signature=uT6TCvFVDv6eydj45I3cGSzpYqY%3D",
+        "signature": "\ud83c\udfa5\ud83e\udd33\ud83c\udf0d Infos - reportages - actus - lives",
+        "verified": true,
+        "secUid": "MS4wLjABAAAARx6fY-mw0-wrFRWoB-iicpHlKjax7csh6J0wHKYbnSLsbLKW_8ImFSK3ukzSdAg7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/tf1info",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 248000,
+        "followingCount": 31,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 139,
+        "diggCount": 0
+    },
+    "itemList": []
+}

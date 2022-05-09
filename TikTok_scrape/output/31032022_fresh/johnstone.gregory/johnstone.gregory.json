@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6576704645049008134",
+        "shortId": "",
+        "uniqueId": "johnstone.gregory",
+        "nickname": "Greg Johnstone",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ac282ac4acc8fef434628908c076fb9~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=4bILwjpolHUXV8OfpmFrGyeuOho%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ac282ac4acc8fef434628908c076fb9~c5_720x720.jpeg?x-expires=1648850400&x-signature=wzICGexNqAFGjb9NIf%2FqaXkCz0o%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ac282ac4acc8fef434628908c076fb9~c5_100x100.jpeg?x-expires=1648850400&x-signature=Hx4hxTt1uAgtT4NdlYxwquHCpqc%3D",
+        "signature": "\ud83d\udce7MikeyMGNT@gmail.com\nEnglishman in New York\nYouTube The Bad News Guy Podcast \ud83d\udc47",
+        "createTime": 1572035135,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAe4ogj_ltk1Ao3Jm198-CG6zMvva3KjPPrhm4398lUVmqGU35MhyYz4iihCEhWM_M",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/c/JohnstoneGregory",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2100000,
+        "followingCount": 33,
+        "heart": 93400000,
+        "heartCount": 93400000,
+        "videoCount": 728,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6755352649649210374",
+        "shortId": "",
+        "uniqueId": "eliseysk8",
+        "nickname": "\ud83c\udfa9",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/87ab7f32c87dd94da5abbe73c2570572~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=tMswZ0%2F0DnJtw15mK0737cIeC00%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/87ab7f32c87dd94da5abbe73c2570572~c5_720x720.jpeg?x-expires=1650578400&x-signature=Ylcu%2BOfqWCwiMt37eOkjR4qLgvQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/87ab7f32c87dd94da5abbe73c2570572~c5_100x100.jpeg?x-expires=1650578400&x-signature=i%2FZWLnagKe7ulZIYL%2Fh019sPCy4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASwxDr-UgC8mevExf3DORTnVZjEq9CGfd6ZXL4D8eXjz8ErDG7z4ZxARyNoG2DTpa",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6,
+        "followingCount": 1,
+        "heart": 28,
+        "heartCount": 28,
+        "videoCount": 1,
+        "diggCount": 2434
+    },
+    "itemList": []
+}

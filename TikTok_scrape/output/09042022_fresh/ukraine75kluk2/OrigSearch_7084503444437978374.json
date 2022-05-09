@@ -1,0 +1,147 @@
+{
+    "id": "7084503444437978374",
+    "desc": "#duet s @@johny.mkv",
+    "createTime": 1649489499,
+    "video": {
+        "id": "7084503444437978374",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f93cbe79dcbd4d4581065e08405acb8e?x-expires=1649574000&x-signature=vyurBEvTX5r2PXmGibVgCieYwJU%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6f5a0a89cc9d4025a0e0f9403e58df9c_1649489501?x-expires=1649574000&x-signature=L38j3pDEdBCesPAcVNgedFlRLqc%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/01ccef3f0076452da7182e2daf217e89_1649489501?x-expires=1649574000&x-signature=eniLEYFf4CwVgiImRrTbmqUpJWk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d15ad838a29b9159c29dd4c079e03c36/62528c6d/video/tos/useast2a/tos-useast2a-pve-0068/ab38d17f61974b8da3baf3d034e40cb9/?a=1988&br=1640&bt=820&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thun4IDXq&l=20220410015054010113135044061F8655&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9tNzY6ZmVtPDMzNzczM0ApNTRpOmk8OWQ1NzZnZWVmaWdrYGAwcjRvYDVgLS1kMTZzc2AtNGMtLzMtYWJfL2JgX186Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d15ad838a29b9159c29dd4c079e03c36/62528c6d/video/tos/useast2a/tos-useast2a-pve-0068/ab38d17f61974b8da3baf3d034e40cb9/?a=1988&br=1640&bt=820&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thun4IDXq&l=20220410015054010113135044061F8655&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9tNzY6ZmVtPDMzNzczM0ApNTRpOmk8OWQ1NzZnZWVmaWdrYGAwcjRvYDVgLS1kMTZzc2AtNGMtLzMtYWJfL2JgX186Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6f5a0a89cc9d4025a0e0f9403e58df9c_1649489501~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=MrorhsW2HPDfeJpD4NLs7R3jaqA%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6f5a0a89cc9d4025a0e0f9403e58df9c_1649489501~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=BePzhY4nRyC5918NjEnZb4gTq4s%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f93cbe79dcbd4d4581065e08405acb8e?x-expires=1649574000&x-signature=vyurBEvTX5r2PXmGibVgCieYwJU%3D",
+        "bitrate": 840445,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7083831199759647750",
+        "uniqueId": "ukraine75kluk2",
+        "nickname": "maty",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1649638800&x-signature=TyZ%2FDw3obLFRFq895KpTNaoNK0s%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1649638800&x-signature=Uw2aCDX7JpumPz5nkNFS%2F944x3w%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=nHDbsoY3cfc6MnqD40LoakflxWY%3D",
+        "signature": "sem maty Ukraine kluk2",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxCs5gVyc3WoeSWi8qkTeB_iE3Fc_tlo0F2VDc5SCM74Oou_E0jC8dRNR2VMPQAHZ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7084503409939712773",
+        "title": "p\u016fvodn\u00ed zvuk",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7084503376280832773.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1649638800&x-signature=TyZ%2FDw3obLFRFq895KpTNaoNK0s%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1649638800&x-signature=Uw2aCDX7JpumPz5nkNFS%2F944x3w%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=nHDbsoY3cfc6MnqD40LoakflxWY%3D",
+        "authorName": "maty",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "30496",
+            "title": "duet",
+            "desc": "Use our Duet feature because two is always better than one.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 693
+    },
+    "duetInfo": {
+        "duetFromId": "7082738324363906309"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "7082738324363906309",
+            "start": 9,
+            "end": 19,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "93962864272527361",
+            "isCommerce": false,
+            "userUniqueId": "johny.mkv",
+            "secUid": "MS4wLjABAAAA6SE7cFxSS_TjPsqvLeLCXnNDf7Bhb-a98LLquj0Y4hUHBpbfTu2KXmSaM4lfddNI",
+            "subType": 1
+        },
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 5,
+            "hashtagName": "duet",
+            "hashtagId": "30496",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "TapTapNos by janmahavan",
+            "ID": "1807658"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 11,
+        "followerCount": 0,
+        "heartCount": 7,
+        "videoCount": 2,
+        "diggCount": 23,
+        "heart": 7
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Johny m\u00e1m t\u011b r\u00e1d",
+                "tak sem to skusil"
+            ]
+        }
+    ],
+    "isAd": false
+}

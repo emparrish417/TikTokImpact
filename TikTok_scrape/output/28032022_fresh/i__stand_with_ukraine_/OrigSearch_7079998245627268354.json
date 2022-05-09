@@ -1,0 +1,90 @@
+{
+    "id": "7079998245627268354",
+    "desc": "",
+    "createTime": 1648440551,
+    "video": {
+        "id": "7079998245627268354",
+        "height": 1248,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/30d580ef865346b4afc720be06a66576?x-expires=1648515600&x-signature=mbRpvP305XkEas1EoAwVk23Bg7o%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5c693f2c71664bb4a987e2db63c86791_1648440552?x-expires=1648515600&x-signature=4c06RpfxRC8cKvJxTCQjXfG7dis%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/7aef2924d64942adb7e102fdd933ecd4_1648440555?x-expires=1648515600&x-signature=tL%2BFkzuICjy12Rfxo4hdQtAcDBQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e2a97792a397500c7be98b42d30f0443/62425f04/video/tos/alisg/tos-alisg-pve-0037c001/18f0998fdebf4eb090eb3b38536189eb/?a=1988&br=1116&bt=558&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqiugDXq&l=202203281921000101130061322149A363&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajY0PDc6ZnBtPDMzODczNEApO2lmZjRnOWQ2N2U8ZWk2ZmdgZGljcjQwNi1gLS1kMS1zczM0NDZgNi4xXmMyYzE1YWM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e2a97792a397500c7be98b42d30f0443/62425f04/video/tos/alisg/tos-alisg-pve-0037c001/18f0998fdebf4eb090eb3b38536189eb/?a=1988&br=1116&bt=558&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThqiugDXq&l=202203281921000101130061322149A363&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajY0PDc6ZnBtPDMzODczNEApO2lmZjRnOWQ2N2U8ZWk2ZmdgZGljcjQwNi1gLS1kMS1zczM0NDZgNi4xXmMyYzE1YWM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/5c693f2c71664bb4a987e2db63c86791_1648440552~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=7l%2FKWvQQEaT1mKDGgog9HJIi4pw%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/5c693f2c71664bb4a987e2db63c86791_1648440552~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=tNE2XLy%2BaHljZehpwftzCnh1GYI%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/30d580ef865346b4afc720be06a66576?x-expires=1648515600&x-signature=mbRpvP305XkEas1EoAwVk23Bg7o%3D",
+        "bitrate": 571766,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6800754040998298629",
+        "uniqueId": "i__stand_with_ukraine_",
+        "nickname": "lebron and giannis fan",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0ffa7cd739442c1431cbde1045833c3c.jpeg?x-expires=1648580400&x-signature=pk9u0vXWQgVbuldU3olFq02LY7E%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/0ffa7cd739442c1431cbde1045833c3c.jpeg?x-expires=1648580400&x-signature=HqorA%2BhNpltPBydkyANsEclcliY%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/0ffa7cd739442c1431cbde1045833c3c.jpeg?x-expires=1648580400&x-signature=DPWgJeHKAu4NTQbdvkc24rh7y2U%3D",
+        "signature": "cool person",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3YkhVU_4fvLlsThmdLAd50ZLuKM5fg_VhLO_7b2L2kr8No9NrostXvVOnAiwzr6e",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7074047230021421870",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7074047252574112558.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b365e3990f3eec19d8bbda9b094af88~c5_100x100.jpeg?x-expires=1648580400&x-signature=LWey6hJHvEOziWNwMfUdLCYphdM%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b365e3990f3eec19d8bbda9b094af88~c5_720x720.jpeg?x-expires=1648580400&x-signature=tTwvd3MSdy%2FxSfDybm72e72gy3w%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3b365e3990f3eec19d8bbda9b094af88~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=FtBVOuHdCd0bJBxF2T5L9cr3FNI%3D",
+        "authorName": "winter.in.vr",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 251
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2443,
+        "followerCount": 1091,
+        "heartCount": 3407,
+        "videoCount": 150,
+        "diggCount": 4493,
+        "heart": 3407
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6920296155196851205",
+        "shortId": "",
+        "uniqueId": "no.name.guy.here",
+        "nickname": "Tozkoparan",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2c298f0ea21cc7400320b6abcefe2293~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=XCF%2BmM0C8cH3hN12tObUrQlIpA8%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2c298f0ea21cc7400320b6abcefe2293~c5_720x720.jpeg?x-expires=1650751200&x-signature=%2FK9HrdSsPSYM4b9pWdKGQcYe4V4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2c298f0ea21cc7400320b6abcefe2293~c5_100x100.jpeg?x-expires=1650751200&x-signature=FV8x%2FZY7LATV7SOZDjGJiGrA4a0%3D",
+        "signature": "Iskender",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-1l8xbyEzf9XLKFLx789QxhWvwe3u-Imwg2Y2zdj6JxSZJHBtqaxnl_K_JMJ3bop",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Home, Furniture & Appliances",
+            "categoryButton": false
+        },
+        "duetSetting": 1,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 202,
+        "followingCount": 28,
+        "heart": 676,
+        "heartCount": 676,
+        "videoCount": 42,
+        "diggCount": 0
+    },
+    "itemList": []
+}

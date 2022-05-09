@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6735538720336888837",
+        "shortId": "",
+        "uniqueId": "bohemian_76",
+        "nickname": "bohemian",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2c1546bca074aa199ae4005182f4489b~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=bzTyTiI2ts6Zkhh41jmgb%2B2kVZQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2c1546bca074aa199ae4005182f4489b~c5_720x720.jpeg?x-expires=1648850400&x-signature=ktkNfTrH3d9eqT%2BL7Zx8c3eWS2Q%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2c1546bca074aa199ae4005182f4489b~c5_100x100.jpeg?x-expires=1648850400&x-signature=StvF1%2BHKSVHaDPBq962nYkiPNn0%3D",
+        "signature": "Bo",
+        "createTime": 1575657087,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA79NYIG5UnBBrv8No5kvTDGBwxTii_WjDD74q4V8XckXDW8mQxLDvjAtJn6r6lSjf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2150,
+        "followingCount": 154,
+        "heart": 194400,
+        "heartCount": 194400,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

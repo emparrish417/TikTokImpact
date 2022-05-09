@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6851290494565172230",
+        "shortId": "",
+        "uniqueId": "artolka",
+        "nickname": "ArtOlka",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/caa9e6b516365604ac5ecc9e2e4bd356~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=ESHpVqgeCojZVliUkkoxgyohIGs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/caa9e6b516365604ac5ecc9e2e4bd356~c5_720x720.jpeg?x-expires=1649008800&x-signature=C7XXVTEx3jZBUEx%2B4crA5uL75Kw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/caa9e6b516365604ac5ecc9e2e4bd356~c5_100x100.jpeg?x-expires=1649008800&x-signature=fvtKKdFqTT7IXBSPXXpQW9NycOA%3D",
+        "signature": "Artist, Logo Designer \ud83c\uddfa\ud83c\udde6\nYouTube : ArtOlka \nIG: @art.olka\nhttp://artolka.com",
+        "createTime": 1595161807,
+        "verified": false,
+        "secUid": "MS4wLjABAAAARB4iWLMkH0I0yjCtnaw6gcqJxqWewh0VEJ1z21BqPOplkqFgkExjhHSafT2L8wfE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "http://justart.course.tilda.ws",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22,
+        "followingCount": 22,
+        "heart": 948,
+        "heartCount": 948,
+        "videoCount": 18,
+        "diggCount": 0
+    },
+    "itemList": []
+}

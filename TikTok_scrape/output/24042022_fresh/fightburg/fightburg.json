@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6995237321210938369",
+        "shortId": "",
+        "uniqueId": "fightburg",
+        "nickname": "Fight Burg",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/4a158f4a76f6db5c9bd777598f6e2b41.jpeg?x-expires=1651010400&x-signature=a7J7dma5iyTmqZ5kpifzypQRYco%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/4a158f4a76f6db5c9bd777598f6e2b41.jpeg?x-expires=1651010400&x-signature=pnpACkG5WdlU%2BgLr9C5aiInUnLg%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/4a158f4a76f6db5c9bd777598f6e2b41.jpeg?x-expires=1651010400&x-signature=FuaioN6lkpyxVwMfaUlC1Y4%2FsHs%3D",
+        "signature": "\ud83e\udd4a \ud83e\udd4a \ud83e\udd4a\n\ud83c\udde6\ud83c\uddfa \ud83c\udde6\ud83c\uddfa \ud83c\udde6\ud83c\uddfa\n\ud83e\udd4a \ud83e\udd4a \ud83e\udd4a",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFbYkDhbN6-bv2XcVMdC298dtmfv4v9BfJjUM82enRmgAbvn9NoI5kSYx8F4YBepK",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 26800,
+        "followingCount": 169,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 93,
+        "diggCount": 0
+    },
+    "itemList": []
+}

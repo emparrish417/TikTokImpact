@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7032997859054191622",
+        "shortId": "",
+        "uniqueId": "ismail_pash",
+        "nickname": "isma",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dee02ffeb01324ebac5255c38e5d7d85~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=Nob8maG4EPizJs84R%2Fp1%2FNMbgdA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dee02ffeb01324ebac5255c38e5d7d85~c5_720x720.jpeg?x-expires=1648764000&x-signature=qp1NQT%2B2nXHLM2z8bb9LIqydRks%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dee02ffeb01324ebac5255c38e5d7d85~c5_100x100.jpeg?x-expires=1648764000&x-signature=SZGUpCmG%2BR7Bc4Y9YOEguV4XDZE%3D",
+        "signature": "UK",
+        "createTime": 1637623571,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAX_BGm1ZA_-D39vlLve26zwbs6YV4e6zd_KSLT5n1JPq1tFQHZ2BT_nENOKm4FNUv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12,
+        "followingCount": 54,
+        "heart": 50,
+        "heartCount": 50,
+        "videoCount": 30,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7081333218150450182",
+        "shortId": "",
+        "uniqueId": "radionorth",
+        "nickname": "RadioNorth",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce7e2720395f5b690b1c3f50e3069f0a~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=J4UM%2FQ2KDOj%2BuNAnEw5UigKgICU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce7e2720395f5b690b1c3f50e3069f0a~c5_720x720.jpeg?x-expires=1650412800&x-signature=4juEu%2F3DskjoFcr3E2IiP3%2F5wU4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce7e2720395f5b690b1c3f50e3069f0a~c5_100x100.jpeg?x-expires=1650412800&x-signature=HFlV8bXESi1ktgZMnxUyGxlegfs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUHjEDLPVhv9C5HrNSToo5nKSqlUCp_N_e7DvIMqQSFn_OHon2EIYaX8Xg_wQWTHC",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10400,
+        "followingCount": 28,
+        "heart": 214400,
+        "heartCount": 214400,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

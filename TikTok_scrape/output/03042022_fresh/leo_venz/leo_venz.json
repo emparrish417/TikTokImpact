@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6940294859828626438",
+        "shortId": "",
+        "uniqueId": "leo_venz",
+        "nickname": "user6133496459783",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/616e93c1d866f1c97d8f158292090132~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=mo2S18q2xltE%2FuXSGgjeKui0rWA%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/616e93c1d866f1c97d8f158292090132~c5_720x720.jpeg?x-expires=1649116800&x-signature=xHyrOcu1JlBwPk5Gh7Xn2Rz9%2Fnc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/616e93c1d866f1c97d8f158292090132~c5_100x100.jpeg?x-expires=1649116800&x-signature=NOrhlh1Lea3FpW23oNKIfhVjpbg%3D",
+        "signature": "",
+        "createTime": 1630690953,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIGQADi1J_8Yz9qxfELXUFvLQtqWvrj9zP_pP5FI2352vDdKZFt3ghJ-GrEOKynT3",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 102,
+        "followingCount": 26,
+        "heart": 429,
+        "heartCount": 429,
+        "videoCount": 36,
+        "diggCount": 0
+    },
+    "itemList": []
+}

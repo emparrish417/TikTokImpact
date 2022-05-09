@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6875320195528197126",
+        "shortId": "",
+        "uniqueId": "ismayilonur",
+        "nickname": "Onur",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1678545160631297.jpeg?x-expires=1650412800&x-signature=JgiavBoItbjQX%2FnJ4HCbehrqJXI%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1678545160631297.jpeg?x-expires=1650412800&x-signature=66j9QPZukM%2F1Y0aTl0tSgSuoiY8%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1678545160631297.jpeg?x-expires=1650412800&x-signature=NwyY8bXJT4d2dHGdARNXAV8UlRM%3D",
+        "signature": "Onur",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXtSCPrPAcD9qi-qQEFtqpmXBcfccMnWwup_b2sFL2ITWImCVuLL-K1Fj7F8TCH8a",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15900,
+        "followingCount": 1021,
+        "heart": 238100,
+        "heartCount": 238100,
+        "videoCount": 73,
+        "diggCount": 1283
+    },
+    "itemList": []
+}

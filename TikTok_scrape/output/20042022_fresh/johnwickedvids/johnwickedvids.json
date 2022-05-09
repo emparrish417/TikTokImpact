@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7086920261200528430",
+        "shortId": "",
+        "uniqueId": "johnwickedvids",
+        "nickname": "JOHN WICKED VIDS",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3f59ab76b88bee68476534ea58007b7c~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=ybjsBeRwzVbCR%2FlBOfRCDrGwSZI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3f59ab76b88bee68476534ea58007b7c~c5_720x720.jpeg?x-expires=1650664800&x-signature=5FVYsnk1XAA99KkbYWWbw9h9CWk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3f59ab76b88bee68476534ea58007b7c~c5_100x100.jpeg?x-expires=1650664800&x-signature=Bk6lryyZU53PYrOR8Dl77KunXzY%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAANHCEwXuDFfsM6qKcZq4IVwk8Kf7MD_UoX4lB7GtSJ3mH4RVTnnVn7oe2VIfx0QHj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 162,
+        "followingCount": 0,
+        "heart": 1489,
+        "heartCount": 1489,
+        "videoCount": 19,
+        "diggCount": 0
+    },
+    "itemList": []
+}

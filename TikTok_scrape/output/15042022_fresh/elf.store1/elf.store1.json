@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6816312878237549574",
+        "shortId": "",
+        "uniqueId": "elf.store1",
+        "nickname": "Elf Store",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0e96d2f3feacb308fd65f80317bccd14~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=74dDJGPF14paC3tz%2BONJabQSvW8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0e96d2f3feacb308fd65f80317bccd14~c5_720x720.jpeg?x-expires=1650240000&x-signature=KT0hUN3%2B0KdYaOIgqlsOQXnaKjA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0e96d2f3feacb308fd65f80317bccd14~c5_100x100.jpeg?x-expires=1650240000&x-signature=8uVCUFqT3bG2wmlSA%2BrA1D830EM%3D",
+        "signature": "\u0415\u0441\u043b\u0438 \u0442\u044b \u044d\u0442\u043e \u0432\u0438\u0434\u0438\u0448\u044c \u0442\u043e \u044f \u0442\u0435\u0431\u044f \u0443\u0432\u0438\u0434\u0435\u043b\n\nhttps://t.me/chmoksmoke",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIxSaLDDd0WOH8oPcJZByIKHO3iQ6_RlRpX8ww7axjGGnaG7QKYHp7a5XdEg93H4P",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 233,
+        "followingCount": 26,
+        "heart": 2529,
+        "heartCount": 2529,
+        "videoCount": 23,
+        "diggCount": 0
+    },
+    "itemList": []
+}

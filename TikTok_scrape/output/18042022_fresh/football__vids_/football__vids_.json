@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6931382959619163141",
+        "shortId": "",
+        "uniqueId": "football__vids_",
+        "nickname": "Football",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad085c99333b54de11afbcc1f6a49573~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=PRQfdrR7jaQNgqvrNyw2vCmcBqU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad085c99333b54de11afbcc1f6a49573~c5_720x720.jpeg?x-expires=1650481200&x-signature=9s9vzqrM17WqYX742BMk3PawE7s%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad085c99333b54de11afbcc1f6a49573~c5_100x100.jpeg?x-expires=1650481200&x-signature=3AhsuFGTDNTRWaauGXiF%2Ff6BFyY%3D",
+        "signature": "Hi",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARd1umEbrBI4rNS6vfp04BNsqLfPXKDvWeheyPDV7yXxg8s1aBBoWZ3tRrakEkD0M",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2,
+        "followingCount": 4,
+        "heart": 1,
+        "heartCount": 1,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

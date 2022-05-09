@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6758428830166549509",
+        "shortId": "",
+        "uniqueId": "sonze1",
+        "nickname": "sonze1",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f838017634f41f6c1b2d4f76e39fac64~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=GVFKrALxl5JAZqOlNQcUDMIYHz8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f838017634f41f6c1b2d4f76e39fac64~c5_720x720.jpeg?x-expires=1649800800&x-signature=ve3ZEwPGxXGENIA0c6Mp1L8RgWw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f838017634f41f6c1b2d4f76e39fac64~c5_100x100.jpeg?x-expires=1649800800&x-signature=8Sya%2FMgvm5fZeM9wKtgUWAhEU7Q%3D",
+        "signature": "@sonze1 instagram",
+        "createTime": 1573540659,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiPNsjuPwM5ZJEHXarCNY226lcdJN6pkxoLCa45YxkQRUNU7pCwAOKB5m0cyb-HSC",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 247,
+        "followingCount": 77,
+        "heart": 2437,
+        "heartCount": 2437,
+        "videoCount": 285,
+        "diggCount": 0
+    },
+    "itemList": []
+}

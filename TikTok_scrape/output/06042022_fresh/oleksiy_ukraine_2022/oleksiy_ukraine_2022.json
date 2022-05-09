@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7007098880777946117",
+        "shortId": "",
+        "uniqueId": "oleksiy_ukraine_2022",
+        "nickname": "oleksiy",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a75d637f5e292c563cda6d7360930461~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=zTVMlT8XapDD6sUTz6ECkX5Cgm8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a75d637f5e292c563cda6d7360930461~c5_720x720.jpeg?x-expires=1649372400&x-signature=dtCXd%2FYU2%2F0utxwa4ON3ZPyEys8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a75d637f5e292c563cda6d7360930461~c5_100x100.jpeg?x-expires=1649372400&x-signature=m1MXVff4ChMYPWIgDRk22bGaIGY%3D",
+        "signature": "\u0412\u0441\u0435\u043e\u043a",
+        "createTime": 1631467444,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIkn0a_xgbbbMbNfD-tzOPX3cExpaIIj3kLjBJ_2pAZmTcL4IbvHSRQIGv7FExXYU",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 39,
+        "followingCount": 132,
+        "heart": 321,
+        "heartCount": 321,
+        "videoCount": 35,
+        "diggCount": 0
+    },
+    "itemList": []
+}

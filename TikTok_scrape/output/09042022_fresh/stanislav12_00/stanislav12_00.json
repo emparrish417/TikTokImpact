@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7083549926840173574",
+        "shortId": "",
+        "uniqueId": "stanislav12_00",
+        "nickname": "Stanislav  Smolnitskyy",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/81e48f999bb6d2a20450ddacceb8dc2e~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=eChAtmRi2w9kTRt3E%2BjSKLnoTKA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/81e48f999bb6d2a20450ddacceb8dc2e~c5_720x720.jpeg?x-expires=1649638800&x-signature=rZBVHizfz6jdvwfcJjd42Gdo35w%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/81e48f999bb6d2a20450ddacceb8dc2e~c5_100x100.jpeg?x-expires=1649638800&x-signature=sFu%2F%2B5tul59wrVDcPoKN5rT%2FTkY%3D",
+        "signature": "",
+        "createTime": 1649267567,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAraILstBsXgIVTFgFZMdtFGKkWq-UaJXVM8Uf9RnecHa_JvXdqvCySlHhmwSzRI1s",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 19,
+        "followingCount": 14,
+        "heart": 138,
+        "heartCount": 138,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

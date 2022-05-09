@@ -1,0 +1,97 @@
+{
+    "id": "7082520219771555114",
+    "desc": "lol weird",
+    "createTime": 1649027742,
+    "video": {
+        "id": "7082520219771555114",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0812728297874ee8a27844f6d27b0e4b?x-expires=1649131200&x-signature=ZkQPLruvbO59c7nrvEQRxpaGmdM%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8bc2d2ac04704010a053efbc3a03a036_1649027743?x-expires=1649131200&x-signature=YZ3vUf%2FCtL%2FBFNPhXMAsbLzvMhQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/532c25374ae745a68b808ea06f9aebda_1649027743?x-expires=1649131200&x-signature=yCqoyghKZYtdAvNw64HcrKkylyg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5b0333780f96352ff5cb5706796f225c/624bc0ee/video/tos/useast5/tos-useast5-pve-0068-tx/81a51828a65b45c9abf106a2bb39eea1/?a=1988&br=2018&bt=1009&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9-eqDXq&l=202204042209030101130061561A694B2A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w7bTM6Zjk1PDMzZzczNEApMzppOTY3ZzwzN2U4NmZnO2djYmpicjRnaTJgLS1kMS9zczIyXzA1NTVfM14vNDZiNDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5b0333780f96352ff5cb5706796f225c/624bc0ee/video/tos/useast5/tos-useast5-pve-0068-tx/81a51828a65b45c9abf106a2bb39eea1/?a=1988&br=2018&bt=1009&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th9-eqDXq&l=202204042209030101130061561A694B2A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2w7bTM6Zjk1PDMzZzczNEApMzppOTY3ZzwzN2U4NmZnO2djYmpicjRnaTJgLS1kMS9zczIyXzA1NTVfM14vNDZiNDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8bc2d2ac04704010a053efbc3a03a036_1649027743~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=rP4eEK6JhQbxSps5suwjPH5PNEU%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8bc2d2ac04704010a053efbc3a03a036_1649027743~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=Puuzngp6saOlBJ%2BJ9A2htdbAkA4%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0812728297874ee8a27844f6d27b0e4b?x-expires=1649131200&x-signature=ZkQPLruvbO59c7nrvEQRxpaGmdM%3D",
+        "bitrate": 1033322,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6892055324669248518",
+        "uniqueId": "roryireland86",
+        "nickname": "JoJo",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_100x100.jpeg?x-expires=1649196000&x-signature=y%2BnaJKMJcukW8b%2BmCQKMDWwhEdU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_720x720.jpeg?x-expires=1649196000&x-signature=E7XyWN2jIR%2B34jwDsCSc%2FDJ7Lqw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a5997f352a6b20dc14e1b682a5890456~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=Mr0f0RDIL02HXBOXiod5GjK2IUI%3D",
+        "signature": "happily married mom of 4 #Canna-Parent World Wide",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKPwwSOqgGLqBR86w5iJVAoe-AOddIfhen-r6uz3Tx-HeIYU4hPdq2jPxgSPzk7cy",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7066133025066616833",
+        "title": "Captain (whistle) [Restricted Remix]",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/762266c11e97422eb5b70dbcbc04b5e9",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/ab8314c59ca44e2c85fc04a3e9cf13d8.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/ab8314c59ca44e2c85fc04a3e9cf13d8.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/ab8314c59ca44e2c85fc04a3e9cf13d8.jpeg",
+        "authorName": "Nutcase22",
+        "original": false,
+        "duration": 60,
+        "album": "Captain (whistle) [Restricted Remix]"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 173
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Rotoscope",
+            "ID": "1818139"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 9967,
+        "followerCount": 1570,
+        "heartCount": 2084,
+        "videoCount": 376,
+        "diggCount": 21100,
+        "heart": 2084
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false,
+    "maskType": 4
+}

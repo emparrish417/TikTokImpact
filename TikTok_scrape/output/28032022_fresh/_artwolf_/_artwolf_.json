@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6856683624424555526",
+        "shortId": "",
+        "uniqueId": "_artwolf_",
+        "nickname": "Artem Timarev",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/712225ff41ccfff20ab365d74ec90385~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=mCKlPPk%2Bmb9Ht8usf5f2JNzgI2k%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/712225ff41ccfff20ab365d74ec90385~c5_720x720.jpeg?x-expires=1648580400&x-signature=QssqPf%2FoqOOrzwXfn3KZ7lXsnEc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/712225ff41ccfff20ab365d74ec90385~c5_100x100.jpeg?x-expires=1648580400&x-signature=jAyRNjsYAUkhX5NESC4nQg1M2rs%3D",
+        "signature": "",
+        "createTime": 1596446534,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsM3jdb60u-cw2c7IYjntAtOvXImgo5swcj-7TMvwVsHYZqKL1OVB3dBq1x5ipBbY",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14,
+        "followingCount": 5,
+        "heart": 71,
+        "heartCount": 71,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

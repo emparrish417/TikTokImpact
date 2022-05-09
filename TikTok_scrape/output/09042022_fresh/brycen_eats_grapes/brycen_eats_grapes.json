@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7032818868306134021",
+        "shortId": "",
+        "uniqueId": "brycen_eats_grapes",
+        "nickname": "Brycen",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d8abaa4a2dca44892f4e54ec8829c097~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=ejVmyAM%2BkDsV8j%2B9t1r0YO%2FShlQ%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d8abaa4a2dca44892f4e54ec8829c097~c5_720x720.jpeg?x-expires=1649638800&x-signature=jMsjrwN%2F7w4cNYTYp2GRzMEujCk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d8abaa4a2dca44892f4e54ec8829c097~c5_100x100.jpeg?x-expires=1649638800&x-signature=73HiBtH8bt9tBMSGjTReLdOSLNs%3D",
+        "signature": "Got",
+        "createTime": 1647401336,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZvnzPKdqYBdwh_IHt9B9zQ2Xk4nXQsDcgJF4cggpPlWSpFyYvdQ_HuHNaxci8Ltq",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 146,
+        "followingCount": 673,
+        "heart": 569,
+        "heartCount": 569,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

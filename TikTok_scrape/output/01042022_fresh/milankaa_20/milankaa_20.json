@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6933239268572595206",
+        "shortId": "",
+        "uniqueId": "milankaa_20",
+        "nickname": "Milankaa_20",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e63b59402e62ac1111126552828786e~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=P%2BUSriFV3j6y2XbtJXtPyE2FUQs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e63b59402e62ac1111126552828786e~c5_720x720.jpeg?x-expires=1648940400&x-signature=E2LKP9ujf04R38yt0gDyT88j1NE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e63b59402e62ac1111126552828786e~c5_100x100.jpeg?x-expires=1648940400&x-signature=WiwFePjmRBwhVYqngisSCexjaIg%3D",
+        "signature": "Instagram milankaa_20",
+        "createTime": 1625841397,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjV_YkUyxeTH6DAFOYe9rgQzCsG_keWQlAmDqWqjln8xaiAMr0R6HqXVc-8oWwBLk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "milankaa_20",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": "7081764305871309574"
+    },
+    "stats": {
+        "followerCount": 146000,
+        "followingCount": 2367,
+        "heart": 695700,
+        "heartCount": 695700,
+        "videoCount": 129,
+        "diggCount": 0
+    },
+    "itemList": []
+}

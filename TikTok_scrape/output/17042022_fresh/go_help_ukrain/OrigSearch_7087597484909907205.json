@@ -1,0 +1,99 @@
+{
+    "id": "7087597484909907205",
+    "desc": "",
+    "createTime": 1650209886,
+    "video": {
+        "id": "7087597484909907205",
+        "height": 1024,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/37c0158631484672b03d3c5c15ee50af?x-expires=1650261600&x-signature=swC2GzHUK%2FmHphd0hAoTGBHmiDw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fff0252da97147faa08ca2a727c5c22b_1650209887?x-expires=1650261600&x-signature=3SYGGWbnzov008dNEoNwUO52hOg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6ccfcc2668fe4533955e02c053f74efc_1650209888?x-expires=1650261600&x-signature=o9MzGOnQk9BvEYjGpy%2F7e6GBK%2Bg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2e8d722252c55955c12cd97cb58e57fc/625d030c/video/tos/useast2a/tos-useast2a-ve-0068c001/1e6f40a9099543d78deb58d9f66a5f15/?a=1988&br=1568&bt=784&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZtLuwwe2Nwzufl7Gb&l=2022041800193401011313519318647D1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzs6eDY6Zm42PDMzNzczM0ApNWU8NmZoOWQ3NzZkZTpnOWdhM2JucjQwNWJgLS1kMTZzczFjMTZgYjZeNi8tLTViYF46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2e8d722252c55955c12cd97cb58e57fc/625d030c/video/tos/useast2a/tos-useast2a-ve-0068c001/1e6f40a9099543d78deb58d9f66a5f15/?a=1988&br=1568&bt=784&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZtLuwwe2Nwzufl7Gb&l=2022041800193401011313519318647D1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzs6eDY6Zm42PDMzNzczM0ApNWU8NmZoOWQ3NzZkZTpnOWdhM2JucjQwNWJgLS1kMTZzczFjMTZgYjZeNi8tLTViYF46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fff0252da97147faa08ca2a727c5c22b_1650209887~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=7ULrOPMrSYXGikyk%2BnsUNND8eBI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fff0252da97147faa08ca2a727c5c22b_1650209887~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=WBWZz8XUvJ58PV3CnD3AfN5PonY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/37c0158631484672b03d3c5c15ee50af?x-expires=1650261600&x-signature=swC2GzHUK%2FmHphd0hAoTGBHmiDw%3D",
+        "bitrate": 802821,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910915669673329669",
+        "uniqueId": "go_help_ukrain",
+        "nickname": "\u2728Lukas\u2728",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e1006d582c1b5beafd0532b4f0b307ee~c5_100x100.jpeg?x-expires=1650412800&x-signature=A%2FQkQKa1IMaJXfqB2exY2S8bMXc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e1006d582c1b5beafd0532b4f0b307ee~c5_720x720.jpeg?x-expires=1650412800&x-signature=Nu6cBLU2Ym8xpMw3hHGnDsNY%2BrY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e1006d582c1b5beafd0532b4f0b307ee~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=XOtdXZchMCgyUEfVnv5M%2FPQmGSg%3D",
+        "signature": "Bio tiktok\u2728: Pseudo Fortnite ZFR_equality \nLukas\ud83e\udd19",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYPfmU4mUF4mtAa5rWP6XzJDXlb0wigSgjH9luyBUghz2uBXIuHBYEUFXxhHkGfSR",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6761267241922070529",
+        "title": "ja ljublju tebja davno",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/47b2937cb21f4dcda12482cb26e17ef6",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/63046ec73d564627bec135f311826b21.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/63046ec73d564627bec135f311826b21.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/63046ec73d564627bec135f311826b21.jpeg",
+        "authorName": "Rauf & Faik",
+        "original": false,
+        "duration": 60,
+        "album": "ja ljublju tebja davno"
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 219
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 475,
+        "followerCount": 224,
+        "heartCount": 11,
+        "videoCount": 2,
+        "diggCount": 1301,
+        "heart": 11
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "STOP",
+                "WAR PLEASE"
+            ]
+        }
+    ],
+    "isAd": false
+}

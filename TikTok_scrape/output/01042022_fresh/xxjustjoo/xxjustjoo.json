@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7052405515310056454",
+        "shortId": "",
+        "uniqueId": "xxjustjoo",
+        "nickname": "Ireland/Jo",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a69ecc8ae03b9a5562de8378c625e747~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=aSYEGZ%2FRrMCZeZTYZzFRTNPKDcw%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a69ecc8ae03b9a5562de8378c625e747~c5_720x720.jpeg?x-expires=1648940400&x-signature=CHlcirljHG7rWlTsDpuZdiSnbo4%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a69ecc8ae03b9a5562de8378c625e747~c5_100x100.jpeg?x-expires=1648940400&x-signature=BsE16Q34BgoaQbApXOZcCd9IpD0%3D",
+        "signature": "\ud83d\udd7a",
+        "createTime": 1642016254,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAimRP51u9a3oWGl1bvD57YkmYO4uWToDo1ET4__6NJKXF99DTH8dO5XA-dwhRFeYT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 15,
+        "followingCount": 565,
+        "heart": 0,
+        "heartCount": 0,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

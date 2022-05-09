@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6578611439756460038",
+        "shortId": "",
+        "uniqueId": "cbenne803",
+        "nickname": "Colby Bennett",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efd5fb6fb1f4dca2f01eea400b84d1e2~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=i%2BHP4lT9yaMUZ0PRHrFN1WM8a5k%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efd5fb6fb1f4dca2f01eea400b84d1e2~c5_720x720.jpeg?x-expires=1648764000&x-signature=uZ%2FRPfjVvYXSYKOdxuwhZoszYM4%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/efd5fb6fb1f4dca2f01eea400b84d1e2~c5_100x100.jpeg?x-expires=1648764000&x-signature=y5ih%2FhWbhHCvPk02Dilmyc7Xg8Y%3D",
+        "signature": "",
+        "createTime": 1536945071,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAY0GcFhtGAJ1eBl3d6yaVV6ADEjywzsNefMW5DrQMmZPkQFpL-ya3GAF-5M7VDWLk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6042,
+        "followingCount": 1552,
+        "heart": 313800,
+        "heartCount": 313800,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

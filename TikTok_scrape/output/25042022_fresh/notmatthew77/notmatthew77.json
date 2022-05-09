@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6944938513947214854",
+        "shortId": "",
+        "uniqueId": "notmatthew77",
+        "nickname": "Matthew",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/ce26b41fe6df0e74d412b1bafdf9bc8c.jpeg?x-expires=1651086000&x-signature=66gLcCL4q%2FMCNRBn05at0j1WOr8%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/ce26b41fe6df0e74d412b1bafdf9bc8c.jpeg?x-expires=1651086000&x-signature=bIj0SkP1U%2BsNlRAdF%2F%2BbBmF1HDo%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ce26b41fe6df0e74d412b1bafdf9bc8c.jpeg?x-expires=1651086000&x-signature=rBh6tFsOcywwbxKDXMa%2FVDKy%2B%2Bs%3D",
+        "signature": "Bro",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZdNGvweFx2jvFKearzNF9XwaazYO3z-c0DS2eLS_-DXbxZCeOh_QqyCMFRvKccxt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11700,
+        "followingCount": 1973,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

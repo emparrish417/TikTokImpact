@@ -1,0 +1,98 @@
+{
+    "id": "7081311111185747206",
+    "desc": "",
+    "createTime": 1648746224,
+    "video": {
+        "id": "7081311111185747206",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8245cecd34c64906bcf83d9eefd3e048?x-expires=1648785600&x-signature=qsKZPM864R8uVmU9G7rhpguF%2B%2Fg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/32a900b0f05c41898adf341bfff50a27_1648746226?x-expires=1648785600&x-signature=80Iadi%2BWROSrdnY5R0ybxgPsJIA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ab79cde383414b77a154cc5aed091b3e_1648746226?x-expires=1648785600&x-signature=%2BH%2BJOWtM1HBLfL%2BVahcGOVgCY0Q%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/49ca34e02b71fee2eddd7737f28791ab/62468334/video/tos/useast2a/tos-useast2a-ve-0068c004/6055d55e1da846bf83e831b7400db7c3/?a=1988&br=5174&bt=2587&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThE~0zDXq&l=20220331224429010113135077128973AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo5ZTY6Zml3PDMzNzczM0ApNzloM2kzZGU0NzZpOWQ0Z2dwZ2NhcjRfcS9gLS1kMTZzcy1fYi0zX141LjMvYC9eXl46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/49ca34e02b71fee2eddd7737f28791ab/62468334/video/tos/useast2a/tos-useast2a-ve-0068c004/6055d55e1da846bf83e831b7400db7c3/?a=1988&br=5174&bt=2587&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThE~0zDXq&l=20220331224429010113135077128973AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo5ZTY6Zml3PDMzNzczM0ApNzloM2kzZGU0NzZpOWQ0Z2dwZ2NhcjRfcS9gLS1kMTZzcy1fYi0zX141LjMvYC9eXl46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/32a900b0f05c41898adf341bfff50a27_1648746226~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=YduYS2md8B%2BEm2CoCpJcVvxzHNI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/32a900b0f05c41898adf341bfff50a27_1648746226~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=XX6vMskYd6J5Kr94VLRwnhJEz9Y%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8245cecd34c64906bcf83d9eefd3e048?x-expires=1648785600&x-signature=qsKZPM864R8uVmU9G7rhpguF%2B%2Fg%3D",
+        "bitrate": 2649311,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6893498289565959174",
+        "uniqueId": "zelekplmc.to.nark0man",
+        "nickname": "Solidarni z Ukrain\u0105",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4bc91c287fcc386aa67c9dc20faf971~c5_100x100.jpeg?x-expires=1648850400&x-signature=IO%2B67CA%2FCJe6P%2BxQidJxSRtakKs%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4bc91c287fcc386aa67c9dc20faf971~c5_720x720.jpeg?x-expires=1648850400&x-signature=QrRE6SLt%2BLtuOVWnX%2Fqu9OnR14s%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f4bc91c287fcc386aa67c9dc20faf971~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=zijbNELqevhXFNh%2BovPXu%2Ftd%2F7w%3D",
+        "signature": "Bloody 70 najlepsza mycha ez",
+        "verified": false,
+        "secUid": "MS4wLjABAAAApbyQjBynWnAvoW9xjQ3SwFJk9u_5jVmCfjxYQjFkhjEj5vgeALri3NBlQ4Gd6hOB",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7077962611727715078",
+        "title": "ROBI WRA\u017bENIE",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7077960589426887429.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5c77a0101fc7f004174638de9be2df1c~c5_100x100.jpeg?x-expires=1648850400&x-signature=vSMii8GFhhZMjPz2P8j56UbA0HA%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5c77a0101fc7f004174638de9be2df1c~c5_720x720.jpeg?x-expires=1648850400&x-signature=s%2FlkyKSCeTW4xX%2FPHMp%2BtjRueHk%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5c77a0101fc7f004174638de9be2df1c~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=4qOw5icwE8UrmwehiL%2BCxqyk0Y4%3D",
+        "authorName": "\ud83d\udc79\ud83d\udc79\ud83d\udc79",
+        "original": true,
+        "duration": 28,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 28,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 928
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2545,
+        "followerCount": 1222,
+        "heartCount": 1850,
+        "videoCount": 269,
+        "diggCount": 13100,
+        "heart": 1850
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Czy wiedzia\u0142e\u015b \u017ce na bed wars jest bed wars i statystyki \ud83d\udc63\ud83d\udc63"
+            ]
+        }
+    ],
+    "isAd": false
+}

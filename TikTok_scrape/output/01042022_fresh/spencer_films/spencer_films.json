@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6799121274997392389",
+        "shortId": "",
+        "uniqueId": "spencer_films",
+        "nickname": "Spencer",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d1407559d8ef92d81b178f33384cb77a~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=KAY70rPBYxidGq5N2SG7z6ttvAM%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d1407559d8ef92d81b178f33384cb77a~c5_720x720.jpeg?x-expires=1648940400&x-signature=BdblaZk%2FGQT2HwM1J0zVEzP5RZ0%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d1407559d8ef92d81b178f33384cb77a~c5_100x100.jpeg?x-expires=1648940400&x-signature=S%2BRTnYAnbHOGBtw2iACYvlZPwVk%3D",
+        "signature": "Just trying to make your day better\n\ud83d\udea8 Check out my YouTube \ud83d\udea8\nlink in bio",
+        "createTime": 1583018473,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAc9SkwEBvk0atJaSTdfTnaO22tTqkXZbvRznA7BDKQ0TwvwNt6H3b86fvuyJj-_xQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.facebook.com/donate/1227706244425680/?fundraiser_source=external_url",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 22600,
+        "followingCount": 479,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 581,
+        "diggCount": 0
+    },
+    "itemList": []
+}

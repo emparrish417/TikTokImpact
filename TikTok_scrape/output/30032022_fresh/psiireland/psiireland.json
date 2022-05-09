@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6857162018165163013",
+        "shortId": "",
+        "uniqueId": "psiireland",
+        "nickname": "PSI Ireland",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/66c9333e0541292ed861dfb3f260575a~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=NZczcNVnp1%2FIpK2uSRFY6Rk%2BeQ0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/66c9333e0541292ed861dfb3f260575a~c5_720x720.jpeg?x-expires=1648764000&x-signature=%2FfNdXNrKpmMoFuOrcQC6o8bdTKY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/66c9333e0541292ed861dfb3f260575a~c5_100x100.jpeg?x-expires=1648764000&x-signature=5nJ3U090yj48QFswHJNHPbxtuLQ%3D",
+        "signature": "Folklore, Mythology, History and Paranormal combined all into one unique subject",
+        "createTime": 1596528749,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5p8LNux_xWAJjBMc1lBtQqdKgdFKF9ds1_uFJVGx7chC9J55KZSv7dco8ZcMjW1B",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "PSIIRELAND.COM",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 45900,
+        "followingCount": 0,
+        "heart": 237400,
+        "heartCount": 237400,
+        "videoCount": 310,
+        "diggCount": 0
+    },
+    "itemList": []
+}

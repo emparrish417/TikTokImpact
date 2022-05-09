@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6773960653650625541",
+        "shortId": "",
+        "uniqueId": "olgakrasavitskaya",
+        "nickname": "Olga Krasavitskaya",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655471100115973~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=6A9vJcKE5VVFGvE7Ow6qU0u3ITg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655471100115973~c5_720x720.jpeg?x-expires=1648580400&x-signature=Xkj2luDFEOO3gGkEdolzScQNGsw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655471100115973~c5_100x100.jpeg?x-expires=1648580400&x-signature=LFUDWbYmwz%2F1xr0SBt3WVocVrcg%3D",
+        "signature": "@krasavitskaya",
+        "createTime": 1578780269,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWMYF4OHjglsjoafygq3ZYdHdKrVV4B-27byC6PzocGV7T_WUkqdScrvTbhjCts8H",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 50,
+        "followingCount": 291,
+        "heart": 536,
+        "heartCount": 536,
+        "videoCount": 29,
+        "diggCount": 0
+    },
+    "itemList": []
+}

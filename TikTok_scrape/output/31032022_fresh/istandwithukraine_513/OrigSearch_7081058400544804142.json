@@ -1,0 +1,98 @@
+{
+    "id": "7081058400544804142",
+    "desc": "",
+    "createTime": 1648687386,
+    "video": {
+        "id": "7081058400544804142",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/630d709d18a4499d924fc494e56d031d?x-expires=1648785600&x-signature=aWL4BaYzZ0qF%2FhZv9cgLuiXb84E%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/13502a183e8644049bc88e7e99c96c95_1648687386?x-expires=1648785600&x-signature=tQXVN5xfGtBuqGJU%2Be%2Fw3Z84Le8%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a09c7a42f4014b478361eed2ac6f8cb9_1648687387?x-expires=1648785600&x-signature=9TRzdC0p9CsqWvqtKozSE55Te5U%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5f0fec10a1a4b5fd3cfdcccedafd82bc/62468337/video/tos/useast5/tos-useast5-pve-0068-tx/b098f368a823483a80a4bbc1aeae9ccc/?a=1988&br=350&bt=175&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThE~0zDXq&l=20220331224429010113135077128973AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JzN2k6ZjtpPDMzZzczNEApNzloN2Y1M2U3Nzw3Zjo8aWcvL25scjRnZS9gLS1kMS9zcy1gNGMxX2NiMTE0MDItLzA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5f0fec10a1a4b5fd3cfdcccedafd82bc/62468337/video/tos/useast5/tos-useast5-pve-0068-tx/b098f368a823483a80a4bbc1aeae9ccc/?a=1988&br=350&bt=175&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThE~0zDXq&l=20220331224429010113135077128973AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JzN2k6ZjtpPDMzZzczNEApNzloN2Y1M2U3Nzw3Zjo8aWcvL25scjRnZS9gLS1kMS9zcy1gNGMxX2NiMTE0MDItLzA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/13502a183e8644049bc88e7e99c96c95_1648687386~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=3wkvEXMPw%2B0HykxxMByh%2BCzbRzg%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/13502a183e8644049bc88e7e99c96c95_1648687386~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=O2kD35zsHZu4pkcIkU7QdFcbCkM%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/630d709d18a4499d924fc494e56d031d?x-expires=1648785600&x-signature=aWL4BaYzZ0qF%2FhZv9cgLuiXb84E%3D",
+        "bitrate": 180006,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6929292593664132102",
+        "uniqueId": "istandwithukraine_513",
+        "nickname": "Loui da duck",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/79ad418b96b228f95deb4613db9b2af0~c5_100x100.jpeg?x-expires=1648850400&x-signature=o0lAcHhri3PpgesKAOeKjLRL%2FCI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/79ad418b96b228f95deb4613db9b2af0~c5_720x720.jpeg?x-expires=1648850400&x-signature=%2BVa%2FqcwHB82ZvnSCkZuXYRpMiLY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/79ad418b96b228f95deb4613db9b2af0~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=HTFhfXYQXds49X8tsVesjk1KXjM%3D",
+        "signature": "\ud83c\udf08Gods promise https://youtu.be/bBfWONpNkto",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA68wYUOAoWarXjZrx7qVvbZxpTzyY7yeKn25ELZyHQViQ8G0pbYWojr3oWzZm0HrV",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7014469237838547718",
+        "title": "Best friends",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7014469321283898118.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/44d24e72c20558513fd21512e3f7f2a0~c5_100x100.jpeg?x-expires=1648850400&x-signature=VhhrBcbdP2RQo9jr3VqEcsrn0Go%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/44d24e72c20558513fd21512e3f7f2a0~c5_720x720.jpeg?x-expires=1648850400&x-signature=8s19ueWNZ%2Fd6vbnncR8z24hCowU%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/44d24e72c20558513fd21512e3f7f2a0~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=QFJDh%2BQvEcnW%2BM6FtVLtFP%2Box8Q%3D",
+        "authorName": "Sad/Pain",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 111
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 709,
+        "followerCount": 199,
+        "heartCount": 1379,
+        "videoCount": 97,
+        "diggCount": 13000,
+        "heart": 1379
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ufffc I would\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a"
+            ]
+        }
+    ],
+    "isAd": false
+}

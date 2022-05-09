@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "7071343294370202629",
+        "shortId": "",
+        "uniqueId": "jawwelin",
+        "nickname": "girl from Ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/90f26ec8d60567894bc904d969f324d4~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=SxYtbyZpAnJNenVV3ELn8iQYlhQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/90f26ec8d60567894bc904d969f324d4~c5_720x720.jpeg?x-expires=1651086000&x-signature=2xezTwUIqpQ7HPfKWDXkLm0dVoQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/90f26ec8d60567894bc904d969f324d4~c5_100x100.jpeg?x-expires=1651086000&x-signature=NleS3yu7fKD3MFlELRfZts9X1o0%3D",
+        "signature": "ukrained.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAdPwb9KJa4zGdJlWzINViBamu6_K4rZkDWvxE_mrP2SaqS_P5kv-dyabBzvn52Mwq",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.tiktok.com/@bbadsadcatt",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 32100,
+        "followingCount": 1,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

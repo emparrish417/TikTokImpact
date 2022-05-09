@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6928367742362780677",
+        "shortId": "",
+        "uniqueId": "proba_pera7",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u0456\u0441\u0442\u043a\u0430\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55139ddc6f7478e0ca8b1fbb70fade60~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=vZ%2FcWecfz%2FkJJ3eEmtzj8n5iJ4c%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55139ddc6f7478e0ca8b1fbb70fade60~c5_720x720.jpeg?x-expires=1648850400&x-signature=G7%2B5pm60ifG%2BNqiYvwTXn5jSyRQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55139ddc6f7478e0ca8b1fbb70fade60~c5_100x100.jpeg?x-expires=1648850400&x-signature=EeAhcZwUHj%2FofrhaORp6YakoJHc%3D",
+        "signature": "\u041f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u0439\u0442\u0435 \u0431\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430 \u043a\u0430\u043d\u0430\u043b \u043d\u0430 \u044e\u0442\u0443\u0431\u0456 \ud83d\udc99\ud83d\udc9b",
+        "createTime": 1613250784,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJCfnDon87fkilt4J2OGMgg73x_CsKnfIahBrJQ-TIj9e6zvjAKHjoers0lDktg_T",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1378,
+        "followingCount": 52,
+        "heart": 6135,
+        "heartCount": 6135,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

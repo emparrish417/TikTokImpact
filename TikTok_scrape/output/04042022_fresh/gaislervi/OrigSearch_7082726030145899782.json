@@ -1,0 +1,119 @@
+{
+    "id": "7082726030145899782",
+    "desc": "War in Ukraine #warinukraine2022",
+    "createTime": 1649075662,
+    "video": {
+        "id": "7082726030145899782",
+        "height": 864,
+        "width": 576,
+        "duration": 36,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e6c7a08c25f442f186fc2c8588beddac?x-expires=1649131200&x-signature=EJOEFJkE7hwQToNU6b37krnjWZo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/18625cef9821412887632c024fb549a1_1649075663?x-expires=1649131200&x-signature=ZZnVvpE4Espl%2FZ06d6maKioVVrY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e3adcfb1bd0c4220ab3ad754209ecece_1649075664?x-expires=1649131200&x-signature=CQj6CxMP%2B9Xlzez5k6FLljBLTmE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2a620d46d482e6d7fa017f4edc66e4cf/624bc044/video/tos/useast2a/tos-useast2a-pve-0068/2891c1e8c2a04bcc85e10d450dba10f9/?a=1988&br=2836&bt=1418&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8FeqDXq&l=2022040422055201011313523317852E7F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhra2g6ZjtoPDMzNzczM0ApOzdpOGY6PDw2NzM3ZTMzZGdvc15wcjRnXzJgLS1kMTZzczViNjVjMTMvXzQuNGAxNV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2a620d46d482e6d7fa017f4edc66e4cf/624bc044/video/tos/useast2a/tos-useast2a-pve-0068/2891c1e8c2a04bcc85e10d450dba10f9/?a=1988&br=2836&bt=1418&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8FeqDXq&l=2022040422055201011313523317852E7F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhra2g6ZjtoPDMzNzczM0ApOzdpOGY6PDw2NzM3ZTMzZGdvc15wcjRnXzJgLS1kMTZzczViNjVjMTMvXzQuNGAxNV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/18625cef9821412887632c024fb549a1_1649075663~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=ahvjLvfCsXvfP6eqcRU7JgZuoEs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/18625cef9821412887632c024fb549a1_1649075663~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=8R3WQ6O%2FDZylC6DjfQISjxKAJJE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e6c7a08c25f442f186fc2c8588beddac?x-expires=1649131200&x-signature=EJOEFJkE7hwQToNU6b37krnjWZo%3D",
+        "bitrate": 1452877,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6815205628492104709",
+        "uniqueId": "gaislervi",
+        "nickname": "Gaislervi \ud83e\udde1",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20f0c626ec2cb444366198eb3cc47871~c5_100x100.jpeg?x-expires=1649196000&x-signature=eHWtn1xzZp62tkPdZ9GEB8Viyas%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20f0c626ec2cb444366198eb3cc47871~c5_720x720.jpeg?x-expires=1649196000&x-signature=b4Un0l14XMvN54IPb6R7axW1Hfg%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20f0c626ec2cb444366198eb3cc47871~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=9axmgqLtRp7XSHmBIGjVY8ElEUs%3D",
+        "signature": "\u0414\u0430, \u044f \u0442\u043e\u0436\u0435 \u0440\u0435\u0448\u0438\u043b\u0430 \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u043d\u0438\u043c\u0430\u0442\u044c \ud83e\udd75",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAuCk4kuJIMxY9wn3O-XyuFf6i8-IbOjXOQQIf26n98ov6ipR1QWeljr4iPJsUFpBP",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082725988836788998",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082726015587470085.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20f0c626ec2cb444366198eb3cc47871~c5_100x100.jpeg?x-expires=1649196000&x-signature=eHWtn1xzZp62tkPdZ9GEB8Viyas%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20f0c626ec2cb444366198eb3cc47871~c5_720x720.jpeg?x-expires=1649196000&x-signature=b4Un0l14XMvN54IPb6R7axW1Hfg%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20f0c626ec2cb444366198eb3cc47871~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=9axmgqLtRp7XSHmBIGjVY8ElEUs%3D",
+        "authorName": "Gaislervi \ud83e\udde1",
+        "original": true,
+        "duration": 36,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "7068185385729261574",
+            "title": "warinukraine2022",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 9,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 328
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 15,
+            "end": 32,
+            "hashtagName": "warinukraine2022",
+            "hashtagId": "7068185385729261574",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 90,
+        "followerCount": 82,
+        "heartCount": 556,
+        "videoCount": 15,
+        "diggCount": 1003,
+        "heart": 556
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

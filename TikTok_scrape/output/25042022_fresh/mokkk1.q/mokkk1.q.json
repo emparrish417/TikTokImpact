@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6869819806158963713",
+        "shortId": "",
+        "uniqueId": "mokkk1.q",
+        "nickname": "Moki",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e961c813620f2cb2533adc91590cc326~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=qL6mnjk7HFBidUiunkX%2ByYdYvuE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e961c813620f2cb2533adc91590cc326~c5_720x720.jpeg?x-expires=1651086000&x-signature=8tmVQlvWMyt%2BQom8b%2Ff69tGFxTc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e961c813620f2cb2533adc91590cc326~c5_100x100.jpeg?x-expires=1651086000&x-signature=CibHrVMJLFbX7X8vD%2FfHyxuJV14%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAUltqa2opi-YJEInfK5Y8aEsHgioEG3FPpmB08Udsc56uVxDdH76o-N2hmIgDPVO_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://donatello.to/Moki",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8223,
+        "followingCount": 949,
+        "heart": 38100,
+        "heartCount": 38100,
+        "videoCount": 159,
+        "diggCount": 0
+    },
+    "itemList": []
+}

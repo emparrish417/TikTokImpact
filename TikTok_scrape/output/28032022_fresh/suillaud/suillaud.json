@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6995241573551096838",
+        "shortId": "",
+        "uniqueId": "suillaud",
+        "nickname": "suillaud",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/da7da4be61939fc674c01ee1f2cfc9c5~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=lDAGgQWgM92xJpxoOUdM1dETkmM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/da7da4be61939fc674c01ee1f2cfc9c5~c5_720x720.jpeg?x-expires=1648580400&x-signature=ipdCLRfw8FDzUFGvfYUjGeNmJJ4%3D",
+        "avatarThumb": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/da7da4be61939fc674c01ee1f2cfc9c5~c5_100x100.jpeg?x-expires=1648580400&x-signature=tT98j9rU18Ad%2BcfKhNxcIWleQro%3D",
+        "signature": "| \ud83c\udfa5 |\n| suillaud.dylan@gmail.com \ud83d\udce9 |",
+        "createTime": 1628712440,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqAuJeLUudbaHPoxbnbR18-dgGIT2XXcWrGw9cm_NmWiBrPpMKaSZtBvzF5HAW--D",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 646500,
+        "followingCount": 186,
+        "heart": 13400000,
+        "heartCount": 13400000,
+        "videoCount": 37,
+        "diggCount": 0
+    },
+    "itemList": []
+}

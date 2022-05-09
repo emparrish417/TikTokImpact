@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6809734029048267782",
+        "shortId": "",
+        "uniqueId": "inter.rowz",
+        "nickname": "Inter Row Z",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78c3b7a3eec757c5091c339bf5d13979~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=7NXsTKmjQT2Ep7Kt%2BNUDMVHfkHM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78c3b7a3eec757c5091c339bf5d13979~c5_720x720.jpeg?x-expires=1650412800&x-signature=02NeDZePmSWcP5ysDb7VrM4xUiI%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/78c3b7a3eec757c5091c339bf5d13979~c5_100x100.jpeg?x-expires=1650412800&x-signature=HVIBqc6ajg%2BiuH4Kt5bsIsM2uY4%3D",
+        "signature": "Bruno is a fraud",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwr2lqtt7jn_YFLyRIwppZ9OilZd-rVFGuxgVxUH1lm4KNE7-sFHAg7JuoLD57qG4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 6272,
+        "followingCount": 194,
+        "heart": 1200000,
+        "heartCount": 1200000,
+        "videoCount": 123,
+        "diggCount": 0
+    },
+    "itemList": []
+}

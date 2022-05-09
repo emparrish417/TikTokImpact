@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6746902648781472774",
+        "shortId": "",
+        "uniqueId": "drawing_body_arts",
+        "nickname": "\ud83e\udd8bElene\ud83e\udd8b",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/5980fe07932a946b74ddee63a159a1cf.jpeg?x-expires=1649800800&x-signature=C4yDALUnObz4KLP1MVffIu8F%2FFs%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/5980fe07932a946b74ddee63a159a1cf.jpeg?x-expires=1649800800&x-signature=N9QJNpn%2BXd997ci9w5MEaOjrZzM%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5980fe07932a946b74ddee63a159a1cf.jpeg?x-expires=1649800800&x-signature=zMsphZHZNshYnqbTaFJva2qgfPU%3D",
+        "signature": "\ud83e\udd8b\ud83e\udd8b",
+        "createTime": 1598163187,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjEKUPyQPYe2aJm8w_nEjTPBvDthfyyua42NVklb607EFVQ14bnDsSdMndbqCUz5d",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1224,
+        "followingCount": 2845,
+        "heart": 2592,
+        "heartCount": 2592,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

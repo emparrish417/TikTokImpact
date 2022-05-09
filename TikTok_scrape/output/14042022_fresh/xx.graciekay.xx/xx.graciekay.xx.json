@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7079496717582763014",
+        "shortId": "",
+        "uniqueId": "xx.graciekay.xx",
+        "nickname": "\u2665\ufe0f",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/58c24d2726fc3e3c2ca73720cf2a0c2b~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=zkfTqo9y20EE8s35bC1cA2Ns%2BCE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/58c24d2726fc3e3c2ca73720cf2a0c2b~c5_720x720.jpeg?x-expires=1650114000&x-signature=Kbgeay2aM4ITINPb4h3gPsepcNs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/58c24d2726fc3e3c2ca73720cf2a0c2b~c5_100x100.jpeg?x-expires=1650114000&x-signature=eU2hAEUoNIrh%2B7Z5vIITkIhnUWg%3D",
+        "signature": "",
+        "createTime": 1648323921,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXcjq9ghirb2tPCgr_xNN8C5O4FYeT3uLEa7cALT8TZdVbKi79yWX2IVcBrBONPW3",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 38,
+        "followingCount": 39,
+        "heart": 46,
+        "heartCount": 46,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

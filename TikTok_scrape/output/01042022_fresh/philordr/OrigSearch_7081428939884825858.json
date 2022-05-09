@@ -1,0 +1,90 @@
+{
+    "id": "7081428939884825858",
+    "desc": "Urgent Russia Ukraine News",
+    "createTime": 1648773663,
+    "video": {
+        "id": "7081428939884825858",
+        "height": 576,
+        "width": 1024,
+        "duration": 47,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ff6ca2fc11484f72af6c61f9b33655fe_1648773672?x-expires=1648875600&x-signature=Mbx5ireRznewNeQMxdJYN4enXpw%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/f4506f0e738549a1a78e691681f452c2_1648773664?x-expires=1648875600&x-signature=X4fV8bc7Dy5Cy9EZOOSwevAcqek%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/eeaa07dfc969437da9426c74f6d4e8cf_1648773665?x-expires=1648875600&x-signature=NKCk3PvQWSRwJJc5CxFud5REegY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/efca469d6e8cc7c4fcc6a630923a2c09/6247e37b/video/tos/alisg/tos-alisg-pve-0037/ef0530cb46cb47c09dee70fce9952ca1/?a=1988&br=462&bt=231&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th0~xzDXq&l=202204012346530101131351431CFF1F48&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBkbzo6ZnM3PDMzODgzNEApaDNmOjw2ODw3N2c6ZDQ3O2dfbC4xcjRfZzBgLS1kLy1zcy8zMzZhNDZhL2EzNjI0YV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/efca469d6e8cc7c4fcc6a630923a2c09/6247e37b/video/tos/alisg/tos-alisg-pve-0037/ef0530cb46cb47c09dee70fce9952ca1/?a=1988&br=462&bt=231&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th0~xzDXq&l=202204012346530101131351431CFF1F48&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anBkbzo6ZnM3PDMzODgzNEApaDNmOjw2ODw3N2c6ZDQ3O2dfbC4xcjRfZzBgLS1kLy1zcy8zMzZhNDZhL2EzNjI0YV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/f4506f0e738549a1a78e691681f452c2_1648773664~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=a35AMH1VCZcSc7CnQRNgRJG20pU%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/f4506f0e738549a1a78e691681f452c2_1648773664~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=tkvad2RSIeZsVdyoukIM%2B7H2cvU%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ff6ca2fc11484f72af6c61f9b33655fe_1648773672?x-expires=1648875600&x-signature=Mbx5ireRznewNeQMxdJYN4enXpw%3D",
+        "bitrate": 237299,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7081428011702895617",
+        "uniqueId": "philordr",
+        "nickname": "philordr",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648940400&x-signature=3BPZ8tx2vhjae%2BCyMfsB3HSnAv0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648940400&x-signature=auLfmYlC%2F1px3FD%2F6iZE0yIkrNY%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=G5sY0AD6s85hEL0ElGfgp6iCw8A%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIUYowd3ssFB6PeT4uI8dzuS2ZE0pAsN4i_s5bViuCKTY45QBfSJZtE4ERthDDczu",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081428907433413377",
+        "title": "original sound - philordr",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7081428773958109953.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648940400&x-signature=3BPZ8tx2vhjae%2BCyMfsB3HSnAv0%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648940400&x-signature=auLfmYlC%2F1px3FD%2F6iZE0yIkrNY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=G5sY0AD6s85hEL0ElGfgp6iCw8A%3D",
+        "authorName": "philordr",
+        "original": true,
+        "duration": 46,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1284
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 1,
+        "heartCount": 6,
+        "videoCount": 2,
+        "diggCount": 0,
+        "heart": 6
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

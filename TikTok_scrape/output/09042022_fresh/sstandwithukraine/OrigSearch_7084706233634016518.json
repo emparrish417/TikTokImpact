@@ -1,0 +1,98 @@
+{
+    "id": "7084706233634016518",
+    "desc": "",
+    "createTime": 1649536713,
+    "video": {
+        "id": "7084706233634016518",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4eedcd7c536f41df989f93059dcbc1cc?x-expires=1649574000&x-signature=VGd68tC1kjFGTHZZ0vpWK3aulAw%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/71966d3b52ca4166a25619e580d35543_1649536714?x-expires=1649574000&x-signature=kXN1y%2F%2FdHCRyL8uYJ3TPdS6bJvg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/71c34aa2e43f4bbca88d80b4a3b25cd6_1649536716?x-expires=1649574000&x-signature=ZVyJVw6lONaGN2RSNMJxzydG%2B1c%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c47753ea053f59e5bf24305697c65176/62528c33/video/tos/useast2a/tos-useast2a-ve-0068c003/ee8dc5e632774c7b9a1d97bf0907ba94/?a=1988&br=324&bt=162&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thjn4IDXq&l=20220410014955010113006118137727DE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxndDg6ZnF4PDMzNzczM0ApOTVnZGk3N2Q3N2Y0NGdmaWdjcnMucjRnbTVgLS1kMTZzc14uMGE0MzBiXmMyXl5jNDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c47753ea053f59e5bf24305697c65176/62528c33/video/tos/useast2a/tos-useast2a-ve-0068c003/ee8dc5e632774c7b9a1d97bf0907ba94/?a=1988&br=324&bt=162&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thjn4IDXq&l=20220410014955010113006118137727DE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxndDg6ZnF4PDMzNzczM0ApOTVnZGk3N2Q3N2Y0NGdmaWdjcnMucjRnbTVgLS1kMTZzc14uMGE0MzBiXmMyXl5jNDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/71966d3b52ca4166a25619e580d35543_1649536714~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=0ir59ad3OTn2VKA%2Bm%2F4fCzkf5MI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/71966d3b52ca4166a25619e580d35543_1649536714~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=GjVfucKkSnhYPvUMGzQJlcbopXM%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4eedcd7c536f41df989f93059dcbc1cc?x-expires=1649574000&x-signature=VGd68tC1kjFGTHZZ0vpWK3aulAw%3D",
+        "bitrate": 166086,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7000821926650790918",
+        "uniqueId": "sstandwithukraine",
+        "nickname": "benedict cumberbatch fanpage",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/478e3e95d4ab4e923600c55169d42318~c5_100x100.jpeg?x-expires=1649638800&x-signature=2dHGhfJUrqsvx9e9%2FZMPTnK8%2Bv8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/478e3e95d4ab4e923600c55169d42318~c5_720x720.jpeg?x-expires=1649638800&x-signature=W7nxhLu%2F55rngwhctfd1ePn20zc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/478e3e95d4ab4e923600c55169d42318~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=spKPi%2BEEYgbtDmI5KPVpxeI7RKU%3D",
+        "signature": "i\u2661benedict\n14 \nvirgo\u264d\n\ud83c\uddf3\ud83c\uddec\ud83c\uddec\ud83c\udde7\ud83d\ude0b",
+        "verified": false,
+        "secUid": "MS4wLjABAAAALeOWXFcLzRF-NRsRYnU_li-g8yvZthZmZc4cqzhg0lTSCA6ItXbx-Eqgzob5XIMp",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6927279952329754626",
+        "title": "Something In The Way",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e3b16e9a5148404c814767fdb4ceb062",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/8edf803e46104472925a6910b8472f8c.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/8edf803e46104472925a6910b8472f8c.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/8edf803e46104472925a6910b8472f8c.jpeg",
+        "authorName": "Nirvana",
+        "original": false,
+        "duration": 60,
+        "album": "Nevermind - Super Deluxe Edition"
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 7,
+        "playCount": 26
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 159,
+        "followerCount": 137,
+        "heartCount": 1191,
+        "videoCount": 23,
+        "diggCount": 52400,
+        "heart": 1191
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "soccer "
+            ]
+        }
+    ],
+    "isAd": false
+}

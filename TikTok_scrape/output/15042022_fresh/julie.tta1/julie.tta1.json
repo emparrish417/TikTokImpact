@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6943634331257078790",
+        "shortId": "",
+        "uniqueId": "julie.tta1",
+        "nickname": "Juli\ud83d\udc8b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b94dd50300954b71d7cf4532104a56e~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=m47prl27btNohpOmqBsOMv8Qsc8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b94dd50300954b71d7cf4532104a56e~c5_720x720.jpeg?x-expires=1650240000&x-signature=I%2FwETyyPusWr1sSztF34ICDtZgw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b94dd50300954b71d7cf4532104a56e~c5_100x100.jpeg?x-expires=1650240000&x-signature=JGNnvehy3G1LmdmY8BBORS3tjg8%3D",
+        "signature": "\u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456\ud83c\uddfa\ud83c\udde6\ud83d\udcaa",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3IBouUpuIUWLx-mXpAkz6cTOp5KO7zALRNzJK2f0dpSwwCFd5LfxAh4GONgxhWls",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/julietta_official",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3008,
+        "followingCount": 101,
+        "heart": 124900,
+        "heartCount": 124900,
+        "videoCount": 77,
+        "diggCount": 0
+    },
+    "itemList": []
+}

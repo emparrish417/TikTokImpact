@@ -1,0 +1,119 @@
+{
+    "id": "7086164691034180890",
+    "desc": "#ukraine",
+    "createTime": 1649876288,
+    "video": {
+        "id": "7086164691034180890",
+        "height": 1024,
+        "width": 576,
+        "duration": 14,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ca0ab184dce8416ba59d37f37b1367c6?x-expires=1649962800&x-signature=xLm9zmPVf7rhzt5Vos2g9BuDaAE%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/4dd2cdec645546ffa4e214d94a526fdf_1649876289?x-expires=1649962800&x-signature=OK%2BcGpPWzrcvfWQdNLUOreMMO34%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/a6c43d8f2ed34947be07f166ce9bed04_1649876289?x-expires=1649962800&x-signature=81zBdYLY2safvYjTQsNvloTTACM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c12aabd7ec1b9fadd21d5c0157a31e24/625873d4/video/tos/useast2a/tos-useast2a-pve-0037-aiso/266346618ab64523b544e532e540e47f/?a=1988&br=1368&bt=684&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZFhKLwe2NDy~fl7Gb&l=2022041413193401011313513224E87EE4&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anA0dWk6ZjVrPDMzZjgzM0ApOjM8aTVnO2Q8N2k0NzllZWdpbGhncjRvbl9gLS1kL2Nzcy4tXzJjLi5jNC0yXzVfXy86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c12aabd7ec1b9fadd21d5c0157a31e24/625873d4/video/tos/useast2a/tos-useast2a-pve-0037-aiso/266346618ab64523b544e532e540e47f/?a=1988&br=1368&bt=684&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZFhKLwe2NDy~fl7Gb&l=2022041413193401011313513224E87EE4&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anA0dWk6ZjVrPDMzZjgzM0ApOjM8aTVnO2Q8N2k0NzllZWdpbGhncjRvbl9gLS1kL2Nzcy4tXzJjLi5jNC0yXzVfXy86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/4dd2cdec645546ffa4e214d94a526fdf_1649876289~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=1jRTEV6zjQYt4o%2B6tulgSA00cpM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/4dd2cdec645546ffa4e214d94a526fdf_1649876289~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=1%2B3vq2NPT%2FgZzwNZ4QlgaLWoMz8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ca0ab184dce8416ba59d37f37b1367c6?x-expires=1649962800&x-signature=xLm9zmPVf7rhzt5Vos2g9BuDaAE%3D",
+        "bitrate": 700749,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7074449170707317761",
+        "uniqueId": "vindaraczaa",
+        "nickname": "vindarcza",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2b22601616127ce1f33f969242ca8515~c5_100x100.jpeg?x-expires=1650114000&x-signature=2k%2Fh3cXy3Lz71WwiZHc4e9fL%2BVQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2b22601616127ce1f33f969242ca8515~c5_720x720.jpeg?x-expires=1650114000&x-signature=LsfTzv8VYXK9A0xbQOvxW0fHio0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2b22601616127ce1f33f969242ca8515~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=SAMkHXWSB3oV%2BxfujyUZY2OWobg%3D",
+        "signature": "account fack\ud83d\ude4f\nig:vindarcza",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3SnU8pSNZA7O_r1RsCJR9YlbOIq5GhZ5qqWJ11gXJLOLdGzmgjUXOc4BB2hOYP8h",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7035874123842586625",
+        "title": "Mega Remix",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/abe13b1215a947df90f6ea6a79057ca8",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/93032740361c449cb05c4a790d211e7c.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/93032740361c449cb05c4a790d211e7c.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/93032740361c449cb05c4a790d211e7c.jpeg",
+        "authorName": "Deejay Meddy",
+        "original": false,
+        "duration": 32,
+        "album": "Break Beat Party"
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 14,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 979
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 35,
+        "followerCount": 2264,
+        "heartCount": 11300,
+        "videoCount": 44,
+        "diggCount": 617,
+        "heart": 11300
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

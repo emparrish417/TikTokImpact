@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6772122125760201734",
+        "shortId": "",
+        "uniqueId": "toriovi",
+        "nickname": "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f \u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4a00a661a80dcc49a6d9a85b155948be~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=55p%2F0Rp%2BjnJ9BzF8AG6YE3DtnsM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4a00a661a80dcc49a6d9a85b155948be~c5_720x720.jpeg?x-expires=1650240000&x-signature=vUcK3NTvDpRoUBro28YyebjLAVQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4a00a661a80dcc49a6d9a85b155948be~c5_100x100.jpeg?x-expires=1650240000&x-signature=JLEoXW3zZt48IeJqACbQnnsbcKI%3D",
+        "signature": "\ud83e\udd8b\n19 y.o.\nMade in Ukraine\ninst: @vikypod",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIaziSzBbR8cbRygjqwVkiJRosrP6iME_IzYFFFvfEYpoh2qLPgFNwxazJme4hsUg",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 139,
+        "followingCount": 187,
+        "heart": 10200,
+        "heartCount": 10200,
+        "videoCount": 96,
+        "diggCount": 0
+    },
+    "itemList": []
+}

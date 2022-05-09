@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6793822004165280773",
+        "shortId": "",
+        "uniqueId": "haagbraten",
+        "nickname": "Haagbraten",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/94dc27295cfbced995aca990206f75cb~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=Z7RPl17H%2FuQ4RPieSINkC5KoQ%2Fg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/94dc27295cfbced995aca990206f75cb~c5_720x720.jpeg?x-expires=1650664800&x-signature=vzpGtlluXsPy7aU6F1KIn4vh0g4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/94dc27295cfbced995aca990206f75cb~c5_100x100.jpeg?x-expires=1650664800&x-signature=XUXm%2FctcO9kVZCKm6V4aBHxoX04%3D",
+        "signature": "\u262dWe/our\u262d\n\ud83c\udde9\ud83c\uddea/\ud83c\uddf7\ud83c\uddfa/\ud83c\uddf0\ud83c\uddff",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADQEtB_0KobJlEWzQmeeS21QYE5V7SgA52k-Xbx-_7OqWJL40FbWGTXxOQjmXtwFv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/haagbraten",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 92900,
+        "followingCount": 10000,
+        "heart": 2600000,
+        "heartCount": 2600000,
+        "videoCount": 288,
+        "diggCount": 0
+    },
+    "itemList": []
+}

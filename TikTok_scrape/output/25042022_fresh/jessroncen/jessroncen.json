@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7046113539770074117",
+        "shortId": "",
+        "uniqueId": "jessroncen",
+        "nickname": "jessroncen",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8e0ec8d1b5b642a8bd063045eb9053a7~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=YkAJy2W%2BcPoMuvoSo3RgtRUI8cg%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8e0ec8d1b5b642a8bd063045eb9053a7~c5_720x720.jpeg?x-expires=1651086000&x-signature=nNFJjoUR9c8iLPP0s3JRPDw1XU8%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8e0ec8d1b5b642a8bd063045eb9053a7~c5_100x100.jpeg?x-expires=1651086000&x-signature=whV2Ab3nMxpFBMgcrZtDsqntdcc%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGVWJ7DAk5yJRdpIrMJOO6JhgGYSO6bLJAURhotgT2cLNxSi3P7i4IIzPqXmjqvzX",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7879,
+        "followingCount": 664,
+        "heart": 81000,
+        "heartCount": 81000,
+        "videoCount": 35,
+        "diggCount": 0
+    },
+    "itemList": []
+}

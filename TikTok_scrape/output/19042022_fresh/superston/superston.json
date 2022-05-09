@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6770936584524940294",
+        "shortId": "",
+        "uniqueId": "superston",
+        "nickname": "Super_stone",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b50129ca8072077c8ac524e83bb3aa18~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=0eYPGEoyzsvE0kyjC8Z95MZm2OI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b50129ca8072077c8ac524e83bb3aa18~c5_720x720.jpeg?x-expires=1650578400&x-signature=imL9htJ22HH%2B7%2Baez119paVq1lU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b50129ca8072077c8ac524e83bb3aa18~c5_100x100.jpeg?x-expires=1650578400&x-signature=uCBwTbKmqJ6l2WrhfzVz0Ya0Xhw%3D",
+        "signature": "wounded but not killed",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVfZz8NLGyjqJFMSAdE9brLlLqQ-ylDIP7dYR5BmfVlk7D47BCuoM1jI2dDYyIgOq",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1007,
+        "followingCount": 117,
+        "heart": 29400,
+        "heartCount": 29400,
+        "videoCount": 53,
+        "diggCount": 0
+    },
+    "itemList": []
+}

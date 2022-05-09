@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6744206405044126726",
+        "shortId": "",
+        "uniqueId": "matthewcassel",
+        "nickname": "matthewcassel",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=0TY6M5tWN2CB9FByp864kKuNv5g%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_720x720.jpeg?x-expires=1649905200&x-signature=k%2Bsqt79FUen8Xm497X6RK0xp34M%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4eab82352d99aaca34585518aeb56b16~c5_100x100.jpeg?x-expires=1649905200&x-signature=FHhZ3LwGn4xSDKKnKOnKvMc3EkA%3D",
+        "signature": "VICE News correspondent",
+        "createTime": 1572913019,
+        "verified": false,
+        "secUid": "MS4wLjABAAAACSxXQDf4ZzvpDfUBEwJoZxfM4KFriZjaJFHqYUt7axlTPzegapeQMaIzYVf1PiYv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 279300,
+        "followingCount": 23,
+        "heart": 3700000,
+        "heartCount": 3700000,
+        "videoCount": 17,
+        "diggCount": 0
+    },
+    "itemList": []
+}

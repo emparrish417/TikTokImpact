@@ -1,0 +1,113 @@
+{
+    "id": "7080891319672999173",
+    "desc": "\u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c \u043d\u0430 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440 @voshod175_",
+    "createTime": 1648648484,
+    "video": {
+        "id": "7080891319672999173",
+        "height": 1026,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/22cbdc1397834829af000365e5c4afa9?x-expires=1648699200&x-signature=FnfHvWJWmoC5BQ%2BXK0sTlsyQX80%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/cf25817a3eaa495ebd138ad0269e0bd9_1648648485?x-expires=1648699200&x-signature=wiql7mK1w00UMqW7erUrK3H5iXI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/88fc6234395c4296be46e6f924ff9f2a_1648648486?x-expires=1648699200&x-signature=irAERepZdCRzkMK4qeiVkDKet0g%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f4d49ae364054e2244624efd30ab4901/62452b20/video/tos/useast2a/tos-useast2a-ve-0068c004/3beefbb82a224da7a512f3de7e6987c0/?a=1988&br=1300&bt=650&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJRFzDXq&l=202203302216210101131351540FB4E1B8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anA1ZmY6Zjc4PDMzNzczM0ApaDk1M2RlaWU0NztnN2g6OmdwZGUxcjQwcy9gLS1kMTZzczBjNGE2MC9jXy0tXjBjMjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f4d49ae364054e2244624efd30ab4901/62452b20/video/tos/useast2a/tos-useast2a-ve-0068c004/3beefbb82a224da7a512f3de7e6987c0/?a=1988&br=1300&bt=650&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThJRFzDXq&l=202203302216210101131351540FB4E1B8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anA1ZmY6Zjc4PDMzNzczM0ApaDk1M2RlaWU0NztnN2g6OmdwZGUxcjQwcy9gLS1kMTZzczBjNGE2MC9jXy0tXjBjMjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/cf25817a3eaa495ebd138ad0269e0bd9_1648648485~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=N%2FMMeQQXabEoVd9ugl%2Brmtg5Z6I%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/cf25817a3eaa495ebd138ad0269e0bd9_1648648485~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=lyZFE%2B0M%2BVc2JYw7D%2BHDbPo5hLo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/22cbdc1397834829af000365e5c4afa9?x-expires=1648699200&x-signature=FnfHvWJWmoC5BQ%2BXK0sTlsyQX80%3D",
+        "bitrate": 665840,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6768909925500666886",
+        "uniqueId": "seryogaukraine",
+        "nickname": "\u0421\u0435\u0440\u0433\u0456\u0439",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652566022230022~c5_100x100.jpeg?x-expires=1648764000&x-signature=YH8iFGbPUqqmO5xQOMNNuFj4QO8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652566022230022~c5_720x720.jpeg?x-expires=1648764000&x-signature=qMogMb11c3rpfMfgQxPLNvO2BZg%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652566022230022~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=N%2Fqu%2B%2B3mLgUIC4fXJA60w1V05yo%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAD5yhDOYmoEo9GUkdXsV-U28Ye1gwSpUWW_9_r5mzBO_UTx9K-Ul64kgJEdCq2DsQ",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7016773558680438786",
+        "title": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/dca16b7ed1f0415d9700b10c5a3b5439",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c.jpeg",
+        "authorName": "PROBASS \u2206 HARDI",
+        "original": false,
+        "duration": 60,
+        "album": "\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430 - Where Are You From"
+    },
+    "stats": {
+        "diggCount": 13,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 1516
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 33,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6913519234321613825",
+            "isCommerce": false,
+            "userUniqueId": "voshod175_",
+            "secUid": "MS4wLjABAAAAIwAXsd7kiWPj3WdZK966UVoQtB2aiWU35IH-2IXMF6fbrOjT2qJuHWBZVL--fcMn",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1095,
+        "followerCount": 474,
+        "heartCount": 7647,
+        "videoCount": 330,
+        "diggCount": 54600,
+        "heart": 7647
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u041d\u0456\u0445\u0442\u043e \u043d\u0435\u0432\u0456\u0440\u0438\u0442\u044c \u0449\u043e \u041c\u0435\u043d\u0456 27 \u0440\u043e\u043a\u0456\u0432 \u043e\u0441\u044c \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u0449\u043e\u0431 \u043d\u0456\u0445\u0442\u043e \u043d\u0435 \u0441\u0443\u043c\u043d\u0456\u0432\u0430\u0432\u0441\u044f \u0438 \u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0435 \u043f\u0438\u0442\u0430\u0432 "
+            ]
+        }
+    ],
+    "isAd": false
+}

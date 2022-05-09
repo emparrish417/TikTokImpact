@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6613030149657559045",
+        "shortId": "",
+        "uniqueId": "vitya.graff",
+        "nickname": "\u0412\u0438\u0442\u044f \u041a\u0443\u0434\u0435\u043b\u044f",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/3bd90e535292c62bcbf7e24ec89f4919.jpeg?x-expires=1648850400&x-signature=3LrW0bUd%2BiCn8UDSVHy5tbJgEdw%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/3bd90e535292c62bcbf7e24ec89f4919.jpeg?x-expires=1648850400&x-signature=c%2FJGN6hKf%2Fy5RzoLR70yiC6umV4%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3bd90e535292c62bcbf7e24ec89f4919.jpeg?x-expires=1648850400&x-signature=LxFcSGXWPPiHB4Lu9oKKNqXfKOM%3D",
+        "signature": "",
+        "createTime": 1539688252,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAf14g8eBEOrn4WnMYtUlWXwxpK2tcNLl9Vlmivo2RLJtPFhsqIavzGdPbFaqERXAZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Automotive & Transportation",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 211,
+        "followingCount": 17,
+        "heart": 6262,
+        "heartCount": 6262,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

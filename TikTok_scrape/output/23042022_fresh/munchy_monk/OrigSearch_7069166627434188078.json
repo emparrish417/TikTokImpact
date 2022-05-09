@@ -1,0 +1,162 @@
+{
+    "id": "7069166627434188078",
+    "desc": "#ukraine #tiktok",
+    "createTime": 1645918616,
+    "video": {
+        "id": "7069166627434188078",
+        "height": 1024,
+        "width": 576,
+        "duration": 16,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6bb1d52c257245d18388e0db5b4654b8?x-expires=1650783600&x-signature=KryBhz7Iq5g7uDqrlg%2FTMGMsQgg%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a8d8a803b3b941ba882ebcab29ecd3bb_1645918617?x-expires=1650783600&x-signature=RB11wpciSH5xPLgJawQ7E4MjBks%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1a62d77f62ff4301b59ee0bb62441702_1645918617?x-expires=1650783600&x-signature=dxXPH%2Fuim5Ehhh%2Fc7nEPlCXCfR8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9122b887e35f43c65ab1571a3a63c586/6264fc14/video/tos/useast5/tos-useast5-ve-0068c003-tx/f5509d326d2f4ded9b17644f13f142a1/?a=1988&br=1506&bt=753&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~du4we2N40~fl7Gb&l=2022042401280401011313513401A60B6B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=aml3ZTw6ZjRlOzMzZzczNEApZjUzaGk6PGRkN2c1Mzg3aWdzLWdicjRnY2FgLS1kMS9zc2AtL19hX2A2MDNiMmA0NC06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9122b887e35f43c65ab1571a3a63c586/6264fc14/video/tos/useast5/tos-useast5-ve-0068c003-tx/f5509d326d2f4ded9b17644f13f142a1/?a=1988&br=1506&bt=753&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~du4we2N40~fl7Gb&l=2022042401280401011313513401A60B6B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=aml3ZTw6ZjRlOzMzZzczNEApZjUzaGk6PGRkN2c1Mzg3aWdzLWdicjRnY2FgLS1kMS9zc2AtL19hX2A2MDNiMmA0NC06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a8d8a803b3b941ba882ebcab29ecd3bb_1645918617~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=WLmwcbawuiSNwjlhh%2FZaUUV%2Bvl8%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a8d8a803b3b941ba882ebcab29ecd3bb_1645918617~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=we8l3yNZHrVq34wOZdUC6KWH8PU%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6bb1d52c257245d18388e0db5b4654b8?x-expires=1650783600&x-signature=Aoclfi2dUVobah3N%2FCaFrD69jjA%3D",
+        "bitrate": 771292,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6815682390229287941",
+        "uniqueId": "munchy_monk",
+        "nickname": "Louie",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_100x100.jpeg?x-expires=1650934800&x-signature=sCUwkE0Kq0Ck%2B%2B9FW%2FFFxi%2BawY4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_720x720.jpeg?x-expires=1650934800&x-signature=%2Bz07FjJfcZnCxnWUicjYQ04NRbQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=x4ju1st%2BKPBONPiv%2FxFkzvoLvBk%3D",
+        "signature": "Please tell me who I look like\nPO Box 5265 \nConcord Ca, 94524",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlDfwwRdwr3fCTjaU8xoWg5p7oa7qXxVC13ah-YVxeTT1w26_3n3ym17ixhZ6tUIR",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069166593091160875",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7069166618311543594.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_100x100.jpeg?x-expires=1650934800&x-signature=sCUwkE0Kq0Ck%2B%2B9FW%2FFFxi%2BawY4%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_720x720.jpeg?x-expires=1650934800&x-signature=%2Bz07FjJfcZnCxnWUicjYQ04NRbQ%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=x4ju1st%2BKPBONPiv%2FxFkzvoLvBk%3D",
+        "authorName": "Louie",
+        "original": true,
+        "duration": 16,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "23428",
+            "title": "tiktok",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1600000,
+        "shareCount": 23800,
+        "commentCount": 12200,
+        "playCount": 7900000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 9,
+            "end": 16,
+            "hashtagName": "tiktok",
+            "hashtagId": "23428",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        },
+        {
+            "name": "Green Screen Video",
+            "ID": "454747"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 113,
+        "followerCount": 437700,
+        "heartCount": 23300000,
+        "videoCount": 181,
+        "diggCount": 64900,
+        "heart": 23300000
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Does anyone else feel guilty?"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7018110554385630214",
+        "shortId": "",
+        "uniqueId": "leilliza",
+        "nickname": "leilliza",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2d504edd08eb6eb498ef21303df174fc~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=SZvObEUJKd0eBshpuG7VGG5DCp0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2d504edd08eb6eb498ef21303df174fc~c5_720x720.jpeg?x-expires=1648580400&x-signature=kD4nvvkXdrEpOFospR4e0TAoqzU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2d504edd08eb6eb498ef21303df174fc~c5_100x100.jpeg?x-expires=1648580400&x-signature=oWCi8012sfwrzHPuG1g8uI%2BccCQ%3D",
+        "signature": "\ud83c\udf38",
+        "createTime": 1634031257,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAPKAEoba_qcMGs6tn13tN5HTyTxfbtAMRoHBXtsf9JcugbjCmz3wtCZ5SO7N-bOin",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 29,
+        "followingCount": 20,
+        "heart": 784,
+        "heartCount": 784,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,104 @@
+{
+    "id": "7087693829146414342",
+    "desc": "",
+    "createTime": 1650232317,
+    "video": {
+        "id": "7087693829146414342",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/08aa3391acc7427a97bd9ef6319c53f0?x-expires=1650330000&x-signature=oJNDEUaQ%2FlugtFlDtmR1PS7rETM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a7ac8f6c80414c8081c225e7a371d62c_1650232318?x-expires=1650330000&x-signature=irCTysZSBo%2FZE59OeFsmWdfI8kU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5ea690baa06e4b37ab9b9ef19af44ab6_1650232319?x-expires=1650330000&x-signature=%2B6WmpSbWPxHNiOhv9IOinGnNnzA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e91674d2bf6b5ec23fa697423e1b3198/625e0d78/video/tos/useast2a/tos-useast2a-ve-0068c004/99e8f60bff4248dbae817ff8fd4b82fc/?a=1988&br=2056&bt=1028&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anRucmU6Zmc7PDMzNzczM0ApODNpNzU8Z2RlNzdnOjM3O2dqZXBkcjRvamJgLS1kMTZzcy0tNWBiYS0xY2E0LjNeLzQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e91674d2bf6b5ec23fa697423e1b3198/625e0d78/video/tos/useast2a/tos-useast2a-ve-0068c004/99e8f60bff4248dbae817ff8fd4b82fc/?a=1988&br=2056&bt=1028&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-Oxwwe2N377fl7Gb&l=2022041819162901011313523319F7303D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anRucmU6Zmc7PDMzNzczM0ApODNpNzU8Z2RlNzdnOjM3O2dqZXBkcjRvamJgLS1kMTZzcy0tNWBiYS0xY2E0LjNeLzQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a7ac8f6c80414c8081c225e7a371d62c_1650232318~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=SQAVlO0Rev4S0YB6Va78A2WxNd0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a7ac8f6c80414c8081c225e7a371d62c_1650232318~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=b%2FZVOsCFZrmsvoBYtImCJ9%2BPX0I%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/08aa3391acc7427a97bd9ef6319c53f0?x-expires=1650330000&x-signature=oJNDEUaQ%2FlugtFlDtmR1PS7rETM%3D",
+        "bitrate": 1052964,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6959951172493673478",
+        "uniqueId": "itslemon_cool",
+        "nickname": "SAVE UKRAINE \ud83c\uddfa\ud83c\udde6 \u2665",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec0e8f0997d2e6df89814328b19647bc~c5_100x100.jpeg?x-expires=1650481200&x-signature=%2Bd4jzRVSW%2F0uiwUmGgOrw8Lz2XM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec0e8f0997d2e6df89814328b19647bc~c5_720x720.jpeg?x-expires=1650481200&x-signature=cb2iceYbB%2FmR8FOlIItvf7gn6yY%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec0e8f0997d2e6df89814328b19647bc~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=MHDPwki%2FSY%2FSyGoUAy%2F3RABBKwQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAWppLlKeQhmAzY9wgXAkpc_Wq148uOPrldBvU5SIo3U2PHCQlnJ2y70VDQwTWMDun",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7036959062042659630",
+        "title": "Pope Is a Rockstar",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/116885ff42a8454d98b29b4421c9ec63",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7b484f5d152b484ea51e1b08a4d4e7aa.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/7b484f5d152b484ea51e1b08a4d4e7aa.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7b484f5d152b484ea51e1b08a4d4e7aa.jpeg",
+        "authorName": "Sales",
+        "original": false,
+        "duration": 11,
+        "album": "SALES LP"
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 164
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Sticker",
+            "ID": "732917"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 67,
+        "followerCount": 25,
+        "heartCount": 301,
+        "videoCount": 111,
+        "diggCount": 473,
+        "heart": 301
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "what i dream of"
+            ]
+        }
+    ],
+    "isAd": false
+}

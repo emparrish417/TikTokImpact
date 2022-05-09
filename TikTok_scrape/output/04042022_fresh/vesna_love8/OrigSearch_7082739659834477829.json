@@ -1,0 +1,119 @@
+{
+    "id": "7082739659834477829",
+    "desc": "Slava Ukraine \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6#slavaukraine\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1649078835,
+    "video": {
+        "id": "7082739659834477829",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c5430c6d3777411ea114f32549ae2153?x-expires=1649131200&x-signature=lEOhbyY%2BjJFnDOW4fb%2FQl1VM8V4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5eee4f7c58464452ba3817c4a31961a0_1649078836?x-expires=1649131200&x-signature=hj8aQcpqWI1qVCZwXg9DKHJyekg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/98a9284dd8754478a12b81023974641c_1649078836?x-expires=1649131200&x-signature=4zJJ9eDV1J14kfGbk9Ir2oElgjw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/a83b008a9003783ee9fe09c4d1220c8d/624bc0a3/video/tos/useast2a/tos-useast2a-pve-0068/555a9b0f82564c4eaf5b18ad11ba141e/?a=1988&br=596&bt=298&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThYgeqDXq&l=2022040422075401011313500422CCE3C8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZnajM6Zm5pPDMzNzczM0ApOjw2Nzo5ZjtlNzpnN2ZkOGcxcXJicjRfLzJgLS1kMTZzc2AwMS4vYzNeYWMxMmBiNjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/a83b008a9003783ee9fe09c4d1220c8d/624bc0a3/video/tos/useast2a/tos-useast2a-pve-0068/555a9b0f82564c4eaf5b18ad11ba141e/?a=1988&br=596&bt=298&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThYgeqDXq&l=2022040422075401011313500422CCE3C8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZnajM6Zm5pPDMzNzczM0ApOjw2Nzo5ZjtlNzpnN2ZkOGcxcXJicjRfLzJgLS1kMTZzc2AwMS4vYzNeYWMxMmBiNjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5eee4f7c58464452ba3817c4a31961a0_1649078836~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=P4iW7oCeylIDX8IPzzGJlTG5aEY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5eee4f7c58464452ba3817c4a31961a0_1649078836~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=d4B8mqY2eRtzkQN%2BWIUb3wnak1A%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c5430c6d3777411ea114f32549ae2153?x-expires=1649131200&x-signature=lEOhbyY%2BjJFnDOW4fb%2FQl1VM8V4%3D",
+        "bitrate": 305666,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7070724667464614917",
+        "uniqueId": "vesna_love8",
+        "nickname": "love_love",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec6dc53958e421a7d5006dfe04ecb1f6~c5_100x100.jpeg?x-expires=1649196000&x-signature=Ym8epSsny3GmQ63mBHHDGxRyVNQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec6dc53958e421a7d5006dfe04ecb1f6~c5_720x720.jpeg?x-expires=1649196000&x-signature=PLQauIiUNw8j6457JEFPALpwXFk%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ec6dc53958e421a7d5006dfe04ecb1f6~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=WcKMPpyiyUG1sSqphGBzvGH0x9A%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\u2764\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAARvfXuswI77XYH00hGKgDll3FtzIIuGhiHd0Q8bwcENscmaP2K129SG9vnrWChfkz",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7080646795885299713",
+        "title": "\u041f\u0443\u0431\u043b\u0456\u0447\u043d\u0430 \u0445\u0432\u043e\u0439\u0434\u0430",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/faa6472ff48349a191dc38b91d9d55c7",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e51f20992f5c40f5ad8b566aec3c5684.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e51f20992f5c40f5ad8b566aec3c5684.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e51f20992f5c40f5ad8b566aec3c5684.jpeg",
+        "authorName": "Two from Zoo",
+        "original": false,
+        "duration": 60,
+        "album": "\u041f\u0443\u0431\u043b\u0456\u0447\u043d\u0430 \u0445\u0432\u043e\u0439\u0434\u0430"
+    },
+    "challenges": [
+        {
+            "id": "7040463805192601602",
+            "title": "slavaukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 9,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 994
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 26,
+            "end": 43,
+            "hashtagName": "slavaukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "7040463805192601602",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 16,
+        "followerCount": 13,
+        "heartCount": 38,
+        "videoCount": 18,
+        "diggCount": 8,
+        "heart": 38
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

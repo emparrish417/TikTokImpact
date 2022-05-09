@@ -1,0 +1,119 @@
+{
+    "id": "7088863984195079466",
+    "desc": "#westandwithukraine",
+    "createTime": 1650504765,
+    "video": {
+        "id": "7088863984195079466",
+        "height": 1024,
+        "width": 576,
+        "duration": 77,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/61b1f99b8dca4aa2adf73c9d897b183c?x-expires=1650600000&x-signature=NMMfEOoUDTfJbLmoJMhf0FA0chk%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3bc2e180b96047ff98e4877f19a5170b_1650504766?x-expires=1650600000&x-signature=NocUYYTBQqsorJldl6pbRZKtT2s%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/230e7c330763499a8a2d9a5fb622f4a4_1650504766?x-expires=1650600000&x-signature=iVzwqNfhIJ%2BORyzpXPti%2BvivcJA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/217102c725cf469797ac3cd5bb0eaa8c/6262329d/video/tos/useast5/tos-useast5-pve-0068-tx/755b5a23a61a460ebbf0fba924d88afe/?a=1988&br=596&bt=298&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZhYZNwe2NJdGfl7Gb&l=2022042122425601011300624417BFF00B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Y4ZzQ6ZjVlPDMzZzczNEApaGkzNWc0NTw4NzlnNjk2NGcxZl9ocjRnNWRgLS1kMS9zczZhNWFfYjAwLTZfNTEzLzU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/217102c725cf469797ac3cd5bb0eaa8c/6262329d/video/tos/useast5/tos-useast5-pve-0068-tx/755b5a23a61a460ebbf0fba924d88afe/?a=1988&br=596&bt=298&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZhYZNwe2NJdGfl7Gb&l=2022042122425601011300624417BFF00B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Y4ZzQ6ZjVlPDMzZzczNEApaGkzNWc0NTw4NzlnNjk2NGcxZl9ocjRnNWRgLS1kMS9zczZhNWFfYjAwLTZfNTEzLzU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3bc2e180b96047ff98e4877f19a5170b_1650504766~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=Q9tsgYrDoxJj%2BJ%2BVhqR%2BpNWPl7M%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3bc2e180b96047ff98e4877f19a5170b_1650504766~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=uVEZF15JHybCuDkgA17X4%2FB2hzc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/61b1f99b8dca4aa2adf73c9d897b183c?x-expires=1650600000&x-signature=NMMfEOoUDTfJbLmoJMhf0FA0chk%3D",
+        "bitrate": 305433,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7071735038656087083",
+        "uniqueId": "x.brutal_anonymous.x",
+        "nickname": "Brutal anonymous",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b199f96ba7d28b2112fefce28c7f08f1~c5_100x100.jpeg?x-expires=1650751200&x-signature=iXnc%2Bc2SOQ08qwvTztqSD5frku0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b199f96ba7d28b2112fefce28c7f08f1~c5_720x720.jpeg?x-expires=1650751200&x-signature=i108aORd492thZDB3NmOyNiyNBc%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b199f96ba7d28b2112fefce28c7f08f1~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=xvXXF3COiRshgKdStjQ2bOJBCcU%3D",
+        "signature": "Expect us",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwhwxcpe3T6Dr8vM0rvzgm2u4bCFVZUJtxx9ZnkaK-jyMfBZwn9HDR8L2fQ7OdLZl",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7088863972627139371",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7088863997914614571.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b199f96ba7d28b2112fefce28c7f08f1~c5_100x100.jpeg?x-expires=1650751200&x-signature=iXnc%2Bc2SOQ08qwvTztqSD5frku0%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b199f96ba7d28b2112fefce28c7f08f1~c5_720x720.jpeg?x-expires=1650751200&x-signature=i108aORd492thZDB3NmOyNiyNBc%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b199f96ba7d28b2112fefce28c7f08f1~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=xvXXF3COiRshgKdStjQ2bOJBCcU%3D",
+        "authorName": "Brutal anonymous",
+        "original": true,
+        "duration": 77,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "7056667372815384623",
+            "title": "westandwithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 18,
+        "shareCount": 2,
+        "commentCount": 9,
+        "playCount": 952
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 19,
+            "hashtagName": "westandwithukraine",
+            "hashtagId": "7056667372815384623",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 160,
+        "followerCount": 6837,
+        "heartCount": 93100,
+        "videoCount": 569,
+        "diggCount": 2757,
+        "heart": 93100
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

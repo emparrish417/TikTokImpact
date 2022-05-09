@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6743464067279258629",
+        "shortId": "",
+        "uniqueId": "news.com.au",
+        "nickname": "News.com.au",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/12b26eb6e45fc2e1f72539f158c1b1b8.jpeg?x-expires=1649008800&x-signature=ii7etiqpF5L41YgFM99d4mXCoQE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/12b26eb6e45fc2e1f72539f158c1b1b8.jpeg?x-expires=1649008800&x-signature=nJX5yWpZQLQjowhNHHfKb%2F23C2Y%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/12b26eb6e45fc2e1f72539f158c1b1b8.jpeg?x-expires=1649008800&x-signature=pOi7H8WY1CJlBk%2FuTRrtwN9NK%2BA%3D",
+        "signature": "Australia\u2019s most popular news site\n\n\ud83d\udc47\ud83c\udffcCheck out the latest stories here\ud83d\udc47\ud83c\udffc",
+        "createTime": 1574087515,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAvX08IrDOCyZ7C072ga-3Po6qhmLFzh9jO3AAtA8wWr3NRhxr33PDhsvFuje1i1B3",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linkin.bio/ig-newscomauhq/",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 772300,
+        "followingCount": 237,
+        "heart": 47900000,
+        "heartCount": 47900000,
+        "videoCount": 1228,
+        "diggCount": 0
+    },
+    "itemList": []
+}

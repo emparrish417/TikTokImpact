@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6775910206997890053",
+        "shortId": "",
+        "uniqueId": "dia_memes",
+        "nickname": "Dia_memes",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7972f02ddfcf87d3f72fab6525519830~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=LLSJXF%2BuZtRK1GO1TlV4CxOpxG4%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7972f02ddfcf87d3f72fab6525519830~c5_720x720.jpeg?x-expires=1651086000&x-signature=AuRG3DAHsDTrNCILjmN4%2BkCe2pE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7972f02ddfcf87d3f72fab6525519830~c5_100x100.jpeg?x-expires=1651086000&x-signature=ZlEly9s%2BgFB%2B%2FRvFGU%2FJOguJxyU%3D",
+        "signature": "Random things",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArRcHXOVndNP2htt0wcdp9gJiDGMyTYWVw-ka5Twr5kfX-2x3zn4BjMob7IP6DGbN",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 41800,
+        "followingCount": 654,
+        "heart": 2600000,
+        "heartCount": 2600000,
+        "videoCount": 69,
+        "diggCount": 0
+    },
+    "itemList": []
+}

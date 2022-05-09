@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6868985288249984005",
+        "shortId": "",
+        "uniqueId": "utope.andri",
+        "nickname": "Andri",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/477b934b571140b58d2cc302e18ea0d5~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=loKQk9kCZY5BT%2BgSmFj37ANqbkM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/477b934b571140b58d2cc302e18ea0d5~c5_720x720.jpeg?x-expires=1650114000&x-signature=pAvY2u2B9VE11qYtCfbUzPzdYys%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/477b934b571140b58d2cc302e18ea0d5~c5_100x100.jpeg?x-expires=1650114000&x-signature=hBN2r5ewurnadPDkakroqQ9mIDE%3D",
+        "signature": "Hi I'm Andri and I make music \ud83d\udd25\n\"UTOPE\" on SPOTIFY\nPlaylists / my own songs \ud83d\udc47",
+        "createTime": 1599281567,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4FMpxI6ZTeqgSlofZ6Sz6fT1qGu3YlM2VX6h9PQZjcbti2IEZNyFTF8s9VkCW6SX",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/utope",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 267900,
+        "followingCount": 500,
+        "heart": 9900000,
+        "heartCount": 9900000,
+        "videoCount": 275,
+        "diggCount": 0
+    },
+    "itemList": []
+}

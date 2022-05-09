@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6932239787005772801",
+        "shortId": "",
+        "uniqueId": "giauthinh",
+        "nickname": "giauthinh.com",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/57e0aff3aa993cf4ccf1460c1e2bbc1a~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=jftU4D0NwVoGzYdP7rajuFWaSAE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/57e0aff3aa993cf4ccf1460c1e2bbc1a~c5_720x720.jpeg?x-expires=1650578400&x-signature=LDv0VyKFK2UBn7D7Te3QuzkeCA4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/57e0aff3aa993cf4ccf1460c1e2bbc1a~c5_100x100.jpeg?x-expires=1650578400&x-signature=b1pOQqvp2U6%2FHBfYLPzakNH5Ycw%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEyEZknGPWELFE3GHT-HXJZmng2ZY7ACF-bDl_YwQvX7rD7FtuZoUs9a0VCWvGL8s",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "giauthinh.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Other",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 508,
+        "followingCount": 11,
+        "heart": 8539,
+        "heartCount": 8539,
+        "videoCount": 100,
+        "diggCount": 0
+    },
+    "itemList": []
+}

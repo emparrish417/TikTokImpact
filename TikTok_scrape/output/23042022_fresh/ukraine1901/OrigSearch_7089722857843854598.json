@@ -1,0 +1,126 @@
+{
+    "id": "7089722857843854598",
+    "desc": "@izzybe2010 @lukehaith203",
+    "createTime": 1650704739,
+    "video": {
+        "id": "7089722857843854598",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8c657e6e58fa42aea3654a7fdfbf4a82?x-expires=1650783600&x-signature=VLr56vju7uYntt3%2Bnx69oZZXCgA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a4b9f15273fd404d843d5a9708618fa4_1650704739?x-expires=1650783600&x-signature=JjirwF9FJsPGysI%2F3sVbr4Orrkw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f3025568125b4d18bb85c52d176567f1_1650704740?x-expires=1650783600&x-signature=liAIlpMECoCbm209wmR3RCtf%2BwA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/67fcda610256c8935e95527b829cd36a/6264fb33/video/tos/useast2a/tos-useast2a-ve-0068c004/c8031a9ca33646f6adce069807d30696/?a=1988&br=306&bt=153&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZuUu4we2NP87fl7Gb&l=2022042401242001011313521406AC798B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Z5dzM6Zmh2PDMzNzczM0ApOjU1ZTU7NmQ8Nzc3OjM3ZWdhZTI0cjRvLmVgLS1kMTZzcy5jLWItNC4xMS9iMGEuYDA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/67fcda610256c8935e95527b829cd36a/6264fb33/video/tos/useast2a/tos-useast2a-ve-0068c004/c8031a9ca33646f6adce069807d30696/?a=1988&br=306&bt=153&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZuUu4we2NP87fl7Gb&l=2022042401242001011313521406AC798B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Z5dzM6Zmh2PDMzNzczM0ApOjU1ZTU7NmQ8Nzc3OjM3ZWdhZTI0cjRvLmVgLS1kMTZzcy5jLWItNC4xMS9iMGEuYDA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a4b9f15273fd404d843d5a9708618fa4_1650704739~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=NwtR%2BJtFV0iCe2kGAp3Vo10HmcU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a4b9f15273fd404d843d5a9708618fa4_1650704739~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=t7Y3nIicUh%2FtpIIfKigeEJvozYc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8c657e6e58fa42aea3654a7fdfbf4a82?x-expires=1650783600&x-signature=VLr56vju7uYntt3%2Bnx69oZZXCgA%3D",
+        "bitrate": 157144,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7045750119007306757",
+        "uniqueId": "ukraine1901",
+        "nickname": "Stand for Ukraine help Ukraine",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/063169e3380d16880c3a719bd6328eb4~c5_100x100.jpeg?x-expires=1650934800&x-signature=qNEFRuqvkUaydyzvW02awVKscUs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/063169e3380d16880c3a719bd6328eb4~c5_720x720.jpeg?x-expires=1650934800&x-signature=SzjpeaU92WFgRmZb0OlRiy53bAQ%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/063169e3380d16880c3a719bd6328eb4~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=oEb2whnk8EuSlocyBRqqdw7%2BozU%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZrTrLwDRCCTWIlsRH3ydgJRhfIPiCKHyUSWpp-pIbUSEwYsfEmortlgSHb8mSr1g",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6715196271927232514",
+        "title": "Thunderstruck",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/18a3c5cd735b45198eee703fa292b7fe",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/60fd1bf20de54e1f8a1c7b2d35623b65.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/60fd1bf20de54e1f8a1c7b2d35623b65.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/60fd1bf20de54e1f8a1c7b2d35623b65.jpeg",
+        "authorName": "AC/DC",
+        "original": false,
+        "duration": 60,
+        "album": "The Razors Edge"
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 116
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 11,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6980737622775890949",
+            "isCommerce": false,
+            "userUniqueId": "izzybe2010",
+            "secUid": "MS4wLjABAAAA6sKCn_NURtWpBwxloO8kcdvOP28ZBEOSZFeXe1Vvf_znhzZ6x0VOtC182_dxZpCM",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 12,
+            "end": 25,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7045532739600450565",
+            "isCommerce": false,
+            "userUniqueId": "lukehaith203",
+            "secUid": "MS4wLjABAAAAW7xDCIYC4NOrEsRiELf-qtO1amSPubvBZbCWE1rZpJq3TY1X5Bt9LvHvQPZXi7AL",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 842,
+        "followerCount": 190,
+        "heartCount": 56,
+        "videoCount": 4,
+        "diggCount": 230,
+        "heart": 56
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Rait it 1 to 100 "
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7067306284098831365",
+        "shortId": "",
+        "uniqueId": "_milkshake_the_cow_",
+        "nickname": "Milkshake the cow",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e66a39769a8925223edee035a8eea2f5~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=6pmqWIKF2XJmaPi5ljSj8QncDT8%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e66a39769a8925223edee035a8eea2f5~c5_720x720.jpeg?x-expires=1649372400&x-signature=H9j%2BeBNgs2DC%2F5F%2FaCmPj6%2F4%2F8Y%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e66a39769a8925223edee035a8eea2f5~c5_100x100.jpeg?x-expires=1649372400&x-signature=MJDC84dQgHz3MmEDrIES0Q2tJj0%3D",
+        "signature": "Pls follow",
+        "createTime": 1645485601,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4xZkcfO4_uc6XKs6Pu-1sIZehgOheWRDGCfl-x7P-B6btM4Oz_e6Bf8Jyh7rtPDU",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11,
+        "followingCount": 26,
+        "heart": 71,
+        "heartCount": 71,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

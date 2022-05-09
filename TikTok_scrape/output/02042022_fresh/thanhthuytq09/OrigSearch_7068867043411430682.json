@@ -1,0 +1,144 @@
+{
+    "id": "7068867043411430682",
+    "desc": "\ud83c\udf7b\ud83c\udf7b\ud83c\udf7b #ukraine #ukraina",
+    "createTime": 1645848864,
+    "video": {
+        "id": "7068867043411430682",
+        "height": 576,
+        "width": 576,
+        "duration": 23,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/57e1ddce12504a97a2011e5081066948?x-expires=1648944000&x-signature=kB8OP9OGFZTSDSoovX9rmeRTPdc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/4dced9366144484787aa3cee942db827_1645848865?x-expires=1648944000&x-signature=yZHE9CFwwDssZPttt8bOf8kmnJk%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/195b69b507d14404b74b41589312d9fd_1645848865?x-expires=1648944000&x-signature=%2FdKMcaOWfa%2Bm3lAaPeFBmf1EJdM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/69f245812c90d80f1e882056c1477c6c/6248ef19/video/tos/useast2a/tos-useast2a-pve-0037-aiso/75d51f1daa6443ee91b49fd7c40c64f9/?a=1988&br=1130&bt=565&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmiVqDXq&l=2022040218490501011300606924D43B84&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2tnZ2k6ZnF0OzMzZjgzM0ApNWk0OzM7NmQ0NzlnOWU7N2dgYmEtcjQwZWBgLS1kL2Nzc19iM2A2MmMyYTQtYV9eX2I6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/69f245812c90d80f1e882056c1477c6c/6248ef19/video/tos/useast2a/tos-useast2a-pve-0037-aiso/75d51f1daa6443ee91b49fd7c40c64f9/?a=1988&br=1130&bt=565&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmiVqDXq&l=2022040218490501011300606924D43B84&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2tnZ2k6ZnF0OzMzZjgzM0ApNWk0OzM7NmQ0NzlnOWU7N2dgYmEtcjQwZWBgLS1kL2Nzc19iM2A2MmMyYTQtYV9eX2I6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/4dced9366144484787aa3cee942db827_1645848865~tplv-tiktok-play.jpeg?x-expires=1649527200&x-signature=ef6%2FWnrU1w5oA2McG3kgcVELbmg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/4dced9366144484787aa3cee942db827_1645848865~tplv-tiktokx-share-play.jpeg?x-expires=1649527200&x-signature=e4h7l8pq9DY8xM0VJ6wBmaKVrpA%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/57e1ddce12504a97a2011e5081066948?x-expires=1648944000&x-signature=kB8OP9OGFZTSDSoovX9rmeRTPdc%3D",
+        "bitrate": 578688,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7037519990307914753",
+        "uniqueId": "thanhthuytq09",
+        "nickname": "Yi",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ba361856f268538d9a4bf32a6a3b098~c5_100x100.jpeg?x-expires=1649008800&x-signature=WQ8atXALAwJdD5Pqlhctu%2B3gYOU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ba361856f268538d9a4bf32a6a3b098~c5_720x720.jpeg?x-expires=1649008800&x-signature=azDJ5nJj%2BaV3coMFknV1xAQ3PjI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ba361856f268538d9a4bf32a6a3b098~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=8pHZ0p2xclKhctVhVM5C0tx4Z4Y%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgF740PXUo6l35ZKRkjGN4SrIE0qjXMpEFSSDIEr1RA8F1vAFqPRiDiwyI9aTafP4",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7068867054375422747",
+        "title": "nh\u1ea1c n\u1ec1n - Yi",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7068867047182076699.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ba361856f268538d9a4bf32a6a3b098~c5_100x100.jpeg?x-expires=1649008800&x-signature=WQ8atXALAwJdD5Pqlhctu%2B3gYOU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ba361856f268538d9a4bf32a6a3b098~c5_720x720.jpeg?x-expires=1649008800&x-signature=azDJ5nJj%2BaV3coMFknV1xAQ3PjI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6ba361856f268538d9a4bf32a6a3b098~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=8pHZ0p2xclKhctVhVM5C0tx4Z4Y%3D",
+        "authorName": "Yi",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "5387946",
+            "title": "ukraina",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 971400,
+        "shareCount": 41300,
+        "commentCount": 35800,
+        "playCount": 10900000
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 7,
+            "end": 15,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 16,
+            "end": 24,
+            "hashtagName": "ukraina",
+            "hashtagId": "5387946",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 11,
+        "followerCount": 22600,
+        "heartCount": 976300,
+        "videoCount": 4,
+        "diggCount": 1331,
+        "heart": 976300
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

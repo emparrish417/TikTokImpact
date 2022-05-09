@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6749980593406510085",
+        "shortId": "",
+        "uniqueId": "adr1anrodr1guez",
+        "nickname": "adrian rodriguez",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2bac2e02a087941bc5b5ac4c3267937~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=iFFRAI6jxV95aCMCo0YJT6u1vG8%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2bac2e02a087941bc5b5ac4c3267937~c5_720x720.jpeg?x-expires=1650240000&x-signature=lm%2FQHm%2FTcHAdxqvzPPmsy0Fr22s%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e2bac2e02a087941bc5b5ac4c3267937~c5_100x100.jpeg?x-expires=1650240000&x-signature=zRfRk3crBJiDhzXZyVVKbdxQ7Kg%3D",
+        "signature": "\ud83e\udd8d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAivPL_wPCkSEXw3ooOzwY6uzrqJD8yzOf5k0255X6Ah_N9KiZA1k4ztb9CcIrbUq6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14700,
+        "followingCount": 70,
+        "heart": 1600000,
+        "heartCount": 1600000,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

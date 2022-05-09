@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7010620374334080005",
+        "shortId": "",
+        "uniqueId": "sashunya7",
+        "nickname": "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \ud83d\ude0e",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98b6ea84a7c51f3e5e31f98f5e7da288~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=uHJEwGkTsuZ39Mdh1oaUh0NTuRE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98b6ea84a7c51f3e5e31f98f5e7da288~c5_720x720.jpeg?x-expires=1648580400&x-signature=irn5Pnl05qRhEJVcCHlpkb1Rm7M%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98b6ea84a7c51f3e5e31f98f5e7da288~c5_100x100.jpeg?x-expires=1648580400&x-signature=1zwaR4XPwkWiUnkdyBGShu6L4oM%3D",
+        "signature": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u0445\u043e\u0447 \u0444\u043e\u043a\u0443\u0441 ??????",
+        "createTime": 1635171471,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQx7rIkxE-wRw4ZsDwn_p356k0LvObOzXU172jkn7HyTfF_hyimfOH5qv3mgJo0ZL",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3747,
+        "followingCount": 3826,
+        "heart": 1465,
+        "heartCount": 1465,
+        "videoCount": 60,
+        "diggCount": 0
+    },
+    "itemList": []
+}

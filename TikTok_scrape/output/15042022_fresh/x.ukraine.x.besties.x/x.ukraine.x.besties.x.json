@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7070203492237755398",
+        "shortId": "",
+        "uniqueId": "x.ukraine.x.besties.x",
+        "nickname": "Ukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55fdbbce89e30af0ca00cb3693a4bf73~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=IDVlorHhzJW%2F9LMRpHwtJzVcQ%2FE%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55fdbbce89e30af0ca00cb3693a4bf73~c5_720x720.jpeg?x-expires=1650240000&x-signature=mx4CgpJ5iqMLgaU%2F5MozP8%2BZ6AM%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/55fdbbce89e30af0ca00cb3693a4bf73~c5_100x100.jpeg?x-expires=1650240000&x-signature=DYpO37oh0VN%2BN%2FxSDa5A3CDkW5Q%3D",
+        "signature": "Owner 1\nOwner 2",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyI2OAnhnlsn0veQmD8EzPtiTlPX8NJrI3JUHk0ikVuRN8Ud6eh4ren0I3UGQuKl5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 64,
+        "followingCount": 382,
+        "heart": 67,
+        "heartCount": 67,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

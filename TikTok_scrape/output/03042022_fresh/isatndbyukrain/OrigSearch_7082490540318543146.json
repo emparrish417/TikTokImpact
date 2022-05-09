@@ -1,0 +1,90 @@
+{
+    "id": "7082490540318543146",
+    "desc": "",
+    "createTime": 1649020831,
+    "video": {
+        "id": "7082490540318543146",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/94101fc0213d45f393c235139f3bcc36?x-expires=1649052000&x-signature=dythwOZ0Bj%2FQaL2X4RMBuoCHjEY%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/9c799b6bfc234e38bb9bc4a375c9df36_1649020832?x-expires=1649052000&x-signature=5af2G8gzo01vcvmnOnOoamp8TZM%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2105a1adda0c40f5959f0ce2b9b804c3_1649020833?x-expires=1649052000&x-signature=HBe6Z9SbzjrbWtt20DY3EmnLtjA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/007240b09761c2352f269329a2e76a13/624a972c/video/tos/useast5/tos-useast5-ve-0068c001-tx/aaef1a30625d43b28007773ea33d822e/?a=1988&br=2166&bt=1083&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl2RqDXq&l=202204040058410101131351940FF39509&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhsZDY6ZjozPDMzZzczNEApaWU2aDwzN2RlNzVmZDxkZGczbGxucjRfczJgLS1kMS9zczYyXzZgMmE2NV41YF42YC86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/007240b09761c2352f269329a2e76a13/624a972c/video/tos/useast5/tos-useast5-ve-0068c001-tx/aaef1a30625d43b28007773ea33d822e/?a=1988&br=2166&bt=1083&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thl2RqDXq&l=202204040058410101131351940FF39509&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajhsZDY6ZjozPDMzZzczNEApaWU2aDwzN2RlNzVmZDxkZGczbGxucjRfczJgLS1kMS9zczYyXzZgMmE2NV41YF42YC86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9c799b6bfc234e38bb9bc4a375c9df36_1649020832~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=MaLgzQ4okS2zyXvDveaGK4J9fsU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/9c799b6bfc234e38bb9bc4a375c9df36_1649020832~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=TKUYF%2BANFw0QMXXDWrDx84%2Fi2eA%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/94101fc0213d45f393c235139f3bcc36?x-expires=1649052000&x-signature=sbRrt2M%2FXmDH7NxHaFPHBLySALs%3D",
+        "bitrate": 1109593,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6991589882247791622",
+        "uniqueId": "isatndbyukrain",
+        "nickname": "I standby ukrain",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a83b165c8b03dd4052a13e62544d742d~c5_100x100.jpeg?x-expires=1649116800&x-signature=Y70iWi2FTdx1bnDZfEv5Ylnpokk%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a83b165c8b03dd4052a13e62544d742d~c5_720x720.jpeg?x-expires=1649116800&x-signature=LE4eq6WQngW3mVfFBQop2ZlVL%2Fo%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a83b165c8b03dd4052a13e62544d742d~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=RXRjfTLglDCxvc4QOwhLdIeeEHQ%3D",
+        "signature": "Pls follow",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA8wbOlRDxAIVI3rx9OeRC2fNqjpQJjiutVZuiU4JzwtTNBNhsrkDKWYhV29seaRCE",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7064760168793262895",
+        "title": "Streets X blood sweat tears",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7064760181472791342.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4826161cdafaba7b1d0749795cd50d26~c5_100x100.jpeg?x-expires=1649116800&x-signature=ZDkLEoV%2F7voq%2FSdrMdnSR8cV4HU%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4826161cdafaba7b1d0749795cd50d26~c5_720x720.jpeg?x-expires=1649116800&x-signature=UljmMlQb4czmlJOGsm9ZwZLLGyE%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4826161cdafaba7b1d0749795cd50d26~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=Xp6Iv%2FfW8cWNXRwck8oiTC5ACRQ%3D",
+        "authorName": "\ud83e\udd28",
+        "original": true,
+        "duration": 11,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 3
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 517,
+        "followerCount": 115,
+        "heartCount": 5,
+        "videoCount": 11,
+        "diggCount": 1299,
+        "heart": 5
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

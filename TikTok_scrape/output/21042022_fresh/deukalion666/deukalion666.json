@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6778444463687861253",
+        "shortId": "",
+        "uniqueId": "deukalion666",
+        "nickname": "Deukalion",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1671419158373381~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=zoUjRlWzxwVi6Vbho6uFCaGlUIA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1671419158373381~c5_720x720.jpeg?x-expires=1650751200&x-signature=0ZysLmB7k3uXvzCFlzQFIyzfJ3g%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1671419158373381~c5_100x100.jpeg?x-expires=1650751200&x-signature=%2F05n28CXni91IRCtv9PjQjLKTro%3D",
+        "signature": "The son of Prometheus",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA9to0pnqozPLnNJUXZUE_rj6Zvme9wgcPOxroAQZP9iiIP-xOVqIpFkfx9l6T8zBr",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 80,
+        "followingCount": 53,
+        "heart": 6181,
+        "heartCount": 6181,
+        "videoCount": 86,
+        "diggCount": 0
+    },
+    "itemList": []
+}

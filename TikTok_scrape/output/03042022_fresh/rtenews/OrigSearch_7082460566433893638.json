@@ -1,0 +1,158 @@
+{
+    "id": "7082460566433893638",
+    "desc": "A Garda convoy carrying a consignment of urgently needed medical supplies has arrived on the Slovak-Ukrainian border. The supplies were sourced by Ukrainian doctors working in Ireland and will be sent to hospitals and orphanages in Ukraine. #RTEnews #Ukraine",
+    "createTime": 1649013853,
+    "video": {
+        "id": "7082460566433893638",
+        "height": 960,
+        "width": 540,
+        "duration": 59,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/baee702499704bd58d6a4058c4fa9f89_1649013857~tplv-dmt-logom:tos-useast2a-v-0068/6f1424e828814fcdbc867fa87ff6fb78.image?x-expires=1649052000&x-signature=lQhjs%2FxVXHeZYjiiUNF3DpSTLHg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5546b8d150544058aaee3540ef5499a4_1649013854?x-expires=1649052000&x-signature=FYzRdICtMHV67pvQwc6Tpry5vhY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/52372102b0744ed787e97a13f2713b87_1649013855?x-expires=1649052000&x-signature=9f9TyI7PasU69IodSkA6Nd09i%2Bo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f91ff1f88513157cc8b20d97e6bbcf62/624a96fd/video/tos/useast2a/tos-useast2a-ve-0068c001/fad59807936a461aac80664cb8bca064/?a=1988&br=2396&bt=1198&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmjRqDXq&l=202204040057060101131352111600A506&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzppPDo6Zm15PDMzNzczM0ApOjo3NjQ8Njs3NzNnOGdlOmcuYmU0cjRfNTFgLS1kMTZzcy81NDBiLmM2YmAxX2AvNl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f91ff1f88513157cc8b20d97e6bbcf62/624a96fd/video/tos/useast2a/tos-useast2a-ve-0068c001/fad59807936a461aac80664cb8bca064/?a=1988&br=2396&bt=1198&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmjRqDXq&l=202204040057060101131352111600A506&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzppPDo6Zm15PDMzNzczM0ApOjo3NjQ8Njs3NzNnOGdlOmcuYmU0cjRfNTFgLS1kMTZzcy81NDBiLmM2YmAxX2AvNl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5546b8d150544058aaee3540ef5499a4_1649013854~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=ewTZaiodwnW55AuOzeFharzMSMo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5546b8d150544058aaee3540ef5499a4_1649013854~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=HV%2BA2WwLLNKRFYWae04Cvlxi4uk%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/baee702499704bd58d6a4058c4fa9f89_1649013857?x-expires=1649052000&x-signature=vXBICxwbU6LiUS0N5asXpDkn%2BPM%3D",
+        "bitrate": 1227218,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6797376724142785542",
+        "uniqueId": "rtenews",
+        "nickname": "RT\u00c9 News",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_100x100.jpeg?x-expires=1649116800&x-signature=4FWDyNVdj8fC54fQg7iVPplOKro%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_720x720.jpeg?x-expires=1649116800&x-signature=%2FPVPXBtpTSeSAnLE9txFOtlwsw0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=HILFNW1od8YNvPTyr5u0ahKUhkw%3D",
+        "signature": "Ireland\u2019s National Public Service Multimedia News",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAe2GXe03j1NDHsAyLlK0dmZEwmiWotZPTcmE1tqNQZi4W1nwFfvLR9rqxfRFMSMOX",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082460566115158790",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082460562872879878.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_100x100.jpeg?x-expires=1649116800&x-signature=4FWDyNVdj8fC54fQg7iVPplOKro%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_720x720.jpeg?x-expires=1649116800&x-signature=%2FPVPXBtpTSeSAnLE9txFOtlwsw0%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b91bfdc207c38cd54428897e076088a8~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=HILFNW1od8YNvPTyr5u0ahKUhkw%3D",
+        "authorName": "RT\u00c9 News",
+        "original": true,
+        "duration": 59,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1627182449469445",
+            "title": "rtenews",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 298,
+        "shareCount": 6,
+        "commentCount": 0,
+        "playCount": 3619
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 242,
+            "end": 250,
+            "hashtagName": "rtenews",
+            "hashtagId": "1627182449469445",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 251,
+            "end": 259,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 12,
+        "followerCount": 75000,
+        "heartCount": 1100000,
+        "videoCount": 189,
+        "diggCount": 4,
+        "heart": 1100000
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Garda convoy carrying medical supplies arrives at Slovak-Ukrainian border"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "Garda\u00ed bring\nmedical supplies\nto Ukraine border"
+            ]
+        }
+    ],
+    "isAd": false
+}

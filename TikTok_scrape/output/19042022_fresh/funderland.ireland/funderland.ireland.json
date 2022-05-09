@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6970280582535316486",
+        "shortId": "",
+        "uniqueId": "funderland.ireland",
+        "nickname": "Funderland.Ireland",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/425f0e108b1b836de30b99b967aca397~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=DHkRaYt%2FVuWsYwJbDd6qtpdeQ68%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/425f0e108b1b836de30b99b967aca397~c5_720x720.jpeg?x-expires=1650578400&x-signature=utp2zQgv3EvLraDzLmtNz5jEeEk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/425f0e108b1b836de30b99b967aca397~c5_100x100.jpeg?x-expires=1650578400&x-signature=Kw%2BIQA1%2Bavhtwyp74Rter4B0arU%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAACdR-H0LKuy-Jv-p4XNDF1KXZKeDyfUS9WkjiyjGFxOmEdhnXPJX0z869p_iwpe9e",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14900,
+        "followingCount": 0,
+        "heart": 191100,
+        "heartCount": 191100,
+        "videoCount": 71,
+        "diggCount": 0
+    },
+    "itemList": []
+}

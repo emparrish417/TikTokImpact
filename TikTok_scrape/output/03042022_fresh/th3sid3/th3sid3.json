@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7081100265390146602",
+        "shortId": "",
+        "uniqueId": "th3sid3",
+        "nickname": "Th3Sid3",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdcf5b650faad60bc0773b6e4bff26b3~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=mKhbcMpBxrbFc6MGR%2FLekVQiMXU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdcf5b650faad60bc0773b6e4bff26b3~c5_720x720.jpeg?x-expires=1649116800&x-signature=eRXRjvrSOdLR06Dgki2H4kS3KwQ%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdcf5b650faad60bc0773b6e4bff26b3~c5_100x100.jpeg?x-expires=1649116800&x-signature=sxUeIEoyGRHqiYu0vJVMFiXwtbw%3D",
+        "signature": "",
+        "createTime": 1648697240,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0EYbhh8kN4d4KX4gnq0dvsvR37zHkv-UAw7HqU3RbjUJ7J2o8E2snjczf1htAP5K",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1027,
+        "followingCount": 1,
+        "heart": 25900,
+        "heartCount": 25900,
+        "videoCount": 40,
+        "diggCount": 0
+    },
+    "itemList": []
+}

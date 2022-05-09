@@ -1,0 +1,104 @@
+{
+    "id": "7087739892200918315",
+    "desc": "",
+    "createTime": 1650243041,
+    "video": {
+        "id": "7087739892200918315",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ea6274171b674f5f8194587629e4057e?x-expires=1650330000&x-signature=IFdRfaf9X9JD5OWcW5ux5MJ%2FDEM%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/894c247e214e4c4d8c7f6079c0274d59_1650243042?x-expires=1650330000&x-signature=gkFB%2FzdF9U6cS1piUvjwZhd%2BDzw%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/25ae351a5b7348aa9cca743a7a9bc866_1650243043?x-expires=1650330000&x-signature=pT72plQgeHgUo%2Bw0lCYYN7wREIo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/251c579d7f1ab846a621fbd3bb50ef9c/625e0d4c/video/tos/useast5/tos-useast5-pve-0068-tx/a74a1611dc9440b0b62dddfb609adb4c/?a=1988&br=2566&bt=1283&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~zxwwe2NV87fl7Gb&l=202204181915480101131352070C026909&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdoOjY6ZnFlPDMzZzczNEApOWg1ZDwzN2Q1N2Y3MzNlNGdoZmEvcjRnX2JgLS1kMS9zczJiMy81Xi9eXl9hMTAzLl46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/251c579d7f1ab846a621fbd3bb50ef9c/625e0d4c/video/tos/useast5/tos-useast5-pve-0068-tx/a74a1611dc9440b0b62dddfb609adb4c/?a=1988&br=2566&bt=1283&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~zxwwe2NV87fl7Gb&l=202204181915480101131352070C026909&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzdoOjY6ZnFlPDMzZzczNEApOWg1ZDwzN2Q1N2Y3MzNlNGdoZmEvcjRnX2JgLS1kMS9zczJiMy81Xi9eXl9hMTAzLl46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/894c247e214e4c4d8c7f6079c0274d59_1650243042~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=sicQfflew75n49afG7cMQiTflOU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/894c247e214e4c4d8c7f6079c0274d59_1650243042~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=pv5CB3g1Q0EGQk%2BT4CS%2Fz4W%2F2Vc%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ea6274171b674f5f8194587629e4057e?x-expires=1650330000&x-signature=IFdRfaf9X9JD5OWcW5ux5MJ%2FDEM%3D",
+        "bitrate": 1313974,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6996418485086733318",
+        "uniqueId": "helpme0008",
+        "nickname": "Go for UKRAINE",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/61f37f8f62a71f93c81882d8c396f112~c5_100x100.jpeg?x-expires=1650481200&x-signature=HlOYhB0M8M96ERa1WlRZazAepHI%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/61f37f8f62a71f93c81882d8c396f112~c5_720x720.jpeg?x-expires=1650481200&x-signature=xCeO%2FVHPcRsj9HFytDpD%2B3XJemA%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/61f37f8f62a71f93c81882d8c396f112~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=m9Do2YATIrO5zYVxkn2kWttCYLg%3D",
+        "signature": "Follow me like some videos AND MESSAGE ME ON TIKTOK123",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnXWD1pUN7cfRU9PoVW0R3sak2tfzeQSgrKQhplWJfnZWsYVPUJZgeNxRsftBCQ-R",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7046467415877798703",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7046467425281559342.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6548190c226285ea724ce91a42bf2a02~c5_100x100.jpeg?x-expires=1650481200&x-signature=dhELskpcMkmFKyNA0KJie16QrCo%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6548190c226285ea724ce91a42bf2a02~c5_720x720.jpeg?x-expires=1650481200&x-signature=0gXEYsvUB4wauZWOjPU%2FHQHQsTM%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6548190c226285ea724ce91a42bf2a02~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=D2U7e0whuu5VpbNcvnHLRAk%2BD64%3D",
+        "authorName": "Dadood",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 16
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "lets talk emoji",
+            "ID": "1318002"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 737,
+        "followerCount": 183,
+        "heartCount": 236,
+        "videoCount": 228,
+        "diggCount": 7669,
+        "heart": 236
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "My favorite food!-whats my favorite food "
+            ]
+        }
+    ],
+    "isAd": false
+}

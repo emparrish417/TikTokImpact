@@ -1,0 +1,113 @@
+{
+    "id": "7080786418938793222",
+    "desc": "\u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c \u043d\u0430 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440 @gachs_life_love34",
+    "createTime": 1648624062,
+    "video": {
+        "id": "7080786418938793222",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/95f20c718ea14425a3be1f3aa7006f43?x-expires=1648699200&x-signature=LP0L3yAZ%2BP7%2BJaF0Y6frJveTYlI%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1ce1faebe5894a6ba41cf4ea9bf4ab8d_1648624063?x-expires=1648699200&x-signature=KCPaJ73gOC7lDNn5JkYRct60QcE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/382f1fc090fd42c19e02561ca37924fa_1648624063?x-expires=1648699200&x-signature=1EFCbPXkWjzqc299mkKzxaWI5kQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f157641e7fecb2cd6ae2a960ab3f45e7/6245298b/video/tos/useast2a/tos-useast2a-ve-0068c004/895a044952fe4fa895c1b01dcef3ff6c/?a=1988&br=228&bt=114&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThO3FzDXq&l=202203302209370101131351760257E264&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajtkbzg6ZmozPDMzNzczM0ApOjc5ZWhoM2Q2Nzc7NTdlZWcubzZpcjRvLy9gLS1kMTZzczI2YF8uLjQwNF8vMl4uMTU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f157641e7fecb2cd6ae2a960ab3f45e7/6245298b/video/tos/useast2a/tos-useast2a-ve-0068c004/895a044952fe4fa895c1b01dcef3ff6c/?a=1988&br=228&bt=114&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThO3FzDXq&l=202203302209370101131351760257E264&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajtkbzg6ZmozPDMzNzczM0ApOjc5ZWhoM2Q2Nzc7NTdlZWcubzZpcjRvLy9gLS1kMTZzczI2YF8uLjQwNF8vMl4uMTU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1ce1faebe5894a6ba41cf4ea9bf4ab8d_1648624063~tplv-tiktok-play.jpeg?x-expires=1649282400&x-signature=qTe%2B6jKIetAJRUsCQXpbNU25zuY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1ce1faebe5894a6ba41cf4ea9bf4ab8d_1648624063~tplv-tiktokx-share-play.jpeg?x-expires=1649282400&x-signature=1q8%2B1JPr0urNcciswekUSoP9zG4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/95f20c718ea14425a3be1f3aa7006f43?x-expires=1648699200&x-signature=LP0L3yAZ%2BP7%2BJaF0Y6frJveTYlI%3D",
+        "bitrate": 117432,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7073498353597826053",
+        "uniqueId": "vika_ukraine_",
+        "nickname": "dragon_life",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a27dcaaff2b0d2658234c93447c24d3a~c5_100x100.jpeg?x-expires=1648764000&x-signature=7ZCuVyLTy7A7dxsBJm9G7yEE1h8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a27dcaaff2b0d2658234c93447c24d3a~c5_720x720.jpeg?x-expires=1648764000&x-signature=8RSOvnge%2B4U1MDZoLFlJazbU72U%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a27dcaaff2b0d2658234c93447c24d3a~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=56qbHis40jhpajErY6t3cF%2BwGeY%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJKa0KvnyrG9yoAqP3U0ER6bshCgjzDwnm-UCKrgQ_J7ruNR-Oy1nxdwofp02qbQL",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6858159912577402881",
+        "title": "Big Time",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/76bab74eb4594fce9a4612465859deee",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/dd2e4fd4af7d41b68c457c2c8c564012.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/dd2e4fd4af7d41b68c457c2c8c564012.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/dd2e4fd4af7d41b68c457c2c8c564012.jpeg",
+        "authorName": "Skrxlla",
+        "original": false,
+        "duration": 60,
+        "album": "Cold Fashion"
+    },
+    "stats": {
+        "diggCount": 10,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 67
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 40,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7010067190670115846",
+            "isCommerce": false,
+            "userUniqueId": "gachs_life_love34",
+            "secUid": "MS4wLjABAAAA8ETWaOsAA5hpP81LRro9P3gMHUxklwYYfwGjGR3FGHnxjMWDenFL7T71sWnRPRHp",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1655,
+        "followerCount": 248,
+        "heartCount": 185,
+        "videoCount": 27,
+        "diggCount": 5140,
+        "heart": 185
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u043a\u043e\u0433\u043e \u0449\u0435 \ud83d\ude0f"
+            ]
+        }
+    ],
+    "isAd": false
+}

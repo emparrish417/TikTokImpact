@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7080508819268371462",
+        "shortId": "",
+        "uniqueId": "news_ukrain_",
+        "nickname": "news_ukrain_",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d407a8660fdcac904a3d47bebe21281c~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=wxwOpxEoWrEo%2FUFU8dxMShvo%2BQk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d407a8660fdcac904a3d47bebe21281c~c5_720x720.jpeg?x-expires=1649116800&x-signature=T%2BTkA48fI4Lbh0utII3CCYuSq7k%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d407a8660fdcac904a3d47bebe21281c~c5_100x100.jpeg?x-expires=1649116800&x-signature=84dcHRPely%2FFUPBvHLaLsPkoTHo%3D",
+        "signature": "\u041d\u0430\u0439\u0441\u0432\u0456\u0436\u0456\u0448\u0456 \u043d\u043e\u0432\u0438\u043d\u0438 \u0432 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \n\u00ab\u041d\u043e\u0432\u0438\u043d\u0438 \u0434\u043d\u044f - \u0412\u0456\u0439\u043d\u0430 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456\u00bb",
+        "createTime": 1648559484,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6csu5P2FySr9UiLEDDRhVDC0YzIcM4QCPsLwvrwQiUxD0yEgeoYAJztFuTOzbLJg",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1297,
+        "followingCount": 34,
+        "heart": 9829,
+        "heartCount": 9829,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6881166490558268422",
+        "shortId": "",
+        "uniqueId": "raymondlee88",
+        "nickname": "Raymond Morin",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e6cdc76905f3058cd491361dfc147366~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=gRaP8jX79yi71rkGh1Zc5RocK78%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e6cdc76905f3058cd491361dfc147366~c5_720x720.jpeg?x-expires=1649638800&x-signature=jdq1PxVKl7m6pkE6BEXsnXw7kyw%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e6cdc76905f3058cd491361dfc147366~c5_100x100.jpeg?x-expires=1649638800&x-signature=4vbiUJc0EAJvGctv6EhvhFILrq8%3D",
+        "signature": "",
+        "createTime": 1602146562,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAX5p--xiLglMT--15AAkF6bnonwgFV6wRVHl4Ju-9fAWzjkHib1dicMFInBP1aEgx",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 50,
+        "followingCount": 214,
+        "heart": 45,
+        "heartCount": 45,
+        "videoCount": 11,
+        "diggCount": 0
+    },
+    "itemList": []
+}

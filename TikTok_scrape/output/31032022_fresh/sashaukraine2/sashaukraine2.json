@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6981506500461446149",
+        "shortId": "",
+        "uniqueId": "sashaukraine2",
+        "nickname": "sashaukraine",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/652ae0bfe1a20043c41c2fc48d7b5ec4~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=xUuXI0qzc%2FZUkZeOTIQjmJjmhZg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/652ae0bfe1a20043c41c2fc48d7b5ec4~c5_720x720.jpeg?x-expires=1648850400&x-signature=gRqJqDEcIFIMf7bR1UliIaYQaXI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/652ae0bfe1a20043c41c2fc48d7b5ec4~c5_100x100.jpeg?x-expires=1648850400&x-signature=66QU6p74XkVIaqc3%2FknllbEHip0%3D",
+        "signature": "800\u2705\n850\u2705\n900\u2705\n950\u2705\n1000\u2705",
+        "createTime": 1625763093,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG6H9bu3eFNDc5QlT2WP6lToIAeKeguc0gYbcyTSft6kvaGRuvFcsL15YOuHNrxjj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/susbebr",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1313,
+        "followingCount": 1104,
+        "heart": 3746,
+        "heartCount": 3746,
+        "videoCount": 295,
+        "diggCount": 0
+    },
+    "itemList": []
+}

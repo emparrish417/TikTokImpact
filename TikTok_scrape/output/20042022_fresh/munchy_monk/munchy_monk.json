@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6815682390229287941",
+        "shortId": "",
+        "uniqueId": "munchy_monk",
+        "nickname": "Louie",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=cgLeJ7OyqYxPgZCdu0zX9Lz095s%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_720x720.jpeg?x-expires=1650664800&x-signature=sxH5X1JZUza0lp7f%2Bmx2fpEl5Gg%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/42255c7a434509c663d3d7f8e4d2224a~c5_100x100.jpeg?x-expires=1650664800&x-signature=dm9cosXaF%2BhHe1PJ9W20aiThEa8%3D",
+        "signature": "Please tell me who I look like\nPO Box 5265 \nConcord Ca, 94524",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAlDfwwRdwr3fCTjaU8xoWg5p7oa7qXxVC13ah-YVxeTT1w26_3n3ym17ixhZ6tUIR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/munchy_monk",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 437500,
+        "followingCount": 113,
+        "heart": 23300000,
+        "heartCount": 23300000,
+        "videoCount": 180,
+        "diggCount": 0
+    },
+    "itemList": []
+}

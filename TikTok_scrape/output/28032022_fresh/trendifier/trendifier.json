@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6871703149305381894",
+        "shortId": "",
+        "uniqueId": "trendifier",
+        "nickname": "Julian Dorey",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aee9478cc72b552e17c6c87a723842f6~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=MHH%2FtwGg74V6UZeDkKHQf9%2Bt%2BEM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aee9478cc72b552e17c6c87a723842f6~c5_720x720.jpeg?x-expires=1648580400&x-signature=c%2BINimYcCzZYqqdvhoC1bJG9O%2Bo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aee9478cc72b552e17c6c87a723842f6~c5_100x100.jpeg?x-expires=1648580400&x-signature=Uj7xMqxS66uKrFsJettqrV%2FrjvA%3D",
+        "signature": "\u2b07\ufe0f SUBSCRIBE TO YOUTUBE & Apple/Spotify \u2b07\ufe0f",
+        "createTime": 1599943226,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiuBETKPBbHd25u9K4M-0emFnT_FnL1czIA6gY0IRd8QrJ9ZNjAqpn6LDnhS34ngV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://geni.us/JulianDorey",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 406000,
+        "followingCount": 69,
+        "heart": 13900000,
+        "heartCount": 13900000,
+        "videoCount": 168,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6812661572424958982",
+        "shortId": "",
+        "uniqueId": "lionelcowboy420",
+        "nickname": "Tik Toker",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0a5f5be13ad6f3c17d12bb79c1e4a65d~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=u%2FMIQTs7jTfWzDmLvIg1EorfP2U%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0a5f5be13ad6f3c17d12bb79c1e4a65d~c5_720x720.jpeg?x-expires=1650664800&x-signature=yylb4b5Ihy7%2B8monJzbSIz9ySiY%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0a5f5be13ad6f3c17d12bb79c1e4a65d~c5_100x100.jpeg?x-expires=1650664800&x-signature=1Q9voDy6QzAiv%2FNAIFg%2BXP1rPj0%3D",
+        "signature": "Lionel Cowboy Fort Wunny",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqQJP8bCG9pPWDN-GVncH1xZN7KnfsxcvRhHHnkGbwWzXOotmxv2tsVbQCzZYPC1V",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8386,
+        "followingCount": 84,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 105,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6842307636743324678",
+        "shortId": "",
+        "uniqueId": "okohnook",
+        "nickname": "Ohno",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9e2295b4d85b53097d23647cc3c001e3~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=Frfe2z4q7zo5rtw2IlZ77bl37pI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9e2295b4d85b53097d23647cc3c001e3~c5_720x720.jpeg?x-expires=1650751200&x-signature=%2B9xXGxTt3KuxuWvds0w3phpI5l8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9e2295b4d85b53097d23647cc3c001e3~c5_100x100.jpeg?x-expires=1650751200&x-signature=jLkfJUIJ6gUENaNFTWE1EunmbCA%3D",
+        "signature": "me myself and cat \ud83d\udc31\nJoin us",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAh3JmZq7U8kkR6XSmDJEIHEaCcp1eRUGJzNtJSdE2kIFZ3ollS6GakHm1ylbvwQaI",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 56,
+        "followingCount": 169,
+        "heart": 2708,
+        "heartCount": 2708,
+        "videoCount": 342,
+        "diggCount": 0
+    },
+    "itemList": []
+}

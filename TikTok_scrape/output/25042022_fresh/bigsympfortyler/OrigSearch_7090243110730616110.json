@@ -1,0 +1,90 @@
+{
+    "id": "7090243110730616110",
+    "desc": "Is frank dead\ud83d\ude27",
+    "createTime": 1650825868,
+    "video": {
+        "id": "7090243110730616110",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0be8948d21274e7092925c99143c57fb?x-expires=1650934800&x-signature=ZNXJ2DveRJx2BoTkQL1CzKDaVhA%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/51fdc9471df84d359c3592228212b7cc_1650825869?x-expires=1650934800&x-signature=P0KMD2sB%2Bn6W4P0Yk%2FUgzwN9%2BDo%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a714e615ee664439be4cd9d6c536f37f_1650825869?x-expires=1650934800&x-signature=2RfIgcfyAUujTn%2FViZM2yVcbfao%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/2dc1ab0a373113cf41a90e61dd887f43/62674bdd/video/tos/useast5/tos-useast5-pve-0068-tx/cb0d70f004ee4e9f9fb564f5be12e214/?a=1988&br=5280&bt=2640&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZA8z4we2NuEyfl7Gb&l=202204251933070101130060381D0C938C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25xcTY6ZjRzPDMzZzczNEApOjczNTc6Njw3Nzg0MzhlZmdrMmYxcjRnaWZgLS1kMS9zczEuMDIzYjUzMC0uLl4uMTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/2dc1ab0a373113cf41a90e61dd887f43/62674bdd/video/tos/useast5/tos-useast5-pve-0068-tx/cb0d70f004ee4e9f9fb564f5be12e214/?a=1988&br=5280&bt=2640&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZA8z4we2NuEyfl7Gb&l=202204251933070101130060381D0C938C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25xcTY6ZjRzPDMzZzczNEApOjczNTc6Njw3Nzg0MzhlZmdrMmYxcjRnaWZgLS1kMS9zczEuMDIzYjUzMC0uLl4uMTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/51fdc9471df84d359c3592228212b7cc_1650825869~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=S%2B8RwYPkXjMUWH1pWLus4IeNSk4%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/51fdc9471df84d359c3592228212b7cc_1650825869~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=xqmaRXjcEU8%2FFjQQflFCshb4yTw%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0be8948d21274e7092925c99143c57fb?x-expires=1650934800&x-signature=ZNXJ2DveRJx2BoTkQL1CzKDaVhA%3D",
+        "bitrate": 2703985,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7009824525841368070",
+        "uniqueId": "bigsympfortyler",
+        "nickname": "SAVE UKRAIN\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5c588c302f62c095e3c21ac171095c94~c5_100x100.jpeg?x-expires=1651086000&x-signature=LNLpfP6G4eWOwv1XttcufctGR0I%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5c588c302f62c095e3c21ac171095c94~c5_720x720.jpeg?x-expires=1651086000&x-signature=eOTuWmUGQhnxuQxBpM%2Bcg%2BK4Aew%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5c588c302f62c095e3c21ac171095c94~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=6NHCO2xcCXOuRV3tcQde4xsbvuQ%3D",
+        "signature": "Dangggg you beautiful\ud83d\ude2d\ud83d\udc97",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAB9a4oQUxU1HPFQaFvkuenyuq59YriejesR6p4JiBEZj271xVUmt9EepCJCys2ZyY",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7029476925831678726",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7029477048276323077.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5236195eb1cc734a6a6ed32b690f295~c5_100x100.jpeg?x-expires=1651086000&x-signature=Vua3tJVlQniqsHHhzTm2xt1km5g%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5236195eb1cc734a6a6ed32b690f295~c5_720x720.jpeg?x-expires=1651086000&x-signature=uOaYupE1xyinne4arKjfiTRiCvw%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5236195eb1cc734a6a6ed32b690f295~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=PQSS1rACCoDVA8VoGtEcNJwTVe8%3D",
+        "authorName": "frankgallagherlover",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 103
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2144,
+        "followerCount": 1116,
+        "heartCount": 3501,
+        "videoCount": 174,
+        "diggCount": 7599,
+        "heart": 3501
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

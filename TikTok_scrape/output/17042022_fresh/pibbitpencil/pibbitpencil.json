@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6632391097334530054",
+        "shortId": "",
+        "uniqueId": "pibbitpencil",
+        "nickname": "Karson",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3a11ac1bac5f84cb5fed824da8f61885~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=GlT7dIDA3IAIWFEszLMrLkCN0lE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3a11ac1bac5f84cb5fed824da8f61885~c5_720x720.jpeg?x-expires=1650412800&x-signature=nWWOSrTjZpsX0vZ3xuj%2FjsapVsI%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3a11ac1bac5f84cb5fed824da8f61885~c5_100x100.jpeg?x-expires=1650412800&x-signature=4VNbFO2YRuaBBCuGWVtWQAyh8CU%3D",
+        "signature": "Help Ukraine \ud83c\uddfa\ud83c\udde6\u2b07\ufe0f\u2b07\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAL-HsfHLqWXb-mnhEnZ8vXzLAwXKEJycmoxJpaZNKUtAr-tJKbDYCdxhzWXy67Lkf",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Unicef.org",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 220400,
+        "followingCount": 505,
+        "heart": 8300000,
+        "heartCount": 8300000,
+        "videoCount": 589,
+        "diggCount": 0
+    },
+    "itemList": []
+}

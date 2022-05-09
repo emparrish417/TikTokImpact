@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "7075096093298050053",
+        "shortId": "",
+        "uniqueId": "im_ukrainka",
+        "nickname": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430 \u0454\u0434\u0438\u043d\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/03bbc388c09b4691732bb88c43e7033b~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=hxlYN9Jtx2Zv4ep59cbvhw91wgA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/03bbc388c09b4691732bb88c43e7033b~c5_720x720.jpeg?x-expires=1650934800&x-signature=0oetWSWVB7HNgvdSfLI%2F%2BzOeanU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/03bbc388c09b4691732bb88c43e7033b~c5_100x100.jpeg?x-expires=1650934800&x-signature=2o%2F%2F30juC7nGjsVtqdEpsbS9XQE%3D",
+        "signature": "\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u043a\u0430\u043d\u0430\u043b\u044c\u0447\u0438\u043a ;^\n\u2b07\ufe0f",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJb4mPdlHopvR_02pVBT-yzUAh2WbjxQHL4o-AbdB1z7ShtwTWDyiA5juHaleDfQM",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/im_ukrainka",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1084,
+        "followingCount": 138,
+        "heart": 7754,
+        "heartCount": 7754,
+        "videoCount": 37,
+        "diggCount": 0
+    },
+    "itemList": []
+}

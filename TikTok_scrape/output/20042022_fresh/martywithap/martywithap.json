@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6818677434222232582",
+        "shortId": "",
+        "uniqueId": "martywithap",
+        "nickname": "Shmaahty",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b45da6a3e0c5c49ad323a0fc4e35134e~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=OdgfI3owZaOy9fKCGcNbVWhrflk%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b45da6a3e0c5c49ad323a0fc4e35134e~c5_720x720.jpeg?x-expires=1650664800&x-signature=9kiK5jausQWeiTRuu4qRRgH4qcQ%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b45da6a3e0c5c49ad323a0fc4e35134e~c5_100x100.jpeg?x-expires=1650664800&x-signature=Kaspsjj2JQLW%2FvBtzaRQWz63yNI%3D",
+        "signature": "slow learner",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA16lZwDyIcr-OEbJ5J0pdBusofXePaaK0fRlOspA26NtH9GVAewpmdz_KvbGV_Fic",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 70400,
+        "followingCount": 157,
+        "heart": 3200000,
+        "heartCount": 3200000,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

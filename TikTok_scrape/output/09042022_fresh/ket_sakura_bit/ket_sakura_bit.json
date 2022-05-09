@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6612996304741613574",
+        "shortId": "",
+        "uniqueId": "ket_sakura_bit",
+        "nickname": "ket_sakura_bit",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fe5e852b0f17fe50d61a09535fdc5de~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=FGPXMpEo1K9lTy53ROKzzVB2BZc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fe5e852b0f17fe50d61a09535fdc5de~c5_720x720.jpeg?x-expires=1649638800&x-signature=yAEf%2FlbFqkfkZCdpFre6mRMh3lg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7fe5e852b0f17fe50d61a09535fdc5de~c5_100x100.jpeg?x-expires=1649638800&x-signature=asDSYGCl%2BokWdun9FGM%2FDR98n0c%3D",
+        "signature": "",
+        "createTime": 1539680055,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA9auJritRVcTbe3DP6d0suDjDJg6zHbNmHL-2dTHlm1ZxP_855l0uOjkOSzl1QBA4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1276,
+        "followingCount": 93,
+        "heart": 13300,
+        "heartCount": 13300,
+        "videoCount": 153,
+        "diggCount": 0
+    },
+    "itemList": []
+}

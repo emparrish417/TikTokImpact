@@ -1,0 +1,144 @@
+{
+    "id": "7081714253513723142",
+    "desc": "#\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438\u2764\ufe0f\u2764\ufe0f #\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+    "createTime": 1648840089,
+    "video": {
+        "id": "7081714253513723142",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9577e72580584d10be00211a17771962?x-expires=1648944000&x-signature=RApsLjC0QH4mARlLEKpL7Z0sL9Y%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c8fe2a45629946a0b258360da4b51e16_1648840089?x-expires=1648944000&x-signature=%2FqYV%2FQHd2cabpPgQ9vifBD21t64%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8014d41d12384e7a832909e51f190cc0_1648840090?x-expires=1648944000&x-signature=d22xbpHcQAjZkQTjVzAcxi4Bxtg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ee56e8537bd20443c0871f53ef6cd38c/6248ed45/video/tos/useast2a/tos-useast2a-pve-0068/8a875435dc354062a12894866c934b09/?a=1988&br=1004&bt=502&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV_VqDXq&l=2022040218413401011300607225C752D2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajo5cDQ6ZjhuPDMzNzczM0ApOzVoNzllaDxnNzQ3NjlmZ2dqcGkxcjRnbjBgLS1kMTZzcy8zMTQzY2IwLmNhYjJeMWM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ee56e8537bd20443c0871f53ef6cd38c/6248ed45/video/tos/useast2a/tos-useast2a-pve-0068/8a875435dc354062a12894866c934b09/?a=1988&br=1004&bt=502&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThV_VqDXq&l=2022040218413401011300607225C752D2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajo5cDQ6ZjhuPDMzNzczM0ApOzVoNzllaDxnNzQ3NjlmZ2dqcGkxcjRnbjBgLS1kMTZzcy8zMTQzY2IwLmNhYjJeMWM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c8fe2a45629946a0b258360da4b51e16_1648840089~tplv-tiktok-play.jpeg?x-expires=1649527200&x-signature=oXA5ykFUu32xY8Ds3ERTXaJ6G7c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c8fe2a45629946a0b258360da4b51e16_1648840089~tplv-tiktokx-share-play.jpeg?x-expires=1649527200&x-signature=XT7h555Pec6YYsACNdCHkbHA%2FCQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9577e72580584d10be00211a17771962?x-expires=1648944000&x-signature=RApsLjC0QH4mARlLEKpL7Z0sL9Y%3D",
+        "bitrate": 514126,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7048001104017343493",
+        "uniqueId": "ivanbazaluk0",
+        "nickname": "ivanbazaluk0",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0af2ebeeb3c97447d530e97958353d05~c5_100x100.jpeg?x-expires=1649008800&x-signature=qt6On%2BBaSUvhhRJzDk8EuWhCeo4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0af2ebeeb3c97447d530e97958353d05~c5_720x720.jpeg?x-expires=1649008800&x-signature=q5pPZm4bVfOSloEOkp8D8gZLCio%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0af2ebeeb3c97447d530e97958353d05~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=NuVbzfMfGZr8XIZW8Zx8BpqKzDQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAw377ocmEZNmunhw1IK1GhbRrDcp774Cr4eG7ZI6-4atmopQNesytxNgc9ne-1hbn",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6805307876903487489",
+        "title": "Ukraine - Shche ne Vmerly Ukrainy ni Slava ni Volya - Ukrainian National Anthem (Ukraine\u2019s Glory Hasn\u2019t Perished) [Sung]",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/51d3f5ac61994d15a2e7e61bf7fceaaf",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "authorName": "Glocal Orchestra",
+        "original": false,
+        "duration": 60,
+        "album": "Ukraine - Shche ne Vmerly Ukrainy ni Slava ni Volya - Ukrainian National Anthem (Ukraine\u2019s Glory Hasn\u2019t Perished)"
+    },
+    "challenges": [
+        {
+            "id": "1634962170012693",
+            "title": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438\u2764\ufe0f\u2764\ufe0f",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "49711363",
+            "title": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 66
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 17,
+            "hashtagName": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438\u2764\ufe0f\u2764\ufe0f",
+            "hashtagId": "1634962170012693",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 18,
+            "end": 31,
+            "hashtagName": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+            "hashtagId": "49711363",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 68,
+        "followerCount": 3,
+        "heartCount": 59,
+        "videoCount": 22,
+        "diggCount": 108,
+        "heart": 59
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

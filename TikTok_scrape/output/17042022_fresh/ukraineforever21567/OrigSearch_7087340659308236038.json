@@ -1,0 +1,98 @@
+{
+    "id": "7087340659308236038",
+    "desc": "",
+    "createTime": 1650150089,
+    "video": {
+        "id": "7087340659308236038",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c084af2b49a84f269d273d534b40881b?x-expires=1650261600&x-signature=JvKruvQevGiAvt%2B9ce87%2FVnmtlA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/09171dbe242d45febf4d5aaaa725c469_1650150089?x-expires=1650261600&x-signature=ad7uH9FYsmORnUTkWtRt854z5yM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/938f8ce5d8184e51ba1325d55488ddfc_1650150090?x-expires=1650261600&x-signature=2wVzlNM1sFlgHJSvUdN5nvnD1XY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/06ec284addf9a26f8c3cd91de4c2677c/625d0300/video/tos/useast2a/tos-useast2a-ve-0068c003/582ca83417904ad6b0154f17b4d95639/?a=1988&br=782&bt=391&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZtLuwwe2Nwzufl7Gb&l=2022041800193401011313519318647D1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlwOmQ6ZnhuPDMzNzczM0ApZ2VmZDdlOmQ0NzRnZTxlO2cvZ2Q2cjRvaGFgLS1kMTZzcy1gX15gNjBfNWFeXjJeNGE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/06ec284addf9a26f8c3cd91de4c2677c/625d0300/video/tos/useast2a/tos-useast2a-ve-0068c003/582ca83417904ad6b0154f17b4d95639/?a=1988&br=782&bt=391&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZtLuwwe2Nwzufl7Gb&l=2022041800193401011313519318647D1F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anlwOmQ6ZnhuPDMzNzczM0ApZ2VmZDdlOmQ0NzRnZTxlO2cvZ2Q2cjRvaGFgLS1kMTZzcy1gX15gNjBfNWFeXjJeNGE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/09171dbe242d45febf4d5aaaa725c469_1650150089~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=VRDimSQxKxV5%2FRg6u8C2x972fBI%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/09171dbe242d45febf4d5aaaa725c469_1650150089~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=UfCsb3JMfWtw6UUI8jQAlHahAos%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c084af2b49a84f269d273d534b40881b?x-expires=1650261600&x-signature=JvKruvQevGiAvt%2B9ce87%2FVnmtlA%3D",
+        "bitrate": 401290,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7037234684569568262",
+        "uniqueId": "ukraineforever21567",
+        "nickname": "G-ham",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98bd113681bc0d25c525f73da50b34bf~c5_100x100.jpeg?x-expires=1650412800&x-signature=amE%2F6HPY0AfMzMo9cAMjDdF0M0Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98bd113681bc0d25c525f73da50b34bf~c5_720x720.jpeg?x-expires=1650412800&x-signature=U4mpc%2B%2F4wGNPzclxJmYyAjwK1Vg%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/98bd113681bc0d25c525f73da50b34bf~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=5EnI5590Z%2FQS3e91ySEQiFHaKxM%3D",
+        "signature": "I play vr a lot and have personally touched grass. I skate and am not an emo.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYP6TVVvZ6YVhkRviwpQrq8ROoJGDywBA-TXzqUBMXYptCaqqC0OymZQvSvyDuW7v",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030869625311086594",
+        "title": "Sunroof",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/986dfec9a96747239819231f7dc93931",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "authorName": "Nicky Youre & dazy",
+        "original": false,
+        "duration": 60,
+        "album": "Sunroof"
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 23
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 526,
+        "followerCount": 129,
+        "heartCount": 209,
+        "videoCount": 54,
+        "diggCount": 1990,
+        "heart": 209
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "It\u2019s a bit anoying but unfortunately I can\u2019t upload tommorow cause of Easter so I will have to upload on Monday :)"
+            ]
+        }
+    ],
+    "isAd": false
+}

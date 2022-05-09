@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6894697021861856258",
+        "shortId": "",
+        "uniqueId": "yarenass",
+        "nickname": "yarena",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ca9a09fb9c5ee71c89e6365e31e95990~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=WG5%2FUnd%2BP2PNIvgJYFbi%2For09LA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ca9a09fb9c5ee71c89e6365e31e95990~c5_720x720.jpeg?x-expires=1648940400&x-signature=VGxlCo4E2D1cd5E83FHePAdlgzo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ca9a09fb9c5ee71c89e6365e31e95990~c5_100x100.jpeg?x-expires=1648940400&x-signature=dzZiWqDySAgEOAfduVcalCFu1Ms%3D",
+        "signature": "yarena",
+        "createTime": 1605297356,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxqQKtLW0ma95A_IBc0adA8oBx-aOHmcCoo1Lbbva_mXHtMhnisTk4VfIS4WBFHEo",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 463,
+        "followingCount": 121,
+        "heart": 17100,
+        "heartCount": 17100,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6522842489508860943",
+        "shortId": "",
+        "uniqueId": "palyanitsaa",
+        "nickname": "\u041f\u0430\u043b\u044f\u043d\u0438\u0446\u044f",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a9f29e6ceff1013d9c99495528216400~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=u5q1zd5HeeInMzzRTurupccAvLw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a9f29e6ceff1013d9c99495528216400~c5_720x720.jpeg?x-expires=1650114000&x-signature=HEUAiweSkrZW8iSAn9mx91Bgps0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a9f29e6ceff1013d9c99495528216400~c5_100x100.jpeg?x-expires=1650114000&x-signature=OcVLRhrygC6P4crz5Z%2BqTvQAlz0%3D",
+        "signature": "",
+        "createTime": 1518746415,
+        "verified": false,
+        "secUid": "MS4wLjABAAAATD9rM539BMSG8HN32ege8NrjOFAx2Q50Akrua0pUzaV_9dyxxybHVwgiaY_5_ZSH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/future_politic",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 10900,
+        "followingCount": 0,
+        "heart": 265500,
+        "heartCount": 265500,
+        "videoCount": 25,
+        "diggCount": 0
+    },
+    "itemList": []
+}

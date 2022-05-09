@@ -1,0 +1,47 @@
+{
+    "user": {
+        "id": "6646858005663072262",
+        "shortId": "",
+        "uniqueId": "itvnews",
+        "nickname": "itvnews",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1636615677554694~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=b5CKQh1YwT829EXtY5To5fzLUXM%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1636615677554694~c5_720x720.jpeg?x-expires=1649905200&x-signature=Wc%2FsZL6%2BZZWQBCKRwY9DMe3bxxg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1636615677554694~c5_100x100.jpeg?x-expires=1649905200&x-signature=kgGVcBTWqTqxdA20hsO%2BR3QL4r0%3D",
+        "signature": "New from ITV News: Here\u2019s The Story\nExplainers + original stories \nLink in bio\u2b07\ufe0f",
+        "createTime": 1560769365,
+        "verified": true,
+        "secUid": "MS4wLjABAAAANEUMYYl8V-FTczdYQcJqwW1_6ras5q71ypHAwYRbU_DiZd2CYOaCid2UnL6EJrrD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "http://linktr.ee/itvnews",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {
+                "android": "https://play.google.com/store/apps/details?id=com.itv.itvnewsapp&hl=en_GB&gl=US",
+                "ios": "https://apps.apple.com/gb/app/itv-news-breaking-stories/id907113454"
+            },
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 600300,
+        "followingCount": 1,
+        "heart": 8800000,
+        "heartCount": 8800000,
+        "videoCount": 334,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6782362164654785541",
+        "shortId": "",
+        "uniqueId": "justingobrzy",
+        "nickname": "justingobrzy",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99d675b7cc348610f00ed1f4b37c5096~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=Jpxuqh6b2WifB%2Bc9bym6v6WQHHQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99d675b7cc348610f00ed1f4b37c5096~c5_720x720.jpeg?x-expires=1648580400&x-signature=YlQczAjvpM5ploNp3Vsqn%2BBVz1Y%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99d675b7cc348610f00ed1f4b37c5096~c5_100x100.jpeg?x-expires=1648580400&x-signature=EtYJs02BdHufqG5kT3lrj25vBRo%3D",
+        "signature": "Be Different.",
+        "createTime": 1579141949,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhzwvLdnlVjfjdwVNHhqb_jWHnv1sm0rsd5IKqD4k0e74HrDE5VtyN-VETaWLwPBu",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 42500,
+        "followingCount": 146,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 38,
+        "diggCount": 0
+    },
+    "itemList": []
+}

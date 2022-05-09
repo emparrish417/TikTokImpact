@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7062531090617877550",
+        "shortId": "",
+        "uniqueId": "calitkachuk",
+        "nickname": "Cali Tkachuk",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7062532935819198511~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=FTLuyDqoZYEte7gwwxtCfdMcIjw%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7062532935819198511~c5_720x720.jpeg?x-expires=1649372400&x-signature=eSaDAUe4X6LC9BIgvFRC8Clj964%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7062532935819198511~c5_100x100.jpeg?x-expires=1649372400&x-signature=hisZV8AhziMkCkXPr5k979wLQ6M%3D",
+        "signature": "",
+        "createTime": 1644374089,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7D8Mx7lE6DLLjGM-InsvqAsINBcVgYLATsJ7WsCEi8oCXkWgETZ4STGU_1_CLQwt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2,
+        "followingCount": 10,
+        "heart": 8,
+        "heartCount": 8,
+        "videoCount": 3,
+        "diggCount": 0
+    },
+    "itemList": []
+}

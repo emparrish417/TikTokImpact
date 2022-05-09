@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7078702642735137798",
+        "shortId": "",
+        "uniqueId": "archie_271",
+        "nickname": "archie_271",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce3cc0e8c43373289ab7e81edf19785a~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=JSioIaiTW3usdNeo9b%2BvH%2B3qoMc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce3cc0e8c43373289ab7e81edf19785a~c5_720x720.jpeg?x-expires=1648850400&x-signature=9uty0NrknxoVmV%2BY6gmayPN7A%2Bo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ce3cc0e8c43373289ab7e81edf19785a~c5_100x100.jpeg?x-expires=1648850400&x-signature=96zpMcYCqI7uf8D%2BrKhQ5tcLzhE%3D",
+        "signature": "",
+        "createTime": 1648139110,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsLwekYJUvz_7FesKytnRCe13HpoWyHkI9-MvwYhlE2q0iG0e9UiuexfvfHDBfbXV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 4,
+        "heart": 3,
+        "heartCount": 3,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

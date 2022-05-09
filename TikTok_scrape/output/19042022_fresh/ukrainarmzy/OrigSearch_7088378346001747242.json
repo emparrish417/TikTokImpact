@@ -1,0 +1,98 @@
+{
+    "id": "7088378346001747242",
+    "desc": "",
+    "createTime": 1650391694,
+    "video": {
+        "id": "7088378346001747242",
+        "height": 1024,
+        "width": 576,
+        "duration": 45,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4549837477e84f3f8666123e2945ffd8?x-expires=1650427200&x-signature=zPTXHwO7OEghkNQaEEBgEIUZ1vY%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/dadcded98ca34d1aa60e698e392fbc46_1650391695?x-expires=1650427200&x-signature=7AfjAGztWeu%2F6mV5A66xeG5IByY%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/994bf4fad0744c5da6e6c18616caefda_1650391695?x-expires=1650427200&x-signature=ELk713EdLGtl3WsOak1TEu6sOoA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/23ac09ad01be365601b5cdf2ff866ed1/625f8a1b/video/tos/useast5/tos-useast5-ve-0068c001-tx/2b5eb1f28233412e8fa6b89f6e64f932/?a=1988&br=1022&bt=511&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoGiwwe2NeE~fl7Gb&l=202204192219580101131350200D0EADBA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzU0eGY6ZnVpPDMzZzczNEApOTpkZ2QzZmQ5N2RoaWRlaWctMGhecjRvZ2NgLS1kMS9zczMuLTJjNS9iLTNgMC41YDI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/23ac09ad01be365601b5cdf2ff866ed1/625f8a1b/video/tos/useast5/tos-useast5-ve-0068c001-tx/2b5eb1f28233412e8fa6b89f6e64f932/?a=1988&br=1022&bt=511&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoGiwwe2NeE~fl7Gb&l=202204192219580101131350200D0EADBA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzU0eGY6ZnVpPDMzZzczNEApOTpkZ2QzZmQ5N2RoaWRlaWctMGhecjRvZ2NgLS1kMS9zczMuLTJjNS9iLTNgMC41YDI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dadcded98ca34d1aa60e698e392fbc46_1650391695~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=qEbLuCRxa8XKyqEw2NmbadnF5ZQ%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/dadcded98ca34d1aa60e698e392fbc46_1650391695~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=ei5GHm31bfL88bj262YQUksEz%2FY%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4549837477e84f3f8666123e2945ffd8?x-expires=1650427200&x-signature=EU7o3pdW01Gg1nk0iDZEoW2tkxM%3D",
+        "bitrate": 523768,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7070754420945863726",
+        "uniqueId": "ukrainarmzy",
+        "nickname": "spiderman edits",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9fad30f2f73bc8a070d9a535b46b432f~c5_100x100.jpeg?x-expires=1650578400&x-signature=j5OhMOEh1n2b83ofZIynh7T2550%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9fad30f2f73bc8a070d9a535b46b432f~c5_720x720.jpeg?x-expires=1650578400&x-signature=oD%2Bz%2BuE%2FIXwWxUNrhF0%2B4e%2FsaN4%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9fad30f2f73bc8a070d9a535b46b432f~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=RZj37L%2Bstnqq0uIf8oMl%2Bd9UIH8%3D",
+        "signature": "2-0 in war",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAe08ZuAeBDHVu7Mv6Vulf4gZDVxBTM7kHXlH0D_LX7-cqQXX-gk2Cpnx-qiqDstmK",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7044461658722339585",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7044461637058759426.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/db6600b40d2a713a6af61bf5e21d17f5.jpeg?x-expires=1650578400&x-signature=mrKMyn%2FIEFaIvhfilmjoGWS%2Fuzc%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/db6600b40d2a713a6af61bf5e21d17f5.jpeg?x-expires=1650578400&x-signature=p4dqC9sl0p6LgM%2BOmy9Co8%2BKAXA%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/db6600b40d2a713a6af61bf5e21d17f5.jpeg?x-expires=1650578400&x-signature=%2FKkKO7nr4PcusdDL8APUCBhUfE0%3D",
+        "authorName": "Geography",
+        "original": true,
+        "duration": 30,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 42
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 487,
+        "followerCount": 532,
+        "heartCount": 1625,
+        "videoCount": 34,
+        "diggCount": 1307,
+        "heart": 1625
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "a clip of us nuking russia and we are ukrain  don't mess with us or ur gonna get nuked like russia did"
+            ]
+        }
+    ],
+    "isAd": false
+}

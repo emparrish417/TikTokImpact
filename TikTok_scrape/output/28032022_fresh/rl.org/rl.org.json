@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6856377503100437509",
+        "shortId": "",
+        "uniqueId": "rl.org",
+        "nickname": "Monke",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1738237c25947252b5991536355e9f20~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=oSSwTRAgm9Iiddvicu3OagbqTyE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1738237c25947252b5991536355e9f20~c5_720x720.jpeg?x-expires=1648580400&x-signature=VAbi7BkNQoSzAQkzM7AjLRPyPis%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1738237c25947252b5991536355e9f20~c5_100x100.jpeg?x-expires=1648580400&x-signature=wXKBF%2Fjbj0aOqxmJuJUAXa32rik%3D",
+        "signature": "Plat 3 div 3",
+        "createTime": 1597511811,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjG0JaIGPtySkkC1gbTLz2NE3D7ioq_jyrdVOzOiO_mNRy03kqZJdKi-Pmv1nTCLt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "twitch.tv/oliverfc5345",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3335,
+        "followingCount": 4354,
+        "heart": 17300,
+        "heartCount": 17300,
+        "videoCount": 417,
+        "diggCount": 0
+    },
+    "itemList": []
+}

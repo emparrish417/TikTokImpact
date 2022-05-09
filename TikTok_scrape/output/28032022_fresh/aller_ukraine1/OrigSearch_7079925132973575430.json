@@ -1,0 +1,135 @@
+{
+    "id": "7079925132973575430",
+    "desc": "#distorted",
+    "createTime": 1648423527,
+    "video": {
+        "id": "7079925132973575430",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3bfc236b6cc643688e73ab239ebb410a?x-expires=1648515600&x-signature=79PKPJd3N7zbiCDXo0vPjHDY7Kk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2bb78eda67494814b92ce17ab5084944_1648423527?x-expires=1648515600&x-signature=Uv3r2C6qW6LcAcuu6VEuYfsPUoU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f801fc2df4fd4980bc9baa837ce9ce6d_1648423528?x-expires=1648515600&x-signature=KX8%2BbZG3wkPFS0zEHQLap2%2BYMwo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f1bde37161806727b528e519dd170561/62425f27/video/tos/useast2a/tos-useast2a-pve-0068/7f0b7764ed354567972e8512ef579ecc/?a=1988&br=2530&bt=1265&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8NugDXq&l=20220328192136010113006133186A11B6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzo5bjg6ZnFpPDMzNzczM0ApZGgzNmQ1NWUzN2Q4M2lnZmdfcXBrcjRnMS1gLS1kMTZzc2A2YzQtNl4yNTZgXjUtMV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f1bde37161806727b528e519dd170561/62425f27/video/tos/useast2a/tos-useast2a-pve-0068/7f0b7764ed354567972e8512ef579ecc/?a=1988&br=2530&bt=1265&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Th8NugDXq&l=20220328192136010113006133186A11B6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzo5bjg6ZnFpPDMzNzczM0ApZGgzNmQ1NWUzN2Q4M2lnZmdfcXBrcjRnMS1gLS1kMTZzc2A2YzQtNl4yNTZgXjUtMV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2bb78eda67494814b92ce17ab5084944_1648423527~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=j6PTyDjHf1D8Ph5wQkg24%2Fz3giU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2bb78eda67494814b92ce17ab5084944_1648423527~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=oyfobPp1X8cuBLFCfzw6iYoUw0E%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3bfc236b6cc643688e73ab239ebb410a?x-expires=1648515600&x-signature=79PKPJd3N7zbiCDXo0vPjHDY7Kk%3D",
+        "bitrate": 1296221,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7047298901737784325",
+        "uniqueId": "aller_ukraine1",
+        "nickname": "Ashley Pelletier659",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5628f2445a746c17cf62d6ddfc9b2a1~c5_100x100.jpeg?x-expires=1648580400&x-signature=juPByB89a4p9aMFv%2Fptgc1M3fm0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5628f2445a746c17cf62d6ddfc9b2a1~c5_720x720.jpeg?x-expires=1648580400&x-signature=o4AKCbx7RLjINg80sb01rnkQPJ8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5628f2445a746c17cf62d6ddfc9b2a1~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=EFhMvGXInh4d9jlUOGMIY54NHiU%3D",
+        "signature": "aller l 'Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA40vGBpwFRbmcTVwd_NoTHYD3xd7DOec9ar1d4MGCyDrenOrsfXeXPnMd5z8_vZDC",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7057315929235000070",
+        "title": "los amoooo",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7057315971526150917.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/414a5731619308f357814fec4b5a42c0~c5_100x100.jpeg?x-expires=1648580400&x-signature=TgEFYPovP%2Bv9KkDkBXnuDJo6Esw%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/414a5731619308f357814fec4b5a42c0~c5_720x720.jpeg?x-expires=1648580400&x-signature=JHyB%2BoDA2peLGSx%2F91vZQnO7WnE%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/414a5731619308f357814fec4b5a42c0~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=CQm7qB9z6gKWLQcdG9qJ1vXjAlA%3D",
+        "authorName": "\u2661 \u2661",
+        "original": true,
+        "duration": 7,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "2677962",
+            "title": "distorted",
+            "desc": "Is this what we really look like? Use our new Creative Effect and serve a #Distorted look. ",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28d88a5588e4fcb137f6e59d2c209d76",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/349d080bb8273d7b45520caad4917386",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 34,
+        "shareCount": 0,
+        "commentCount": 8,
+        "playCount": 1154
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 10,
+            "hashtagName": "distorted",
+            "hashtagId": "2677962",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Distorted",
+            "ID": "270222"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 681,
+        "followerCount": 956,
+        "heartCount": 1405,
+        "videoCount": 41,
+        "diggCount": 479,
+        "heart": 1405
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\udd95 l'Ukraine",
+                "\u2764",
+                "aller l'Ukraine"
+            ]
+        }
+    ],
+    "isAd": false
+}

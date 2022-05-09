@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7080409064085505030",
+        "shortId": "",
+        "uniqueId": "vilnilyudy",
+        "nickname": "\u0412\u0456\u043b\u044c\u043d\u0456 \u041b\u044e\u0434\u0438 \ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b8ac3b3597efbb6388c05b094485657~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=%2BzMaqeQDlrgnVpfKGOVdwmkIAm8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b8ac3b3597efbb6388c05b094485657~c5_720x720.jpeg?x-expires=1648940400&x-signature=zexyjVNpeAT16GOHcgNtiPyTbpU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b8ac3b3597efbb6388c05b094485657~c5_100x100.jpeg?x-expires=1648940400&x-signature=gJUhVjvGd63LvPZmMOpv0ap%2F%2FlY%3D",
+        "signature": "\u0412\u0456\u043b\u044c\u043d\u0438\u0439 \u043d\u0430\u0440\u043e\u0434\u0435 \u0432\u0456\u043b\u044c\u043d\u043e\u0457 \u043a\u0440\u0430\u0457\u043d\u0438 \ud83d\udc99\ud83d\udc9b",
+        "createTime": 1648536286,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQIvMZbl47tLSZ9h7JlXeMpEGrLo6Bdp_aIwW5FA70gZ84MPgXXWR0gObfurt_eMb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 100,
+        "followingCount": 0,
+        "heart": 1245,
+        "heartCount": 1245,
+        "videoCount": 74,
+        "diggCount": 0
+    },
+    "itemList": []
+}

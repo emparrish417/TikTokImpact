@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6687817878328706053",
+        "shortId": "",
+        "uniqueId": "alina.yanchuk",
+        "nickname": "Alina",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/139a3ad37f9d9e644abd20114e736f41~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=EM%2F1zVwz3QSccdGsoV%2FB0baoGDY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/139a3ad37f9d9e644abd20114e736f41~c5_720x720.jpeg?x-expires=1650664800&x-signature=j5UNAgD4Ak5inubSF%2F0BNvIpY4A%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/139a3ad37f9d9e644abd20114e736f41~c5_100x100.jpeg?x-expires=1650664800&x-signature=Bayl0AWj1REgBG6LZKG2xiNQfgk%3D",
+        "signature": "\ud83e\uddf8",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAo3XpY2Ty3V6OEEA_MIhFxsuwNlFmsYVhfWHmof67zVMQGP4fmUCEjQq3ctwWWyP5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 24,
+        "followingCount": 117,
+        "heart": 614,
+        "heartCount": 614,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

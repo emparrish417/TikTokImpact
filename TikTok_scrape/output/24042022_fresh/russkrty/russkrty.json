@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6855679518439490561",
+        "shortId": "",
+        "uniqueId": "russkrty",
+        "nickname": "KABUTE\ud83c\udf44",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/4455cef8aacb55dfaf0b2f3754de9b09~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=A8KJYkPWyQZ6ZaJDI4YGbLYMkR0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/4455cef8aacb55dfaf0b2f3754de9b09~c5_720x720.jpeg?x-expires=1651010400&x-signature=dCYJ%2BL7P71rDlW5fKPRLnQ3KHl0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/4455cef8aacb55dfaf0b2f3754de9b09~c5_100x100.jpeg?x-expires=1651010400&x-signature=yY0n8FXZHVx5KU8MKhOrf%2F1aaIE%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmuuPG6XbgmMgFYTIcqkIyOF1MLnBvwFOlq4AvO0aLDkPWf1sr0aZ4ic5sfiGY1hF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 40,
+        "followingCount": 36,
+        "heart": 52,
+        "heartCount": 52,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

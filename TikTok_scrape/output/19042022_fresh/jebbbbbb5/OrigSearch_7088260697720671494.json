@@ -1,0 +1,119 @@
+{
+    "id": "7088260697720671494",
+    "desc": "#ukraine\ud83c\uddfa\ud83c\udde6",
+    "createTime": 1650364303,
+    "video": {
+        "id": "7088260697720671494",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b75507f4ba6d4268b5fb3f0f695e5dbf?x-expires=1650427200&x-signature=j9YgMrh%2FumQr%2BahdH%2Bk4igXEuvk%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8e64bf3ffcb44b07b9b64618bc5ffe16_1650364305?x-expires=1650427200&x-signature=WujJxGuqWGHLY0%2BMcMT0c4Xi%2F%2BU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/82998dc24394423ea2ce9c37cdb7fff5_1650364306?x-expires=1650427200&x-signature=eavduq0YnGcF7whR%2FRFowngpCq0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e586d042bcde2d9d508dba571c8709eb/625f89b4/video/tos/useast2a/tos-useast2a-ve-0068c003/855dc5c532ca4b3e954acaa35dc32b23/?a=1988&br=8276&bt=4138&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-7iwwe2NkH7fl7Gb&l=20220419221853010113006194000D5625&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztoNzQ6Zjo7PDMzNzczM0ApZjg7ZjM2Ozw5NzRoaTQ7OWdtZC1scjRfcWNgLS1kMTZzczNjXi1gMi0vLzY0X180XmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e586d042bcde2d9d508dba571c8709eb/625f89b4/video/tos/useast2a/tos-useast2a-ve-0068c003/855dc5c532ca4b3e954acaa35dc32b23/?a=1988&br=8276&bt=4138&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z-7iwwe2NkH7fl7Gb&l=20220419221853010113006194000D5625&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MztoNzQ6Zjo7PDMzNzczM0ApZjg7ZjM2Ozw5NzRoaTQ7OWdtZC1scjRfcWNgLS1kMTZzczNjXi1gMi0vLzY0X180XmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8e64bf3ffcb44b07b9b64618bc5ffe16_1650364305~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=RqpRnXGGaohO9RgKDukPIEWilew%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8e64bf3ffcb44b07b9b64618bc5ffe16_1650364305~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=himXidOIWrbOohvM0v4T9dFTVxc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b75507f4ba6d4268b5fb3f0f695e5dbf?x-expires=1650427200&x-signature=j9YgMrh%2FumQr%2BahdH%2Bk4igXEuvk%3D",
+        "bitrate": 4238171,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6885409369274663937",
+        "uniqueId": "jebbbbbb5",
+        "nickname": "twd_FanPage",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/af3f618e466190b23b284a9de265171e~c5_100x100.jpeg?x-expires=1650578400&x-signature=MFuyJZ69PgTPF3hTarwTy7nZJZE%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/af3f618e466190b23b284a9de265171e~c5_720x720.jpeg?x-expires=1650578400&x-signature=2xJq47clE01kKmtyj7%2F82bHdOww%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/af3f618e466190b23b284a9de265171e~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=CWx9ObkX5IR4Rt0GFW40dec8NXw%3D",
+        "signature": "carl_fanpage",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAc7fJJT0SCKXtaFhnoeLLpwQWiwpexgKjo2Y0OgbgBzCUuBX_C_oWLLJUMGaXWfh5",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6844921356623022081",
+        "title": "Heat Waves",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4071b028aaa648d2bbf45b844edbc8c1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b37f15f72f594fefaece80af1e6189f4.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/b37f15f72f594fefaece80af1e6189f4.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b37f15f72f594fefaece80af1e6189f4.jpeg",
+        "authorName": "Glass Animals",
+        "original": false,
+        "duration": 30,
+        "album": "Heat Waves"
+    },
+    "challenges": [
+        {
+            "id": "1592381310170118",
+            "title": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 58
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "ukraine\ud83c\uddfa\ud83c\udde6",
+            "hashtagId": "1592381310170118",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 16,
+        "followerCount": 28,
+        "heartCount": 396,
+        "videoCount": 37,
+        "diggCount": 2147,
+        "heart": 396
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

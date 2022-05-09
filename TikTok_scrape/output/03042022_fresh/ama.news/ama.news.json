@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7043838673703896070",
+        "shortId": "",
+        "uniqueId": "ama.news",
+        "nickname": "AMA",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/86b9660dd04acae2fabc37d36f495aa9~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=RJgXNIj9HjE%2FkDkaSYUEXEoNQOw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/86b9660dd04acae2fabc37d36f495aa9~c5_720x720.jpeg?x-expires=1649116800&x-signature=dO4FqpgtSV68jLZ31CxMWNafghs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/86b9660dd04acae2fabc37d36f495aa9~c5_100x100.jpeg?x-expires=1649116800&x-signature=agdhbw6iR38AVPcK1P4zIp885tw%3D",
+        "signature": "Per me shume shiko ne Youtube ne _ama news_",
+        "createTime": 1640075134,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAO2WfnoYALNmOInS0oyGG3hptoeGqOSge9DXMnkP04WBHlkq-mI1Qy75_9cu1SqGk",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 204,
+        "followingCount": 5,
+        "heart": 1213,
+        "heartCount": 1213,
+        "videoCount": 144,
+        "diggCount": 169
+    },
+    "itemList": []
+}

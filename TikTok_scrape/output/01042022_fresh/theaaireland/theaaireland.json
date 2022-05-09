@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6974522540606735366",
+        "shortId": "",
+        "uniqueId": "theaaireland",
+        "nickname": "theaaireland",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/63fe0a18ec5754a328aa19f8ae038450~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=c1vZ41ceEF8DrTF3wHhAAFAfTjM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/63fe0a18ec5754a328aa19f8ae038450~c5_720x720.jpeg?x-expires=1648940400&x-signature=1gcvlG1EnfgcYJ0D4F6iobGKFeo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/63fe0a18ec5754a328aa19f8ae038450~c5_100x100.jpeg?x-expires=1648940400&x-signature=h5D4vR9r9cwt4ej5FDN9puYzX%2Fk%3D",
+        "signature": "The AA - we do Insurance, breakdown and all things motoring. Please be nice.",
+        "createTime": 1623882670,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1ZVL4E27A6a_3aCPUtDKd3plRmt5v_env-CPaOHMOcfW-9f1oH7OfEqNGshwukec",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.TheAA.ie",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Automotive & Transportation",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4579,
+        "followingCount": 266,
+        "heart": 23500,
+        "heartCount": 23500,
+        "videoCount": 205,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,119 @@
+{
+    "id": "7085828835387641115",
+    "desc": "#chientranhngaukraine",
+    "createTime": 1649798091,
+    "video": {
+        "id": "7085828835387641115",
+        "height": 1024,
+        "width": 576,
+        "duration": 87,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e978786ae239492b8e98847253a3fedb?x-expires=1649840400&x-signature=eRCqAHC3LXRgPQeWsqfzj%2Fy0k8A%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b295fbb9109e49c3b699dbaed553388a_1649798915?x-expires=1649840400&x-signature=HOFoZb42s5Y1qGqnoixS8SLZv%2BQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/5c66c775a1d340a1bd1a047e9ed7406d_1649798915?x-expires=1649840400&x-signature=OrciNYeRBmQmfH%2BFcI3Zh6X63vY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/8fe0d82f2846560aa8068fd5c4d23464/62569218/video/tos/useast2a/tos-useast2a-pve-0037-aiso/3f224bac6f844e938c9d957e30f25b68/?a=1988&br=1716&bt=858&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThOJ4aDXq&l=2022041303025601011313516826B87288&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzZ3NWc6Znl4PDMzZjgzM0ApNTQ4aTU8Njw8Nzo1ZmczZGdwX3NzcjQwcV5gLS1kL2Nzcy01LS0tY19gNl8yLV5iX2E6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/8fe0d82f2846560aa8068fd5c4d23464/62569218/video/tos/useast2a/tos-useast2a-pve-0037-aiso/3f224bac6f844e938c9d957e30f25b68/?a=1988&br=1716&bt=858&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThOJ4aDXq&l=2022041303025601011313516826B87288&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzZ3NWc6Znl4PDMzZjgzM0ApNTQ4aTU8Njw8Nzo1ZmczZGdwX3NzcjQwcV5gLS1kL2Nzcy01LS0tY19gNl8yLV5iX2E6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/b295fbb9109e49c3b699dbaed553388a_1649798915~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=muAzSQI3fxbcPeqx%2FlT2tN1y63E%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/b295fbb9109e49c3b699dbaed553388a_1649798915~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=pOyrBrR5urltKgOIgZgakpHqsEI%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e978786ae239492b8e98847253a3fedb?x-expires=1649840400&x-signature=eRCqAHC3LXRgPQeWsqfzj%2Fy0k8A%3D",
+        "bitrate": 879103,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7085807676261188610",
+        "uniqueId": "chientranhngaukraine",
+        "nickname": "Putin \u0110\u1ea1i \u0110\u1ebf",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/dbb9d51a86dbf17429d06ae2d906816d~c5_100x100.jpeg?x-expires=1649905200&x-signature=n2IrQT44hHCy8jHoMz0WwX4GoHE%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/dbb9d51a86dbf17429d06ae2d906816d~c5_720x720.jpeg?x-expires=1649905200&x-signature=K6muGBjwnXXbsvtiNNOjKVw%2FIX0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/dbb9d51a86dbf17429d06ae2d906816d~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=DJ5VO%2FgszM%2Bppo3aiHSeA62rRL8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGF9cvAB-66tYqHrQpBHy4-mall8mJFhIb0ISTNOmkFMFFsNk_CdXyVEnUhQVCs77",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6788483592549828610",
+        "title": "Victory (Instrumental)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/fbcd8d0c952f4ef3bdb8647d02418a5d",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/bc3fc95a111745cda41f2a8351cd2c40.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/bc3fc95a111745cda41f2a8351cd2c40.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/bc3fc95a111745cda41f2a8351cd2c40.jpeg",
+        "authorName": "Two Steps from Hell",
+        "original": false,
+        "duration": 60,
+        "album": "Battlecry Anthology"
+    },
+    "challenges": [
+        {
+            "id": "7064956760582258714",
+            "title": "chientranhngaukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 58
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 21,
+            "hashtagName": "chientranhngaukraine",
+            "hashtagId": "7064956760582258714",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 0,
+        "followerCount": 1,
+        "heartCount": 24,
+        "videoCount": 11,
+        "diggCount": 10,
+        "heart": 24
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

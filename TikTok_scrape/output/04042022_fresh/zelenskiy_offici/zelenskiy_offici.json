@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7072314075641103362",
+        "shortId": "",
+        "uniqueId": "zelenskiy_offici",
+        "nickname": "majd kasab",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1649196000&x-signature=%2BTRocN5C%2FlM2x2wy3q12xUUKGdE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1649196000&x-signature=sY5b%2Bg%2BcVd5cTuRND8LXxlGbRmA%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/74e41cc5093d254bb017bf8e790dda78.jpeg?x-expires=1649196000&x-signature=2g0CYwBCgmcaJz%2FSwoZ8EZspyJc%3D",
+        "signature": "zelenskiy_offici",
+        "createTime": 1646651465,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAXkyHOfwRZ00qOe6RFKnKbv-8FTq1HmRgu6mM8853OAzpdRySholHUbmVk88rrKal",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://vt.tiktok.com/ZSd8J771a/",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 35400,
+        "followingCount": 69,
+        "heart": 536300,
+        "heartCount": 536300,
+        "videoCount": 81,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6947329445000758277",
+        "shortId": "",
+        "uniqueId": "na__ta__lia",
+        "nickname": "Natalia",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6b18a000ab8dcc0c42e59e0ffb4a1ffc~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=TRjChKoDejlWraLrm4h3W5vSD0Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6b18a000ab8dcc0c42e59e0ffb4a1ffc~c5_720x720.jpeg?x-expires=1649714400&x-signature=WPKYCLsLMYjSrgIyILfXIi635T8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6b18a000ab8dcc0c42e59e0ffb4a1ffc~c5_100x100.jpeg?x-expires=1649714400&x-signature=ZdW599mlFXrRZS3eIz2gQW27H9A%3D",
+        "signature": "",
+        "createTime": 1617551306,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg9w9-nCoWJKPuEbrjqxHTTgH2T5To8g2rqPuT2CZWk2dKubNz2ArAApcr6ZJpeda",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 144,
+        "followingCount": 91,
+        "heart": 3296,
+        "heartCount": 3296,
+        "videoCount": 106,
+        "diggCount": 0
+    },
+    "itemList": []
+}

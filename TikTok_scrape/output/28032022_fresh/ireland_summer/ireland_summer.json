@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7078079556293215275",
+        "shortId": "",
+        "uniqueId": "ireland_summer",
+        "nickname": "Ireland_Summer",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ce33bae23752028b239848befe57e2e~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=02bWf5BD7rAKUIjOkvwki1EqMbA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ce33bae23752028b239848befe57e2e~c5_720x720.jpeg?x-expires=1648580400&x-signature=1LqhL2sPqV1W1Mby1Xnpx6Qdo4c%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ce33bae23752028b239848befe57e2e~c5_100x100.jpeg?x-expires=1648580400&x-signature=Yw3ZqWu7fu2hX93s3%2B0PWG6mnBo%3D",
+        "signature": "",
+        "createTime": 1647993994,
+        "verified": false,
+        "secUid": "MS4wLjABAAAADKFeIH248HEZjf7BHdE3p3cbvIv_PND_Bv7sZbaJwZr0FvMb75k9l__apfy2R8Ay",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 11,
+        "heart": 15,
+        "heartCount": 15,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

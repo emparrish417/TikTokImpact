@@ -1,0 +1,98 @@
+{
+    "id": "7081619512130342186",
+    "desc": "help Ukraine",
+    "createTime": 1648818031,
+    "video": {
+        "id": "7081619512130342186",
+        "height": 1024,
+        "width": 576,
+        "duration": 7,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3ed2868f830e409a89360b006509effa?x-expires=1648875600&x-signature=%2BsTVhrok2kGgtgOT3jJOjexc%2BUM%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c9ea5648a90a43b2bc08aa7748f96cbd_1648818032?x-expires=1648875600&x-signature=McInYBkkiJEFAIEnJRlXAkDCHAQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2aa7b9a416e64f13a1e5776af32889bc_1648818032?x-expires=1648875600&x-signature=63YFlJRQvq6XrUg0IVvhKhBgmWc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fa73f3efb499005f62d5b3ec56fc7b4e/6247e360/video/tos/useast5/tos-useast5-pve-0068-tx/3b6b834c929d494e8a8af1248b462978/?a=1988&br=1664&bt=832&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th6~xzDXq&l=202204012347050101131350200022A00B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJ0M2U6ZjZpPDMzZzczNEApZWllPDdkZDxlN2VoZzVmZmdfaDVwcjRvYTBgLS1kMS9zc2IyNWMvLmAtMmExLzM1YS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fa73f3efb499005f62d5b3ec56fc7b4e/6247e360/video/tos/useast5/tos-useast5-pve-0068-tx/3b6b834c929d494e8a8af1248b462978/?a=1988&br=1664&bt=832&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th6~xzDXq&l=202204012347050101131350200022A00B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJ0M2U6ZjZpPDMzZzczNEApZWllPDdkZDxlN2VoZzVmZmdfaDVwcjRvYTBgLS1kMS9zc2IyNWMvLmAtMmExLzM1YS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c9ea5648a90a43b2bc08aa7748f96cbd_1648818032~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=K9RiYK2MIlfLcFlU1RUZXNa11JU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c9ea5648a90a43b2bc08aa7748f96cbd_1648818032~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=yX9H2PUURoiO6%2BIGlchM0kyN3lg%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3ed2868f830e409a89360b006509effa?x-expires=1648875600&x-signature=%2BsTVhrok2kGgtgOT3jJOjexc%2BUM%3D",
+        "bitrate": 852516,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6841250621741106181",
+        "uniqueId": "youthfulheartist",
+        "nickname": "iris",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9aaddf9731adc954a0abb55d032334bd~c5_100x100.jpeg?x-expires=1648940400&x-signature=xXqkM%2FB2uOA%2BJaIK0aJ9H0dKAuQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9aaddf9731adc954a0abb55d032334bd~c5_720x720.jpeg?x-expires=1648940400&x-signature=XACkl7iNI%2BrvUT6H3I8TvfxFZyo%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9aaddf9731adc954a0abb55d032334bd~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=lhGzx%2FXFBfI76cdRlB7BqDEPyOc%3D",
+        "signature": "surprised I'm stull here tbh\nart insta @youthfulheartist",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYoWMqzzDitKwiDckq-l4DkRot6Ib3IlOObhVCEwCZM2RWQ2vK-98A_Bla0RxfaFx",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6805140399900854274",
+        "title": "Yoshi's Island",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/5e52e6c3b56146f7b22500a7eb931dbf",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b512f7ac14f748119df020a950c3f762.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/b512f7ac14f748119df020a950c3f762.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b512f7ac14f748119df020a950c3f762.jpeg",
+        "authorName": "3000m",
+        "original": false,
+        "duration": 60,
+        "album": "Super Mario World (Original Game Soundtrack)"
+    },
+    "stats": {
+        "diggCount": 14,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 193
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 88,
+        "followerCount": 89,
+        "heartCount": 1071,
+        "videoCount": 67,
+        "diggCount": 23000,
+        "heart": 1071
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "can the US media stop talking about Will Smith and start sharing ways to help Ukraine? The war didn't magically end..."
+            ]
+        }
+    ],
+    "isAd": false
+}

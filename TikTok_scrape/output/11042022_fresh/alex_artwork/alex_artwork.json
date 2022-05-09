@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6793370408206468101",
+        "shortId": "",
+        "uniqueId": "alex_artwork",
+        "nickname": "Alex Art",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/52dda713a635a46c43a0fe279a5f0f4a.jpeg?x-expires=1649800800&x-signature=4qrtdouHcmYvE%2FeukKa7WnvDNXE%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/52dda713a635a46c43a0fe279a5f0f4a.jpeg?x-expires=1649800800&x-signature=Ey4%2FDGqRNCdz8ox3NYqGsaQ1ZpY%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/52dda713a635a46c43a0fe279a5f0f4a.jpeg?x-expires=1649800800&x-signature=Bl56xCTC%2F5RZs3cfQXysjFj8ZB4%3D",
+        "signature": "Click the link below for more\n\ud83d\udc47\ud83c\udffc",
+        "createTime": 1581676156,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnrYK2sLq0L96az603yljnaAvTNb0C8ws1XtZ9YL2y9A3YLiUk9oszxtS-ou6EJQF",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://etsy.me/2LbpWFD",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 299,
+        "followingCount": 62,
+        "heart": 5236,
+        "heartCount": 5236,
+        "videoCount": 60,
+        "diggCount": 0
+    },
+    "itemList": []
+}

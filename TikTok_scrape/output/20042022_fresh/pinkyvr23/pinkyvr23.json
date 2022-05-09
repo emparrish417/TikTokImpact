@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6872396368729293829",
+        "shortId": "",
+        "uniqueId": "pinkyvr23",
+        "nickname": "Support UKrain",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cedb35e558cb6ab181aa769b30d14003~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=Jq%2F1Fc%2BBhyHfzlFoqpI3kkRy%2BlM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cedb35e558cb6ab181aa769b30d14003~c5_720x720.jpeg?x-expires=1650664800&x-signature=bZN38lxRWOzuLDLkBTjcR71S9oc%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cedb35e558cb6ab181aa769b30d14003~c5_100x100.jpeg?x-expires=1650664800&x-signature=O6leXS1YhNKAPIu13PvqeWB4gzc%3D",
+        "signature": "No bio yet",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6_e4dYLwqs6a336VDawCurx1ngGs3Hh4vwGn-lpEFyCqYB-wRFmKtERUaqf5HSk0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "WWW.twitch.tv",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Internet",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 27400,
+        "followingCount": 13,
+        "heart": 94100,
+        "heartCount": 94100,
+        "videoCount": 1026,
+        "diggCount": 0
+    },
+    "itemList": []
+}

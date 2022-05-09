@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6894814001378395141",
+        "shortId": "",
+        "uniqueId": "world_news14",
+        "nickname": "News",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b652c8147f128fb37aa9c6b17dd4fb0f~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=NHKQYIdo%2BXzY%2FGHXlKeGRLifwm0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b652c8147f128fb37aa9c6b17dd4fb0f~c5_720x720.jpeg?x-expires=1649196000&x-signature=W6ya98fKPprhpL23%2BzPRT4KXW1o%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b652c8147f128fb37aa9c6b17dd4fb0f~c5_100x100.jpeg?x-expires=1649196000&x-signature=M%2BzXsdIr%2Bgo62peShDt%2BWk5jy8A%3D",
+        "signature": "Combat footage",
+        "createTime": 1646654740,
+        "verified": false,
+        "secUid": "MS4wLjABAAAASPJOsbBuElI_H4EyDpY53QeBs7z8YT_spc9UI8-8uiKcCN65AK-YH48LMB3LE6vT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 236,
+        "followingCount": 7,
+        "heart": 2961,
+        "heartCount": 2961,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

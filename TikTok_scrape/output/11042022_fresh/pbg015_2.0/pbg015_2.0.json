@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7000485330861147142",
+        "shortId": "",
+        "uniqueId": "pbg015_2.0",
+        "nickname": "Eric",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/beaa7e57ca8319c6b845d8b802a3e9c0~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=F2mcLrM8w4BnH7sJx92VAVqOVpM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/beaa7e57ca8319c6b845d8b802a3e9c0~c5_720x720.jpeg?x-expires=1649800800&x-signature=7tAZRx%2Bj%2B76y3UKYMWv7qX3zHhw%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/beaa7e57ca8319c6b845d8b802a3e9c0~c5_100x100.jpeg?x-expires=1649800800&x-signature=sJylPHhT08f9sHyiBo%2BsubcT718%3D",
+        "signature": "Just here to have fun",
+        "createTime": 1629927625,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAspsp8FCCy3ipMFUBy6--tydfzD87SLahxbPM7ELWntnb-GEkJU8vL6LqQbZfqB4h",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5581,
+        "followingCount": 1225,
+        "heart": 24200,
+        "heartCount": 24200,
+        "videoCount": 109,
+        "diggCount": 798
+    },
+    "itemList": []
+}

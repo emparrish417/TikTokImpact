@@ -1,0 +1,90 @@
+{
+    "id": "7084732795800587525",
+    "desc": "",
+    "createTime": 1649542898,
+    "video": {
+        "id": "7084732795800587525",
+        "height": 1024,
+        "width": 576,
+        "duration": 19,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3775112a886f4bdeab2dff884528b265?x-expires=1649574000&x-signature=YQomMxbRQA0cgHy7r1EC9OYk0dg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/68b8bb03f9ac4c49a363fa0aacdbb22a_1649542898?x-expires=1649574000&x-signature=c1R0nD49IxpQJi93CDymkGblBQ4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/277b5970b57142228fd10cb3f10cc3bf_1649542899?x-expires=1649574000&x-signature=oBLVhbrrcYv7bxaGjHnJa4vNj6g%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d88c158bc13a248793e3c2c33f46b41c/62528c1e/video/tos/useast2a/tos-useast2a-ve-0068c003/84170c2ad2254df58efe9f839f57ba12/?a=1988&br=546&bt=273&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Q4IDXq&l=202204100149310101131350180543740F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k5dTs6ZnIzPDMzNzczM0ApOzdlaTNoN2Q0NzNpNjU3NWcyMjBrcjRnYTZgLS1kMTZzczUvNjUvYl9iXzA2YC4tMC86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d88c158bc13a248793e3c2c33f46b41c/62528c1e/video/tos/useast2a/tos-useast2a-ve-0068c003/84170c2ad2254df58efe9f839f57ba12/?a=1988&br=546&bt=273&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th2Q4IDXq&l=202204100149310101131350180543740F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k5dTs6ZnIzPDMzNzczM0ApOzdlaTNoN2Q0NzNpNjU3NWcyMjBrcjRnYTZgLS1kMTZzczUvNjUvYl9iXzA2YC4tMC86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/68b8bb03f9ac4c49a363fa0aacdbb22a_1649542898~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=%2FdERkjg%2B%2FLo9lDpU6g1VgbVIWPU%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/68b8bb03f9ac4c49a363fa0aacdbb22a_1649542898~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=97XTrBc9y%2FpYBsJ0tN%2FZnCwJDH0%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3775112a886f4bdeab2dff884528b265?x-expires=1649574000&x-signature=YQomMxbRQA0cgHy7r1EC9OYk0dg%3D",
+        "bitrate": 279916,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6840173178037715973",
+        "uniqueId": "carrieireland0",
+        "nickname": "Carrie Ireland",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51fa6490ffe014b73d06608211fa402f~c5_100x100.jpeg?x-expires=1649638800&x-signature=2ggBK3PhGKklbmHilRTwyRmwXwM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51fa6490ffe014b73d06608211fa402f~c5_720x720.jpeg?x-expires=1649638800&x-signature=cqvkfI95DMYfhYQEGsFJKoZbBb0%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51fa6490ffe014b73d06608211fa402f~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=o%2B3%2Bo37iQzICwoVOQKjuPVTDMME%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqI1bqrN2WvJlHM-g54DfiNl_uzye1rIT9jE0XHYrdGXPxtqfduOuKUyzPZC4-x8n",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7084732758026734341",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7084732790729607942.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51fa6490ffe014b73d06608211fa402f~c5_100x100.jpeg?x-expires=1649638800&x-signature=2ggBK3PhGKklbmHilRTwyRmwXwM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51fa6490ffe014b73d06608211fa402f~c5_720x720.jpeg?x-expires=1649638800&x-signature=cqvkfI95DMYfhYQEGsFJKoZbBb0%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/51fa6490ffe014b73d06608211fa402f~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=o%2B3%2Bo37iQzICwoVOQKjuPVTDMME%3D",
+        "authorName": "Carrie Ireland",
+        "original": true,
+        "duration": 19,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 2
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 592,
+        "followerCount": 153,
+        "heartCount": 371,
+        "videoCount": 7,
+        "diggCount": 2699,
+        "heart": 371
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "6684256885279736838",
+        "shortId": "",
+        "uniqueId": "nowthispolitics",
+        "nickname": "NowThis Politics",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652005429221382~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=dTSgK7j897aY%2Fehu724IPlwNzO8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652005429221382~c5_720x720.jpeg?x-expires=1650481200&x-signature=WUFRoNZ7X5RYTH2bKxsn2w59foY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652005429221382~c5_100x100.jpeg?x-expires=1650481200&x-signature=yC4BZ90I98v3SYz5ZiXt%2FUvLxQI%3D",
+        "signature": "politics etc.",
+        "verified": true,
+        "secUid": "MS4wLjABAAAAErbO_g0j_ApVZJ-CFuGe03Vl8Hp66__fCC7D36tvjoOW28f75h6LX5n50S9ypKZp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://go.nowth.is/knowthis_tiktok",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2700000,
+        "followingCount": 94,
+        "heart": 89800000,
+        "heartCount": 89800000,
+        "videoCount": 1016,
+        "diggCount": 0
+    },
+    "itemList": []
+}

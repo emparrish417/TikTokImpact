@@ -1,0 +1,43 @@
+{
+    "user": {
+        "id": "7039745147820082181",
+        "shortId": "",
+        "uniqueId": "_yanaukraine_",
+        "nickname": "\ud83d\udd1c\u041f\u043e\u0434\u043f\u0438\u0448\u0438\u0441\u044c\ud83d\udd1a",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/769c4b07e36ca5d9f67ea79ded4e0c1f~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=SFHw%2BQaVXlN1CxcQZCPQ5N%2F513U%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/769c4b07e36ca5d9f67ea79ded4e0c1f~c5_720x720.jpeg?x-expires=1650751200&x-signature=klOhu2NYBM7Ozq4KbGRFlqnXpkk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/769c4b07e36ca5d9f67ea79ded4e0c1f~c5_100x100.jpeg?x-expires=1650751200&x-signature=wv0dtcL0qkiAfKiC4wbMfvz2d5g%3D",
+        "signature": "\ud83d\udc22rainbow.rbx\ud83e\udd73",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAC4vIIQMKAWr1wR2q6SqOC-H74RqHAcq4VInzjIhOsAN03OGqbO0k-h1gIY6gb4eR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "\u0431\u0442\u0442\u0438",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1137,
+        "followingCount": 986,
+        "heart": 3545,
+        "heartCount": 3545,
+        "videoCount": 133,
+        "diggCount": 0
+    },
+    "itemList": []
+}

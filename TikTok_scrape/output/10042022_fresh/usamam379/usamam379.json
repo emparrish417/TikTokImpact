@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7035336712704279558",
+        "shortId": "",
+        "uniqueId": "usamam379",
+        "nickname": "Ukraine",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fe72d5155df91f03bfdb1253df34cf5~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=NDhcMNHuc4FHz9bcHkQ6eoU498k%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fe72d5155df91f03bfdb1253df34cf5~c5_720x720.jpeg?x-expires=1649714400&x-signature=b1nHV2m%2Fu%2FdTBpbJ0o2quXGNrqQ%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fe72d5155df91f03bfdb1253df34cf5~c5_100x100.jpeg?x-expires=1649714400&x-signature=vz7wZl9YVmdi1KYFFxzE9jI23pY%3D",
+        "signature": "cows",
+        "createTime": 1638114365,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG2vudq_4lNzSe-nrCgLYLsAJPO-EgSxNfVCZxNLHEpzfz9fflzHqNia9WEyqIQFR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 47,
+        "followingCount": 84,
+        "heart": 69,
+        "heartCount": 69,
+        "videoCount": 33,
+        "diggCount": 0
+    },
+    "itemList": []
+}

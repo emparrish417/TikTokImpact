@@ -1,0 +1,98 @@
+{
+    "id": "7081717045166951686",
+    "desc": "",
+    "createTime": 1648840738,
+    "video": {
+        "id": "7081717045166951686",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/82b66ea5bea14318a5be5da6b7ef190b?x-expires=1648875600&x-signature=yrRkq7g1PaMRA%2B2eEKI4p9xFQiA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/499019af15fd475b9bfabba6400878af_1648840739?x-expires=1648875600&x-signature=fCnirYSNKuPxvWc%2BHK1qI1isagg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/91cd2551435c41dd911c38f974436b31_1648840740?x-expires=1648875600&x-signature=b3OnQg0zOQMvLAhzPbnoVRol4RA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/29500a9dab3292cad8494a8f83e57760/6247e3b6/video/tos/useast2a/tos-useast2a-pve-0068/2e3f94a41ac1453d918bfee0dbcfd8f1/?a=1988&br=1210&bt=605&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcaxzDXq&l=20220401234828010113006233063ED9A9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZrZzU6ZmxuPDMzNzczM0ApZmg4aDc4ZGVlNzU0ZDplO2dzX25ecjRfczBgLS1kMTZzczFiLl8tXi81NTEtMWEvNTM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/29500a9dab3292cad8494a8f83e57760/6247e3b6/video/tos/useast2a/tos-useast2a-pve-0068/2e3f94a41ac1453d918bfee0dbcfd8f1/?a=1988&br=1210&bt=605&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThcaxzDXq&l=20220401234828010113006233063ED9A9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2ZrZzU6ZmxuPDMzNzczM0ApZmg4aDc4ZGVlNzU0ZDplO2dzX25ecjRfczBgLS1kMTZzczFiLl8tXi81NTEtMWEvNTM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/499019af15fd475b9bfabba6400878af_1648840739~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=nT%2FYfo72Q38CcS%2Fkqdm0jYjPa3k%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/499019af15fd475b9bfabba6400878af_1648840739~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=PPUTqbrcyNWEhjMUNti47B1%2BqNQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/82b66ea5bea14318a5be5da6b7ef190b?x-expires=1648875600&x-signature=yrRkq7g1PaMRA%2B2eEKI4p9xFQiA%3D",
+        "bitrate": 620182,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7003048421372331013",
+        "uniqueId": "ukrainesamurai0",
+        "nickname": "ninja go go",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9059fb9a373ec41505d13ebd1519d88~c5_100x100.jpeg?x-expires=1648940400&x-signature=7sR8XeCf3QZbe63WkD6YGoO98lc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9059fb9a373ec41505d13ebd1519d88~c5_720x720.jpeg?x-expires=1648940400&x-signature=Q5WikvVIO7P5Clt9YzeLam49mqc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9059fb9a373ec41505d13ebd1519d88~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=wFyQZMhlaOhDTVicYPX5g6jDAog%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATuAXTUJpnFL8B8ZzTv4ASxto6LM7WEYdSxIKE1lXPWvG2dks73U2An0EpjQEP8zT",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7081717032424639237",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7081717040331197190.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9059fb9a373ec41505d13ebd1519d88~c5_100x100.jpeg?x-expires=1648940400&x-signature=7sR8XeCf3QZbe63WkD6YGoO98lc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9059fb9a373ec41505d13ebd1519d88~c5_720x720.jpeg?x-expires=1648940400&x-signature=Q5WikvVIO7P5Clt9YzeLam49mqc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b9059fb9a373ec41505d13ebd1519d88~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=wFyQZMhlaOhDTVicYPX5g6jDAog%3D",
+        "authorName": "ninja go go",
+        "original": true,
+        "duration": 10,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 27
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 250,
+        "followerCount": 46,
+        "heartCount": 59,
+        "videoCount": 31,
+        "diggCount": 1272,
+        "heart": 59
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "you got pug and narutoed"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7086124225144114438",
+    "desc": "",
+    "createTime": 1649866865,
+    "video": {
+        "id": "7086124225144114438",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0ac16508501048f8b7179b48c0b236a9?x-expires=1649962800&x-signature=DQKfY2O20qH31t2BkOFV%2B0k1ESc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5158182e43cf448685b02bba2dc1686d_1649866866?x-expires=1649962800&x-signature=BTEXzvklfzkrrQM%2BTIJ1CD1xZqU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b4582eff9d8b422abf7fa572ef7ea8c6_1649866867?x-expires=1649962800&x-signature=XQ9802pNNQfhJyZgVIOrenMUTqc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/54f5036ec013728dbf2307064278e044/62587424/video/tos/useast2a/tos-useast2a-ve-0068c001/2655fe766d5b4e9ca173b168c14096b7/?a=1988&br=3884&bt=1942&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZClKLwe2NckRfl7Gb&l=2022041413205601011300616408B70161&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajp1eTM6ZnRpPDMzNzczM0ApMzQ4ZDNpaGVlNzY8Mzc8NWc0cHEucjQwY19gLS1kMTZzczE0Xi4uMS8uM2I1Li4wXy86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/54f5036ec013728dbf2307064278e044/62587424/video/tos/useast2a/tos-useast2a-ve-0068c001/2655fe766d5b4e9ca173b168c14096b7/?a=1988&br=3884&bt=1942&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZClKLwe2NckRfl7Gb&l=2022041413205601011300616408B70161&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajp1eTM6ZnRpPDMzNzczM0ApMzQ4ZDNpaGVlNzY8Mzc8NWc0cHEucjQwY19gLS1kMTZzczE0Xi4uMS8uM2I1Li4wXy86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5158182e43cf448685b02bba2dc1686d_1649866866~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=epGj5JkFKhL0NNoaPYHEb%2BOLSwY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5158182e43cf448685b02bba2dc1686d_1649866866~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=%2F2CyvNNDHy2gBLx3SBgQq07s0WY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0ac16508501048f8b7179b48c0b236a9?x-expires=1649962800&x-signature=DQKfY2O20qH31t2BkOFV%2B0k1ESc%3D",
+        "bitrate": 1989389,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7019752210146739206",
+        "uniqueId": "le_rail_des_hdf",
+        "nickname": "Soutiens aux ukrainien !",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/83db2cc02469954829cb9a7c1b61d1ca~c5_100x100.jpeg?x-expires=1650114000&x-signature=L0LkM3d1q9KdnSwryvve7ESNVVo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/83db2cc02469954829cb9a7c1b61d1ca~c5_720x720.jpeg?x-expires=1650114000&x-signature=wtMMf50Q4kJYDWcwXg839Uumiwc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/83db2cc02469954829cb9a7c1b61d1ca~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=Iff2Maoi0LqqEQEHmzX7Ulmp0%2FU%3D",
+        "signature": "LELAND BOURRET -15 ans \n\ud83d\udccdBEUVRY\ud83d\udccd",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg7yHSLwvanlMO0fnRkXpoxD8R1xBO6syhaYdlZifLfg5E4T3MX9-A1QRtIrlMF7i",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6976656411237304321",
+        "title": "Disaster",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/753285224b8f4ad4992b5e392f842e12",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/14471241ff3a42d5a7021f2fe8994075.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/14471241ff3a42d5a7021f2fe8994075.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/14471241ff3a42d5a7021f2fe8994075.jpeg",
+        "authorName": "KSLV Noh",
+        "original": false,
+        "duration": 60,
+        "album": "Disaster"
+    },
+    "stats": {
+        "diggCount": 30,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 183
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 710,
+        "followerCount": 1488,
+        "heartCount": 7429,
+        "videoCount": 109,
+        "diggCount": 3952,
+        "heart": 7429
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

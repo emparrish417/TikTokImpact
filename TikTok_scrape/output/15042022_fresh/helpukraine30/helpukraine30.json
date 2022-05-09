@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6774967591037092869",
+        "shortId": "",
+        "uniqueId": "helpukraine30",
+        "nickname": "user3031143194158",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/30e0cd116d0f156e5653aaf9ccc329c1~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=lThuwTNfcKGMoorAmewTh%2BrnwzA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/30e0cd116d0f156e5653aaf9ccc329c1~c5_720x720.jpeg?x-expires=1650240000&x-signature=3AIJB%2B17fp7jFSqv9YHwoqmEMqU%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/30e0cd116d0f156e5653aaf9ccc329c1~c5_100x100.jpeg?x-expires=1650240000&x-signature=%2FfQCyFmlvSKwtU0Mkys2s221sZM%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAg2KVAMG4dZ_2wrSKP0zn4jFbgMK8aNsx21SMQVZ_f7mBvs5F5c_PO82dO-GzdRFO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Automotive & Transportation",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 124,
+        "followingCount": 608,
+        "heart": 6,
+        "heartCount": 6,
+        "videoCount": 6,
+        "diggCount": 513
+    },
+    "itemList": []
+}

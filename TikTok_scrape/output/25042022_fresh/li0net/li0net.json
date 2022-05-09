@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6830614289859412997",
+        "shortId": "",
+        "uniqueId": "li0net",
+        "nickname": "Li0net\ud83e\udd81",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c7c9be1da836135d8de4c8ecac65b96~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=A57Et0hxakOfSUYzQX%2Fk5%2FeCOec%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c7c9be1da836135d8de4c8ecac65b96~c5_720x720.jpeg?x-expires=1651086000&x-signature=wAtIQr8N4DS8MLZaQKuiz8Jqq7Q%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c7c9be1da836135d8de4c8ecac65b96~c5_100x100.jpeg?x-expires=1651086000&x-signature=n62vWw6UC9AfGdYWeMNCBM1kusY%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAb_5eUdy05NnFj0xltBgzf5s3cgbafcDJZA1x-B5S32ZhuODx7TlhoUquP0JQdasE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 77,
+        "followingCount": 342,
+        "heart": 562,
+        "heartCount": 562,
+        "videoCount": 61,
+        "diggCount": 0
+    },
+    "itemList": []
+}

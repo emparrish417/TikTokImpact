@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6729924025861047302",
+        "shortId": "",
+        "uniqueId": "paulkarpov",
+        "nickname": "Paul Karpov",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/067fca244b08fbacd31d89ee54c456d5~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=4I4MKema2VFDZqQDiTcFqh23KBk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/067fca244b08fbacd31d89ee54c456d5~c5_720x720.jpeg?x-expires=1650934800&x-signature=nc7E5xW5%2FjgcG6kEUtjdefv8hrA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/067fca244b08fbacd31d89ee54c456d5~c5_100x100.jpeg?x-expires=1650934800&x-signature=YjFl0zzJSpsZXH%2BznzlftaS1fbk%3D",
+        "signature": "MN\ud83d\udccd\n6\u20194 russian \ud83c\uddf7\ud83c\uddfa\nfollow my instagram",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAj3S55WuEwaGzO5kkWW0UJvxxyKMGvwlQQ4DU3H8aqOJly5Df9jZ5ZQt-xxMMsoOh",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 130100,
+        "followingCount": 10,
+        "heart": 10400000,
+        "heartCount": 10400000,
+        "videoCount": 68,
+        "diggCount": 0
+    },
+    "itemList": []
+}

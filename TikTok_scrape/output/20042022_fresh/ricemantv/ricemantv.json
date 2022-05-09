@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6590433788806004741",
+        "shortId": "",
+        "uniqueId": "ricemantv",
+        "nickname": "riceman",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651935107848197~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=BWdOhZbRAwfp0dx%2BcQI9nMW4sDc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651935107848197~c5_720x720.jpeg?x-expires=1650664800&x-signature=3gFkvVLMgIV04HEbCwHQ4AVq9cI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1651935107848197~c5_100x100.jpeg?x-expires=1650664800&x-signature=xXH0gypeUoyWcPxnzZAjuUJmlCU%3D",
+        "signature": "for sponsorship: TVRiceman@gmail.com\n  \n\u23ec",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAY2ipyrxNtjk12bposnUyhkCvt7nRUTVkzGJXMOUZgi5vhWk9N8vW9s1ImoFjbz3s",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.tapptree.io/riceman",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1700000,
+        "followingCount": 92,
+        "heart": 53900000,
+        "heartCount": 53900000,
+        "videoCount": 514,
+        "diggCount": 0
+    },
+    "itemList": []
+}

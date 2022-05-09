@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6819230993922049030",
+        "shortId": "",
+        "uniqueId": "ninachkaaaaa",
+        "nickname": "Ninachkaaa",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/e148fe1d687c192e5ebb3079834f6831.jpeg?x-expires=1650578400&x-signature=46pa7aQwsuUSjHCEHUrcqLRqMTg%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e148fe1d687c192e5ebb3079834f6831.jpeg?x-expires=1650578400&x-signature=8oO1r48hDs8xA20oENb2dsZENdc%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e148fe1d687c192e5ebb3079834f6831.jpeg?x-expires=1650578400&x-signature=EGhCdtKx5PYQaPNZglLaNEV%2FF60%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJXGqBHCiT33nenrSrZHoSnT3npccpOQTHfMhINrNVMTZtO58u8wU3eec57Xw9jdG",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11800,
+        "followingCount": 120,
+        "heart": 1500000,
+        "heartCount": 1500000,
+        "videoCount": 38,
+        "diggCount": 0
+    },
+    "itemList": []
+}

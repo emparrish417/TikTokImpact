@@ -1,0 +1,213 @@
+{
+    "id": "7085743439144324357",
+    "desc": "travelling to ireland... #ireland #travel #traveltok #dellaxoz",
+    "createTime": 1649778206,
+    "video": {
+        "id": "7085743439144324357",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0918a4e0033748ec9240924338824bb8_1649778208?x-expires=1649840400&x-signature=BRTCaENaVEaokZNzthJKC2k%2B1uM%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6e29749c90f94e6ba0ded45d02539005_1649778207?x-expires=1649840400&x-signature=0lQwv9%2B6BYReJVtuen1gPLiyjuE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/99b3708755c34e1fa7f96ead725dc7e7_1649778208?x-expires=1649840400&x-signature=KuZdJqzsD7UzfnS7xO1C0p9Uzm4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/91b55aee244aac92f785a136c2e9fbb5/6256919f/video/tos/useast2a/tos-useast2a-ve-0068c004/b39f112ce3934e51aa02b6ab969e8bd9/?a=1988&br=3038&bt=1519&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThaL4aDXq&l=2022041303020801011313513612B8B47E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ank2MzM6ZmtzPDMzNzczM0ApOzZpMzw4aTs4N2U4NjNkNWdwczRjcjRfbV5gLS1kMTZzcy4vLV82YjEzNmJiMTFfXzA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/91b55aee244aac92f785a136c2e9fbb5/6256919f/video/tos/useast2a/tos-useast2a-ve-0068c004/b39f112ce3934e51aa02b6ab969e8bd9/?a=1988&br=3038&bt=1519&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThaL4aDXq&l=2022041303020801011313513612B8B47E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ank2MzM6ZmtzPDMzNzczM0ApOzZpMzw4aTs4N2U4NjNkNWdwczRjcjRfbV5gLS1kMTZzcy4vLV82YjEzNmJiMTFfXzA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6e29749c90f94e6ba0ded45d02539005_1649778207~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=FMcR4FnJdh6AP1l3RUUEQfrJu2o%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6e29749c90f94e6ba0ded45d02539005_1649778207~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=J0mzlDf4Igmv2wz1ERmeoPeSO8I%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0918a4e0033748ec9240924338824bb8_1649778208?x-expires=1649840400&x-signature=BRTCaENaVEaokZNzthJKC2k%2B1uM%3D",
+        "bitrate": 1556174,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6684591499676648453",
+        "uniqueId": "custardwater",
+        "nickname": "\ud835\udc2b\ud835\udc1e\ud835\udc27\ud835\udc27\ud835\udc22\ud835\udc1e <3",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df01598ed1c179a621482f7f1756b8a6~c5_100x100.jpeg?x-expires=1649905200&x-signature=f8JcOeqDfNO%2BSoHeFbd89ZOUt%2BY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df01598ed1c179a621482f7f1756b8a6~c5_720x720.jpeg?x-expires=1649905200&x-signature=5ddAEl6IR%2BaCEC9ocbkxAE2dvhI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/df01598ed1c179a621482f7f1756b8a6~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=Cv%2FE9p4PiuvobZxPT8FpW60OAtg%3D",
+        "signature": "Randall Boggs is not welcome here\nas sweet as 16",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFlx-rYQ721DFYCHJjdudNYP1pucsbUApATWnlsuzXTvdn7iOKiV7WDXnWoE8nyEi",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6961074690904885250",
+        "title": "AHH!!",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/bf3b7510e32c47f1a6d642d85056257e",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/f82db242d9d942ce989b83420d5b53fb.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/f82db242d9d942ce989b83420d5b53fb.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/f82db242d9d942ce989b83420d5b53fb.jpeg",
+        "authorName": "DellaXOZ",
+        "original": false,
+        "duration": 60,
+        "album": "AHH!!"
+    },
+    "challenges": [
+        {
+            "id": "85278",
+            "title": "ireland",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "7884",
+            "title": "travel",
+            "desc": "\ud83c\udf1fThe world is a book and those who don't travel read only one page \ud83c\udfc4\ud83c\udf34Now recollect your best travel memories from your camera roll, \ud83d\udcf7and share the stories behind!",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6cd3395377af1ebf701faaf40d449c8c",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6cd3395377af1ebf701faaf40d449c8c",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6cd3395377af1ebf701faaf40d449c8c",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1615277350759429",
+            "title": "traveltok",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1662529646522374",
+            "title": "dellaxoz",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 26,
+        "shareCount": 0,
+        "commentCount": 4,
+        "playCount": 226
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 25,
+            "end": 33,
+            "hashtagName": "ireland",
+            "hashtagId": "85278",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 34,
+            "end": 41,
+            "hashtagName": "travel",
+            "hashtagId": "7884",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 42,
+            "end": 52,
+            "hashtagName": "traveltok",
+            "hashtagId": "1615277350759429",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 53,
+            "end": 62,
+            "hashtagName": "dellaxoz",
+            "hashtagId": "1662529646522374",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Video",
+            "ID": "454774"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 5021,
+        "followerCount": 158,
+        "heartCount": 658,
+        "videoCount": 29,
+        "diggCount": 358300,
+        "heart": 658
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "4 days before....",
+                "hours before...",
+                "waiting...",
+                "on board...",
+                "flying...",
+                "landing..."
+            ]
+        }
+    ],
+    "isAd": false
+}

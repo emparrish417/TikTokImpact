@@ -1,0 +1,90 @@
+{
+    "id": "7084822792448838955",
+    "desc": "76s wins",
+    "createTime": 1649563852,
+    "video": {
+        "id": "7084822792448838955",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f2a3f5b02d1c4e9ebc6ac312b83ee288?x-expires=1649649600&x-signature=HkD5lIX6Q8K4wdjLjqqeBL8NBZA%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/162939ae66904ae8b4bd6266504186a7_1649563852?x-expires=1649649600&x-signature=StR7DRS8zPunt6WAzKtVTuFrkGQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2124a68bc4664cf7a142ab87e902af09_1649563853?x-expires=1649649600&x-signature=eIfho558%2FibrIrXxlMP%2FUlqcTM4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/08eaafa2b9a8e6bbbc5debaaba7a4649/6253ae67/video/tos/useast5/tos-useast5-ve-0068c001-tx/fcc748ff74594fbd87d6044f94992c07/?a=1988&br=834&bt=417&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.EIDXq&l=2022041022281401011300615605B6BC0A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9lajM6Zm44PDMzZzczNEApO2YzODg3NWQ4Nzc8OjxmOWdrZGBncjRvZDZgLS1kMS9zczM1YDYxYS4tNi1iLjM2Y2A6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/08eaafa2b9a8e6bbbc5debaaba7a4649/6253ae67/video/tos/useast5/tos-useast5-ve-0068c001-tx/fcc748ff74594fbd87d6044f94992c07/?a=1988&br=834&bt=417&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thu.EIDXq&l=2022041022281401011300615605B6BC0A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9lajM6Zm44PDMzZzczNEApO2YzODg3NWQ4Nzc8OjxmOWdrZGBncjRvZDZgLS1kMS9zczM1YDYxYS4tNi1iLjM2Y2A6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/162939ae66904ae8b4bd6266504186a7_1649563852~tplv-tiktok-play.jpeg?x-expires=1650232800&x-signature=mJea8Rb6wBt8lcKd3dwn1EJ1YEk%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/162939ae66904ae8b4bd6266504186a7_1649563852~tplv-tiktokx-share-play.jpeg?x-expires=1650232800&x-signature=dBjzhmjc%2Ff1yKMIcm4aeP0z2W%2BQ%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f2a3f5b02d1c4e9ebc6ac312b83ee288?x-expires=1649649600&x-signature=HkD5lIX6Q8K4wdjLjqqeBL8NBZA%3D",
+        "bitrate": 427027,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7035336712704279558",
+        "uniqueId": "usamam379",
+        "nickname": "Ukraine",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fe72d5155df91f03bfdb1253df34cf5~c5_100x100.jpeg?x-expires=1649714400&x-signature=vz7wZl9YVmdi1KYFFxzE9jI23pY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fe72d5155df91f03bfdb1253df34cf5~c5_720x720.jpeg?x-expires=1649714400&x-signature=b1nHV2m%2Fu%2FdTBpbJ0o2quXGNrqQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0fe72d5155df91f03bfdb1253df34cf5~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=NDhcMNHuc4FHz9bcHkQ6eoU498k%3D",
+        "signature": "cows",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG2vudq_4lNzSe-nrCgLYLsAJPO-EgSxNfVCZxNLHEpzfz9fflzHqNia9WEyqIQFR",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6892126417534846978",
+        "title": "Back In Blood (feat. Lil Durk)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/fae8f141e6b3499d8295178f8678eb83",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/2e9483d3425c486fac7ee2628a4c5313.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/2e9483d3425c486fac7ee2628a4c5313.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/2e9483d3425c486fac7ee2628a4c5313.jpeg",
+        "authorName": "Pooh Shiesty",
+        "original": false,
+        "duration": 60,
+        "album": "Back In Blood (feat. Lil Durk)"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 99
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 85,
+        "followerCount": 47,
+        "heartCount": 69,
+        "videoCount": 33,
+        "diggCount": 304,
+        "heart": 69
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

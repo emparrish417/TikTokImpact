@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6929338001630118914",
+        "shortId": "",
+        "uniqueId": "wanderiehippie",
+        "nickname": "wanderiehippie",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/305123de366445f3c07f86cc4e3f96c0~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=qHv23V0xQSAo0SwIJUBgLJm2TOo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/305123de366445f3c07f86cc4e3f96c0~c5_720x720.jpeg?x-expires=1650240000&x-signature=czl%2BXDv2DbMePpEJtdu%2FeHPlzb0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/305123de366445f3c07f86cc4e3f96c0~c5_100x100.jpeg?x-expires=1650240000&x-signature=dk%2Bpto647R8zzivQLsyioXPiylA%3D",
+        "signature": "free spirit writing and wandering the world",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV9SFJ3x-IeT0wa8_u2g2hGcBRE_5dEJyFE4GkOvK-9m6-FWniybypkt8cHBqhK8L",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/wanderiehippie",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 11400,
+        "followingCount": 40,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 154,
+        "diggCount": 0
+    },
+    "itemList": []
+}

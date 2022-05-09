@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6986622967740810245",
+        "shortId": "",
+        "uniqueId": "yakuza_daimyo",
+        "nickname": "Jim",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6bc7c576dcc45c995cc8efc8cdfa04e9~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=ns5S8%2FNGYxGwD%2F0ABiGuMELIKc4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6bc7c576dcc45c995cc8efc8cdfa04e9~c5_720x720.jpeg?x-expires=1648580400&x-signature=EmU5EF%2FAb60V9l4a4kWDXtBB1GY%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6bc7c576dcc45c995cc8efc8cdfa04e9~c5_100x100.jpeg?x-expires=1648580400&x-signature=6K03ioIAHQOeVsgNHVVvErheNEg%3D",
+        "signature": "idk to be honest",
+        "createTime": 1627445653,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgN8swCJY8pBcHEMGp5uZWhV3pOe6UzC2iDf3Ze80RmPe8-MJzVzj6xGds0PipNkZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 779,
+        "followingCount": 154,
+        "heart": 7267,
+        "heartCount": 7267,
+        "videoCount": 23,
+        "diggCount": 0
+    },
+    "itemList": []
+}

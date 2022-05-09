@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6770778579363136518",
+        "shortId": "",
+        "uniqueId": "oksanasharanevych",
+        "nickname": "Oksana Sharanevych",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f87ce1b9f5caf07eae8d2dbd2fed9ca~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=750w3VX45MG0h%2BXdquhC9%2BhQdt0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f87ce1b9f5caf07eae8d2dbd2fed9ca~c5_720x720.jpeg?x-expires=1649116800&x-signature=gkqcvBN19KaCkX1Rk%2BSIeUWRdsQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f87ce1b9f5caf07eae8d2dbd2fed9ca~c5_100x100.jpeg?x-expires=1649116800&x-signature=MlA7%2B4PsFDDerjLKnBHAdqNrPlo%3D",
+        "signature": "@sharanevychka",
+        "createTime": 1576416178,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1tGGsrasL7r5pexb_KIl4nFlmfcDMY1kwHUqaBnhqos5kXfUKzLvwxLUHoxr6gDL",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 50,
+        "followingCount": 16,
+        "heart": 5419,
+        "heartCount": 5419,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

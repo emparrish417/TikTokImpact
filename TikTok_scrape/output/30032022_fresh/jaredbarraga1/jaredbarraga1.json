@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7074336872161330222",
+        "shortId": "",
+        "uniqueId": "jaredbarraga1",
+        "nickname": "jaredbarragan859",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c25c5face877649d26ee78a22b786050~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=PxHdZoYx1D2lFIyLSJ24szrOo4g%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c25c5face877649d26ee78a22b786050~c5_720x720.jpeg?x-expires=1648764000&x-signature=8PwcIbLpSgUMADQ5RTAFXo%2FBF%2BA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c25c5face877649d26ee78a22b786050~c5_100x100.jpeg?x-expires=1648764000&x-signature=Cse4%2FXkFbx8A83SKWYJMEerZLOA%3D",
+        "signature": "Hi",
+        "createTime": 1647123019,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAvD3I9JSz6K3NkDME93mBVmke9wZqH-Dbx_m4qiCXYmeapIQCj1NgwICWTK_C5si3",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 317,
+        "followingCount": 900,
+        "heart": 130,
+        "heartCount": 130,
+        "videoCount": 23,
+        "diggCount": 0
+    },
+    "itemList": []
+}

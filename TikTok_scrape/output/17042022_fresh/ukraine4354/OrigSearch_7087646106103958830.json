@@ -1,0 +1,90 @@
+{
+    "id": "7087646106103958830",
+    "desc": "",
+    "createTime": 1650221205,
+    "video": {
+        "id": "7087646106103958830",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f5809898eb7a41989287281fbc4a80c1?x-expires=1650261600&x-signature=MndMg%2FILJhdsYr6lWK5nO3oCCJY%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/57438ee218ab46e1936ccdb80ec24591_1650221206?x-expires=1650261600&x-signature=tsEreAxDOzheM01902d4RWZUgS4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/902d4090372d4742885bd8da93d78f1a_1650221207?x-expires=1650261600&x-signature=nZ6VzU3UUVZhCI3T489gHQT047o%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d352ddb25b3711037ba6d103787f9f22/625d02dd/video/tos/useast5/tos-useast5-ve-0068c004-tx/037ed877f4e2421a94b4b0836154d113/?a=1988&br=662&bt=331&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZMPuwwe2Nw1ufl7Gb&l=20220418001854010113006244015647E0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amhxOzg6ZjU5PDMzZzczNEApZDczNmg7N2Q6N2Q3ZGkzPGdeY2dlcjRvLWJgLS1kMS9zczViYDA0LzUzMWBhXi4zLjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d352ddb25b3711037ba6d103787f9f22/625d02dd/video/tos/useast5/tos-useast5-ve-0068c004-tx/037ed877f4e2421a94b4b0836154d113/?a=1988&br=662&bt=331&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZMPuwwe2Nw1ufl7Gb&l=20220418001854010113006244015647E0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amhxOzg6ZjU5PDMzZzczNEApZDczNmg7N2Q6N2Q3ZGkzPGdeY2dlcjRvLWJgLS1kMS9zczViYDA0LzUzMWBhXi4zLjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/57438ee218ab46e1936ccdb80ec24591_1650221206~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=DcTUmIYHtraC2pzB491%2Bt0ERcPo%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/57438ee218ab46e1936ccdb80ec24591_1650221206~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=g5IQgN9%2F01eli0GSR7xUSleZdwA%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f5809898eb7a41989287281fbc4a80c1?x-expires=1650261600&x-signature=et7ngZm7y3P0s3yJXzU6isaY1wg%3D",
+        "bitrate": 339848,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6928297513226241029",
+        "uniqueId": "ukraine4354",
+        "nickname": "Travel under18",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7ed4a992c5517335f50c2fee80181ac~c5_100x100.jpeg?x-expires=1650412800&x-signature=F8k%2F8nYHv1sCW7O8weurw9Bb47I%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7ed4a992c5517335f50c2fee80181ac~c5_720x720.jpeg?x-expires=1650412800&x-signature=24B5j8QkDz4WGrwNMkK3r8KqJ38%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7ed4a992c5517335f50c2fee80181ac~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=tdGiG%2F5rO%2FJDsnAur7s%2F9eYapN8%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAO2EUQXU9mTe3OlblWaBcaHo1DM0v--EHuPXAz28JXmYIUxIBJG_tlQb6cGlHgDwm",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087646078467640107",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7087646108285340458.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7ed4a992c5517335f50c2fee80181ac~c5_100x100.jpeg?x-expires=1650412800&x-signature=F8k%2F8nYHv1sCW7O8weurw9Bb47I%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7ed4a992c5517335f50c2fee80181ac~c5_720x720.jpeg?x-expires=1650412800&x-signature=24B5j8QkDz4WGrwNMkK3r8KqJ38%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e7ed4a992c5517335f50c2fee80181ac~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=tdGiG%2F5rO%2FJDsnAur7s%2F9eYapN8%3D",
+        "authorName": "Travel under18",
+        "original": true,
+        "duration": 15,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 19
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 64,
+        "followerCount": 19,
+        "heartCount": 2,
+        "videoCount": 2,
+        "diggCount": 3172,
+        "heart": 2
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

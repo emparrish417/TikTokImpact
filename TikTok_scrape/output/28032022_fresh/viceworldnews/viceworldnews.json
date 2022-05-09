@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6886828060440937477",
+        "shortId": "",
+        "uniqueId": "viceworldnews",
+        "nickname": "VICE World News",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/3b16cf52ea7e98fef218a4ff37c76309.jpeg?x-expires=1648580400&x-signature=6WSXvoztgJgv9buhLuu9UObclo8%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/3b16cf52ea7e98fef218a4ff37c76309.jpeg?x-expires=1648580400&x-signature=Y0waVrrCdYFUVgN%2FGMb1urkHZi0%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/3b16cf52ea7e98fef218a4ff37c76309.jpeg?x-expires=1648580400&x-signature=iQ5XMy4CGEXTWgEb0NAZzV%2FQ0vw%3D",
+        "signature": "\ud83c\udf0d\ud83c\udf0e\ud83c\udf0f Find out what\u2019s really happening \nin the world.",
+        "createTime": 1603464658,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAzfZva6oX4AzL5hQVHS72tcUCstZTv-Tk0s4-A2Gp7aR2-J8NilayROuktItlzr76",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1300000,
+        "followingCount": 18,
+        "heart": 18300000,
+        "heartCount": 18300000,
+        "videoCount": 141,
+        "diggCount": 0
+    },
+    "itemList": []
+}

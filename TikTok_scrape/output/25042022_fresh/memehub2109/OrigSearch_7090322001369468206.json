@@ -1,0 +1,90 @@
+{
+    "id": "7090322001369468206",
+    "desc": "",
+    "createTime": 1650844236,
+    "video": {
+        "id": "7090322001369468206",
+        "height": 1118,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7604aaa7cd004568a5975b5d46f3f7ce?x-expires=1650934800&x-signature=bbyvrOyN%2BmMG58F7QuBbG435hRc%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d7f5af86078c4f89ba3f219da82a4fa0_1650844237?x-expires=1650934800&x-signature=FqUSDvdfE1m1cL1xVQREoyAsai4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/969793f6de9443a8bc17990f367ccf5b_1650844237?x-expires=1650934800&x-signature=%2BwI%2BzZOh4P%2FxDgxOxQ7zq7rwkis%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9e341320503cc3992eb36cb43189681f/62674bf0/video/tos/useast5/tos-useast5-ve-0068c002-tx/707602c318754ae98285c79d86fe629c/?a=1988&br=3300&bt=1650&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZGdz4we2NIrGfl7Gb&l=202204251933270101130062270F1A2E2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ang0bjM6ZmR4PDMzZzczNEApOjw8ZjhpOWQzN2c3Nzs1ZGcvZm9kcjRvMWZgLS1kMS9zc2MwYGI2XjM1Ll5gNDBgMjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9e341320503cc3992eb36cb43189681f/62674bf0/video/tos/useast5/tos-useast5-ve-0068c002-tx/707602c318754ae98285c79d86fe629c/?a=1988&br=3300&bt=1650&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZGdz4we2NIrGfl7Gb&l=202204251933270101130062270F1A2E2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ang0bjM6ZmR4PDMzZzczNEApOjw8ZjhpOWQzN2c3Nzs1ZGcvZm9kcjRvMWZgLS1kMS9zc2MwYGI2XjM1Ll5gNDBgMjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d7f5af86078c4f89ba3f219da82a4fa0_1650844237~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=uI6tcaobBVBRTLmiehDbtIdrtX0%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d7f5af86078c4f89ba3f219da82a4fa0_1650844237~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=d9le5YmlkooHRyXgZuAydxR5RJE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7604aaa7cd004568a5975b5d46f3f7ce?x-expires=1650934800&x-signature=MeFlOJ3xjw%2BqkwLqWFqmSW2CwW4%3D",
+        "bitrate": 1689702,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7036543255735796741",
+        "uniqueId": "memehub2109",
+        "nickname": "What did you think",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f40b05e8e0bf876b813a3c08ea266e1d~c5_100x100.jpeg?x-expires=1651086000&x-signature=Nfc7jfDKnz%2BOQVIf3Jexg3wv3BA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f40b05e8e0bf876b813a3c08ea266e1d~c5_720x720.jpeg?x-expires=1651086000&x-signature=unxc155x0PLwrXg5qPyyJ%2FgIOBg%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f40b05e8e0bf876b813a3c08ea266e1d~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=O1KL1XOKv7C6aqVU3rA999CcWa0%3D",
+        "signature": "13 Male \nStraight \n Aquarius\nface reavel at 13k",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5o1ehhM-8bYnYKOZqXAbbHqnmBseosbJOSQ9T4rI1HSlotG53iI9krcunm_Og3T6",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7090321975393979182",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7090322002950621998.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f40b05e8e0bf876b813a3c08ea266e1d~c5_100x100.jpeg?x-expires=1651086000&x-signature=Nfc7jfDKnz%2BOQVIf3Jexg3wv3BA%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f40b05e8e0bf876b813a3c08ea266e1d~c5_720x720.jpeg?x-expires=1651086000&x-signature=unxc155x0PLwrXg5qPyyJ%2FgIOBg%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f40b05e8e0bf876b813a3c08ea266e1d~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=O1KL1XOKv7C6aqVU3rA999CcWa0%3D",
+        "authorName": "What did you think",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 14
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1761,
+        "followerCount": 1130,
+        "heartCount": 1321,
+        "videoCount": 161,
+        "diggCount": 14300,
+        "heart": 1321
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

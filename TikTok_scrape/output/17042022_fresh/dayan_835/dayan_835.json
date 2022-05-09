@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "96987733176295424",
+        "shortId": "",
+        "uniqueId": "dayan_835",
+        "nickname": "Dayan",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/6533024d8a458f4b043a37139b793c28.jpeg?x-expires=1650412800&x-signature=EvNu5TdMhdex8Sp7K%2B7TdwWASoA%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/6533024d8a458f4b043a37139b793c28.jpeg?x-expires=1650412800&x-signature=8BYInW9uT9rwXJqItcVSNDVHtU4%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/6533024d8a458f4b043a37139b793c28.jpeg?x-expires=1650412800&x-signature=RqZY2BUtX6ti%2BJ35uw2vc7MkmOI%3D",
+        "signature": "No bio yet",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAHbLOhFOD2jfdD8CGxx8SCFA_bjhfLQuQcA8yuogy8NG6nhZlUO19yTHzpy0YfnT4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 108000,
+        "followingCount": 273,
+        "heart": 1700000,
+        "heartCount": 1700000,
+        "videoCount": 104,
+        "diggCount": 0
+    },
+    "itemList": []
+}

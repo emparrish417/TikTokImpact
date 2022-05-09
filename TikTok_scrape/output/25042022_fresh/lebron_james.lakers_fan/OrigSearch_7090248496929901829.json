@@ -1,0 +1,101 @@
+{
+    "id": "7090248496929901829",
+    "desc": "",
+    "createTime": 1650827123,
+    "video": {
+        "id": "7090248496929901829",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b6f83493d8a64252ac71e6c90e208c51?x-expires=1650934800&x-signature=oUF0da6kc%2BfUAhE%2B45DjAlOBVTY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/86e496580df747b3a0a8805c5125452b_1650827124?x-expires=1650934800&x-signature=fzSFAhJOr8bwa79YmZd6pSIsnuQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/479ca0aebdb8461db0d972de883c81f2_1650827124?x-expires=1650934800&x-signature=ocUDdgDpEZD07ZgBUIlNRVN6LAU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4641b5d98689b2387eea412b570556a5/62674bc5/video/tos/useast2a/tos-useast2a-ve-0068c001/0798c8e98da5484f9bd9a937c17b84a1/?a=1988&br=3502&bt=1751&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zq8z4we2Nmeufl7Gb&l=202204251932450101130062341E279963&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZoaTU6ZnNzPDMzNzczM0ApNDkzNzhoZjszNzpkMzM5O2cwNXBlcjRfcGZgLS1kMTZzczUtLzJeLmBhMGIxYzE0NTQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4641b5d98689b2387eea412b570556a5/62674bc5/video/tos/useast2a/tos-useast2a-ve-0068c001/0798c8e98da5484f9bd9a937c17b84a1/?a=1988&br=3502&bt=1751&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zq8z4we2Nmeufl7Gb&l=202204251932450101130062341E279963&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajZoaTU6ZnNzPDMzNzczM0ApNDkzNzhoZjszNzpkMzM5O2cwNXBlcjRfcGZgLS1kMTZzczUtLzJeLmBhMGIxYzE0NTQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/86e496580df747b3a0a8805c5125452b_1650827124~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=c0sJnPoZUcghAe506eWDXWB%2FgmE%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/86e496580df747b3a0a8805c5125452b_1650827124~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=T2eFL5180GbzZtsbrBBDy63VIlw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b6f83493d8a64252ac71e6c90e208c51?x-expires=1650934800&x-signature=oUF0da6kc%2BfUAhE%2B45DjAlOBVTY%3D",
+        "bitrate": 1793826,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6992582810729726981",
+        "uniqueId": "lebron_james.lakers_fan",
+        "nickname": "Let\u2019s go Ukrain",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/07be41ec821a1a244596ca01bdb693d4~c5_100x100.jpeg?x-expires=1651086000&x-signature=oIPJ10a9594%2BSfIy8jytijyi6Kk%3D",
+        "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/07be41ec821a1a244596ca01bdb693d4~c5_720x720.jpeg?x-expires=1651086000&x-signature=Z1nOyWDAguJJkpQvTna2aB4QcTc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/07be41ec821a1a244596ca01bdb693d4~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=AsrJxvtAFrlaxpmV6EAxiAupFuE%3D",
+        "signature": "Yoooxx",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAd7nF3z2uOtlcNl7qJsSXQb-LeV8uFd-LkI0KyuEY68j3687Otq5GcHmM-CWQMCGx",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076519022287948590",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076519052264426282.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/23405f2af1babe52fa2480fe7f0fd09a~c5_100x100.jpeg?x-expires=1651086000&x-signature=BMMUKg%2BNB0k5leWPlsGF%2BtVy8jw%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/23405f2af1babe52fa2480fe7f0fd09a~c5_720x720.jpeg?x-expires=1651086000&x-signature=J%2BIxkyM34loKMkHWNfj4N73arjM%3D",
+        "coverLarge": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/23405f2af1babe52fa2480fe7f0fd09a~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=h7bn1jCU8a2ILiopdjF%2BcJrkh9c%3D",
+        "authorName": "Zaniya<3",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 90
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1163,
+        "followerCount": 561,
+        "heartCount": 1716,
+        "videoCount": 137,
+        "diggCount": 2621,
+        "heart": 1716
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                " If you can do this your just amazing\n________\nEasy:",
+                "\ufffc\n",
+                "Btw watching stranger things ",
+                "\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

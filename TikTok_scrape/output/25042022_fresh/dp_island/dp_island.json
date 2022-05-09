@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6750304271219246086",
+        "shortId": "",
+        "uniqueId": "dp_island",
+        "nickname": "Devin",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/35034d009d10d67642a49b00f0ed9963~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=d%2FmgG1Wuvb%2FVDoCaJOEjaDKz2P0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/35034d009d10d67642a49b00f0ed9963~c5_720x720.jpeg?x-expires=1651086000&x-signature=iIEV2DPwSef%2FCS05FQ7c6exwJWQ%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/35034d009d10d67642a49b00f0ed9963~c5_100x100.jpeg?x-expires=1651086000&x-signature=IH7maFHGlNGPRE0Ke2vI7jplYgo%3D",
+        "signature": "Sometimes funny but mostly cringe content",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJmcwEkb90XfdRiCyFKFCVXknoOxRVHwHQzy6tmM7CxiPEs3krGuOpZ5AKUiyGAL9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 14600,
+        "followingCount": 14,
+        "heart": 1300000,
+        "heartCount": 1300000,
+        "videoCount": 130,
+        "diggCount": 40
+    },
+    "itemList": []
+}

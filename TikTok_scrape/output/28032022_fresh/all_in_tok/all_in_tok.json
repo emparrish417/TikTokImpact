@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7004673564511716357",
+        "shortId": "",
+        "uniqueId": "all_in_tok",
+        "nickname": "all_in_tok",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3c1814e6a783cb2f57a206d7596eb778~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=csB9%2FMGsIxmapjUe0YEQLN7XfIc%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3c1814e6a783cb2f57a206d7596eb778~c5_720x720.jpeg?x-expires=1648580400&x-signature=8bG60MXSOmeURp75apKntfEU%2BVs%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3c1814e6a783cb2f57a206d7596eb778~c5_100x100.jpeg?x-expires=1648580400&x-signature=HTgTA1CqTG86W3S8MGIdqLz7us8%3D",
+        "signature": "\ud83d\udc46Join discussion \u2705\n4 Billionaires go All-in\nPodcast \ud83d\ude80 Fans \ud83c\udfac\nFind more\ud83d\udc47",
+        "createTime": 1630902692,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAM3O4HUuxR_AXO-UcoeE7KZ_tFtuijYyZfaEz4ohJ-YOGwMCztViYjScBYM7Lc6j_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.linktr.ee/allintok",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 79,
+        "heart": 3300000,
+        "heartCount": 3300000,
+        "videoCount": 490,
+        "diggCount": 0
+    },
+    "itemList": []
+}

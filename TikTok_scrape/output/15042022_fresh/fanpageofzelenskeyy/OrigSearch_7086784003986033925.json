@@ -1,0 +1,90 @@
+{
+    "id": "7086784003986033925",
+    "desc": "# saveukraine\ud83c\uddfa\ud83c\udde6 A true lever",
+    "createTime": 1650020483,
+    "video": {
+        "id": "7086784003986033925",
+        "height": 1024,
+        "width": 576,
+        "duration": 59,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1113a52284b045418da4906eac9b0ee0?x-expires=1650088800&x-signature=dloqxZtdCXIoGzTc5SvhVreOtAU%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7b6f1b37d2844206973841da1bf5a3cf_1650020484?x-expires=1650088800&x-signature=PXFuHJV2axqYksAZ7Sl5X%2F6J4zU%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/433e938e429744279e288c8b735ee202_1650020485?x-expires=1650088800&x-signature=Rn4gbyDTSkD0IehB26JZ2tsrjY4%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c3b26f341c95206161b1d570ade64b90/625a6574/video/tos/useast2a/tos-useast2a-ve-0068c003/61938105e9904206a102cbe216fb169d/?a=1988&br=306&bt=153&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZegGLwe2NanGfl7Gb&l=202204160042010101131351231D9FC3C6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amdtNWQ6ZjtvPDMzNzczM0ApNGY4Nzo1PDs8N2U7ZGY7aGduMHIwcjRfLWBgLS1kMTZzcy1jYjUxYzQxLzE0MTYuXl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c3b26f341c95206161b1d570ade64b90/625a6574/video/tos/useast2a/tos-useast2a-ve-0068c003/61938105e9904206a102cbe216fb169d/?a=1988&br=306&bt=153&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZegGLwe2NanGfl7Gb&l=202204160042010101131351231D9FC3C6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amdtNWQ6ZjtvPDMzNzczM0ApNGY4Nzo1PDs8N2U7ZGY7aGduMHIwcjRfLWBgLS1kMTZzcy1jYjUxYzQxLzE0MTYuXl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7b6f1b37d2844206973841da1bf5a3cf_1650020484~tplv-tiktok-play.jpeg?x-expires=1650672000&x-signature=TR37kS7wBEGbP5NuO9hfaH96qkM%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7b6f1b37d2844206973841da1bf5a3cf_1650020484~tplv-tiktokx-share-play.jpeg?x-expires=1650672000&x-signature=FiDstjnezn72nxzAas%2B0b3zsq%2Bk%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1113a52284b045418da4906eac9b0ee0?x-expires=1650088800&x-signature=dloqxZtdCXIoGzTc5SvhVreOtAU%3D",
+        "bitrate": 157009,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7023491662987609094",
+        "uniqueId": "fanpageofzelenskeyy",
+        "nickname": "Fan page Off president Zelensk",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74807d6f03087fb5517a0905fec0cf6a~c5_100x100.jpeg?x-expires=1650240000&x-signature=PP%2B09l9ajX5hcaRy1%2BFBSpkrSf0%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74807d6f03087fb5517a0905fec0cf6a~c5_720x720.jpeg?x-expires=1650240000&x-signature=osG7HeOreJ0h0K%2FgJLaQNaGCUPU%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/74807d6f03087fb5517a0905fec0cf6a~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=tnbTk%2FRQDWGWtAYzF93nbpInMVU%3D",
+        "signature": "Fan page of President of Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAR9roBxhQ3JO92l4b2lniglyXXvdjKpV4ivn48pEsfjDfCTCAUqN7oRO-UPIRnk1G",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6990441958090999809",
+        "title": "Unstoppable",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/93b99b155d1f4a9eb1402a467e66e981",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e2b8291be66e4d22bcf98f64171cdf70.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e2b8291be66e4d22bcf98f64171cdf70.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e2b8291be66e4d22bcf98f64171cdf70.jpeg",
+        "authorName": "Sia",
+        "original": false,
+        "duration": 60,
+        "album": "Unstoppable"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 9
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 27,
+        "followerCount": 14,
+        "heartCount": 13,
+        "videoCount": 6,
+        "diggCount": 253,
+        "heart": 13
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

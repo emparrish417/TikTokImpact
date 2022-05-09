@@ -1,0 +1,97 @@
+{
+    "id": "7080025590857895214",
+    "desc": "",
+    "createTime": 1648446921,
+    "video": {
+        "id": "7080025590857895214",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/680cc4d8e89a4738a213d5db27e3e7f6?x-expires=1648515600&x-signature=UnuWt%2FOKhc5CFZHGLCXrZ9O8eEk%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/70e1f7a88f274420bb906b0ccf6b2086_1648446922?x-expires=1648515600&x-signature=x4auqX1rbU26XHwDoqLkTAHOrx4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d4529115f82b41b6bbc221fbad5cac82_1648446922?x-expires=1648515600&x-signature=kyXtGyr40VX5lx3PEEYNXI2FCnQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/127344ead5bbc422acce0cf2ca3bdf9f/62425edb/video/tos/useast5/tos-useast5-ve-0068c004-tx/e3dff5352ff24c6aa5a1d53a7546e0eb/?a=1988&br=1292&bt=646&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th.mugDXq&l=2022032819201901011313507727CBED33&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2trN2k6ZmpuPDMzZzczNEApZGRmNjNnNjwzNzwzZDRnNWc0LmxscjRvby1gLS1kMS9zczU1LTBjMi02NjJgMGA0M2E6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/127344ead5bbc422acce0cf2ca3bdf9f/62425edb/video/tos/useast5/tos-useast5-ve-0068c004-tx/e3dff5352ff24c6aa5a1d53a7546e0eb/?a=1988&br=1292&bt=646&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th.mugDXq&l=2022032819201901011313507727CBED33&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2trN2k6ZmpuPDMzZzczNEApZGRmNjNnNjwzNzwzZDRnNWc0LmxscjRvby1gLS1kMS9zczU1LTBjMi02NjJgMGA0M2E6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/70e1f7a88f274420bb906b0ccf6b2086_1648446922~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=KGryn7U8j98bjXP5bxk7m50pRhY%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/70e1f7a88f274420bb906b0ccf6b2086_1648446922~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=rygvasqb0eUx9xwaOeRmuzgtZ9g%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/680cc4d8e89a4738a213d5db27e3e7f6?x-expires=1648515600&x-signature=UnuWt%2FOKhc5CFZHGLCXrZ9O8eEk%3D",
+        "bitrate": 662335,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6908639511238181894",
+        "uniqueId": "bestfriendsforeveryay1",
+        "nickname": "Ireland boys are cool",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/084eda2ddc2662b05ea9a840a6dc697f~c5_100x100.jpeg?x-expires=1648580400&x-signature=rhCB12ADWzLu0DoMy0%2B4C2Gy2wE%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/084eda2ddc2662b05ea9a840a6dc697f~c5_720x720.jpeg?x-expires=1648580400&x-signature=4JjkIIcEWILmCf2kx%2Bp76tOSPqk%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/084eda2ddc2662b05ea9a840a6dc697f~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=ZBQ%2BUfxYHeeEDQJIXx691bMVJYQ%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAZwbW3Puhy0J4sBgU1-IzFY4G2MSuYtcRTnJCBCK8y20Qe1rVOT1zT06wo7Kg-CWh",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6850282586372164357",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6850282548896025350.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/13d0b1971d977d93eda818f136818809~c5_100x100.jpeg?x-expires=1648580400&x-signature=6C3ggtXmGv2fhPL1fdf7tYcSccA%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/13d0b1971d977d93eda818f136818809~c5_720x720.jpeg?x-expires=1648580400&x-signature=WTSir6aOWUN0hImvFL5%2F4K%2FphIw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/13d0b1971d977d93eda818f136818809~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=vo4vJx%2FTpwA%2FjBaQsPYmPq7sqOI%3D",
+        "authorName": "xxxtentacion",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 37
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Body Melt",
+            "ID": "817046"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 2892,
+        "followerCount": 1783,
+        "heartCount": 1012,
+        "videoCount": 119,
+        "diggCount": 972,
+        "heart": 1012
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false,
+    "maskType": 4
+}

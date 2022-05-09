@@ -1,0 +1,98 @@
+{
+    "id": "7082259529915747589",
+    "desc": "",
+    "createTime": 1648967049,
+    "video": {
+        "id": "7082259529915747589",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/70dff152d661467d83e95fe12c2d4baf_1648967051?x-expires=1649052000&x-signature=nn848IEmSU6TmbYPrlXUtzDLTLY%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f1c730f482ce4105a54bec7fd7196a89_1648967050?x-expires=1649052000&x-signature=5SnE9esbOKkoj0OfumUZ2G0ih%2Bg%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bbbaf6cb7fe2471b96b607d7263148d6_1648967051?x-expires=1649052000&x-signature=oRaT9oY972%2BJnqBZV3vEucQ1suw%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/0242cd95b06c0199e77713e7b655693d/624a975d/video/tos/useast2a/tos-useast2a-ve-0068c002/8d799e06fe5744e787b56cff4f68bda5/?a=1988&br=3770&bt=1885&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thn2RqDXq&l=202204040059260101130061541526129B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3FsaGU6ZjhtPDMzNzczM0ApOTdlNmY8ZWVmNzs3ZTtmM2dpb2YtcjRfbTFgLS1kMTZzcy5jNjZiYWM1YDIuYS5iYzA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/0242cd95b06c0199e77713e7b655693d/624a975d/video/tos/useast2a/tos-useast2a-ve-0068c002/8d799e06fe5744e787b56cff4f68bda5/?a=1988&br=3770&bt=1885&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7Thn2RqDXq&l=202204040059260101130061541526129B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3FsaGU6ZjhtPDMzNzczM0ApOTdlNmY8ZWVmNzs3ZTtmM2dpb2YtcjRfbTFgLS1kMTZzcy5jNjZiYWM1YDIuYS5iYzA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f1c730f482ce4105a54bec7fd7196a89_1648967050~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=3EL9Ibcn0Ib00%2Fa01mtl2DsnK38%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f1c730f482ce4105a54bec7fd7196a89_1648967050~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=OV4sQOUSOnNuCOutDn0KARpNbHY%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/70dff152d661467d83e95fe12c2d4baf_1648967051?x-expires=1649052000&x-signature=nn848IEmSU6TmbYPrlXUtzDLTLY%3D",
+        "bitrate": 1930961,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6945212387826091014",
+        "uniqueId": "piouoiuhhjjggipkj",
+        "nickname": "Jim lyons",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65aec3afed58fc31df5ab2f5048f64d9~c5_100x100.jpeg?x-expires=1649116800&x-signature=F6gMLTp7%2Bsg9GhHiIsgCnPydedk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65aec3afed58fc31df5ab2f5048f64d9~c5_720x720.jpeg?x-expires=1649116800&x-signature=eUMoaOhBwN%2B9jTUPCeXp6086ZrQ%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65aec3afed58fc31df5ab2f5048f64d9~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=nU4d%2BGsbaC%2BnvA%2B82jYGqu7y26U%3D",
+        "signature": "Hi",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwOc14rcjMRCxPIOnqpbOv8YOiJjGMvo_vstwCkeIY58sTof0qVkYKQNK05hqv3J_",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6805307876903487489",
+        "title": "Ukraine - Shche ne Vmerly Ukrainy ni Slava ni Volya - Ukrainian National Anthem (Ukraine\u2019s Glory Hasn\u2019t Perished) [Sung]",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/51d3f5ac61994d15a2e7e61bf7fceaaf",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cf8cdc00731845afa7756cf87d1282c5.jpeg",
+        "authorName": "Glocal Orchestra",
+        "original": false,
+        "duration": 60,
+        "album": "Ukraine - Shche ne Vmerly Ukrainy ni Slava ni Volya - Ukrainian National Anthem (Ukraine\u2019s Glory Hasn\u2019t Perished)"
+    },
+    "stats": {
+        "diggCount": 54,
+        "shareCount": 1,
+        "commentCount": 3,
+        "playCount": 331
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2578,
+        "followerCount": 3389,
+        "heartCount": 105100,
+        "videoCount": 518,
+        "diggCount": 104,
+        "heart": 105100
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "One \nfrosty beautiful sunny \nday \nin \nApril 3\n2022 \nglory \nto \nUkraine "
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,125 @@
+{
+    "id": "7085355564342988038",
+    "desc": "#Fyp",
+    "createTime": 1649687898,
+    "video": {
+        "id": "7085355564342988038",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9177fc7a758f45949d280d70ac028b4c?x-expires=1649736000&x-signature=59HHmD2j%2B60nHxiuZJFlIcMcPbs%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8f9869943bef4aa8a8ec156a4a631464_1649687899?x-expires=1649736000&x-signature=Wa5Te1fAPMsVvuVyj1dNgR%2FErXE%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e0bc6e068a3f4424a62ee35dc194dd09_1649687899?x-expires=1649736000&x-signature=gcEQohnyfu29KBUAKfsGsz2Jt8E%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/6949794d37b7ae7742594dbbb8b944cd/6254fd36/video/tos/useast2a/tos-useast2a-ve-0068c004/c429351d449f479f9179c31abbefd215/?a=1988&br=3328&bt=1664&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1_jaDXq&l=202204112216430101130061010BB554DF&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo7dTs6ZnE2PDMzNzczM0ApMzNpOzQ4Zjw3NzlmaGY7O2decDFrcjRnbV5gLS1kMTZzc18zYy80NGI2YGAxM2FjNDM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/6949794d37b7ae7742594dbbb8b944cd/6254fd36/video/tos/useast2a/tos-useast2a-ve-0068c004/c429351d449f479f9179c31abbefd215/?a=1988&br=3328&bt=1664&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Th1_jaDXq&l=202204112216430101130061010BB554DF&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amo7dTs6ZnE2PDMzNzczM0ApMzNpOzQ4Zjw3NzlmaGY7O2decDFrcjRnbV5gLS1kMTZzc18zYy80NGI2YGAxM2FjNDM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8f9869943bef4aa8a8ec156a4a631464_1649687899~tplv-tiktok-play.jpeg?x-expires=1650319200&x-signature=xVMUQyGKaFeDwP0DqYHr1MUZrbY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8f9869943bef4aa8a8ec156a4a631464_1649687899~tplv-tiktokx-share-play.jpeg?x-expires=1650319200&x-signature=v9VsbZzyyPBlzEyS0w%2BCXte6%2BYo%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9177fc7a758f45949d280d70ac028b4c?x-expires=1649736000&x-signature=59HHmD2j%2B60nHxiuZJFlIcMcPbs%3D",
+        "bitrate": 1704451,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7022011514450428933",
+        "uniqueId": "i.stand.with.ukraine01",
+        "nickname": "I.STAND.WITH.UKRAINE:)",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d18f67ff91be6537d8ac6b8b0e6bd263~c5_100x100.jpeg?x-expires=1649800800&x-signature=AOpAh60MnEMJyNbID8Htb%2FexwK4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d18f67ff91be6537d8ac6b8b0e6bd263~c5_720x720.jpeg?x-expires=1649800800&x-signature=lG92avmjvAujnH0pTZAL6VNCDIc%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d18f67ff91be6537d8ac6b8b0e6bd263~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=jola2TPvOsFY8whN%2FZQfk3lLTyY%3D",
+        "signature": "\ud83c\uddf7\ud83c\uddfa\ud83e\udd1d\ud83c\uddfa\ud83c\udde6\nIf you know who I am pls don\u2019t say :)",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-EruFM2QoQwtYbcxBr3WPDqiWuOrPqsUcfrUxt_qE_7ptTrPN4dqbo5AxLf-2kGS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067574132983991045",
+        "title": "Cool for the Summer - Sped Up (Nightcore)",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fd45eb00fcc4d52a71f19b0d80ce3e1",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e73620daff0c47a085bf43a69ceb68ba.jpeg",
+        "authorName": "Demi Lovato & Speed Radio",
+        "original": false,
+        "duration": 11,
+        "album": "Cool for the Summer - Sped Up (Nightcore)"
+    },
+    "challenges": [
+        {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 57
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 4,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Vibrant Colors",
+            "ID": "1483192"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 17,
+        "followerCount": 14,
+        "heartCount": 87,
+        "videoCount": 10,
+        "diggCount": 100,
+        "heart": 87
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6910215971848356869",
+        "shortId": "",
+        "uniqueId": "adambozek8",
+        "nickname": "@ Ukraine \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6411e36e3934ed35a4826c5caffaa539~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=NlOG532tEPjj0LDyZAszNhzSATA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6411e36e3934ed35a4826c5caffaa539~c5_720x720.jpeg?x-expires=1649905200&x-signature=r3%2FYiXGaLE1v0KG63nFj8Ng3X9g%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6411e36e3934ed35a4826c5caffaa539~c5_100x100.jpeg?x-expires=1649905200&x-signature=%2Bt3ro5zJ5FpEEDXRYyOwZJa3kBU%3D",
+        "signature": "@ Ukraine",
+        "createTime": 1614949213,
+        "verified": false,
+        "secUid": "MS4wLjABAAAATI4C2DUeYsMbROFP1t2vOoLAuh99hbk8wxdLd4hFPwaUk_o7OlKmjMigepJofjsR",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1256,
+        "followingCount": 9954,
+        "heart": 1184,
+        "heartCount": 1184,
+        "videoCount": 419,
+        "diggCount": 0
+    },
+    "itemList": []
+}

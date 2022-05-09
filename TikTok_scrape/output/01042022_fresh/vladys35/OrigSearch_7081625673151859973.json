@@ -1,0 +1,98 @@
+{
+    "id": "7081625673151859973",
+    "desc": "",
+    "createTime": 1648819465,
+    "video": {
+        "id": "7081625673151859973",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c3cee90f97534c98b2ac117ba73a7e6f?x-expires=1648875600&x-signature=NI8hgJeKVyEUGMGltcr7AQcHhos%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/265e6cf87e7a4828bfe190263f6c06fd_1648819466?x-expires=1648875600&x-signature=1YTYZEF1v6O45sGJ%2FIoQGS6UcFY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/af603d7a75c043439a7e747466dab874_1648819466?x-expires=1648875600&x-signature=V6%2B4X7Y182A6Vp1cmuN9LmuLscE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fd81996bf5782dd5857002d6ad8f79a4/6247e3c4/video/tos/useast2a/tos-useast2a-pve-0068/989946db9ee046319ec70fcffd40bb1a/?a=1988&br=216&bt=108&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThxaxzDXq&l=20220401234842010113135231265C47A3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2g1ODc6ZmVpPDMzNzczM0ApZGc6Zmc5NGRkNzY5O2k7Z2dzZXMtcjRvbTBgLS1kMTZzcy8wY14xNGA2MjYwY15fYTE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fd81996bf5782dd5857002d6ad8f79a4/6247e3c4/video/tos/useast2a/tos-useast2a-pve-0068/989946db9ee046319ec70fcffd40bb1a/?a=1988&br=216&bt=108&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThxaxzDXq&l=20220401234842010113135231265C47A3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2g1ODc6ZmVpPDMzNzczM0ApZGc6Zmc5NGRkNzY5O2k7Z2dzZXMtcjRvbTBgLS1kMTZzcy8wY14xNGA2MjYwY15fYTE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/265e6cf87e7a4828bfe190263f6c06fd_1648819466~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=E8AgiIUquTVZYbW%2FzolLc5F3h%2FQ%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/265e6cf87e7a4828bfe190263f6c06fd_1648819466~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=NfeaB6NcuzSL3KlkYee8STj9c7I%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c3cee90f97534c98b2ac117ba73a7e6f?x-expires=1648875600&x-signature=NI8hgJeKVyEUGMGltcr7AQcHhos%3D",
+        "bitrate": 111289,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7057217732450501638",
+        "uniqueId": "vladys35",
+        "nickname": "\u0412\u043b\u0430\u0434 \u0424\u043b\u0435\u0448846",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b9a95f68d07b50e9e48173d55de5d35~c5_100x100.jpeg?x-expires=1648940400&x-signature=BnGx8tqoSXTT9KcavV%2BsYySUwcI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b9a95f68d07b50e9e48173d55de5d35~c5_720x720.jpeg?x-expires=1648940400&x-signature=JtGuKXQ2Dt55f70pDW8BAgCd8tA%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2b9a95f68d07b50e9e48173d55de5d35~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=aCJCmFyZOsDlr3%2F%2FWsz82uat%2BF0%3D",
+        "signature": "\u041f\u0443\u0442\u0456\u043d \u0445@\u0439\u043b\u043e \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \u043d\u0435 \u043f\u0435\u0440\u0435\u043c\u043e\u0436\u043d\u0430",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAFXyDnn4D3RGT8IweceUZH9H5INKRVDvwQ_g_r1nWUor8AEOqhbyaYe9VaUHMHJR2",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6782171787636508674",
+        "title": "ChETYRE UKRAINKI",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/124469a1c1a34abdbd93e643885723e7",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/184538cdc7994fc6b37e1dc8c5b629ae.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/184538cdc7994fc6b37e1dc8c5b629ae.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/184538cdc7994fc6b37e1dc8c5b629ae.jpeg",
+        "authorName": "MORGENSHTERN",
+        "original": false,
+        "duration": 60,
+        "album": "LEGENDARNAJa PYL'"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 7,
+        "playCount": 46
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 153,
+        "followerCount": 134,
+        "heartCount": 583,
+        "videoCount": 45,
+        "diggCount": 1432,
+        "heart": 583
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0445\u0442\u043e \u0432\u0456\u043d?"
+            ]
+        }
+    ],
+    "isAd": false
+}

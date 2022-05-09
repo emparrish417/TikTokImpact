@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6920331616390022150",
+        "shortId": "",
+        "uniqueId": "quicktakenews",
+        "nickname": "Bloomberg Quicktake",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b1819c00ac9bf31fa2381d4e6984d9f~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=ZufExpF0wILaHq8%2FhlFJRipHc58%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b1819c00ac9bf31fa2381d4e6984d9f~c5_720x720.jpeg?x-expires=1649638800&x-signature=3zST5eCR%2Fv05oNfP4P7vLwSVJi8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1b1819c00ac9bf31fa2381d4e6984d9f~c5_100x100.jpeg?x-expires=1649638800&x-signature=qxA4vqw7PQNovxzG9dqgxYf%2Bf%2BE%3D",
+        "signature": "\ud83c\udfa5 Global news and original shows.",
+        "createTime": 1613685467,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAv5x-HAa5vMRurkPnkZ-KPUmPuMlK0YSoo-6EWaX0mXoWwpmyJG2LDaeR75wphuA9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 183400,
+        "followingCount": 79,
+        "heart": 6900000,
+        "heartCount": 6900000,
+        "videoCount": 614,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7087745372562459947",
+    "desc": "",
+    "createTime": 1650244319,
+    "video": {
+        "id": "7087745372562459947",
+        "height": 1024,
+        "width": 576,
+        "duration": 26,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1a17b6cfdf764928bdeef9e506220da3?x-expires=1650330000&x-signature=SCiatkWeOXRYZdQldzZKV5B6Oh8%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1bbd263bb7b14af68890e88e09a6a1c9_1650244320?x-expires=1650330000&x-signature=9kUyqsgu%2B3J9B6fEOQn2J3H65zc%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a38caf3bcab342ac8051440c24fd2ef9_1650244321?x-expires=1650330000&x-signature=Tv%2BhPYj2bVtn7c%2BtbKm4qkGfwjA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/29aa4d696f0cd8392275eb07ec750b8c/625e0d46/video/tos/useast5/tos-useast5-ve-0068c002-tx/6d34ba0dd98b411fbb3cbd1281c0a861/?a=1988&br=1278&bt=639&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zrzxwwe2NV7Gfl7Gb&l=202204181915240101130061330EF5FB22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzd4bGY6ZjNlPDMzZzczNEApZTg2ZWQ4Njs7N2hnZTo1aWdycWNpcjRvZ2JgLS1kMS9zc19fYWI0LjJiMjQyX2JiM2I6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/29aa4d696f0cd8392275eb07ec750b8c/625e0d46/video/tos/useast5/tos-useast5-ve-0068c002-tx/6d34ba0dd98b411fbb3cbd1281c0a861/?a=1988&br=1278&bt=639&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zrzxwwe2NV7Gfl7Gb&l=202204181915240101130061330EF5FB22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzd4bGY6ZjNlPDMzZzczNEApZTg2ZWQ4Njs7N2hnZTo1aWdycWNpcjRvZ2JgLS1kMS9zc19fYWI0LjJiMjQyX2JiM2I6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1bbd263bb7b14af68890e88e09a6a1c9_1650244320~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=WNGyvoZVQ32G9gqpudaW7UWDAuk%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/1bbd263bb7b14af68890e88e09a6a1c9_1650244320~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=XBXHRihuSLM1BkrI8SkzP3hKnm8%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/1a17b6cfdf764928bdeef9e506220da3?x-expires=1650330000&x-signature=7k9%2Bkb%2FHErTWbdojWaskKy6l4GE%3D",
+        "bitrate": 654489,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7017117442829812741",
+        "uniqueId": "ukrainian_dennis",
+        "nickname": "Ukraine \ud83c\uddfa\ud83c\udde6 \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57b0482758018f6f9bf3e21f365f8044~c5_100x100.jpeg?x-expires=1650481200&x-signature=o9qgHD8VaC7JYWSkJrMdXtAa3Bk%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57b0482758018f6f9bf3e21f365f8044~c5_720x720.jpeg?x-expires=1650481200&x-signature=biJfyDmCgFanGFfEh%2Flchl1%2F73k%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57b0482758018f6f9bf3e21f365f8044~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=2tPWM0HfDMiQkHzjw08OypLj09g%3D",
+        "signature": "Ps4,soccer\ud83c\uddfa\ud83c\udde6 I'm ukraine.And trying to get 100 ukraine supports.\u2764miltary",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATFpATM2a8winguJ_FnrgDOQ913neWTeTWUcHmsFH6g6bqL5unfnaabCeXzqPFJ-a",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087745361426598698",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7087745380146006830.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57b0482758018f6f9bf3e21f365f8044~c5_100x100.jpeg?x-expires=1650481200&x-signature=o9qgHD8VaC7JYWSkJrMdXtAa3Bk%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57b0482758018f6f9bf3e21f365f8044~c5_720x720.jpeg?x-expires=1650481200&x-signature=biJfyDmCgFanGFfEh%2Flchl1%2F73k%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/57b0482758018f6f9bf3e21f365f8044~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=2tPWM0HfDMiQkHzjw08OypLj09g%3D",
+        "authorName": "Ukraine \ud83c\uddfa\ud83c\udde6 \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "original": true,
+        "duration": 26,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 61
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 218,
+        "followerCount": 96,
+        "heartCount": 632,
+        "videoCount": 120,
+        "diggCount": 2207,
+        "heart": 632
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

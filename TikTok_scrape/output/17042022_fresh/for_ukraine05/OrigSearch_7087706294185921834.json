@@ -1,0 +1,119 @@
+{
+    "id": "7087706294185921834",
+    "desc": "@retropkcaj1",
+    "createTime": 1650235219,
+    "video": {
+        "id": "7087706294185921834",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3d16cfb359a74dea91eb7e1f2a385a4c?x-expires=1650261600&x-signature=ZwEFQ%2B6omguD7tBg48cwz9UI%2BfE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/85340a5eb57141b581219c5ba5d3f916_1650235220?x-expires=1650261600&x-signature=Md8w8pp21Vjx8JFsF7aZqereO4g%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d39177298726496a9ad7243b1c6e9fbb_1650235220?x-expires=1650261600&x-signature=02GB9dfaxO%2BxaaR03ukEIDjqqUE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e4ce81e2b8450cc1042f301a0fce84b7/625d0313/video/tos/useast5/tos-useast5-ve-0068c002-tx/0300308c6e7d420a87023c165ce93a2c/?a=1988&br=1260&bt=630&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZJLuwwe2N9OGfl7Gb&l=2022041800195301011313515012607512&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxmazY6Zjk8PDMzZzczNEApZGg3OzplNjw5N2RkPDs1NWcuYmUucjRvYmJgLS1kMS9zc14zLi8wXjM1NDEwNmMwNjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e4ce81e2b8450cc1042f301a0fce84b7/625d0313/video/tos/useast5/tos-useast5-ve-0068c002-tx/0300308c6e7d420a87023c165ce93a2c/?a=1988&br=1260&bt=630&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZJLuwwe2N9OGfl7Gb&l=2022041800195301011313515012607512&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajxmazY6Zjk8PDMzZzczNEApZGg3OzplNjw5N2RkPDs1NWcuYmUucjRvYmJgLS1kMS9zc14zLi8wXjM1NDEwNmMwNjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/85340a5eb57141b581219c5ba5d3f916_1650235220~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=gzMdheNg9QO5Ti8FzbCnNjmskgg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/85340a5eb57141b581219c5ba5d3f916_1650235220~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=zL6b4i5ZkjZ3xsJRjPe9Hvv7ILE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3d16cfb359a74dea91eb7e1f2a385a4c?x-expires=1650261600&x-signature=ZwEFQ%2B6omguD7tBg48cwz9UI%2BfE%3D",
+        "bitrate": 645335,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6814812496923853830",
+        "uniqueId": "for_ukraine05",
+        "nickname": "Harry Porter",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8acde16be6fd0ab796a5c444b6453a40~c5_100x100.jpeg?x-expires=1650412800&x-signature=8SKAvJzdBHby7i9T0paPaQSBqXI%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8acde16be6fd0ab796a5c444b6453a40~c5_720x720.jpeg?x-expires=1650412800&x-signature=rel7h04Sr2ovlTqCPHkAUA13tVU%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8acde16be6fd0ab796a5c444b6453a40~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=MNh9%2Fm6jbAO40svp51F2Pc3Pops%3D",
+        "signature": "Go follow my other account facts with Harry if you want to see Irish dance,jokes",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAoL_HnsH_ZHAQ4aBqrVxwHlqq60UtxwHU_eG-0bANT6_4SjFxFafBfdVnMJBe44zj",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6795553192236026629",
+        "title": "sonido original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1659083754016805.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1661077792708614~c5_100x100.jpeg?x-expires=1650412800&x-signature=Yv%2BQSFFDfG6P0%2BTV8%2FUnAy%2B%2FVdM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1661077792708614~c5_720x720.jpeg?x-expires=1650412800&x-signature=lPMawJlMCCWp9c2IPbOnJZ1Ms0k%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1661077792708614~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=AWPbJDdLY5NtMtizYZOHhabi8jY%3D",
+        "authorName": "ericgalinski",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 5
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7000756180193182726",
+            "isCommerce": false,
+            "userUniqueId": "retropkcaj1",
+            "secUid": "MS4wLjABAAAAkZZTCcZoy3JSpN5Lu_639MlB2te_9ujPvno4URIzZVVdk5gyYiK82S8vImlr-QyG",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Freeze Frame",
+            "ID": "479551"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 659,
+        "followerCount": 3284,
+        "heartCount": 10300,
+        "videoCount": 335,
+        "diggCount": 2166,
+        "heart": 10300
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "When she ask what\u2019s for desert"
+            ]
+        }
+    ],
+    "isAd": false
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6801121117073523717",
+        "shortId": "",
+        "uniqueId": "myundocumentedass",
+        "nickname": "Che Guerrero",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ec17e05ce8e5b5ca38bd4c4aa5697b7~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=hLHnCtWb6atY2gPfs3SeE5w%2BPBU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ec17e05ce8e5b5ca38bd4c4aa5697b7~c5_720x720.jpeg?x-expires=1649008800&x-signature=6%2Fi0kCESeimap5Ts4aXHe9e4xVA%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ec17e05ce8e5b5ca38bd4c4aa5697b7~c5_100x100.jpeg?x-expires=1649008800&x-signature=RqmP1M%2Be1R6qJOg3PnP6mVCG8jI%3D",
+        "signature": "Host of My undocumented Ass podcast! Link in bio.",
+        "createTime": 1591146983,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAV-IzGWGmzMEb6BZeaL1SELXk89aczhVw86_sM338dooj-rviiF6Whl561vF3_Pd4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Cheguerrero",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 49400,
+        "followingCount": 1086,
+        "heart": 3600000,
+        "heartCount": 3600000,
+        "videoCount": 1198,
+        "diggCount": 0
+    },
+    "itemList": []
+}

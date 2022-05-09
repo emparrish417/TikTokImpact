@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6913995869449864197",
+        "shortId": "",
+        "uniqueId": "abcnews",
+        "nickname": "ABC News",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8e105382138a62c2f582fda67f323ad8~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=%2F5JcbAhKe5Kgo0IZbqGfyA6QUZA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8e105382138a62c2f582fda67f323ad8~c5_720x720.jpeg?x-expires=1649372400&x-signature=RhA%2FN09n5IAQAmGigtWsOw1j3mk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8e105382138a62c2f582fda67f323ad8~c5_100x100.jpeg?x-expires=1649372400&x-signature=uI5oR%2BndJI1wVsbaf45KBVXVWb8%3D",
+        "signature": "All the news and information you need to see, curated by the ABC News team.",
+        "createTime": 1609790229,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAcUohLBpbeWebtAApnAkcjFfu5zPTpno5cP5VwAlNCM5rAaq9vR4dldyk8MCcyg06",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "ABCNews.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1600000,
+        "followingCount": 15,
+        "heart": 22600000,
+        "heartCount": 22600000,
+        "videoCount": 1761,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,106 @@
+{
+    "id": "7082760193062341894",
+    "desc": "",
+    "createTime": 1649083616,
+    "video": {
+        "id": "7082760193062341894",
+        "height": 1018,
+        "width": 576,
+        "duration": 16,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/482ff2533f794db7a719b6cb853d4e9d?x-expires=1649131200&x-signature=%2FIJ88nvmWjV%2FtaG7ZvNVU3fJSOg%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/019a8fce55954faa80f9c885b4a43c11_1649083617?x-expires=1649131200&x-signature=A%2BtB4Oiy76KPhQZDunwiI2nwXd8%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9a3cd9e58d0b4dceb1589c22b60bb830_1649083618?x-expires=1649131200&x-signature=Wxy2RynPt6xwbSCmaH3zGKN15Yk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/9ce39890b743906925d4224585b7e91f/624bc096/video/tos/useast2a/tos-useast2a-ve-0068c003/09ba23de0f3b4ba89845527440edf41a/?a=1988&br=2708&bt=1354&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThtgeqDXq&l=2022040422073301011313514924ACC21F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anRlamU6ZnVqPDMzNzczM0ApZmZmNDplZGQ0NzQ6aWgzN2diZmhicjQwMjJgLS1kMTZzczFgLjU2Nl5fLmFgYC0zX2M6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/9ce39890b743906925d4224585b7e91f/624bc096/video/tos/useast2a/tos-useast2a-ve-0068c003/09ba23de0f3b4ba89845527440edf41a/?a=1988&br=2708&bt=1354&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThtgeqDXq&l=2022040422073301011313514924ACC21F&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anRlamU6ZnVqPDMzNzczM0ApZmZmNDplZGQ0NzQ6aWgzN2diZmhicjQwMjJgLS1kMTZzczFgLjU2Nl5fLmFgYC0zX2M6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/019a8fce55954faa80f9c885b4a43c11_1649083617~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=QSsEsk0pE9lKKe2MkRzW8tzpNUo%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/019a8fce55954faa80f9c885b4a43c11_1649083617~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=1P9%2B4kfSs3IHEO6FIBUU3cpQayQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/482ff2533f794db7a719b6cb853d4e9d?x-expires=1649131200&x-signature=%2FIJ88nvmWjV%2FtaG7ZvNVU3fJSOg%3D",
+        "bitrate": 1387337,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6963274155169956870",
+        "uniqueId": "lena_gra_w_roblox13",
+        "nickname": "Lena _solidarni z Ukrain\u0105 _",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77a861422a660a7357e234066b807a6b~c5_100x100.jpeg?x-expires=1649196000&x-signature=NXUmvpGQhR%2Fo8%2FMDUKO44%2BLaBPA%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77a861422a660a7357e234066b807a6b~c5_720x720.jpeg?x-expires=1649196000&x-signature=zCC9IdpWg01U%2FqN8szdsJu7Cp6s%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77a861422a660a7357e234066b807a6b~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=05kSAdUoZUsSUxqHBRwquLoAAnE%3D",
+        "signature": "ZAPRASZAM DO MNIE\u263a\ufe0f\ncel 750obs\n\ud83e\udd29\ud83e\udd73\ud83e\udd70\u263a\ufe0f\ud83e\udd73\ud83e\udd29\ud83e\udd73\ud83e\udd70\ud83e\udd73",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA41DXJTnZTPnT-vTY2V3unFKpO8XJByp102MU9prz_BFR76Orpc0bD_SuvlotiFkS",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082760172292049670",
+        "title": "d\u017awi\u0119k oryginalny",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082760201115601669.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77a861422a660a7357e234066b807a6b~c5_100x100.jpeg?x-expires=1649196000&x-signature=NXUmvpGQhR%2Fo8%2FMDUKO44%2BLaBPA%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77a861422a660a7357e234066b807a6b~c5_720x720.jpeg?x-expires=1649196000&x-signature=zCC9IdpWg01U%2FqN8szdsJu7Cp6s%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77a861422a660a7357e234066b807a6b~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=05kSAdUoZUsSUxqHBRwquLoAAnE%3D",
+        "authorName": "Lena _solidarni z Ukrain\u0105 _",
+        "original": true,
+        "duration": 16,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 232,
+        "shareCount": 4,
+        "commentCount": 33,
+        "playCount": 1261
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 751,
+        "followerCount": 794,
+        "heartCount": 1404,
+        "videoCount": 102,
+        "diggCount": 4791,
+        "heart": 1404
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "10 000 \n(obs)",
+                "paj\u0105ka \n(Scholl)",
+                "500z\u0142\n(like)",
+                "telefon\n(kom)\n\n",
+                "\ud83d\udecf\ufe0f",
+                "\ud83d\udecf\ufe0f",
+                "\ud83d\udecf\ufe0f",
+                "\ud83d\udecf\ufe0f",
+                "Co znajdziesz\npod swoim\n\u0142\u00f3\u017ckiem "
+            ]
+        }
+    ],
+    "isAd": false
+}

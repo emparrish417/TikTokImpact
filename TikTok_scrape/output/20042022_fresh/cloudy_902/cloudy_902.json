@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7017174351280669702",
+        "shortId": "",
+        "uniqueId": "cloudy_902",
+        "nickname": "UKRAIN\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83d\udc9b\ud83d\udc99",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a105b5b4ceb44c930de3db90b9b4fcef~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=oVZLdD2%2Fw71ETp%2Bfop0pO1BHciM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a105b5b4ceb44c930de3db90b9b4fcef~c5_720x720.jpeg?x-expires=1650664800&x-signature=bFXbSjPRBOGk4Rj08sC0UrgqaMs%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a105b5b4ceb44c930de3db90b9b4fcef~c5_100x100.jpeg?x-expires=1650664800&x-signature=vTn3QS6KbigduHII%2FAIV%2FlK1SNg%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAjjWVxWKXtclB2wqGbEEBzMzUJdAjGOstXY6xcUuq5FIrk15S8VZwpT2P72wvmrDP",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 25,
+        "followingCount": 99,
+        "heart": 65,
+        "heartCount": 65,
+        "videoCount": 34,
+        "diggCount": 0
+    },
+    "itemList": []
+}

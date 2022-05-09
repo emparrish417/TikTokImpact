@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6825951085829112838",
+        "shortId": "",
+        "uniqueId": "smegma_slurper",
+        "nickname": "Smegma",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d245b37f3aff37b6459524a8cd40e7a5~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=V37yrbvrueHsLfmksmT1t%2B2%2Feis%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d245b37f3aff37b6459524a8cd40e7a5~c5_720x720.jpeg?x-expires=1650412800&x-signature=nngAFXkER%2BLeNufJwg0gEcPagzY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d245b37f3aff37b6459524a8cd40e7a5~c5_100x100.jpeg?x-expires=1650412800&x-signature=%2FplIu%2BpSGVxMfN77jwlpjj0a6Q8%3D",
+        "signature": "Sym",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcq5TALzrFapjdsUuv2KoZBh8o8XZOrJM-jX_xfxbugTxv4kYZPhYubU8A7KTg3w_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3636,
+        "followingCount": 214,
+        "heart": 440000,
+        "heartCount": 440000,
+        "videoCount": 1,
+        "diggCount": 0
+    },
+    "itemList": []
+}

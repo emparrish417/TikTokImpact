@@ -1,0 +1,98 @@
+{
+    "id": "7090006827231890731",
+    "desc": "",
+    "createTime": 1650770853,
+    "video": {
+        "id": "7090006827231890731",
+        "height": 1024,
+        "width": 576,
+        "duration": 10,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ce9250e84b484073af5e84a049413d36?x-expires=1650859200&x-signature=kkjzd46hAaDr4YPfmE0sto5plvM%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f3a00c4ef28f4a2396d36100ec94573d_1650770854?x-expires=1650859200&x-signature=cZhkBbDWY%2FiVJxT06WIc0n6XsG0%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/15f4427520c44a23b21370c0a1632793_1650770855?x-expires=1650859200&x-signature=QiGjMYoUR1RvGg7GG2U7nxxcGkc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7b78cef8028a37a7df2d20eea45419d8/62662776/video/tos/useast5/tos-useast5-ve-0068c002-tx/34b807911c674b9d839319dd470fdefe/?a=1988&br=768&bt=384&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrKZ4we2Ndrufl7Gb&l=202204242245310101130060621766DCF9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am04dmQ6ZnZmPDMzZzczNEApaWg1ODQ2M2RlNzhpZGdmM2cyYWcvcjQwM2ZgLS1kMS9zc2E0LjYyNF8zYTI0Xl5eNmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7b78cef8028a37a7df2d20eea45419d8/62662776/video/tos/useast5/tos-useast5-ve-0068c002-tx/34b807911c674b9d839319dd470fdefe/?a=1988&br=768&bt=384&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrKZ4we2Ndrufl7Gb&l=202204242245310101130060621766DCF9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am04dmQ6ZnZmPDMzZzczNEApaWg1ODQ2M2RlNzhpZGdmM2cyYWcvcjQwM2ZgLS1kMS9zc2E0LjYyNF8zYTI0Xl5eNmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f3a00c4ef28f4a2396d36100ec94573d_1650770854~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=gBgtopJ4VODjnivqmILI8hFjcSA%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f3a00c4ef28f4a2396d36100ec94573d_1650770854~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=hSKx0lBzo6yVAAxP5sSJqXCebSI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ce9250e84b484073af5e84a049413d36?x-expires=1650859200&x-signature=kkjzd46hAaDr4YPfmE0sto5plvM%3D",
+        "bitrate": 393715,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6790936446662493189",
+        "uniqueId": "677hi6",
+        "nickname": "Want to play siege",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d903eaabe290621e57f2cd7095c1fdd~c5_100x100.jpeg?x-expires=1651010400&x-signature=K8S46rXo4H%2FIBPSVzweSwDho9sY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d903eaabe290621e57f2cd7095c1fdd~c5_720x720.jpeg?x-expires=1651010400&x-signature=8bP9io%2F%2FQKl0Vj0xwVKYT8mhmXI%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d903eaabe290621e57f2cd7095c1fdd~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=NDFAaLwBf%2BoXo3ivehEih1UUolU%3D",
+        "signature": "You are bad",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA7sIHRTKbu_sSzOIzaADRkPWnEWixdYu_IkmI0ZfG7hE7n-ktxXcuYhBtVDtXXcO1",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7084306588399340331",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7084306611329731374.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/34bd3405a8a83d0b0bf8e60252a19e6b~c5_100x100.jpeg?x-expires=1651010400&x-signature=OQGMcNP0THunjlvsua7uTLGpcGE%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/34bd3405a8a83d0b0bf8e60252a19e6b~c5_720x720.jpeg?x-expires=1651010400&x-signature=OS%2BEoZnRfZ8OfO%2FtJuUiEu%2FCLvE%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/34bd3405a8a83d0b0bf8e60252a19e6b~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=JatcWyKz%2BjXc%2FFjvfpviBqi%2B%2FDc%3D",
+        "authorName": "=WTLS=",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 7,
+        "shareCount": 0,
+        "commentCount": 6,
+        "playCount": 339
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2287,
+        "followerCount": 1501,
+        "heartCount": 6124,
+        "videoCount": 53,
+        "diggCount": 29000,
+        "heart": 6124
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Name your favorite rappers/rapper and I will rate them "
+            ]
+        }
+    ],
+    "isAd": false
+}

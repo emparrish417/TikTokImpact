@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6937263797313242117",
+        "shortId": "",
+        "uniqueId": "bryze_2406",
+        "nickname": "Ben",
+        "avatarLarger": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/0add1bf2a22c42a959810067ee4b2380~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=fHrZAe2kcrwwtynTiVnvPhV2eVU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0add1bf2a22c42a959810067ee4b2380~c5_720x720.jpeg?x-expires=1648850400&x-signature=JBxIxMZ8RLXhlTIRERCyods25%2BY%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0add1bf2a22c42a959810067ee4b2380~c5_100x100.jpeg?x-expires=1648850400&x-signature=TEeLjNNRlBXaF8vDx5Kb6g52jM0%3D",
+        "signature": "",
+        "createTime": 1615230278,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKuH7eJHFTApjzTuhLBBwZsdl9bOHAti7gVova_7Z7-veIBoEUwyWBvN58BmnoVCA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 4839,
+        "followingCount": 2564,
+        "heart": 27800,
+        "heartCount": 27800,
+        "videoCount": 32,
+        "diggCount": 0
+    },
+    "itemList": []
+}

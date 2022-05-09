@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6888617023833768966",
+        "shortId": "",
+        "uniqueId": "natina_may",
+        "nickname": "\u0422\u0438\u043d\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e506e954bf78f196d943d5401043f1c~c5_1080x1080.jpeg?x-expires=1649714400&x-signature=LMlVScvks5IqAvojyN7%2FZ06lBLA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e506e954bf78f196d943d5401043f1c~c5_720x720.jpeg?x-expires=1649714400&x-signature=Kf8F7ppOhTyAadALYCu01nS%2BwPc%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7e506e954bf78f196d943d5401043f1c~c5_100x100.jpeg?x-expires=1649714400&x-signature=3V9x%2FsdGnWw%2BkO6p0%2BGyq2uQ2Mc%3D",
+        "signature": "",
+        "createTime": 1603881338,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnv0oE7ufm4w04ICGUIZEdMOuYf2Y_L3Y1R3hgvmVP-4HwsoHClWoMKIvlszo-Ngs",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Beauty",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 29100,
+        "followingCount": 516,
+        "heart": 356500,
+        "heartCount": 356500,
+        "videoCount": 239,
+        "diggCount": 0
+    },
+    "itemList": []
+}

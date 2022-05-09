@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6894395790220248070",
+        "shortId": "",
+        "uniqueId": "devinp1128",
+        "nickname": "Devin Punch",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4ec5525009b6d6445850e9fb3548daa1~c5_1080x1080.jpeg?x-expires=1648764000&x-signature=JXlLmYNqGK7pwXzVzMDdgXJV6hM%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4ec5525009b6d6445850e9fb3548daa1~c5_720x720.jpeg?x-expires=1648764000&x-signature=oqML8BYoyoA8UYN%2FY8WeYiya%2F5k%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4ec5525009b6d6445850e9fb3548daa1~c5_100x100.jpeg?x-expires=1648764000&x-signature=Ec%2BLJ3qe9veDRXN%2B%2BVNi8ZNRKC4%3D",
+        "signature": "That one guy with the random videos",
+        "createTime": 1605226803,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3NVrnLRNCiW0GL6XYW9B1x0SrNQN1fbcLouiD9jqdqFEpuq2ko3PeNBnK33BOSEE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 655,
+        "followingCount": 317,
+        "heart": 27300,
+        "heartCount": 27300,
+        "videoCount": 43,
+        "diggCount": 0
+    },
+    "itemList": []
+}

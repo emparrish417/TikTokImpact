@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6776968489589998597",
+        "shortId": "",
+        "uniqueId": "voloaltissimo_real",
+        "nickname": "It\u2019s Volo",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/33ab12369da4b587872eb68459461808~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=2261IdHF%2F02d6ayDgZaJ%2BCudUSo%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/33ab12369da4b587872eb68459461808~c5_720x720.jpeg?x-expires=1650240000&x-signature=EKNstMavpYwqDVNzgoCNSuVLSvs%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/33ab12369da4b587872eb68459461808~c5_100x100.jpeg?x-expires=1650240000&x-signature=IF2JU021Xq6CHotLtco0nEosBXc%3D",
+        "signature": "MAKE MUSIC \ud83d\udcc0\ud83d\udcbf \nITALIANO \ud83c\uddee\ud83c\uddf9",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6HnAe26XjVEEiveLr8HTS7zAaP-gNaPk4Ork6B5r_xP3swIoMoC0q506dkIbW8ov",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "www.voloaltissimo.com",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3817,
+        "followingCount": 3,
+        "heart": 73300,
+        "heartCount": 73300,
+        "videoCount": 107,
+        "diggCount": 0
+    },
+    "itemList": []
+}

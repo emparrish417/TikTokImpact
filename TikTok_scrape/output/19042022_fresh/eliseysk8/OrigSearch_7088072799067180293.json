@@ -1,0 +1,180 @@
+{
+    "id": "7088072799067180293",
+    "desc": "#skateboarding #skateukraine #skate",
+    "createTime": 1650320554,
+    "video": {
+        "id": "7088072799067180293",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/440e3a251dfa4b0587505fc626744e06?x-expires=1650427200&x-signature=9glE4HGhnuRTVsNDiE1r%2B%2BoEMCc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2fb219cc4b3b4a6fa5e4d67051254f45_1650320554?x-expires=1650427200&x-signature=G4WA%2BlDV%2FuTEUZhB1289NBOz370%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1d1cfbc8207d424b9c29ebf032df9f7b_1650320555?x-expires=1650427200&x-signature=td%2B%2B3NOPUCn1w2yILG%2FfWpiZOJY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4e3173f39bf26c9ffb8ec79cfd5d8983/625f89f7/video/tos/useast2a/tos-useast2a-ve-0068c003/7a68403943d94d94873ec6c9cbb44482/?a=1988&br=1240&bt=620&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoGiwwe2NeE~fl7Gb&l=202204192219580101131350200D0EADBA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25xdGU6ZnB4PDMzNzczM0ApZmdkZTo2NjxmN2k1aDk4ZWcuZnNxcjRfMWJgLS1kMTZzczUuL2BgYl5jMWNfLjBeMl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4e3173f39bf26c9ffb8ec79cfd5d8983/625f89f7/video/tos/useast2a/tos-useast2a-ve-0068c003/7a68403943d94d94873ec6c9cbb44482/?a=1988&br=1240&bt=620&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoGiwwe2NeE~fl7Gb&l=202204192219580101131350200D0EADBA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M25xdGU6ZnB4PDMzNzczM0ApZmdkZTo2NjxmN2k1aDk4ZWcuZnNxcjRfMWJgLS1kMTZzczUuL2BgYl5jMWNfLjBeMl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2fb219cc4b3b4a6fa5e4d67051254f45_1650320554~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=%2FKcgZeiMwvOyM5OPe3Z0CkdlJe4%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2fb219cc4b3b4a6fa5e4d67051254f45_1650320554~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=TSWnHeA%2F2UyM5REFZ49RECOneCI%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/440e3a251dfa4b0587505fc626744e06?x-expires=1650427200&x-signature=9glE4HGhnuRTVsNDiE1r%2B%2BoEMCc%3D",
+        "bitrate": 635777,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6755352649649210374",
+        "uniqueId": "eliseysk8",
+        "nickname": "\ud83c\udfa9",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/87ab7f32c87dd94da5abbe73c2570572~c5_100x100.jpeg?x-expires=1650578400&x-signature=i%2FZWLnagKe7ulZIYL%2Fh019sPCy4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/87ab7f32c87dd94da5abbe73c2570572~c5_720x720.jpeg?x-expires=1650578400&x-signature=Ylcu%2BOfqWCwiMt37eOkjR4qLgvQ%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/87ab7f32c87dd94da5abbe73c2570572~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=tMswZ0%2F0DnJtw15mK0737cIeC00%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAASwxDr-UgC8mevExf3DORTnVZjEq9CGfd6ZXL4D8eXjz8ErDG7z4ZxARyNoG2DTpa",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 1,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6761362720114640897",
+        "title": "Plug",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/25cacfdd69604565bfb7eb2886fd6147",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/2c0176dc21d54b4da3925730cb802afd.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/2c0176dc21d54b4da3925730cb802afd.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/2c0176dc21d54b4da3925730cb802afd.jpeg",
+        "authorName": "Young Jasn",
+        "original": false,
+        "duration": 30,
+        "album": "No A'C In AZ"
+    },
+    "challenges": [
+        {
+            "id": "7236",
+            "title": "skateboarding",
+            "desc": "Got skate skills? Use this tag to make sure they're seen.",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1649276664765446",
+            "title": "skateukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "10895",
+            "title": "skate",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 28,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 436
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 14,
+            "hashtagName": "skateboarding",
+            "hashtagId": "7236",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 15,
+            "end": 28,
+            "hashtagName": "skateukraine",
+            "hashtagId": "1649276664765446",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 29,
+            "end": 35,
+            "hashtagName": "skate",
+            "hashtagId": "10895",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2,
+        "followerCount": 6,
+        "heartCount": 28,
+        "videoCount": 1,
+        "diggCount": 2434,
+        "heart": 28
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u043d",
+                "\u0440",
+                "\u043f",
+                "\u044c"
+            ]
+        }
+    ],
+    "isAd": false
+}

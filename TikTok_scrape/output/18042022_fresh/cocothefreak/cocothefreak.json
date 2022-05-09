@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7066169031514997766",
+        "shortId": "",
+        "uniqueId": "cocothefreak",
+        "nickname": "Coco",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3eb7e1a3a9856beb4295eae5bfcb1376~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=dsahZK0SjJPT8FTNx%2Farog8tXlk%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3eb7e1a3a9856beb4295eae5bfcb1376~c5_720x720.jpeg?x-expires=1650481200&x-signature=LDJ%2FrrtYrDea5fDCYm6JHL5s58o%3D",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3eb7e1a3a9856beb4295eae5bfcb1376~c5_100x100.jpeg?x-expires=1650481200&x-signature=M6PGNv7Uc67zEUk3Sjw3GwQVGrs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0uRk-VuxJD0158Z_QoJ0-wSaVG_XT-8s7FonHERXPvsEuPmYfx2uWF_xrb21V2eE",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 60,
+        "followingCount": 49,
+        "heart": 1137,
+        "heartCount": 1137,
+        "videoCount": 42,
+        "diggCount": 0
+    },
+    "itemList": []
+}

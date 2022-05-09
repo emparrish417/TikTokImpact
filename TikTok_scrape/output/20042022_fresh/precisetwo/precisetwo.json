@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6638234388809990149",
+        "shortId": "",
+        "uniqueId": "precisetwo",
+        "nickname": "PreciseTwo ",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/f190d6798b8a5eda79be9f604410beef~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=7wk8UlKTWBX2wOyzsMKMryAetsM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/f190d6798b8a5eda79be9f604410beef~c5_720x720.jpeg?x-expires=1650664800&x-signature=89vAEPa8iV2EU9MZZZQaltXAiYQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/f190d6798b8a5eda79be9f604410beef~c5_100x100.jpeg?x-expires=1650664800&x-signature=4B9GBGMi%2FYeWKxf%2BTZ%2FUmmRMe6o%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAJEC_YZuoMTckL4YpDLy9FsnnCJDrn0ztw7oR68xWfgUXSYbxq1wCgMyHBnklI205",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 654,
+        "followingCount": 1144,
+        "heart": 360400,
+        "heartCount": 360400,
+        "videoCount": 44,
+        "diggCount": 0
+    },
+    "itemList": []
+}

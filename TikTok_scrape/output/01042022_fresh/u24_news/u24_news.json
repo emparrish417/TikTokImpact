@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "7070395041340326917",
+        "shortId": "",
+        "uniqueId": "u24_news",
+        "nickname": "U24",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c29c95f43b1645edbe056c8423b8c723~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=lUWNglIh6LDS7MB6xjqx1%2FtnyIM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c29c95f43b1645edbe056c8423b8c723~c5_720x720.jpeg?x-expires=1648940400&x-signature=%2FhFoMTpzc7lIhm4X7dVKaX7zSs4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c29c95f43b1645edbe056c8423b8c723~c5_100x100.jpeg?x-expires=1648940400&x-signature=5IR9t6gsFgVkJRGXWNPFwvJqM0c%3D",
+        "signature": "Watch. Know. Decide. Breaking news from Ukraine. Important information",
+        "createTime": 1646204654,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAVeZDDDCdC48gDqtd_RJPxT7Rz7QcnAo5PswqdoDs11GVS7lOEFMoSpuqGvYjxNDm",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2489,
+        "followingCount": 2,
+        "heart": 18700,
+        "heartCount": 18700,
+        "videoCount": 309,
+        "diggCount": 0
+    },
+    "itemList": []
+}

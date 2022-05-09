@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7043529530619298821",
+        "shortId": "",
+        "uniqueId": "703.naz",
+        "nickname": "Naz",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f4b7ef985b442b329b2e7db54fd2b32c~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=GWREDilLABAC6OUMajRnP7PC20I%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f4b7ef985b442b329b2e7db54fd2b32c~c5_720x720.jpeg?x-expires=1648850400&x-signature=CZTWZJmYQ6VgCtdGAfCe%2FcLOzvY%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f4b7ef985b442b329b2e7db54fd2b32c~c5_100x100.jpeg?x-expires=1648850400&x-signature=khUnd6FCLfQcNMwHhacBbClDIhE%3D",
+        "signature": "Dmv\ud83d\udccd",
+        "createTime": 1640581100,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKDoL3c1lvKzD12jsAfW7Qg2nTi_c0wSPGm2zmTtEcVr_gNmhdsxybyc_ArYtBbHA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 76900,
+        "followingCount": 147,
+        "heart": 2500000,
+        "heartCount": 2500000,
+        "videoCount": 99,
+        "diggCount": 0
+    },
+    "itemList": []
+}

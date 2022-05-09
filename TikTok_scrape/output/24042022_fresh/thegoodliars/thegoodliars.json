@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6724659169629340678",
+        "shortId": "",
+        "uniqueId": "thegoodliars",
+        "nickname": "The Good Liars",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1641762672455685~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=hRpGJ24rpeEEhfdlV%2FgAnZe%2F7iA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1641762672455685~c5_720x720.jpeg?x-expires=1651010400&x-signature=iUAJ3kVEXe%2FE5JSwE9t7n5b24x8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1641762672455685~c5_100x100.jpeg?x-expires=1651010400&x-signature=XYwpBL6fTiogDI3GdVagT0g1C7g%3D",
+        "signature": "Jason Selvig & Davram Stiefler. NEW MERCH  \ud83d\udc47\ud83d\udc47\ud83d\udc47",
+        "verified": false,
+        "secUid": "MS4wLjABAAAALAewv_OVTwzgEpS9DVLuyqZ2D8nv6TugW7AV1pG99OVlBqvurRu47JNdmy8PaVbO",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/thegoodliars",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1500000,
+        "followingCount": 20,
+        "heart": 80100000,
+        "heartCount": 80100000,
+        "videoCount": 402,
+        "diggCount": 0
+    },
+    "itemList": []
+}

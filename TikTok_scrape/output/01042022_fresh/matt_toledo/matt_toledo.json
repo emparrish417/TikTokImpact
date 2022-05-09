@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "221967288843948032",
+        "shortId": "",
+        "uniqueId": "matt_toledo",
+        "nickname": "Matt Toledo",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8540ee646f81ee5d8d4cb931e8f5d230~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=E3opQ75KWq4VhJRlyawrgVOVvhg%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8540ee646f81ee5d8d4cb931e8f5d230~c5_720x720.jpeg?x-expires=1648940400&x-signature=uE1IUCE2hDAWtoRv5Q5bTVA2nQE%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8540ee646f81ee5d8d4cb931e8f5d230~c5_100x100.jpeg?x-expires=1648940400&x-signature=JPxW6VksJ0kPX2RL51GH6tQCV2U%3D",
+        "signature": "22\nQuinnipiac \u201822\nNJ/CT",
+        "createTime": 1493292655,
+        "verified": false,
+        "secUid": "MS4wLjABAAAALZgOTuq-nEiHh-zPWqmDFe4WIT8WRv3SDrV3n4ZLaU9eOVfwaPHCg8xBYRSGQGcW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://beacons.page/matt_toledo",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 82300,
+        "followingCount": 1463,
+        "heart": 6700000,
+        "heartCount": 6700000,
+        "videoCount": 590,
+        "diggCount": 0
+    },
+    "itemList": []
+}

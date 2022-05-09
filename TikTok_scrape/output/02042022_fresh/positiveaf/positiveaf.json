@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6673956128291243014",
+        "shortId": "",
+        "uniqueId": "positiveaf",
+        "nickname": "PositiveAF",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c018200a7fc3542f1caa556081b44ec0~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=gjviQN1mYQ6RIdTvtiKtnfqcQ40%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c018200a7fc3542f1caa556081b44ec0~c5_720x720.jpeg?x-expires=1649008800&x-signature=nY9ocVwZcZQghvF22Na3XbDdejw%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c018200a7fc3542f1caa556081b44ec0~c5_100x100.jpeg?x-expires=1649008800&x-signature=AdmZDE31ehkZ0qHFRJvOiC%2FtCos%3D",
+        "signature": "Black Lives Matter\nAbolitionist",
+        "createTime": 1585811421,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwoBVR1Lm1ONv3BeeOqKrQbpCnnHcb0RnVM-sQEGHn-h0rECBbHJHgOrpkJIfz8i_",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "beacons.ai/positiveaf",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 800000,
+        "followingCount": 365,
+        "heart": 15300000,
+        "heartCount": 15300000,
+        "videoCount": 228,
+        "diggCount": 0
+    },
+    "itemList": []
+}

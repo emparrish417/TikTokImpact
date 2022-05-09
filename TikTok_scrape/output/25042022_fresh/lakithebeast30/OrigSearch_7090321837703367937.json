@@ -1,0 +1,104 @@
+{
+    "id": "7090321837703367937",
+    "desc": "",
+    "createTime": 1650844198,
+    "video": {
+        "id": "7090321837703367937",
+        "height": 1024,
+        "width": 576,
+        "duration": 49,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e367441bc40440859181c1502cd791d0?x-expires=1650934800&x-signature=pOqq2hLEBuTIeZDo7515hFgSQg4%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a68775d4d68340efa77b80967cbeba0f_1650844200?x-expires=1650934800&x-signature=tqonz793EmSvErSk8OiBIFsw63s%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/50e454bbf19944be947f11d1a5d36a16_1650844200?x-expires=1650934800&x-signature=W6%2FEpJSgv7yFrH9p2%2BBweQW8bhk%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c4697e55155cd3f094f05cc96edf516b/62674bf9/video/tos/alisg/tos-alisg-pve-0037c001/c1cdc6a62d464255af77b4f47162a44a/?a=1988&br=294&bt=147&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z_8z4we2N.vyfl7Gb&l=202204251932560101131352111016E040&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Rwczs6Znd4PDMzODczNEApNDM7ODVmZDw1NztpO2Q4NWduYm4vcjRfMGZgLS1kMS1zc181NDAxX2JiXi0xNGEtMy46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c4697e55155cd3f094f05cc96edf516b/62674bf9/video/tos/alisg/tos-alisg-pve-0037c001/c1cdc6a62d464255af77b4f47162a44a/?a=1988&br=294&bt=147&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z_8z4we2N.vyfl7Gb&l=202204251932560101131352111016E040&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2Rwczs6Znd4PDMzODczNEApNDM7ODVmZDw1NztpO2Q4NWduYm4vcjRfMGZgLS1kMS1zc181NDAxX2JiXi0xNGEtMy46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/a68775d4d68340efa77b80967cbeba0f_1650844200~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=TEHi1Xn5ZUxnPYDneOb3xUyeSpM%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/a68775d4d68340efa77b80967cbeba0f_1650844200~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=cNWC3VlpHqtv7%2BHmbLOz4yghu2g%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e367441bc40440859181c1502cd791d0?x-expires=1650934800&x-signature=pOqq2hLEBuTIeZDo7515hFgSQg4%3D",
+        "bitrate": 150991,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7041847038095344645",
+        "uniqueId": "lakithebeast30",
+        "nickname": "I STAND WITH UKRAIN",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/f4efc8aee139e9fff1b3d2cfe4d532e9.jpeg?x-expires=1651086000&x-signature=F3fj26Ocr1XNbIiPPUsTtb59bag%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/f4efc8aee139e9fff1b3d2cfe4d532e9.jpeg?x-expires=1651086000&x-signature=9MThGLqAMpS1aulSuLwPEio4%2FWc%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/f4efc8aee139e9fff1b3d2cfe4d532e9.jpeg?x-expires=1651086000&x-signature=Z7o6WifuCwAjTyudaHLfbOQC6go%3D",
+        "signature": "follow pls thanks",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG-XY59KeifNMpOGJVMTZUZYS8X6SoOsqhqDe_NpszIVFqYRkYARGtQ_nxZ2QiLOz",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7029257483365419009",
+        "title": "Trying",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/126d25e40d384314a6233f1724642415",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/eeef90b267b44b7e906b21214cf36b1f.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/eeef90b267b44b7e906b21214cf36b1f.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/eeef90b267b44b7e906b21214cf36b1f.jpeg",
+        "authorName": "NELZ",
+        "original": false,
+        "duration": 49,
+        "album": "Trying"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 63
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "278032"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 3454,
+        "followerCount": 2120,
+        "heartCount": 5279,
+        "videoCount": 142,
+        "diggCount": 2255,
+        "heart": 5279
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "shout the people on here sweet lesssgooooo"
+            ]
+        }
+    ],
+    "isAd": false
+}

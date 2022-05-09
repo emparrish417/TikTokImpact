@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6995208940170888193",
+        "shortId": "",
+        "uniqueId": "_.rabs_",
+        "nickname": "rabs",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/888b3147fff62c7be276e5a211f81511.jpeg?x-expires=1650664800&x-signature=RlXhvrNniWRk8AHPT4mLJ5v88ck%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/888b3147fff62c7be276e5a211f81511.jpeg?x-expires=1650664800&x-signature=uvkT5x8fw1yYN12zVrqbMaVdRG4%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/888b3147fff62c7be276e5a211f81511.jpeg?x-expires=1650664800&x-signature=YaN9zr95xXnUowV6PosRgc0A4oQ%3D",
+        "signature": "it all",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAANXHqns-9Lyi1FCjwI2_k2Ht0DgXz-ACCoRZ1_2p7HfoQSLTfVUUDmfxDeu-ZM3Z",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 12100,
+        "followingCount": 222,
+        "heart": 352500,
+        "heartCount": 352500,
+        "videoCount": 21,
+        "diggCount": 0
+    },
+    "itemList": []
+}

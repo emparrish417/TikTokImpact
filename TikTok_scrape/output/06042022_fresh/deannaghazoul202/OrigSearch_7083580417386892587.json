@@ -1,0 +1,99 @@
+{
+    "id": "7083580417386892587",
+    "desc": "I stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+    "createTime": 1649274589,
+    "video": {
+        "id": "7083580417386892587",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/942ac6c4a7dc4b598a75ba6eba544e56?x-expires=1649307600&x-signature=yaMaXbOAT41wIos2%2FPPRMoa2IaQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6c39b446dd054d40993639d2112769e2_1649274590?x-expires=1649307600&x-signature=jji6YzWLLVOTU45ikwP38LfS734%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d6934fc36824443d8d48fc07d7d75856_1649274590?x-expires=1649307600&x-signature=HW6mHmER4DeAqBuIcG1XQ3fWTVE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b3d3ba786a17bfde5731253ed0b5ef8e/624e7406/video/tos/useast5/tos-useast5-ve-0068c002-tx/aa2f2d7d5ee44da89c013a940eeed0b3/?a=1988&br=2330&bt=1165&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVsSSDXq&l=2022040623174901011313520013587D96&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2UzPDk6ZnB4PDMzZzczNEApM2dlOWk2Nzw6N2ZpODhoNWc1LmNhcjQwbjNgLS1kMS9zcy80LTNiLjAvMGIzLS9gNDM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b3d3ba786a17bfde5731253ed0b5ef8e/624e7406/video/tos/useast5/tos-useast5-ve-0068c002-tx/aa2f2d7d5ee44da89c013a940eeed0b3/?a=1988&br=2330&bt=1165&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVsSSDXq&l=2022040623174901011313520013587D96&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2UzPDk6ZnB4PDMzZzczNEApM2dlOWk2Nzw6N2ZpODhoNWc1LmNhcjQwbjNgLS1kMS9zcy80LTNiLjAvMGIzLS9gNDM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6c39b446dd054d40993639d2112769e2_1649274590~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=QoF4PpnFspKF1%2BZJzIjEWhuMc%2Bw%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6c39b446dd054d40993639d2112769e2_1649274590~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=dnhBD8T1uSqVgN%2BXsaO5afYMQeo%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/942ac6c4a7dc4b598a75ba6eba544e56?x-expires=1649307600&x-signature=kOIy5%2BbUoVuDNUp4%2F75lftuAx8s%3D",
+        "bitrate": 1193806,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6622240199390887941",
+        "uniqueId": "deannaghazoul202",
+        "nickname": "Didi\ud83e\udd0d\u2728\ud83e\udd70",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ea04a54d7da3b9f8bd76b034bc7d1e83~c5_100x100.jpeg?x-expires=1649372400&x-signature=%2FPF9zZpVgELul2smEQYaeTPCEZo%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ea04a54d7da3b9f8bd76b034bc7d1e83~c5_720x720.jpeg?x-expires=1649372400&x-signature=34ccpaTno9F09wsl%2Fy0DF4tBIy8%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ea04a54d7da3b9f8bd76b034bc7d1e83~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=zJ3gc9F0jCUbe%2Bt%2FWGUJRmbBb2I%3D",
+        "signature": "BFF @abby..kassay",
+        "verified": false,
+        "secUid": "MS4wLjABAAAALbXiQJcv6TQlG1lX7Mnd2ITTNHdPbNnYT52ISzyIlj17eTl1o6RPyYjs_YohLD8I",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7074080678450694954",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7074080732183808810.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b88a88d7d491fd263a762c4d0db8b2b~c5_100x100.jpeg?x-expires=1649372400&x-signature=L0G1uuUN4ULlzQ5b4wsBEVFlZm4%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b88a88d7d491fd263a762c4d0db8b2b~c5_720x720.jpeg?x-expires=1649372400&x-signature=qSV6Ri4lMTFOuYwc6AZwjB8mTRw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4b88a88d7d491fd263a762c4d0db8b2b~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=L3UnUy8Hwxj9mjH4QaBi4Nv4kQk%3D",
+        "authorName": ".",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 8,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 82
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1502,
+        "followerCount": 259,
+        "heartCount": 2456,
+        "videoCount": 468,
+        "diggCount": 3427,
+        "heart": 2456
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Planning on going to Ukraine\ud83c\uddfa\ud83c\udde6\ufffc",
+                "But war starts\n \ud83c\uddfa\ud83c\udde6vs\ud83c\uddf7\ud83c\uddfa"
+            ]
+        }
+    ],
+    "isAd": false
+}

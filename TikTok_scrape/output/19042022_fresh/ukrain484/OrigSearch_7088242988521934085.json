@@ -1,0 +1,105 @@
+{
+    "id": "7088242988521934085",
+    "desc": "\u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c \u043d\u0430 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440 @pin_mini_dog",
+    "createTime": 1650360181,
+    "video": {
+        "id": "7088242988521934085",
+        "height": 1024,
+        "width": 576,
+        "duration": 22,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/af7953dbcfd34b92a6c737bec6d09bf0?x-expires=1650427200&x-signature=aEz53HwGhpA6KwSJ3eU8kHDmKoo%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f54bbe31d2464237884d98daa5eb15fa_1650360182?x-expires=1650427200&x-signature=3INJ4EB6tkk44S%2BKsQNgftUDD%2F4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2be638fcfe0a4e90a19bfc31372e7853_1650360182?x-expires=1650427200&x-signature=vsLtWLBwr8eYZk5OpoXBu82U1fQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b7668cfb4f1b74c7b6b3bbc9e11232d9/625f8a2d/video/tos/useast2a/tos-useast2a-ve-0068c002/168d96dfce9748a48b1b17210341bfb6/?a=1988&br=2664&bt=1332&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZSGiwwe2NrAefl7Gb&l=202204192220390101131352071AFE45B7&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amc2Mzg6Zjk6PDMzNzczM0ApNDgzNmZmN2Q3N2lmNTU2N2diYDE1cjQwcmNgLS1kMTZzc14vLzJhY2IuLi9eYV8zLjI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b7668cfb4f1b74c7b6b3bbc9e11232d9/625f8a2d/video/tos/useast2a/tos-useast2a-ve-0068c002/168d96dfce9748a48b1b17210341bfb6/?a=1988&br=2664&bt=1332&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZSGiwwe2NrAefl7Gb&l=202204192220390101131352071AFE45B7&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amc2Mzg6Zjk6PDMzNzczM0ApNDgzNmZmN2Q3N2lmNTU2N2diYDE1cjQwcmNgLS1kMTZzc14vLzJhY2IuLi9eYV8zLjI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f54bbe31d2464237884d98daa5eb15fa_1650360182~tplv-tiktok-play.jpeg?x-expires=1651010400&x-signature=X4jucUzaKnC8QuOvoqeqdhScQ3c%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f54bbe31d2464237884d98daa5eb15fa_1650360182~tplv-tiktokx-share-play.jpeg?x-expires=1651010400&x-signature=8wa5ZJBf%2BRFCsusqas2K4LWUNYU%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/af7953dbcfd34b92a6c737bec6d09bf0?x-expires=1650427200&x-signature=aEz53HwGhpA6KwSJ3eU8kHDmKoo%3D",
+        "bitrate": 1364049,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7087817134294549510",
+        "uniqueId": "ukrain484",
+        "nickname": "ukrain484",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a297761e5561fa36f3667a8da995185~c5_100x100.jpeg?x-expires=1650578400&x-signature=gkr61lrjE8satyTvE3wUJdgl7Xk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a297761e5561fa36f3667a8da995185~c5_720x720.jpeg?x-expires=1650578400&x-signature=wR9iXJhVC020OsVC8vF5Hg7VLoA%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5a297761e5561fa36f3667a8da995185~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=saUp1tbcoviFbl51VyrLWtHjA5c%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA4liZX2o2VZEWFJ1iETfe7lB4gcf1vdRMYpX_2BrHEF0pETpUGz5bJM5DGqBQsFcA",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6768729810685396994",
+        "title": "Get You Some",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/011d88d132dc489280921a85d8f52413",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c82810752fe249009692f360dca24471.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/c82810752fe249009692f360dca24471.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c82810752fe249009692f360dca24471.jpeg",
+        "authorName": "Gibbz",
+        "original": false,
+        "duration": 182,
+        "album": "Get You Some"
+    },
+    "stats": {
+        "diggCount": 25,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 553
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 35,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6799195355231421446",
+            "isCommerce": false,
+            "userUniqueId": "pin_mini_dog",
+            "secUid": "MS4wLjABAAAAXirnknrUmIvyDYw-LjftO4gZIamJO5Ip1KSdsQb5WBoT9pc-f1rDbLzNHoL8IVqd",
+            "subType": 2
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 8,
+        "followerCount": 28,
+        "heartCount": 225,
+        "videoCount": 6,
+        "diggCount": 141,
+        "heart": 225
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

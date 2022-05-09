@@ -1,0 +1,150 @@
+{
+    "id": "7082449122522975531",
+    "desc": "#duet with @benjikrol",
+    "createTime": 1649011189,
+    "video": {
+        "id": "7082449122522975531",
+        "height": 576,
+        "width": 648,
+        "duration": 42,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3df018fc9d57437ca6930f481912b2ac?x-expires=1649055600&x-signature=C1CszHhyJXcfosoOvojOrdLG93o%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ccbf5f131dc04534918910e4b07c96ea_1649011189?x-expires=1649055600&x-signature=3LUyK1QxNl5AjyhJqQSalj1Sx1c%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3f712f459e1f460caa50583257b61115_1649011190?x-expires=1649055600&x-signature=CHuBa1dVEqBQ0UbJ8kSo4AtqPYs%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/ac4cb176cf3f005a4b54ecc20e2fddc9/624a97ac/video/tos/useast5/tos-useast5-ve-0068c003-tx/f7131f3a9060485cbfe77b3c6e68305e/?a=1988&br=1472&bt=736&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmARqDXq&l=2022040401001801011300616416CE7088&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzR5bTM6Zmd4PDMzZzczNEApZWc7OGU6OztoN2QzaTw8O2c0X2licjRvZzFgLS1kMS9zcy4zNWEvNGE1LTEyYS9jMTY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/ac4cb176cf3f005a4b54ecc20e2fddc9/624a97ac/video/tos/useast5/tos-useast5-ve-0068c003-tx/f7131f3a9060485cbfe77b3c6e68305e/?a=1988&br=1472&bt=736&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThmARqDXq&l=2022040401001801011300616416CE7088&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzR5bTM6Zmd4PDMzZzczNEApZWc7OGU6OztoN2QzaTw8O2c0X2licjRvZzFgLS1kMS9zcy4zNWEvNGE1LTEyYS9jMTY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ccbf5f131dc04534918910e4b07c96ea_1649011189~tplv-tiktok-play.jpeg?x-expires=1649638800&x-signature=UcmTAuGuNSvduAs81Mp9MVNqsmU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ccbf5f131dc04534918910e4b07c96ea_1649011189~tplv-tiktokx-share-play.jpeg?x-expires=1649638800&x-signature=sCqeTGl9uilhQOaVhkaW6TNZdCM%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3df018fc9d57437ca6930f481912b2ac?x-expires=1649055600&x-signature=C1CszHhyJXcfosoOvojOrdLG93o%3D",
+        "bitrate": 754035,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7055884826352174085",
+        "uniqueId": "mikebrown9433",
+        "nickname": "WE STAND UKRAIN!\u270a",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_100x100.jpeg?x-expires=1649120400&x-signature=w7B6g0%2BQL0%2BzAtxhnlafetn3v6o%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_720x720.jpeg?x-expires=1649120400&x-signature=ntuEUMkZMLp%2FaO8pAD3i1EiLZH0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8d1d8cce565bb6587dfe6c946d9b2902~c5_1080x1080.jpeg?x-expires=1649120400&x-signature=ZwfSKN7vgoTm8gbxzvkKnq2rGTg%3D",
+        "signature": "https://orangsa.bar/13274aa?s1=kri$ten\nYou're about to open an external website.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGgAQEHqHu61EVzvb_SDCl5X-7FhqqEbp78nzWkWPPuRgwuKVqleUMHU_fUlwdhNW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7055021088892028929",
+        "title": "Light Switch",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4996a36610e04fc4bd90b357558babc9",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e4db20c7875747a0802c09efc6132db2.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e4db20c7875747a0802c09efc6132db2.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e4db20c7875747a0802c09efc6132db2.jpeg",
+        "authorName": "Charlie Puth",
+        "original": false,
+        "duration": 60,
+        "album": "Light Switch"
+    },
+    "challenges": [
+        {
+            "id": "30496",
+            "title": "duet",
+            "desc": "Use our Duet feature because two is always better than one.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86abfa75695b8f93856535c363da9a05",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dff7a84f4a6523e32f92b9a79b1e4d34",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 8
+    },
+    "duetInfo": {
+        "duetFromId": "7079543743065394438"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "7079543743065394438",
+            "start": 11,
+            "end": 21,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "54086091175112704",
+            "isCommerce": false,
+            "userUniqueId": "benjikrol",
+            "secUid": "MS4wLjABAAAA79AiT8mC9j3wOOpeKQj7QdxWeXBB5R098cfH7eCXMq4YOf3hqy8xZle8Ngm_nJW9",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 5,
+            "hashtagName": "duet",
+            "hashtagId": "30496",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "random freckles",
+            "ID": "1573727"
+        },
+        {
+            "name": "random face tattoo",
+            "ID": "1597716"
+        },
+        {
+            "name": "random eyeliner 2",
+            "ID": "1544134"
+        },
+        {
+            "name": "random piercing",
+            "ID": "1649760"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 115,
+        "followerCount": 40,
+        "heartCount": 214,
+        "videoCount": 176,
+        "diggCount": 511,
+        "heart": 214
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

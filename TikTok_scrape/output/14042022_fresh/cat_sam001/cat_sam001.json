@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6984435748163503110",
+        "shortId": "",
+        "uniqueId": "cat_sam001",
+        "nickname": "CatSam\ud83d\ude3c",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/82fb81f20fbe10d0eb8e5997b5854385~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=DrSHLFmozHwT2mLMucSBji3G12g%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/82fb81f20fbe10d0eb8e5997b5854385~c5_720x720.jpeg?x-expires=1650114000&x-signature=gnH7RcxWrX0P7NDFRQRBFs9fwW4%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/82fb81f20fbe10d0eb8e5997b5854385~c5_100x100.jpeg?x-expires=1650114000&x-signature=hSoIV4vYsAGw8cJlMQu%2BquoJJPo%3D",
+        "signature": "",
+        "createTime": 1626190826,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAYGlhuiC8xjlaOprIQz9N31ucQXkMc6UkIO5WwSH3p6JQyhH-Rj-Yvauk94SHAUVb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 203,
+        "followingCount": 65,
+        "heart": 2016,
+        "heartCount": 2016,
+        "videoCount": 19,
+        "diggCount": 0
+    },
+    "itemList": []
+}

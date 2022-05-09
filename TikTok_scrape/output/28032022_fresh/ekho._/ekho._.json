@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6765270098095653894",
+        "shortId": "",
+        "uniqueId": "ekho._",
+        "nickname": "ekho:)",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1073b9ed8c97c5df81f2dbd44c74bc62~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=A1c%2BYtviBwxgeyD6F9W7y%2BuaGx0%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1073b9ed8c97c5df81f2dbd44c74bc62~c5_720x720.jpeg?x-expires=1648580400&x-signature=MYdPisEj4hDtPuXW9V9c5pOweGM%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1073b9ed8c97c5df81f2dbd44c74bc62~c5_100x100.jpeg?x-expires=1648580400&x-signature=W77uV3ugA1wTDnfz7gQGynMEA5w%3D",
+        "signature": "Thx for 48K",
+        "createTime": 1575133476,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhzkON_ISEZm6mtdOhKnc7_4cJgpA74Bkh0e1V3XD_a4eXcbSleFVTpoYBCTRxcog",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 48500,
+        "followingCount": 10000,
+        "heart": 2200000,
+        "heartCount": 2200000,
+        "videoCount": 269,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,96 @@
+{
+    "id": "7089924043272539438",
+    "desc": "With my babyyyyy",
+    "createTime": 1650751579,
+    "video": {
+        "id": "7089924043272539438",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f456da5720a043ea97cfa474a366f50b?x-expires=1650859200&x-signature=75crkqn8iZ8KeS8%2BU%2FSsqZeGZxQ%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/ffe1f1e7e271405a815428510c2aa819_1650751580?x-expires=1650859200&x-signature=0ElWUvQj93oqSfO5vF8HGt9SiC4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a028dd8516224301b0cd4c4937ae0f01_1650751580?x-expires=1650859200&x-signature=1Sx73w6V7At9uukz%2F4UN7hRPGPE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5765127669af822d46a20b68ac894f4f/62662738/video/tos/useast5/tos-useast5-ve-0068c003-tx/1d0a6148756241ddb3a16178deb8ba3b/?a=1988&br=3248&bt=1624&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z7xZ4we2N-befl7Gb&l=202204242244310101130061741E6CF346&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amc7Ojc6Zmc6PDMzZzczNEApPGdnaWVnNmU6NzQ5NDpmNGc0YWlscjRfY2ZgLS1kMS9zc18yXzMxLS4zLTE2YWJhMF86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5765127669af822d46a20b68ac894f4f/62662738/video/tos/useast5/tos-useast5-ve-0068c003-tx/1d0a6148756241ddb3a16178deb8ba3b/?a=1988&br=3248&bt=1624&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z7xZ4we2N-befl7Gb&l=202204242244310101130061741E6CF346&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amc7Ojc6Zmc6PDMzZzczNEApPGdnaWVnNmU6NzQ5NDpmNGc0YWlscjRfY2ZgLS1kMS9zc18yXzMxLS4zLTE2YWJhMF86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ffe1f1e7e271405a815428510c2aa819_1650751580~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=H1oCAYLZskkIJMmlYVdH3gXVI4w%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ffe1f1e7e271405a815428510c2aa819_1650751580~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=YFdBnPsb4F45yUDOuzakJTmAah8%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f456da5720a043ea97cfa474a366f50b?x-expires=1650859200&x-signature=75crkqn8iZ8KeS8%2BU%2FSsqZeGZxQ%3D",
+        "bitrate": 1663545,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6836504248294818822",
+        "uniqueId": "sav_____the____savage___",
+        "nickname": "Ukrain",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29a8df748ce0987de873c4decb9db109~c5_100x100.jpeg?x-expires=1651010400&x-signature=Of5zdOwX15HNp1dFUSck4Dz4x5w%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29a8df748ce0987de873c4decb9db109~c5_720x720.jpeg?x-expires=1651010400&x-signature=ocvA1qCsTZb7PytMKOU4HscpMFY%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29a8df748ce0987de873c4decb9db109~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=O49CiE2m7ggUfJIGYUEIcXWBcrY%3D",
+        "signature": "I have 58 kids in my basement rn \nFace reveal at 1000!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3a4_90L2YqmwWNUaC4Dj8uOB-POJaBPtJX75KYIB_o7pY4Rb6NDzKIpofyApe9G5",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6810736374682061573",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1662776659612694.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0015393418b15f4f929e9850e5f25eb~c5_100x100.jpeg?x-expires=1651010400&x-signature=jw8ljyoO9I5IzhABXlcPa8aQgNI%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0015393418b15f4f929e9850e5f25eb~c5_720x720.jpeg?x-expires=1651010400&x-signature=MB3UHoeaF2tZP4JhnldejHXKOm8%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0015393418b15f4f929e9850e5f25eb~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=zw0ovhF18EdNY8%2FRmwJkxoML3NU%3D",
+        "authorName": "Loz",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 26
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Midnight",
+            "ID": "1121416"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 189,
+        "followerCount": 64,
+        "heartCount": 256,
+        "videoCount": 90,
+        "diggCount": 10200,
+        "heart": 256
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

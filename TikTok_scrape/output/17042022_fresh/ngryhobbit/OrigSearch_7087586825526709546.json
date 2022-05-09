@@ -1,0 +1,125 @@
+{
+    "id": "7087586825526709546",
+    "desc": "Update on Ukraine.  #ukraine",
+    "createTime": 1650207403,
+    "video": {
+        "id": "7087586825526709546",
+        "height": 1024,
+        "width": 576,
+        "duration": 180,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6c16308c4c934f56989e3410fbaa273b?x-expires=1650261600&x-signature=EJAOWpH8ea3jCc9RpzHRYDeKz2s%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/c85b16204b4a478ca9073d071989bcf7_1650207404?x-expires=1650261600&x-signature=Ujjkcmz3CsrUvXkzr4oy%2Fa4ZmBU%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0f68d68a2aad43e49304e4f5053bb799_1650207405?x-expires=1650261600&x-signature=BeKMq4d3c1NtndhT8AsJeoDGC1E%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/12cf47c58d2743a0b13cdb6cdf961929/625d0303/video/tos/useast5/tos-useast5-ve-0068c004-tx/99fe74fe74fa41e6814052c26494ad92/?a=1988&br=1788&bt=894&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIYuwwe2N1u7fl7Gb&l=20220418001646010113135194115A45B3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k3aDc6Zmo1PDMzZzczNEApZTM6OzhlM2VlNzY1aGQ0Zmc1X2BfcjQwYmJgLS1kMS9zczRjXzJeMy8zL2ItMS9fYV46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/12cf47c58d2743a0b13cdb6cdf961929/625d0303/video/tos/useast5/tos-useast5-ve-0068c004-tx/99fe74fe74fa41e6814052c26494ad92/?a=1988&br=1788&bt=894&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZIYuwwe2N1u7fl7Gb&l=20220418001646010113135194115A45B3&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3k3aDc6Zmo1PDMzZzczNEApZTM6OzhlM2VlNzY1aGQ0Zmc1X2BfcjQwYmJgLS1kMS9zczRjXzJeMy8zL2ItMS9fYV46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c85b16204b4a478ca9073d071989bcf7_1650207404~tplv-tiktok-play.jpeg?x-expires=1650844800&x-signature=Dcf85JHOUn0qusYo3f5a4ZoFyh4%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/c85b16204b4a478ca9073d071989bcf7_1650207404~tplv-tiktokx-share-play.jpeg?x-expires=1650844800&x-signature=cs8Ft4FgEutb%2BBstuFjoJ2eJMb4%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/6c16308c4c934f56989e3410fbaa273b?x-expires=1650261600&x-signature=49Yc6rK%2F6VJof01l5iPuXHRNHGg%3D",
+        "bitrate": 915505,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6819312600309646342",
+        "uniqueId": "ngryhobbit",
+        "nickname": "Maria K.",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/d3d66d9576f674cb691380be1a7fdec8~c5_100x100.jpeg?x-expires=1650412800&x-signature=vOV5t%2B%2FBt1U3kcart0mlnbIkSBk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/d3d66d9576f674cb691380be1a7fdec8~c5_720x720.jpeg?x-expires=1650412800&x-signature=n2SBRojoYgmrWfrzZ14hVAGIOE0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/d3d66d9576f674cb691380be1a7fdec8~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=U%2FJsWNhq7tuKXOHZ2UPXluQkG1g%3D",
+        "signature": "A bit of everything....\nwww.landofmariak.com",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0xB1LtaWUUBOFm7Q2E96hFskE7sz6JwNCYEnTK34vkE7mWoIh0B6SyMOlnFmG0Da",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7087586839153904430",
+        "title": "original sound",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/ies-music-tx/7087586854681283370.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/d3d66d9576f674cb691380be1a7fdec8~c5_100x100.jpeg?x-expires=1650412800&x-signature=vOV5t%2B%2FBt1U3kcart0mlnbIkSBk%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/d3d66d9576f674cb691380be1a7fdec8~c5_720x720.jpeg?x-expires=1650412800&x-signature=n2SBRojoYgmrWfrzZ14hVAGIOE0%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/d3d66d9576f674cb691380be1a7fdec8~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=U%2FJsWNhq7tuKXOHZ2UPXluQkG1g%3D",
+        "authorName": "Maria K.",
+        "original": true,
+        "duration": 180,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 31,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1339
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 20,
+            "end": 28,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen",
+            "ID": "263840"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 111,
+        "followerCount": 1776,
+        "heartCount": 27400,
+        "videoCount": 3053,
+        "diggCount": 70400,
+        "heart": 27400
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

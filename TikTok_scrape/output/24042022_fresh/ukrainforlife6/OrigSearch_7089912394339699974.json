@@ -1,0 +1,90 @@
+{
+    "id": "7089912394339699974",
+    "desc": "",
+    "createTime": 1650748868,
+    "video": {
+        "id": "7089912394339699974",
+        "height": 960,
+        "width": 540,
+        "duration": 17,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/412951834b164cd9b03a368ac16b50da?x-expires=1650859200&x-signature=c67g6Oc7VTG%2BNE%2BOs9X4Tr6RDBA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/baa9b6b9a0b54975997338c6a813d080_1650748869?x-expires=1650859200&x-signature=RY4TxRJfzs%2F%2Bgd5mHcUWQpuJ3ZI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b133921c57894a59bba55979577342c7_1650748870?x-expires=1650859200&x-signature=iqJxBGXY7VRZ1DfWbivpBG1Xlcc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e6801c22b7a28c77940fae0918455d1e/62662785/video/tos/useast2a/tos-useast2a-pve-0068/6e2dc784c68d4a47a9bd0bb8f2f5b6ce/?a=1988&br=2004&bt=1002&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWKZ4we2Ntm~fl7Gb&l=2022042422454001011300624422582EA0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzNpNjk6ZmY5PDMzNzczM0ApaDc7ZmdkaTw1Nzc2ODZmOWdqLnJecjQwb2ZgLS1kMTZzczYzM142Mi9gXmAuL2IuLWM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e6801c22b7a28c77940fae0918455d1e/62662785/video/tos/useast2a/tos-useast2a-pve-0068/6e2dc784c68d4a47a9bd0bb8f2f5b6ce/?a=1988&br=2004&bt=1002&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWKZ4we2Ntm~fl7Gb&l=2022042422454001011300624422582EA0&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzNpNjk6ZmY5PDMzNzczM0ApaDc7ZmdkaTw1Nzc2ODZmOWdqLnJecjQwb2ZgLS1kMTZzczYzM142Mi9gXmAuL2IuLWM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/baa9b6b9a0b54975997338c6a813d080_1650748869~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=ajNM0SU3rGPT1P8nd5b87qCrcrE%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/baa9b6b9a0b54975997338c6a813d080_1650748869~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=UWWlpQLnqgwNb%2FGLpCoTxNPt0Gc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/412951834b164cd9b03a368ac16b50da?x-expires=1650859200&x-signature=c67g6Oc7VTG%2BNE%2BOs9X4Tr6RDBA%3D",
+        "bitrate": 1026352,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6939570363219854341",
+        "uniqueId": "ukrainforlife6",
+        "nickname": "Liam Maree",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/41a20138215b5a7bbe4f353a387ef7c0~c5_100x100.jpeg?x-expires=1651010400&x-signature=vHbvuVskVvTG6tfjbThR12%2Bg4Rk%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/41a20138215b5a7bbe4f353a387ef7c0~c5_720x720.jpeg?x-expires=1651010400&x-signature=Pl4jncDiwghoDFGB38FGNVKzTGA%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/41a20138215b5a7bbe4f353a387ef7c0~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=ODoGlAH72xQjGD%2Bxlbsjd2RWZhc%3D",
+        "signature": "Follow kendiana/8\u2019s",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA5P07KIf82nN5Gko43QpaFj2Dh3BarvgwnZ0H8oYcQPaExSxw6POUFLmwClhGIY5W",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089912379110132486",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7089912380716550918.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/41a20138215b5a7bbe4f353a387ef7c0~c5_100x100.jpeg?x-expires=1651010400&x-signature=vHbvuVskVvTG6tfjbThR12%2Bg4Rk%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/41a20138215b5a7bbe4f353a387ef7c0~c5_720x720.jpeg?x-expires=1651010400&x-signature=Pl4jncDiwghoDFGB38FGNVKzTGA%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/41a20138215b5a7bbe4f353a387ef7c0~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=ODoGlAH72xQjGD%2Bxlbsjd2RWZhc%3D",
+        "authorName": "Liam Maree",
+        "original": true,
+        "duration": 17,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 10
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 3,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 688,
+        "followerCount": 354,
+        "heartCount": 347,
+        "videoCount": 37,
+        "diggCount": 741,
+        "heart": 347
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

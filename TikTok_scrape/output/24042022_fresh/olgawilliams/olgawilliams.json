@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6599788617777987590",
+        "shortId": "",
+        "uniqueId": "olgawilliams",
+        "nickname": "Kyivgurl",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f33ebe861b9074073a2930a3c0ff233b~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=PpsSk39ygpw%2FTEV3QFl0TGRIyts%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f33ebe861b9074073a2930a3c0ff233b~c5_720x720.jpeg?x-expires=1651010400&x-signature=Yens6Y%2Fcqyd9VFtl93QFiFu53Fk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f33ebe861b9074073a2930a3c0ff233b~c5_100x100.jpeg?x-expires=1651010400&x-signature=vpP7XSEDGs7LDbU6ebmSAiXRW34%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAGWExoHa6IJo1buQ7y2A0x7zu0txJqnmJqy4_qYak3XMr-mPtw4xsUdzsRzy8lDUv",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 296,
+        "followingCount": 789,
+        "heart": 1495,
+        "heartCount": 1495,
+        "videoCount": 70,
+        "diggCount": 0
+    },
+    "itemList": []
+}

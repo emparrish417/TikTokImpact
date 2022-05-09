@@ -1,0 +1,107 @@
+{
+    "id": "7088976492843011334",
+    "desc": "",
+    "createTime": 1650530962,
+    "video": {
+        "id": "7088976492843011334",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2996a7afc2894d7987bed79e4cf8eaa3?x-expires=1650600000&x-signature=iQe26hPwGjnMPIzh%2Bmy6uEOWgU0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3fb6b47f50d9494db24025510684c0ad_1650530963?x-expires=1650600000&x-signature=s%2FnG%2F57RMpbldsO%2B44pOqX%2FimvA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/994f87c6982043c993fc00308e4c0bed_1650530964?x-expires=1650600000&x-signature=Y5P8lkjlp25QXmCR5AE60mU7BW8%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/e6a4fe08d84329c47afb9526c1689260/626232bb/video/tos/useast2a/tos-useast2a-ve-0068c003/697069e36d994a08b867bc186feaf451/?a=1988&br=3678&bt=1839&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWPZNwe2Nb-efl7Gb&l=202204212244350101130061940CD3B48C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Q1eTQ6ZnZrPDMzNzczM0ApMzc8NTxkNjtpNzUzaTQ8O2dwMDYxcjQwYmRgLS1kMTZzczZjLjIzMC42NDBjYjA0Xi06Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/e6a4fe08d84329c47afb9526c1689260/626232bb/video/tos/useast2a/tos-useast2a-ve-0068c003/697069e36d994a08b867bc186feaf451/?a=1988&br=3678&bt=1839&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZWPZNwe2Nb-efl7Gb&l=202204212244350101130061940CD3B48C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Q1eTQ6ZnZrPDMzNzczM0ApMzc8NTxkNjtpNzUzaTQ8O2dwMDYxcjQwYmRgLS1kMTZzczZjLjIzMC42NDBjYjA0Xi06Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3fb6b47f50d9494db24025510684c0ad_1650530963~tplv-tiktok-play.jpeg?x-expires=1651183200&x-signature=B%2BnEqYiV5Pa0RHR0yvwNg9eMuOs%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3fb6b47f50d9494db24025510684c0ad_1650530963~tplv-tiktokx-share-play.jpeg?x-expires=1651183200&x-signature=g3uL2WJPhIE80AcqcpdvKL7ykMw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2996a7afc2894d7987bed79e4cf8eaa3?x-expires=1650600000&x-signature=iQe26hPwGjnMPIzh%2Bmy6uEOWgU0%3D",
+        "bitrate": 1883556,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7068603826819974149",
+        "uniqueId": "ukraine.ag",
+        "nickname": "Ag\ud83e\udd14\ud83e\udd0d",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c0f0ca925fdbed85204861a8600a636~c5_100x100.jpeg?x-expires=1650751200&x-signature=DmRGEF36ECYrEtNBhPG6AdSsSPc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c0f0ca925fdbed85204861a8600a636~c5_720x720.jpeg?x-expires=1650751200&x-signature=cAibJbezKYwMl%2BTIsAe8yTNCqu8%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3c0f0ca925fdbed85204861a8600a636~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=8U0TLq0r3bDfDVkm3rtYDn3yK74%3D",
+        "signature": "she/her\nAg the best!\ud83e\udd0d\nApp:am,ae,pvs\n\ud83e\udd0d24.02.22\ud83e\udd0d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAIM0doyC3wwtoDrUFzQuTnkHs8SgsunO0UENKF7DLShqHBBu5KYSPUxyjngd4HUJ7",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7075047708922366726",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7075047723220601605.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76bae9e72ed83856e95ee70067b361ed~c5_100x100.jpeg?x-expires=1650751200&x-signature=f%2FvvNw42eixk9jxKv4UkCS%2FRT4g%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76bae9e72ed83856e95ee70067b361ed~c5_720x720.jpeg?x-expires=1650751200&x-signature=g62jEaWe59UWsBhQuoZ1QNHNUQY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76bae9e72ed83856e95ee70067b361ed~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=5YBMdHW8Lqaaci578S%2BsqC0z6qM%3D",
+        "authorName": "speed songs",
+        "original": true,
+        "duration": 12,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 65,
+        "shareCount": 0,
+        "commentCount": 12,
+        "playCount": 698
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 76,
+        "followerCount": 64,
+        "heartCount": 493,
+        "videoCount": 13,
+        "diggCount": 176,
+        "heart": 493
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0417\u041d\u0410\u0419\u0422\u0415 \u0412 \u041a\u041e\u0413\u041e \u0414\u0423\u0416\u0415 \u0411\u0410\u0413\u0410\u0422\u041e \u0426\u0418\u0424\u0420 \u042f \u0412\u0410\u0421 \u041e\u0411\u041e\u0416\u041d\u042e\u042e",
+                "\u041c\u0430\u043a\u0441 (\u0441\u043e\u0431\u0430\u043a\u0430)-\u0421\u0430\u043c\u0438\u0439 \u043a\u0440\u0430\u0449\u0438\u0439 \u0434\u0440\u0443\u0433!\u0417\u0430\u0432\u0436\u0434\u0438 \u0433\u0440\u0430\u0432\u0441\u044f \u0437\u0456 \u043c\u043d\u043e\u044e \n\u0430\u043b\u0435 \u0439\u043e\u0433\u043e \u0437\u0431\u0438\u043b\u0430 \u043c\u0430\u0448\u0438\u043d\u0430...\n126754466766/10",
+                "\u041f\u043e\u043b\u0456\u043d\u0430-\u0441\u0430\u043c\u0430 \u043f\u0435\u0440\u0448\u0430 \u043f\u043e\u0434\u0440\u0443\u0433\u0430 \u0432 \u043c\u043e\u0454\u043c\u0443 \u0436\u0438\u0442\u0442\u0456 \n\u0430\u043b\u0435 \u0432\u043e\u043d\u0430 \u043c\u0435\u043d\u0435 \u043a\u0438\u043d\u0443\u043b\u0430\n2/10",
+                "\u0410\u043d\u044f-\u044f\u043a \u0416\u0435\u043d\u044f \u0442\u0430\u043a\u0430 \u0441\u0430\u043c\u0430\n4/10",
+                "\u0416\u0435\u043d\u044f-\u041f\u043e\u0434\u0440\u0443\u0433\u0430 \u0421\u043e\u043d\u0456 (0.2)\n\u0456\u043d\u043a\u043e\u043b\u0438 \u0431\u0443\u0432\u0430\u0454 \u0434\u0438\u0432\u043d\u043e\u044e, \u043a\u043e\u043b\u0438 \u044f \u0449\u043e\u0441\u044c \u043f\u0440\u0438\u043d\u0435\u0441\u0443 \u0441\u043c\u0430\u043a\u043e\u0442\u0438 \u0439\u0434\u0435 \u0432\u0456\u0434\u0440\u0430\u0437\u0443 \u0434\u043e \u043c\u0435\u043d\u0435 \n5/10 ",
+                "\u0421\u0430\u0448\u0430-\u043a\u043e\u043b\u0438\u0448\u043d\u0456\u0439 \u043c\u0430\u0442\u044e\u043a\u0430\u0432\u0441\u044f \u044f\u043a \u043a\u0430\u0431\u043b\u0443\u043a \u043f\u0456\u0441\u043b\u044f \u0442\u0430\u043a\u043e\u0433\u043e \u0432\u0447\u0438\u043d\u043a\u0443 \u043d\u0435 \u0445\u043e\u0447\u0435\u0442\u044c\u0441\u044f \u0437 \u043d\u0438\u043c \u0440\u043e\u0437\u043c\u043e\u0432\u043b\u044f\u0442\u0438 \n0/10",
+                "\u0421\u043e\u043d\u044f 0.2-\u041d\u0435\u0437\u043d\u0430\u044e \u0432\u043e\u043d\u0430\n\u043c\u0435\u043d\u0456 \u043d\u0435 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f\n\u044f\u043a \u043c\u0438 \u0433\u0440\u0430\u0454\u043c\u043e \u0432\u0441\u0456 \u0440\u0430\u0437\u043e\u043c \u0432 \u0440\u0431 \u044f \u0431\u0443\u0432\u0430\u044e \u0437\u0430\u0439\u0432\u043e\u044e \n3/10",
+                "\u0421\u043e\u043d\u044f 0.1-\u041d\u0435\u043d\u0430\u0432\u0438\u0434\u0436\u0443\n\u0457\u0457 \u0440\u043e\u0437\u043a\u0430\u0437\u0430\u043b\u0430 \u0441\u0432\u043e\u0457\u0439 \n\u043c\u0430\u043c\u0456 \u0449\u043e \u044f \u043c\u0430\u0442\u0435\u0440\u0438\u043b\u0430\u0441\u044f\n0/10",
+                "My friends\u2661\n\u041e\u0446\u0456\u043d\u044e\u044e \u0441\u0432\u043e\u0457\u0445 \n\u0434\u0440\u0443\u0437\u0456\u0432",
+                "\u041d\u0456\u043a\u0430-\u043c\u043e\u044f \u043a\u0440\u0430\u0449\u0430 \u043f\u043e\u0434\u0440\u0443\u0433\u0430\n\u0437\u0456 \u043c\u043d\u043e\u044e \u0437\u0430\u0432\u0436\u0434\u0438 \u043e\u0431\u043e\u0436\u043d\u044e\u044e \u0457\u0457\n100009888656/10"
+            ]
+        }
+    ],
+    "isAd": false
+}

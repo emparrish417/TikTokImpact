@@ -1,0 +1,104 @@
+{
+    "id": "7081305263348780293",
+    "desc": "",
+    "createTime": 1648744863,
+    "video": {
+        "id": "7081305263348780293",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b75f45976309412a9abf9a4997af06fa?x-expires=1648785600&x-signature=nytKcQgX5fsviDY43CwzBaoph%2FA%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2fbc668faef148ffbfd25cf8bceda0a5_1648744864?x-expires=1648785600&x-signature=fi30xT7rPPGgbfwJmgqWlMh4lgA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bdfe470ad8604fd2a5e914b1f7767b22_1648744865?x-expires=1648785600&x-signature=sp14vhafMIh4SvynR0jcEk2u2DE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/76854093dbaa4508ba74013a51b807af/6246833c/video/tos/useast2a/tos-useast2a-ve-0068c004/5d34d330c9aa4f878381178ce4384795/?a=1988&br=3628&bt=1814&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThE~0zDXq&l=20220331224429010113135077128973AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VqeDY6Zmt3PDMzNzczM0ApPGYzMzU3aWQ0N2hmZ2Q4NWctc2ZucjQwYi9gLS1kMTZzczQvLTUuL2EvMjAyYy81MTM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/76854093dbaa4508ba74013a51b807af/6246833c/video/tos/useast2a/tos-useast2a-ve-0068c004/5d34d330c9aa4f878381178ce4384795/?a=1988&br=3628&bt=1814&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XY53A3E7nz7ThE~0zDXq&l=20220331224429010113135077128973AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VqeDY6Zmt3PDMzNzczM0ApPGYzMzU3aWQ0N2hmZ2Q4NWctc2ZucjQwYi9gLS1kMTZzczQvLTUuL2EvMjAyYy81MTM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2fbc668faef148ffbfd25cf8bceda0a5_1648744864~tplv-tiktok-play.jpeg?x-expires=1649368800&x-signature=CXP7kUpM2n3S9UJVdtRgoAxxC28%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2fbc668faef148ffbfd25cf8bceda0a5_1648744864~tplv-tiktokx-share-play.jpeg?x-expires=1649368800&x-signature=gEMJUqxnpqF2Nf2d%2B%2BZSKjF54dM%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b75f45976309412a9abf9a4997af06fa?x-expires=1648785600&x-signature=nytKcQgX5fsviDY43CwzBaoph%2FA%3D",
+        "bitrate": 1858438,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6878179607083975686",
+        "uniqueId": "iryna.ukraine",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea\u2665\ufe0f",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fe412c67d3d421e98758db9d03047e3e~c5_100x100.jpeg?x-expires=1648850400&x-signature=yunU6uGqSdCKtCQiDFHeqloI41o%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fe412c67d3d421e98758db9d03047e3e~c5_720x720.jpeg?x-expires=1648850400&x-signature=UKtgDA9RAvbgcUbiwAVHVWrhO9E%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fe412c67d3d421e98758db9d03047e3e~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=vBzPOHgU8n80M1D5H6BsC3isQSs%3D",
+        "signature": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430 Deutschland",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhLMw2KlF5HsKSmDr4kwJJUt0KxP4lOPjMzIEjEVKliw_4Ri-FLHvcPccfNGTuFw8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 1,
+        "duetSetting": 0,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7079494449503439621",
+        "title": "Nick de Grand \u0413\u0435\u0442\u044c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7079494467287403269.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b4bbc6383fdf65750392c3975c84b9f2~c5_100x100.jpeg?x-expires=1648850400&x-signature=Nw1zOnPp00mpezbtY0NSrCGr59c%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b4bbc6383fdf65750392c3975c84b9f2~c5_720x720.jpeg?x-expires=1648850400&x-signature=4ylv1iZ6xJee8j7jIg7xvkJFRts%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b4bbc6383fdf65750392c3975c84b9f2~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=HCC82FiQ5n%2FgBuVm5bawn5KVPWc%3D",
+        "authorName": "nick_de_grand",
+        "original": true,
+        "duration": 36,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 130,
+        "shareCount": 0,
+        "commentCount": 33,
+        "playCount": 483
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Schwarz&Golden-Filter 2.0",
+            "ID": "1125812"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 3180,
+        "followerCount": 5508,
+        "heartCount": 108800,
+        "videoCount": 637,
+        "diggCount": 47000,
+        "heart": 108800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0410 \u0437 \u044f\u043a\u043e\u0433\u043e  \u0442\u0438 \u043c\u0456\u0441\u0442\u0430?"
+            ]
+        }
+    ],
+    "isAd": false
+}

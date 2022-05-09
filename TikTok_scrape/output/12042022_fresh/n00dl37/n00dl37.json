@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6933610645389493254",
+        "shortId": "",
+        "uniqueId": "n00dl37",
+        "nickname": "Simon Harrod701",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0696e443395b11373d94b33337476c8e~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=R7aRL2rDXI6JxgXD%2BCxLAOk2w7A%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0696e443395b11373d94b33337476c8e~c5_720x720.jpeg?x-expires=1649905200&x-signature=3qIwmg319YfWB2amoTYWQIZzfMg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0696e443395b11373d94b33337476c8e~c5_100x100.jpeg?x-expires=1649905200&x-signature=w7ohbY92B9XBaTLYIRulfvUHXUc%3D",
+        "signature": "",
+        "createTime": 1642848578,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAdOAde8RhBskFvDwesHBvmKeks43dgHfuAJqZwRE_pOyALVP3L6J6RtUzT1I9nIOW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5,
+        "followingCount": 5,
+        "heart": 25,
+        "heartCount": 25,
+        "videoCount": 17,
+        "diggCount": 0
+    },
+    "itemList": []
+}

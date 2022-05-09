@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6721533767028491266",
+        "shortId": "",
+        "uniqueId": "ohmedia",
+        "nickname": "Oh! Media",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1659188723717121.jpeg?x-expires=1649714400&x-signature=qSA55K9cu4bfPkeysw%2B0IkbhONo%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1659188723717121.jpeg?x-expires=1649714400&x-signature=OYf%2F2flqFb33Nyz8lljY8ZOlwrg%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1659188723717121.jpeg?x-expires=1649714400&x-signature=mOESgdLTvfbHk%2BJjHa2j2DILdE8%3D",
+        "signature": "Follow TikTok kami sekarang juga untuk\u2026. Follow jer!",
+        "createTime": 1564950550,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAx-Rpj0_R_IBmbC6qSsJ3dJ8CvSCki1ZxyJDOPlMbQC77BemZI1uWw3rYZuyO-uh3",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.ohmedia.my",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 159000,
+        "followingCount": 12,
+        "heart": 2400000,
+        "heartCount": 2400000,
+        "videoCount": 427,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "7079497181850715141",
+        "shortId": "",
+        "uniqueId": "warbirds.ua",
+        "nickname": "WarBirds.UA",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fbd171cfdc2b028c063b35739d4dbbd7~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=Aq6PsAd66enySDcYxK%2BgdkfZa94%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fbd171cfdc2b028c063b35739d4dbbd7~c5_720x720.jpeg?x-expires=1649116800&x-signature=S08tqaZ97v80fX71%2FPJmnJuTlBI%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fbd171cfdc2b028c063b35739d4dbbd7~c5_100x100.jpeg?x-expires=1649116800&x-signature=c0EU%2FNvbsQ0oBQAqCSkkxZHNiE0%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6\u041d\u0430\u0431\u043b\u0438\u0436\u0430\u0454\u043c\u043e \u043f\u0435\u0440\u0435\u043c\u043e\u0433\u0443\ud83c\uddfa\ud83c\udde6\n\u0427\u043e\u0442\u0430 \u0434\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0446\u0456\u0432 \u0414\u0423\u041a \u041f\u0421",
+        "createTime": 1648323941,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3nUDhq0eyTNem3Bqt-KdJiPkn5geqp2C1LJW9sYg4ENmwMMOq-7ndaZI3OJv49Gt",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/warbirds",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1345,
+        "followingCount": 4,
+        "heart": 14400,
+        "heartCount": 14400,
+        "videoCount": 6,
+        "diggCount": 0
+    },
+    "itemList": []
+}

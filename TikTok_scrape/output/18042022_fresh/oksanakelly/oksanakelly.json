@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7012709492211074054",
+        "shortId": "",
+        "uniqueId": "oksanakelly",
+        "nickname": "Okssna Kelly",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/409d99b9db79009c558057ab1a9ece4e~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=1oqKhCxpfgTv9mj7UDjLHYhQ4wA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/409d99b9db79009c558057ab1a9ece4e~c5_720x720.jpeg?x-expires=1650481200&x-signature=btsLJSi88gf5D8X6rrFDkU9Jgss%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/409d99b9db79009c558057ab1a9ece4e~c5_100x100.jpeg?x-expires=1650481200&x-signature=zkz5BXeIksHhPfml2g3tisJvBLs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwjPdVXWYJ2EMJql25t-8IsVJvYy7B8rpyH9qjaPBWuGeWaaSTOEby_gYZJNmj-gT",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 159,
+        "followingCount": 229,
+        "heart": 2392,
+        "heartCount": 2392,
+        "videoCount": 59,
+        "diggCount": 0
+    },
+    "itemList": []
+}

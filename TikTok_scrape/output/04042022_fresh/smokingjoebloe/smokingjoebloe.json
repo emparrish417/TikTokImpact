@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6726002243088319493",
+        "shortId": "",
+        "uniqueId": "smokingjoebloe",
+        "nickname": "Joe",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/360c0520ead0dd0370bc2faba1b42624.jpeg?x-expires=1649196000&x-signature=QqP3%2Bi8Qrx%2BhZdBEaWDLpK4%2Fvko%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/360c0520ead0dd0370bc2faba1b42624.jpeg?x-expires=1649196000&x-signature=0O%2FsHL8AXc%2B%2FpNw%2FEVERwn7s9kg%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/360c0520ead0dd0370bc2faba1b42624.jpeg?x-expires=1649196000&x-signature=Q0x7NvZb7yvth%2BX81sL7ag0BEo4%3D",
+        "signature": "random shite",
+        "createTime": 1565993193,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_xCaoSoVyBGFSVD3auqSOGZy-EA-_TCUVMpYt_pE-B0eefr7q_HSGr3o_gjTL-Ga",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://linktr.ee/Smokingjoebloe",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 32600,
+        "followingCount": 1002,
+        "heart": 3300000,
+        "heartCount": 3300000,
+        "videoCount": 181,
+        "diggCount": 0
+    },
+    "itemList": []
+}

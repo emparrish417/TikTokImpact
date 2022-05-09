@@ -1,0 +1,127 @@
+{
+    "id": "7085628954073238790",
+    "desc": "#CapCut",
+    "createTime": 1649751552,
+    "video": {
+        "id": "7085628954073238790",
+        "height": 1024,
+        "width": 576,
+        "duration": 26,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/218f029511a640c7aaae047cc2cf9a51?x-expires=1649840400&x-signature=pQp7DwU%2FVi9PWtFw%2FaUiFqgCZ84%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/412d7b29f2154476869c50ae9c6bf441_1649751553?x-expires=1649840400&x-signature=F%2FV2QUTVsRXd%2BRE5hYKlmlJxKg0%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/056c9347a77946aa99009adbd342d34f_1649751553?x-expires=1649840400&x-signature=IDqwPY3NBHlK6TmNwUWc7IdI1uE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/77f7a5472f6539fb28248472aa73a2fe/625691db/video/tos/useast2a/tos-useast2a-pve-0068/1920b657a18348cf8900fb648a2bc3e8/?a=1988&br=1390&bt=695&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThOJ4aDXq&l=2022041303025601011313516826B87288&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k0OGU6ZmVtPDMzNzczM0ApOTZmaGdkM2U2NzY5OWQ1M2cuZ2hycjRfX15gLS1kMTZzczFgMmI1NmBgLy9iNWA1YDQ6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/77f7a5472f6539fb28248472aa73a2fe/625691db/video/tos/useast2a/tos-useast2a-pve-0068/1920b657a18348cf8900fb648a2bc3e8/?a=1988&br=1390&bt=695&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThOJ4aDXq&l=2022041303025601011313516826B87288&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2k0OGU6ZmVtPDMzNzczM0ApOTZmaGdkM2U2NzY5OWQ1M2cuZ2hycjRfX15gLS1kMTZzczFgMmI1NmBgLy9iNWA1YDQ6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/412d7b29f2154476869c50ae9c6bf441_1649751553~tplv-tiktok-play.jpeg?x-expires=1650423600&x-signature=Hj3fQQy8mkvP7%2BCGy0v%2BFHcMcos%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/412d7b29f2154476869c50ae9c6bf441_1649751553~tplv-tiktokx-share-play.jpeg?x-expires=1650423600&x-signature=qW6gRXaUcYDu37Ic3%2FBvqGusZk4%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/218f029511a640c7aaae047cc2cf9a51?x-expires=1649840400&x-signature=pQp7DwU%2FVi9PWtFw%2FaUiFqgCZ84%3D",
+        "bitrate": 711821,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6981385965983187973",
+        "uniqueId": "alf_madman7",
+        "nickname": "I stand with Ukraine",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5acfee43212ca901af2587966f062d4~c5_100x100.jpeg?x-expires=1649905200&x-signature=gJS9fP4%2FZ%2BenHrurPsKiLkkYyDY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5acfee43212ca901af2587966f062d4~c5_720x720.jpeg?x-expires=1649905200&x-signature=y0rLjqW%2BsasNJMGffaV3a3Mf8qw%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5acfee43212ca901af2587966f062d4~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=44OX71DQ3S9dLuJ48vAt0ni29t4%3D",
+        "signature": "UP THE VILLA \ud83e\udd81 \n\nAlfie",
+        "verified": false,
+        "secUid": "MS4wLjABAAAArkhKAWY7w6FpKenptjLdkCSsu47qWFJkM55nSz19rJaCElc0ZeeaCVQaOShyioKI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085628882493229829",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7085628849060334341.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5acfee43212ca901af2587966f062d4~c5_100x100.jpeg?x-expires=1649905200&x-signature=gJS9fP4%2FZ%2BenHrurPsKiLkkYyDY%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5acfee43212ca901af2587966f062d4~c5_720x720.jpeg?x-expires=1649905200&x-signature=y0rLjqW%2BsasNJMGffaV3a3Mf8qw%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e5acfee43212ca901af2587966f062d4~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=44OX71DQ3S9dLuJ48vAt0ni29t4%3D",
+        "authorName": "I stand with Ukraine",
+        "original": true,
+        "duration": 26,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1663935709411330",
+            "title": "capcut",
+            "desc": "CapCut is a new, easy-to-use video editing tool designed for mobile platforms. CapCut provides users with a wide range of video editing functions, filters, audio &amp; visual effects, video templates, while keeping it free of charge and ads-free. Everyone can be a creator by using CapCut.  \n\nStart creating your cool videos today: \nhttps://capcut.onelink.me/XKqI/228cad85",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1d1c20b6de3fc0b4da37670699cbcb07",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 21,
+        "shareCount": 0,
+        "commentCount": 3,
+        "playCount": 420
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 7,
+            "hashtagName": "capcut",
+            "hashtagId": "1663935709411330",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 439,
+        "followerCount": 668,
+        "heartCount": 9208,
+        "videoCount": 154,
+        "diggCount": 9840,
+        "heart": 9208
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Korea ending tackles pt.1\ufffc"
+            ]
+        }
+    ],
+    "isAd": false
+}

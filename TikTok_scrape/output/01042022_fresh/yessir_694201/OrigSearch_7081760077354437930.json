@@ -1,0 +1,90 @@
+{
+    "id": "7081760077354437930",
+    "desc": "",
+    "createTime": 1648850757,
+    "video": {
+        "id": "7081760077354437930",
+        "height": 1024,
+        "width": 576,
+        "duration": 11,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/547e46c42684462ba9b2ac263cb385a2?x-expires=1648875600&x-signature=kqx3VN9X0c9baAdtnrjZ001HN1U%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/cc398f51071541e2ace769b638def26b_1648850758?x-expires=1648875600&x-signature=qWkhpJ%2FTT85WmQ0tBaCrosIspLs%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2a5f8519d9ab48688d9f06e4ff9081fb_1648850759?x-expires=1648875600&x-signature=tAIfw1VvzJ%2BrgC5Z1bv80l0e%2FBU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/749ecd503136796b6743e6d42378179f/6247e38b/video/tos/useast5/tos-useast5-ve-0068c001-tx/d5af384469364a64b2d33ec03ce0146d/?a=1988&br=3224&bt=1612&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThRXxzDXq&l=202204012347440101130062080E8CDF6D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lkZGc6ZnVxPDMzZzczNEApZmhmOTQ7aTs8N2VnOjpkOWcwLXBvcjRfYTBgLS1kMS9zczBjLmFeNTBeL2AxXzMuNmI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/749ecd503136796b6743e6d42378179f/6247e38b/video/tos/useast5/tos-useast5-ve-0068c001-tx/d5af384469364a64b2d33ec03ce0146d/?a=1988&br=3224&bt=1612&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThRXxzDXq&l=202204012347440101130062080E8CDF6D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3lkZGc6ZnVxPDMzZzczNEApZmhmOTQ7aTs8N2VnOjpkOWcwLXBvcjRfYTBgLS1kMS9zczBjLmFeNTBeL2AxXzMuNmI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cc398f51071541e2ace769b638def26b_1648850758~tplv-tiktok-play.jpeg?x-expires=1649458800&x-signature=UUqrYIRzwre5KmBUbFWr1JxFa8k%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/cc398f51071541e2ace769b638def26b_1648850758~tplv-tiktokx-share-play.jpeg?x-expires=1649458800&x-signature=MqJaw3LD%2B%2BO6ByYFT2NDANouCgE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/547e46c42684462ba9b2ac263cb385a2?x-expires=1648875600&x-signature=nFX0LAo%2B1aOC1HKKFbTYsmKzWQ0%3D",
+        "bitrate": 1650999,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6910608018074043398",
+        "uniqueId": "yessir_694201",
+        "nickname": "let's go Ukrain\ud83c\uddfa\ud83c\udde6\ud83c\uddfa",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c57ae3519400b1dcff9d644e3a9287e1~c5_100x100.jpeg?x-expires=1648940400&x-signature=4MXgibN2AguGxd1KfONN67AXXOE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c57ae3519400b1dcff9d644e3a9287e1~c5_720x720.jpeg?x-expires=1648940400&x-signature=cERJpmc56ekEZ8bY%2FDqjcPMNRRc%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c57ae3519400b1dcff9d644e3a9287e1~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=LOzV9kaZlxJdR1lYL9qd26iG7zo%3D",
+        "signature": "follow my other account name @avengers_og and plushies_tik_toks\ngot my live band",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA0J-_kPd_1wh1MhMLbQgWwB1hUH1tZ9zW_2lovjyI6EAH0ybBGtAMQ2MerrkLNM1l",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6865089307984579333",
+        "title": "That's What I Like",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/91beda28176d458db895a468b53acb7f",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/aeda62d5d4cd4f348111a82d61ff0789.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/aeda62d5d4cd4f348111a82d61ff0789.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/aeda62d5d4cd4f348111a82d61ff0789.jpeg",
+        "authorName": "Bruno Mars",
+        "original": false,
+        "duration": 11,
+        "album": "24K Magic"
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 12
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 2789,
+        "followerCount": 1463,
+        "heartCount": 775,
+        "videoCount": 114,
+        "diggCount": 6706,
+        "heart": 775
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

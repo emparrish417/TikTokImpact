@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6936935665621287938",
+        "shortId": "",
+        "uniqueId": "ze6edit",
+        "nickname": "Ze6onlyedit",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/0fb0b9e38ce1d59136d682022b54f218~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=5iDU2%2Fu4CKiVRN1CpMlVqxVpZfc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/0fb0b9e38ce1d59136d682022b54f218~c5_720x720.jpeg?x-expires=1649372400&x-signature=iKBtBtTTLN8J1ePILyGpJ%2FAFVbg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/0fb0b9e38ce1d59136d682022b54f218~c5_100x100.jpeg?x-expires=1649372400&x-signature=tRAt3Gg4ymMXpvSOHSgJqitE5F8%3D",
+        "signature": "ha",
+        "createTime": 1618986043,
+        "verified": false,
+        "secUid": "MS4wLjABAAAACgJkaj-Ks4sbohU0rwJ4GBBCt4vzmTWRuI6sreIMOyd7gpB2o5Evt4ttm6l0Rr1w",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 798,
+        "followingCount": 182,
+        "heart": 5142,
+        "heartCount": 5142,
+        "videoCount": 21,
+        "diggCount": 0
+    },
+    "itemList": []
+}

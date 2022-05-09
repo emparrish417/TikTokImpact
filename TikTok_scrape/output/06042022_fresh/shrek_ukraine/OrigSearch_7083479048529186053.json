@@ -1,0 +1,177 @@
+{
+    "id": "7083479048529186053",
+    "desc": "#\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 #\u043c\u0435\u043c\u044b #meme",
+    "createTime": 1649250987,
+    "video": {
+        "id": "7083479048529186053",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d053b2b3ea4d43e891fd24e22ecfa3af?x-expires=1649307600&x-signature=vszdYib5SoHWC6D0V%2BR3KCzp8L4%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/273ac0348a3148bcb6866717645369a5_1649250989?x-expires=1649307600&x-signature=8OCiTNDZWeFO9yy1drzRL0ymrIw%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4602297610864c90ab9149d6cf5eb5ae_1649250989?x-expires=1649307600&x-signature=e46CtMMZJRA6yNXpakVSmg9kB%2BU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/c17fceb3b24d1feea800cba8f8d60263/624e7467/video/tos/useast2a/tos-useast2a-ve-0068c002/837bdbf707384b049d2f0c9a2a871e0f/?a=1988&br=888&bt=444&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwwSSDXq&l=202204062319200101130061512499349D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2UzM2k6ZnVzPDMzNzczM0ApOTNoODtkNWUzNzU5ZTY3Z2czaWNhcjRnMDNgLS1kMTZzc2AvMV5iMTMtYzYyM2E0YjY6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/c17fceb3b24d1feea800cba8f8d60263/624e7467/video/tos/useast2a/tos-useast2a-ve-0068c002/837bdbf707384b049d2f0c9a2a871e0f/?a=1988&br=888&bt=444&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThwwSSDXq&l=202204062319200101130061512499349D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2UzM2k6ZnVzPDMzNzczM0ApOTNoODtkNWUzNzU5ZTY3Z2czaWNhcjRnMDNgLS1kMTZzc2AvMV5iMTMtYzYyM2E0YjY6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/273ac0348a3148bcb6866717645369a5_1649250989~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=jF1G7DJE66qZn4feZ2RiQbGk4tg%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/273ac0348a3148bcb6866717645369a5_1649250989~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=D6dfMXHOpRJ0BHoTz6wGx0gDyq8%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d053b2b3ea4d43e891fd24e22ecfa3af?x-expires=1649307600&x-signature=vszdYib5SoHWC6D0V%2BR3KCzp8L4%3D",
+        "bitrate": 455345,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7004510614648144901",
+        "uniqueId": "shrek_ukraine",
+        "nickname": "\u044f \u0442\u0443\u0442",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a64a9a0f2377ca11d6f0d6e1f49b94c~c5_100x100.jpeg?x-expires=1649372400&x-signature=kEdRIXjkQKmGArrd7LB%2FU9fu25A%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a64a9a0f2377ca11d6f0d6e1f49b94c~c5_720x720.jpeg?x-expires=1649372400&x-signature=WRR7RQSjyuqz%2F%2F6tir%2BbdEgPcMo%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0a64a9a0f2377ca11d6f0d6e1f49b94c~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=d2GyEwgU5MKe2Gd3KP0YJ7uqogc%3D",
+        "signature": "\u043f\u0440\u0438\u0432\u0435\u0442",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAa05BF1_-6u6RWAoNrDUapkIA7d1flM_xDwTWNgn2XmBpYflQVamG7F5Y4KnDXjoN",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7030869625311086594",
+        "title": "Sunroof",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/986dfec9a96747239819231f7dc93931",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a78bd441c88c4179a103ccc0c38e9b7e.jpeg",
+        "authorName": "Nicky Youre & dazy",
+        "original": false,
+        "duration": 60,
+        "album": "Sunroof"
+    },
+    "challenges": [
+        {
+            "id": "49711363",
+            "title": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "32986376",
+            "title": "\u043c\u0435\u043c\u044b",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "23864",
+            "title": "meme",
+            "desc": "",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/980ab8dd88ab0ad5b97cf6d186eafc6e.png",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/980ab8dd88ab0ad5b97cf6d186eafc6e.png",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/980ab8dd88ab0ad5b97cf6d186eafc6e.png",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/033a9abe78f61c0e613abfac3c7ab02c.png",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/033a9abe78f61c0e613abfac3c7ab02c.png",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/033a9abe78f61c0e613abfac3c7ab02c.png",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 4,
+        "shareCount": 0,
+        "commentCount": 2,
+        "playCount": 73
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 13,
+            "hashtagName": "\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
+            "hashtagId": "49711363",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 14,
+            "end": 19,
+            "hashtagName": "\u043c\u0435\u043c\u044b",
+            "hashtagId": "32986376",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 20,
+            "end": 25,
+            "hashtagName": "meme",
+            "hashtagId": "23864",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 114,
+        "followerCount": 586,
+        "heartCount": 129,
+        "videoCount": 7,
+        "diggCount": 62,
+        "heart": 129
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u041e\u0442 \u0433\u043e\u043b\u043e\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u0432\u0441\u0451 \u043f\u043e\u043d\u044f\u0442\u044c \u0441\u0440\u0430\u0437\u0443"
+            ]
+        }
+    ],
+    "isAd": false
+}

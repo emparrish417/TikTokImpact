@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7068565441150125102",
+        "shortId": "",
+        "uniqueId": "lifelongbachelor",
+        "nickname": "Ivan Flores9585",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7068565864634646574~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=oa0ur%2BrSasMyQRGXKCarim0VDrU%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7068565864634646574~c5_720x720.jpeg?x-expires=1648940400&x-signature=Hfym6374X2M9vHzkdjmH1th8Zqo%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7068565864634646574~c5_100x100.jpeg?x-expires=1648940400&x-signature=2x36YGYTwXX%2BF8rdJYa8B9muLCs%3D",
+        "signature": "",
+        "createTime": 1645778740,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA1C-E7cemJlym7_ijHoR3wtPOIN4NL_70wtei9Sej4GhdnqSHUJo7fdmp5Gef-IXI",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 9,
+        "heart": 3,
+        "heartCount": 3,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

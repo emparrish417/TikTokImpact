@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6742581300933231621",
+        "shortId": "",
+        "uniqueId": "i_like_train_ok",
+        "nickname": "Martina",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/7dec9c10d5ae5f9eb88952994f12c6d8.jpeg?x-expires=1650664800&x-signature=l6cJ1vMBc%2F4BXp7qJ4mjBmjIalo%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/7dec9c10d5ae5f9eb88952994f12c6d8.jpeg?x-expires=1650664800&x-signature=nivM0JmkHTg5zaAql4Z7wEsmfL8%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7dec9c10d5ae5f9eb88952994f12c6d8.jpeg?x-expires=1650664800&x-signature=f%2F1kSQKOsVHLHKa%2BAJU%2FysRbrHs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAr8zcauRU6aDJrBFJLHEQm8-erjO1IEImDTZ3-j9Iq1eUr6sa09FDsnBmqMoT5jZo",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 849,
+        "followingCount": 61,
+        "heart": 6893,
+        "heartCount": 6893,
+        "videoCount": 83,
+        "diggCount": 0
+    },
+    "itemList": []
+}

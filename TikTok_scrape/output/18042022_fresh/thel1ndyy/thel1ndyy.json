@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6887182194730238981",
+        "shortId": "",
+        "uniqueId": "thel1ndyy",
+        "nickname": "L1ndyyy\ud83d\udda4",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/224933cac3b5e1fabcf53650e8b47146~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=ujJvB%2FGpg7k92LfCAijyDFoxOv0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/224933cac3b5e1fabcf53650e8b47146~c5_720x720.jpeg?x-expires=1650481200&x-signature=fwKPwHpq2CKaNgZk1k%2By2UP%2Fz24%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/224933cac3b5e1fabcf53650e8b47146~c5_100x100.jpeg?x-expires=1650481200&x-signature=zDJCeQe0P0uTHC02DhPWLVyLbbQ%3D",
+        "signature": "\ud83d\udda4",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAc1JBfj5BlqNBI6bGoSWfQTJQ9nAfMS_TvE4Hu5z_A5NkKXgyAN45eWwiQAnpbn0E",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Gaming",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 277,
+        "followingCount": 82,
+        "heart": 135,
+        "heartCount": 135,
+        "videoCount": 16,
+        "diggCount": 0
+    },
+    "itemList": []
+}

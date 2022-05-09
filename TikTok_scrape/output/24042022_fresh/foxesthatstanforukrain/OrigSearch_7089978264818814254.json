@@ -1,0 +1,119 @@
+{
+    "id": "7089978264818814254",
+    "desc": "#greenscreen",
+    "createTime": 1650764203,
+    "video": {
+        "id": "7089978264818814254",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5e3a5a2eda5b469b9f8fa48ea9f25799?x-expires=1650859200&x-signature=Mpix%2BnLZbA5D8Hn%2Bm5sheBlg4EE%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/635c842e349e41789b485900e749ce26_1650764204?x-expires=1650859200&x-signature=RGEhhxvH6KxbayFMn0j8AvuCPjQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7f99f5ddfe3d4a689fc678385cb06165_1650764205?x-expires=1650859200&x-signature=%2BJz6W3Wp1xVX1ZXEBho11BiSnbQ%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/bbcb01cabf0154ebfe0e5869d8703357/6266277b/video/tos/useast5/tos-useast5-ve-0068c004-tx/34b184187d7a4c87869d81d43dd690b4/?a=1988&br=694&bt=347&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrKZ4we2Ndrufl7Gb&l=202204242245310101130060621766DCF9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Y2OTs6Zm5kPDMzZzczNEApaDZoO2g0Zjs6NzU8aWU0ZWdmb2xzcjQwZmZgLS1kMS9zczQ2LmAtMl8uMi4wMTE0NTM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/bbcb01cabf0154ebfe0e5869d8703357/6266277b/video/tos/useast5/tos-useast5-ve-0068c004-tx/34b184187d7a4c87869d81d43dd690b4/?a=1988&br=694&bt=347&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrKZ4we2Ndrufl7Gb&l=202204242245310101130060621766DCF9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3Y2OTs6Zm5kPDMzZzczNEApaDZoO2g0Zjs6NzU8aWU0ZWdmb2xzcjQwZmZgLS1kMS9zczQ2LmAtMl8uMi4wMTE0NTM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/635c842e349e41789b485900e749ce26_1650764204~tplv-tiktok-play.jpeg?x-expires=1651442400&x-signature=YIbngtMXKuBujGQp9Ad%2BqYnIYqQ%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/635c842e349e41789b485900e749ce26_1650764204~tplv-tiktokx-share-play.jpeg?x-expires=1651442400&x-signature=dt9nQQmLG%2Bwe1dhlnrNXmv9PnbQ%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/5e3a5a2eda5b469b9f8fa48ea9f25799?x-expires=1650859200&x-signature=9JucIo9VjfBLtrNWEdl6IwSHGSs%3D",
+        "bitrate": 356023,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7051126756653351941",
+        "uniqueId": "foxesthatstanforukrain",
+        "nickname": "Erica or rain",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/96ae6a22595598bfb393a601364d2291~c5_100x100.jpeg?x-expires=1651010400&x-signature=KtYPqHX4HWy0aa7%2FTDbtgh3KfpU%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/96ae6a22595598bfb393a601364d2291~c5_720x720.jpeg?x-expires=1651010400&x-signature=KjNMKQKVe9q%2B70htibz63uO0ci0%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/96ae6a22595598bfb393a601364d2291~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=T9LhD8R9DI3yB4Tou%2F2Lkf869ag%3D",
+        "signature": "No bio yet",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAU5_l-6vKKIuvd-4dP_vhecNcH4ywo-89mRUbBx-ip20W3fEEcuayasg47t4eorTI",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089877528055253761",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7089877529984518913.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/ea20f7048d3ba5bc7648b70f7efb06a3.jpeg?x-expires=1651010400&x-signature=ITeridVvak%2B7xmNIIpLIy%2BCjIkw%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/ea20f7048d3ba5bc7648b70f7efb06a3.jpeg?x-expires=1651010400&x-signature=oBXgXBth2yXFj6RFEwSeOhtzNv4%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/ea20f7048d3ba5bc7648b70f7efb06a3.jpeg?x-expires=1651010400&x-signature=fomdnGHvG183SNWbg0YtdYDumAw%3D",
+        "authorName": "My names Zoe what\u2019s yours? <3",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "801886",
+            "title": "greenscreen",
+            "desc": "Try out the #GreenScreen Creative Effect! Check out the latest trends using #greenscreen for some inspiration. Just pick an image from your camera roll, stand in front of a plain background, and make the next TikTok masterpiece.",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e7b46be07848d4eeccecfe17b97adf1",
+            "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e69896f9fc0e263ce07146644fdb1ae4",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 5
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 12,
+            "hashtagName": "greenscreen",
+            "hashtagId": "801886",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 175,
+        "followerCount": 85,
+        "heartCount": 295,
+        "videoCount": 262,
+        "diggCount": 27000,
+        "heart": 295
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

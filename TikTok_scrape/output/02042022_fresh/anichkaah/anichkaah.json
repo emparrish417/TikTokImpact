@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6806843949828572166",
+        "shortId": "",
+        "uniqueId": "anichkaah",
+        "nickname": "Ana",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/27f960e866b6b2f729e2fe3dd7d93139~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=kyLRA7C8Xx0SO2HYI36LHcG%2BAW4%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/27f960e866b6b2f729e2fe3dd7d93139~c5_720x720.jpeg?x-expires=1649008800&x-signature=UUO9NNKf%2BrSLxUHZJ9nb3pyduRA%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/27f960e866b6b2f729e2fe3dd7d93139~c5_100x100.jpeg?x-expires=1649008800&x-signature=9rM1ERlA1uL%2FFUDfgJlZVjk4dFk%3D",
+        "signature": "HI \ud83d\ude03",
+        "createTime": 1584841997,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAo_VAAsBbFSoTTBwEsulERsuj9mtXXDwDxtpfVNYilrnw1lgdJN7HUeYQcWVsR7Mb",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 119,
+        "followingCount": 545,
+        "heart": 504,
+        "heartCount": 504,
+        "videoCount": 15,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7039293953343194118",
+        "shortId": "",
+        "uniqueId": "ihorsrem",
+        "nickname": "Ihors Veremiov",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7088267282303942661~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=24lG5ZVs2k59pbiOWbOucfcfyLI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7088267282303942661~c5_720x720.jpeg?x-expires=1650664800&x-signature=M9g6eUSE5yFLJjm2mxhy%2FYDk7QA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7088267282303942661~c5_100x100.jpeg?x-expires=1650664800&x-signature=py%2BG%2F0p6DVun7QkCNY0A2VmpyR4%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAgZ8a90k59NfE0HTcS9vM3kj11ARRGSTWWtacmrTPuauvyN8WRhPXAOfotnj_SlRi",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 2,
+        "heart": 7,
+        "heartCount": 7,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

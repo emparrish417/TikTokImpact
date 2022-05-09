@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7014454482906219526",
+        "shortId": "",
+        "uniqueId": "ukrainia.music",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\ud83c\udfb6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e2302d59e80181c25c2b7d7ed87a768a~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=hgiyKeQgXiuhq9nWQJuXNRDdIbA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e2302d59e80181c25c2b7d7ed87a768a~c5_720x720.jpeg?x-expires=1650664800&x-signature=HPBQHS8TkTRM3iZNucGt%2B5Z9sGQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e2302d59e80181c25c2b7d7ed87a768a~c5_100x100.jpeg?x-expires=1650664800&x-signature=rS3ZD6ZVrqtIh1hvQrFbcAazb78%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6Ukrainian music\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAEA4u5_E0jLCQniY4DV7ZyABSu0byLLJYNYclmqzk0Wj3q1SD5SyoAQg64AZb2EKQ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 61,
+        "followingCount": 15,
+        "heart": 1107,
+        "heartCount": 1107,
+        "videoCount": 27,
+        "diggCount": 454
+    },
+    "itemList": []
+}

@@ -1,0 +1,96 @@
+{
+    "id": "7088729658925026561",
+    "desc": "",
+    "createTime": 1650473490,
+    "video": {
+        "id": "7088729658925026561",
+        "height": 1024,
+        "width": 576,
+        "duration": 12,
+        "ratio": "720p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a85f917f698940678bd26a4a7ba254e4?x-expires=1650513600&x-signature=IbkQdqVLAPvUmpD9o2hJIoWIuHk%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/4c07535426a842ef94ac7cf979851b75_1650473491?x-expires=1650513600&x-signature=kZxu0f6l%2BgWGMMLjyo5ImA2UjGw%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/55908c5815164a489a8bf55c15193ce0_1650473495?x-expires=1650513600&x-signature=Fi6z2IEwFQekVm0%2B2XGOjVWirUM%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7046e17370deebd61d0874e7ed13611e/6260dc90/video/tos/alisg/tos-alisg-pve-0037c001/a5a105e88eaa45d98473db2377f58657/?a=1988&br=3524&bt=1762&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~SANwe2NpBufl7Gb&l=2022042022243601011313519304DFD3D9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZ5ODQ6Zjo2PDMzODczNEApZGU0OzQ8NmVmNzZnOjczZGdpMmVxcjRvZmRgLS1kMS1zc2EwLy5jMDReLTZjNi5iMS86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7046e17370deebd61d0874e7ed13611e/6260dc90/video/tos/alisg/tos-alisg-pve-0037c001/a5a105e88eaa45d98473db2377f58657/?a=1988&br=3524&bt=1762&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~SANwe2NpBufl7Gb&l=2022042022243601011313519304DFD3D9&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amZ5ODQ6Zjo2PDMzODczNEApZGU0OzQ8NmVmNzZnOjczZGdpMmVxcjRvZmRgLS1kMS1zc2EwLy5jMDReLTZjNi5iMS86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/4c07535426a842ef94ac7cf979851b75_1650473491~tplv-tiktok-play.jpeg?x-expires=1651096800&x-signature=Kb0FtKxwmoV8fXIBLPkzF4asxtU%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/4c07535426a842ef94ac7cf979851b75_1650473491~tplv-tiktokx-share-play.jpeg?x-expires=1651096800&x-signature=RLJW7AU%2Fw6QoEMQi73JfJKkSmeE%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a85f917f698940678bd26a4a7ba254e4?x-expires=1650513600&x-signature=IbkQdqVLAPvUmpD9o2hJIoWIuHk%3D",
+        "bitrate": 1804752,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6970017958789710850",
+        "uniqueId": "ruksanasimms",
+        "nickname": "DAVID LIKE UKRAIN",
+        "avatarThumb": "https://p77-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/68cdd97475eedefcb6a640b8e1a4a5ae.jpeg?x-expires=1650664800&x-signature=MR%2FbA0ILE%2B3fKBxxTqhMpSjUbEo%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/68cdd97475eedefcb6a640b8e1a4a5ae.jpeg?x-expires=1650664800&x-signature=cD9mURV7RPseIY6EvfABU6tyOSE%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/68cdd97475eedefcb6a640b8e1a4a5ae.jpeg?x-expires=1650664800&x-signature=wwknQoTlnPI8NVjNPXg25XXr2Rg%3D",
+        "signature": "5000 SUBSCRAIBER AND LIVE",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAG6be-6uYTzPOhbse-x1l7A0DgeUT2MR_wpNlUE43NaOsKzTdq7zSFskGcE3yjApr",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7067047232037702426",
+        "title": "original sound - Niana Guerrero",
+        "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-aiso/7067052920260348698.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1653642385041413~c5_100x100.jpeg?x-expires=1650664800&x-signature=BMgeBNlZUgXTlAmzktIDOAVORwM%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1653642385041413~c5_720x720.jpeg?x-expires=1650664800&x-signature=cc6UrpZhQB%2Bq%2Bd0o8YRSzLVB8RY%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1653642385041413~c5_1080x1080.jpeg?x-expires=1650664800&x-signature=HYSLd7z%2FlSAEFG4O3NqqAgFn72M%3D",
+        "authorName": "Niana Guerrero",
+        "original": true,
+        "duration": 18,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 9
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "You look like",
+            "ID": "1460817"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 290,
+        "followerCount": 65,
+        "heartCount": 184,
+        "videoCount": 163,
+        "diggCount": 2155,
+        "heart": 184
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

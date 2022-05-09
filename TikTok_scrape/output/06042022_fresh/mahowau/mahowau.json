@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6957822978509276166",
+        "shortId": "",
+        "uniqueId": "mahowau",
+        "nickname": "Mahowau",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/963b389bf0ed66568f1f6d3cb0104228~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=bwcKaWtd7GTUXfKuHo7uqspWTvY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/963b389bf0ed66568f1f6d3cb0104228~c5_720x720.jpeg?x-expires=1649372400&x-signature=nVWVSYzYdSmPWQmxyrwJM%2FTqi9Y%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/963b389bf0ed66568f1f6d3cb0104228~c5_100x100.jpeg?x-expires=1649372400&x-signature=Iehod%2F0eqdzv%2FS2QHfOkJvkeJWA%3D",
+        "signature": "Howya \u2618\ufe0f \nMore clips \u261d\ud83c\udffb\nLivestreams \ud83d\udc47\ud83c\udffb",
+        "createTime": 1619994439,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAqmXL8lRRulinjW5u6U2a0-8JKocC7m6WYSk3TFCGD914dvHSfjHT18-lta3PdEIc",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Twitch.tv/mahowau",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8236,
+        "followingCount": 310,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 100,
+        "diggCount": 0
+    },
+    "itemList": []
+}

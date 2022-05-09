@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "11777912",
+        "shortId": "",
+        "uniqueId": "strykeroneone",
+        "nickname": "Stryker",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=5RxSUNvfe2B1YLZzUEf8U%2BgV5LM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1648850400&x-signature=dUYTacTKF5AOZYibibsS%2FseG39I%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1648850400&x-signature=E%2BXy%2BdhpRAd6MBEfUzF0AXAIKyU%3D",
+        "signature": "Stop, drop, open up shop!",
+        "createTime": 1444279997,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAtVdpDK_cCNeNm_7sZql77lLQo4plHyBdfJeMrzBhA-4",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 90300,
+        "followingCount": 62,
+        "heart": 594300,
+        "heartCount": 594300,
+        "videoCount": 45,
+        "diggCount": 246
+    },
+    "itemList": []
+}

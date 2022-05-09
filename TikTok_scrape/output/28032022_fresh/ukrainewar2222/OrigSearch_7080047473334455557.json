@@ -1,0 +1,100 @@
+{
+    "id": "7080047473334455557",
+    "desc": "",
+    "createTime": 1648452013,
+    "video": {
+        "id": "7080047473334455557",
+        "height": 1024,
+        "width": 576,
+        "duration": 23,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d5f276d7371343d5b71afcebd6636320?x-expires=1648515600&x-signature=i9EuBu%2FHVgR%2B07mG5KR%2BoObjBvc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/59cab835fef44d67a3951f1be83378d3_1648452014?x-expires=1648515600&x-signature=WtQJyL55i4XZDK8dY1rK7c7iJDY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a7f2a931a2764f15a93682019ae48d6e_1648452014?x-expires=1648515600&x-signature=NQd5%2BBdbrXfj%2BrD84KiWdPDbPHo%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/d430a6427e1e092f4cd32d5a7f1e6f28/62425f20/video/tos/useast2a/tos-useast2a-ve-0068c002/6a0f35340faf4ab18903195f5b4539a2/?a=1988&br=578&bt=289&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZiugDXq&l=202203281921130101130061471C3BF6B8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amllaTc6ZmpvPDMzNzczM0ApZzo1aDlmNzs8N2RpZjgzOmdtaV8vcjRfcy1gLS1kMTZzc19hNjU1Y2E1NS9eL2IzYmI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/d430a6427e1e092f4cd32d5a7f1e6f28/62425f20/video/tos/useast2a/tos-useast2a-ve-0068c002/6a0f35340faf4ab18903195f5b4539a2/?a=1988&br=578&bt=289&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZiugDXq&l=202203281921130101130061471C3BF6B8&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amllaTc6ZmpvPDMzNzczM0ApZzo1aDlmNzs8N2RpZjgzOmdtaV8vcjRfcy1gLS1kMTZzc19hNjU1Y2E1NS9eL2IzYmI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/59cab835fef44d67a3951f1be83378d3_1648452014~tplv-tiktok-play.jpeg?x-expires=1649098800&x-signature=Xj%2B9YNrC%2BNXpOrnUKhjr1NcvEv8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/59cab835fef44d67a3951f1be83378d3_1648452014~tplv-tiktokx-share-play.jpeg?x-expires=1649098800&x-signature=FV2HKeKi9nMwrQRFUrDiUuHbuMM%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d5f276d7371343d5b71afcebd6636320?x-expires=1648515600&x-signature=i9EuBu%2FHVgR%2B07mG5KR%2BoObjBvc%3D",
+        "bitrate": 296508,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7078323068595012613",
+        "uniqueId": "ukrainewar2222",
+        "nickname": "Tornado2022",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f901b67601d89805974f574e541309c~c5_100x100.jpeg?x-expires=1648580400&x-signature=KG3%2FRLHfY5L%2BqcXoMDn%2FQufY9ok%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f901b67601d89805974f574e541309c~c5_720x720.jpeg?x-expires=1648580400&x-signature=VIiJs5KpyNMZfp8BMc2GLhqJRuI%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f901b67601d89805974f574e541309c~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=oLOo2bDJjQqx1KWR1sCaTmixWqQ%3D",
+        "signature": "Ukraine#war",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiNdEWjI8YAcMPSC69rqPc3qdNCSLmijcl9GDgZFNNUiQ6qwNkCKIhvIRDCT9HvyD",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7080047401846737669",
+        "title": "\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7080047390841326341.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f901b67601d89805974f574e541309c~c5_100x100.jpeg?x-expires=1648580400&x-signature=KG3%2FRLHfY5L%2BqcXoMDn%2FQufY9ok%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f901b67601d89805974f574e541309c~c5_720x720.jpeg?x-expires=1648580400&x-signature=VIiJs5KpyNMZfp8BMc2GLhqJRuI%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2f901b67601d89805974f574e541309c~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=oLOo2bDJjQqx1KWR1sCaTmixWqQ%3D",
+        "authorName": "Tornado2022",
+        "original": true,
+        "duration": 23,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 25,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 167
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 748,
+        "followerCount": 1485,
+        "heartCount": 16200,
+        "videoCount": 7,
+        "diggCount": 653,
+        "heart": 16200
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0427\u041e\u0420\u041d\u041e\u0417\u0415\u041c ",
+                "STOP WAR",
+                "SLAVA UKRAINE "
+            ]
+        }
+    ],
+    "isAd": false
+}

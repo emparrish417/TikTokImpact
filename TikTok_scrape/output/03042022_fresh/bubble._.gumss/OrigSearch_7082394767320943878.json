@@ -1,0 +1,90 @@
+{
+    "id": "7082394767320943878",
+    "desc": "",
+    "createTime": 1648998533,
+    "video": {
+        "id": "7082394767320943878",
+        "height": 1246,
+        "width": 576,
+        "duration": 49,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9c89764956d241abbecf62d687194b1a?x-expires=1649052000&x-signature=CHn9SDH%2BE50kEr30Fc4o6FPPqTU%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/40c301e071434755980b11ba565d929c_1648998535?x-expires=1649052000&x-signature=g93WDsvVqgqdsDUzROoCYVqJ%2F%2FA%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/10434cac61424b028f9387d76fd00839_1648998536?x-expires=1649052000&x-signature=PTr4%2B6bZrpM3IJ8cZAI%2BJwdnRio%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/679e45152bfacfe29b55f080c35a77da/624a977f/video/tos/useast2a/tos-useast2a-ve-0068c001/5c02e4fab9f1480d812194cc0ec2e21c/?a=1988&br=1250&bt=625&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thn2RqDXq&l=202204040059260101130061541526129B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampzajg6Znd1PDMzNzczM0ApMztpaDc6ZWU7N2U5NGRoM2djbWJxcjRvZDFgLS1kMTZzc2EtNWIxMl9gLmMwMGJfYDI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/679e45152bfacfe29b55f080c35a77da/624a977f/video/tos/useast2a/tos-useast2a-ve-0068c001/5c02e4fab9f1480d812194cc0ec2e21c/?a=1988&br=1250&bt=625&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7Thn2RqDXq&l=202204040059260101130061541526129B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ampzajg6Znd1PDMzNzczM0ApMztpaDc6ZWU7N2U5NGRoM2djbWJxcjRvZDFgLS1kMTZzc2EtNWIxMl9gLmMwMGJfYDI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/40c301e071434755980b11ba565d929c_1648998535~tplv-tiktok-play.jpeg?x-expires=1649635200&x-signature=TEKQI41RMDdWPp290hMSYucDbGw%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/40c301e071434755980b11ba565d929c_1648998535~tplv-tiktokx-share-play.jpeg?x-expires=1649635200&x-signature=UmRVyGx0EWXy5gpQIlOZ1kFxfbE%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9c89764956d241abbecf62d687194b1a?x-expires=1649052000&x-signature=CHn9SDH%2BE50kEr30Fc4o6FPPqTU%3D",
+        "bitrate": 640901,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7012306236399305734",
+        "uniqueId": "bubble._.gumss",
+        "nickname": "Love pour les ukrainiens",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4d6d74c5761ffd60763f4bc3eb38500~c5_100x100.jpeg?x-expires=1649116800&x-signature=H%2BbsEq012ivPVAt8nXH3h1%2BS%2F7Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4d6d74c5761ffd60763f4bc3eb38500~c5_720x720.jpeg?x-expires=1649116800&x-signature=ZUGQwQxfd%2B7gpX2H%2FFN8B9GroVE%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4d6d74c5761ffd60763f4bc3eb38500~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=jaB4Ek%2FVM6j81Qmj4KY1PwIpU3g%3D",
+        "signature": "\ud83c\udde9\ud83c\uddff\ud83c\uddeb\ud83c\uddf7",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmXkswO5HY2ukGiddecT4CqJGk4PNhivNeLvtu9Xz8Lc-PVbZ8-T5FIVL0zpxV1OE",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082394774170635014",
+        "title": "son original",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082394764917656326.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4d6d74c5761ffd60763f4bc3eb38500~c5_100x100.jpeg?x-expires=1649116800&x-signature=H%2BbsEq012ivPVAt8nXH3h1%2BS%2F7Q%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4d6d74c5761ffd60763f4bc3eb38500~c5_720x720.jpeg?x-expires=1649116800&x-signature=ZUGQwQxfd%2B7gpX2H%2FFN8B9GroVE%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d4d6d74c5761ffd60763f4bc3eb38500~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=jaB4Ek%2FVM6j81Qmj4KY1PwIpU3g%3D",
+        "authorName": "Love pour les ukrainiens",
+        "original": true,
+        "duration": 49,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 3,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 49
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1245,
+        "followerCount": 2334,
+        "heartCount": 31400,
+        "videoCount": 386,
+        "diggCount": 1411,
+        "heart": 31400
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

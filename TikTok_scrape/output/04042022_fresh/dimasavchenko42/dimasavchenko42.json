@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6773623065889981445",
+        "shortId": "",
+        "uniqueId": "dimasavchenko42",
+        "nickname": "Dima Savchenko",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658951318941702~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=M%2FVZhZxWRFstVxdv%2FdLWNmnk8MI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658951318941702~c5_720x720.jpeg?x-expires=1649196000&x-signature=eaU54reTSyxG8uoely2whyqxMAM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658951318941702~c5_100x100.jpeg?x-expires=1649196000&x-signature=2xCTCvmLGb0eefl9RKGQLKn03Pk%3D",
+        "signature": "",
+        "createTime": 1580762383,
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3KnZ1LJefCWughxkIZDyZ_YZdizYX2Z3O6vE4dpSSbvZ-TBsP1nUyO-iNY75q_a0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 26,
+        "followingCount": 9,
+        "heart": 332,
+        "heartCount": 332,
+        "videoCount": 17,
+        "diggCount": 0
+    },
+    "itemList": []
+}

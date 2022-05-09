@@ -1,0 +1,99 @@
+{
+    "id": "7089632959241948462",
+    "desc": "Rollerblading \u2728\ud83d\udc80",
+    "createTime": 1650683806,
+    "video": {
+        "id": "7089632959241948462",
+        "height": 1024,
+        "width": 576,
+        "duration": 180,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0e7ba9c61c9a42dda20f220491cc46fb?x-expires=1650783600&x-signature=m2NIT8zR6JfAoUaWff3I3XI7f7Y%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/8a9174b398744094a9eb7faf99d5187b_1650683807?x-expires=1650783600&x-signature=wfGa6Xwo7egN7ezilJ8HXzCH0Zo%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/79ddc88bc71e41e6993bcc92143e0ea6_1650683808?x-expires=1650783600&x-signature=hf3uHIAwCgQtErk%2BRG%2F8KsniqL0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/cd7fb3a43068a1a7375966f2f631f59e/6264fbe2/video/tos/useast5/tos-useast5-ve-0068c004-tx/6bab9221aeb5411092fae5cbe08238b0/?a=1988&br=3484&bt=1742&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoUu4we2NP87fl7Gb&l=202204240124300101130061321FAE30B2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2R5Ozg6ZnhwPDMzZzczNEApaWRpaDlnaGU0NzU2PDg5NGdpYWtlcjRfcGVgLS1kMS9zc2EzMDIuMTZfNDBiXzNiXjM6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/cd7fb3a43068a1a7375966f2f631f59e/6264fbe2/video/tos/useast5/tos-useast5-ve-0068c004-tx/6bab9221aeb5411092fae5cbe08238b0/?a=1988&br=3484&bt=1742&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoUu4we2NP87fl7Gb&l=202204240124300101130061321FAE30B2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2R5Ozg6ZnhwPDMzZzczNEApaWRpaDlnaGU0NzU2PDg5NGdpYWtlcjRfcGVgLS1kMS9zc2EzMDIuMTZfNDBiXzNiXjM6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8a9174b398744094a9eb7faf99d5187b_1650683807~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=fHUW5x5f18rRZoh55dyr6%2B65tiI%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/8a9174b398744094a9eb7faf99d5187b_1650683807~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=ibcAqSysxv48q3LGOsW676RmKSY%3D"
+        ],
+        "reflowCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/0e7ba9c61c9a42dda20f220491cc46fb?x-expires=1650783600&x-signature=m2NIT8zR6JfAoUaWff3I3XI7f7Y%3D",
+        "bitrate": 1784177,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6830611566656947205",
+        "uniqueId": "not_shyelleanymore",
+        "nickname": "SAVE UKRAIN",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ba3e1815cbfd5385ed481a68d3047ee~c5_100x100.jpeg?x-expires=1650934800&x-signature=E%2FDdnBsxOkUl1zs%2BwrI0eoMufI8%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ba3e1815cbfd5385ed481a68d3047ee~c5_720x720.jpeg?x-expires=1650934800&x-signature=i2NDyBdBmfJrfj6uCs45UlY39KQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ba3e1815cbfd5385ed481a68d3047ee~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=HnDZ2Q4sTD%2B51f8ArC29cgt%2B%2BrY%3D",
+        "signature": "Don\u2019t scroll down \ud83d\ude2d",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA34SV-8f5aUrtZV0i51nqcHEYT5RTHGVOGnypM88wKUC-i28fMFaoWwPaa6qApwf8",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 1,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089632957563947819",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7089632987955890987.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ba3e1815cbfd5385ed481a68d3047ee~c5_100x100.jpeg?x-expires=1650934800&x-signature=E%2FDdnBsxOkUl1zs%2BwrI0eoMufI8%3D",
+        "coverMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ba3e1815cbfd5385ed481a68d3047ee~c5_720x720.jpeg?x-expires=1650934800&x-signature=i2NDyBdBmfJrfj6uCs45UlY39KQ%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/0ba3e1815cbfd5385ed481a68d3047ee~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=HnDZ2Q4sTD%2B51f8ArC29cgt%2B%2BrY%3D",
+        "authorName": "SAVE UKRAIN",
+        "original": true,
+        "duration": 180,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 18
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 674,
+        "followerCount": 105,
+        "heartCount": 724,
+        "videoCount": 325,
+        "diggCount": 11600,
+        "heart": 724
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "The reason I\u2019m using a scooter is bc I fell before I started recording it hurt really bad my butt hurts\ud83d\ude2d",
+                "Roller blading!!!"
+            ]
+        }
+    ],
+    "isAd": false
+}

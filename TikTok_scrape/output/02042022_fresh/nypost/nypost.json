@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "6782219771625063430",
+        "shortId": "",
+        "uniqueId": "nypost",
+        "nickname": "New York Post",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655815607021573~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=KI3HrcYoRlwBEQucU0lfa8mRUnA%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655815607021573~c5_720x720.jpeg?x-expires=1649008800&x-signature=DQCguQLHLDJzs4jQav%2FTiCzchuk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655815607021573~c5_100x100.jpeg?x-expires=1649008800&x-signature=IqQ2wzBjPqARwGRMsNzxHtAHwhI%3D",
+        "signature": "Your source for breaking news, gossip, sports, opinion, entertainment, and more.",
+        "createTime": 1579079938,
+        "verified": true,
+        "secUid": "MS4wLjABAAAA9iz8nbYr0CRzzoVipf_p9K0f6XhAgLoP2lVzuEpIqP9M6hgLBhRHD8su1Z8BhnjD",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "Nypost.com",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Media & Entertainment",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 175000,
+        "followingCount": 81,
+        "heart": 4200000,
+        "heartCount": 4200000,
+        "videoCount": 651,
+        "diggCount": 0
+    },
+    "itemList": []
+}

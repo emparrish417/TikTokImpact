@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "6720783885116081157",
+        "shortId": "",
+        "uniqueId": "therecount",
+        "nickname": "therecount",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1644514585545734~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=Abv4VTIU1O3nxYDtiuTYUtHTRQg%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1644514585545734~c5_720x720.jpeg?x-expires=1650412800&x-signature=imaL7JmvywDXIR6O7lntXV%2FX%2FIA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1644514585545734~c5_100x100.jpeg?x-expires=1650412800&x-signature=VeaW%2FuhB3Wx6mSHXnFlQZV1I3qc%3D",
+        "signature": "When power is in play \u2026 everything is politics.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAABiRX6h6DvwaQrqes4prdIPVldq1QRYUg1bp_DJGyptb5XALL_AL0PajrUw_WbLfz",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://recount.co/comehang",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 133400,
+        "followingCount": 31,
+        "heart": 5000000,
+        "heartCount": 5000000,
+        "videoCount": 696,
+        "diggCount": 0
+    },
+    "itemList": []
+}

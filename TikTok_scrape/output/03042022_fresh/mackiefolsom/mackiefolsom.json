@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6770264925665559558",
+        "shortId": "",
+        "uniqueId": "mackiefolsom",
+        "nickname": "Mackie Folsom",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6aaba9d7580c8b166f9534858c8b338b~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=C5sIcCjdH2ACecveBp4FPwfqcDU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6aaba9d7580c8b166f9534858c8b338b~c5_720x720.jpeg?x-expires=1649116800&x-signature=Hu9Q3tpCwRPpFJJCqDLhKcZhAHg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6aaba9d7580c8b166f9534858c8b338b~c5_100x100.jpeg?x-expires=1649116800&x-signature=0SEtN8tz%2FEVkYMOP7HXtAN8%2BKK4%3D",
+        "signature": "Male",
+        "createTime": 1578776854,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAKZUw0doAIBf3wOOna68Ng-sZ71IugZjfpInqJx2Gwr28FiB6m5irl6ezOOsA8sC6",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 386,
+        "followingCount": 474,
+        "heart": 545,
+        "heartCount": 545,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

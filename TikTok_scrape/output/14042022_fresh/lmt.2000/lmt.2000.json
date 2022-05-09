@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7068830503822214190",
+        "shortId": "",
+        "uniqueId": "lmt.2000",
+        "nickname": "LMT.2000",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/39c2f3941abef68fcfb45c686acaca04~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=DpuAf52F9qrmwu7NtWzWM5Uxr6o%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/39c2f3941abef68fcfb45c686acaca04~c5_720x720.jpeg?x-expires=1650114000&x-signature=Q1DUox504jKKg58uatVhxZ6AWnk%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/39c2f3941abef68fcfb45c686acaca04~c5_100x100.jpeg?x-expires=1650114000&x-signature=n8e3cCldk7Zbf%2FLPn9XJ1kmToiI%3D",
+        "signature": "",
+        "createTime": 1645911952,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAY7BEMLhpCELyevL1h_DQjtcO1GvjydMDkvTtYNBTe2NfC-nq6lqeJnWns3B3vFym",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 234,
+        "followingCount": 944,
+        "heart": 259,
+        "heartCount": 259,
+        "videoCount": 66,
+        "diggCount": 0
+    },
+    "itemList": []
+}

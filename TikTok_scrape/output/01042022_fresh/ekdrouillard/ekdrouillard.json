@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6912611806075929605",
+        "shortId": "",
+        "uniqueId": "ekdrouillard",
+        "nickname": "Emma",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6929255a5c5f337e28e538b240476b18~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=JzLBUHWGjR6qIZTTLEwQhE0EEZA%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6929255a5c5f337e28e538b240476b18~c5_720x720.jpeg?x-expires=1648940400&x-signature=O1C4Op2SQClnu%2FO8%2FSuPf8ONkMw%3D",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6929255a5c5f337e28e538b240476b18~c5_100x100.jpeg?x-expires=1648940400&x-signature=yEQD6L7bfMW7nZV1sQjrChHyj8U%3D",
+        "signature": "swimmer, gymnast, skier \n14",
+        "createTime": 1609468084,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAN0oTh8XVTcPUp3vYc6KwzYxa9QkoixqTDkvULAhnywM0gLgZYQdZtlsd5yB2dB8",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 121,
+        "followingCount": 762,
+        "heart": 130,
+        "heartCount": 130,
+        "videoCount": 28,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6931684605226877954",
+        "shortId": "",
+        "uniqueId": "megatmurad",
+        "nickname": "MegaT",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c006c03e9e92f82446dc4a0d2bffe4ef~c5_1080x1080.jpeg?x-expires=1650412800&x-signature=or0wjKc1o%2Ffd4m55pgoIcpxWu0w%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c006c03e9e92f82446dc4a0d2bffe4ef~c5_720x720.jpeg?x-expires=1650412800&x-signature=g5jojhx0OTC0YbldIA%2FXn3LqqUM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/c006c03e9e92f82446dc4a0d2bffe4ef~c5_100x100.jpeg?x-expires=1650412800&x-signature=QD1bgMQyRHOYHfF2rKiv%2BGTF5%2Fk%3D",
+        "signature": "One day or day one its your decision",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAbS8lmEZ3XINELyDHMiWKYXw1UkDkdj9EoBxZz94H3e38JjH9LfeKceEW77Is1EX0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 127200,
+        "followingCount": 23,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 24,
+        "diggCount": 0
+    },
+    "itemList": []
+}

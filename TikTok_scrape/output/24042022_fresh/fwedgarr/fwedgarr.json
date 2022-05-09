@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6781594699469702149",
+        "shortId": "",
+        "uniqueId": "fwedgarr",
+        "nickname": "Spedgar",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/599ec3ca8ac278ee79ab87c3c3d9464c~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=szabgv9HDnAKPFaW7KTBmQP7EOY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/599ec3ca8ac278ee79ab87c3c3d9464c~c5_720x720.jpeg?x-expires=1651010400&x-signature=83bJT%2FIa10lYE6Musv2u%2BS72XPM%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/599ec3ca8ac278ee79ab87c3c3d9464c~c5_100x100.jpeg?x-expires=1651010400&x-signature=7BSxL8XtN84YcqfHxV5U7z9uH%2BY%3D",
+        "signature": "Edgar",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAO4DdGANBOocrVOiySza_ukzI5UppimFTrVxATpQBRTDgZuu6FfYeKGgihNRijehV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7120,
+        "followingCount": 1089,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 41,
+        "diggCount": 0
+    },
+    "itemList": []
+}

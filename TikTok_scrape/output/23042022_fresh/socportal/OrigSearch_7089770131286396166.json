@@ -1,0 +1,152 @@
+{
+    "id": "7089770131286396166",
+    "desc": "#warinukraine #standwithukraine",
+    "createTime": 1650715746,
+    "video": {
+        "id": "7089770131286396166",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5046beac4a444a8fbe4cf1eda0f62d14?x-expires=1650783600&x-signature=sT5FpAv9QqqRu7ufCtVkmWyxkeE%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/414916a13d9b4805ac9ae8a2ac01be4a_1650715746?x-expires=1650783600&x-signature=yM4kMe3KagKWm7bIj16CpDQ48S4%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c1106bbc777c4c22836cca2d1add0626_1650715747?x-expires=1650783600&x-signature=v9HL10XTeH2q%2BP24YZb1X6LxIrE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/b79d7dc2d91b0e108eceaf32095e57e0/6264faf1/video/tos/useast2a/tos-useast2a-ve-0068c003/3cf0be21a2404834aa2333bb895d3a70/?a=1988&br=1820&bt=910&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zu5u4we2NdTRfl7Gb&l=2022042401231501011300624408B197EE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRmbmk6ZnB4PDMzNzczM0ApZWloZjk6aGQ2N2dmZTxnZGdwYy1wcjRnbGVgLS1kMTZzc2IuLTBeMjNhNl9hYS4yYTE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/b79d7dc2d91b0e108eceaf32095e57e0/6264faf1/video/tos/useast2a/tos-useast2a-ve-0068c003/3cf0be21a2404834aa2333bb895d3a70/?a=1988&br=1820&bt=910&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Zu5u4we2NdTRfl7Gb&l=2022042401231501011300624408B197EE&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amRmbmk6ZnB4PDMzNzczM0ApZWloZjk6aGQ2N2dmZTxnZGdwYy1wcjRnbGVgLS1kMTZzc2IuLTBeMjNhNl9hYS4yYTE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/414916a13d9b4805ac9ae8a2ac01be4a_1650715746~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=mWzpR%2Fp5NFUp4vZkNJjnyqM%2BLrQ%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/414916a13d9b4805ac9ae8a2ac01be4a_1650715746~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=BHxeHHMrqEb4S9RSA%2BE7oo417Xc%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5046beac4a444a8fbe4cf1eda0f62d14?x-expires=1650783600&x-signature=sT5FpAv9QqqRu7ufCtVkmWyxkeE%3D",
+        "bitrate": 932528,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6845532672963625990",
+        "uniqueId": "socportal",
+        "nickname": "\u0421\u043e\u0446\u043f\u043e\u0440\u0442\u0430\u043b",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_100x100.jpeg?x-expires=1650934800&x-signature=Yz%2BbbZ%2FJdHH8hht%2BW1SABKTXeXU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_720x720.jpeg?x-expires=1650934800&x-signature=RGjq6%2BbdJmHC3xeM690xAz3s7tQ%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=nXouKL4MaHggiyt2fp0F%2FqgxcUE%3D",
+        "signature": "Share the truth about war in Ukraine \ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAU4bHyqb6h2qUgS08xKl-6Amv7iISEv8fv0PV-BOVq_ZHMuoenCPKq9iloEGMkn2K",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7089770106510691078",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7089770140719401733.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_100x100.jpeg?x-expires=1650934800&x-signature=Yz%2BbbZ%2FJdHH8hht%2BW1SABKTXeXU%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_720x720.jpeg?x-expires=1650934800&x-signature=RGjq6%2BbdJmHC3xeM690xAz3s7tQ%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1cc80e1da35b1dc14c270ff1288947b8~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=nXouKL4MaHggiyt2fp0F%2FqgxcUE%3D",
+        "authorName": "\u0421\u043e\u0446\u043f\u043e\u0440\u0442\u0430\u043b",
+        "original": true,
+        "duration": 13,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "1658095846309910",
+            "title": "warinukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "1677190279668742",
+            "title": "standwithukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 66,
+        "shareCount": 1,
+        "commentCount": 1,
+        "playCount": 1297
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 13,
+            "hashtagName": "warinukraine",
+            "hashtagId": "1658095846309910",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 14,
+            "end": 31,
+            "hashtagName": "standwithukraine",
+            "hashtagId": "1677190279668742",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 345,
+        "followerCount": 929,
+        "heartCount": 22700,
+        "videoCount": 576,
+        "diggCount": 564,
+        "heart": 22700
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "The best cameraman ever \ud83d\ude3b"
+            ]
+        }
+    ],
+    "isAd": false
+}

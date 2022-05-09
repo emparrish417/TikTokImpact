@@ -1,0 +1,90 @@
+{
+    "id": "7086279047633784110",
+    "desc": "",
+    "createTime": 1649902912,
+    "video": {
+        "id": "7086279047633784110",
+        "height": 1024,
+        "width": 576,
+        "duration": 25,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d2baf7ae952b472498e600cf2b29b3e4?x-expires=1649962800&x-signature=qDP30YMnZALxSJkhAH6ARXJ17j0%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/2d2bccc52af944afb933d188e40e017a_1649902913?x-expires=1649962800&x-signature=nwoHNMVKozIVcHCRSjVGXGq1w0o%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/f2168ce4fd5946e7b308baee2e324484_1649902914?x-expires=1649962800&x-signature=WHBL%2FukEXqMKcFrJfeKd4wYVpnU%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/79948dd6944ab8c7020db735b56f79e7/62587415/video/tos/useast5/tos-useast5-pve-0068-tx/299d48b09c0e4e5399e50764071285bd/?a=1988&br=3580&bt=1790&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z2lKLwe2NTdufl7Gb&l=202204141320280101130062330E0CFB2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2szcWc6ZjlyPDMzZzczNEApOjRkNWlnNzw0N2Q1NWk3N2dic2FlcjQwXl9gLS1kMS9zc2A1MmA1Ll5hYGEwYDQwYi46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/79948dd6944ab8c7020db735b56f79e7/62587415/video/tos/useast5/tos-useast5-pve-0068-tx/299d48b09c0e4e5399e50764071285bd/?a=1988&br=3580&bt=1790&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z2lKLwe2NTdufl7Gb&l=202204141320280101130062330E0CFB2E&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2szcWc6ZjlyPDMzZzczNEApOjRkNWlnNzw0N2Q1NWk3N2dic2FlcjQwXl9gLS1kMS9zc2A1MmA1Ll5hYGEwYDQwYi46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2d2bccc52af944afb933d188e40e017a_1649902913~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=PNL%2FuakPVZkxplj1aaUcSWDLQN0%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/2d2bccc52af944afb933d188e40e017a_1649902913~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=jrRhVpyws9herS1h4Bp4yg5do7Q%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d2baf7ae952b472498e600cf2b29b3e4?x-expires=1649962800&x-signature=qDP30YMnZALxSJkhAH6ARXJ17j0%3D",
+        "bitrate": 1833691,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6978128306399118342",
+        "uniqueId": "irelandwylie270",
+        "nickname": "irelandwylie270",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9b40e66e749dc2981fb64abaa0e0155~c5_100x100.jpeg?x-expires=1650114000&x-signature=vxlTjOifc80WkNmW1s3anUC%2FTOQ%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9b40e66e749dc2981fb64abaa0e0155~c5_720x720.jpeg?x-expires=1650114000&x-signature=Gt1aW5IntMGTmtuyWPtVpBaAYpo%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9b40e66e749dc2981fb64abaa0e0155~c5_1080x1080.jpeg?x-expires=1650114000&x-signature=GIquCSpz1zQwOWScMN66c3BQIjs%3D",
+        "signature": "Hi you do you want to watch cringey videos Yes we'll come all down to my TikTok",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAegejLsxERPHkjs-l895H4yOr90vz2DYJycS2K-RTa--nAX5BwJKokvjsNYUoox7U",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7074978602726574890",
+        "title": "10 Things I Hate About You",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fc6fff3c5f043c39e8a2ef479bbae15",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/30ff0f16b472438fb5497fbb798e8922.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/30ff0f16b472438fb5497fbb798e8922.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/30ff0f16b472438fb5497fbb798e8922.jpeg",
+        "authorName": "Leah Kate",
+        "original": false,
+        "duration": 25,
+        "album": "10 Things I Hate About You"
+    },
+    "stats": {
+        "diggCount": 1,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 1
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 414,
+        "followerCount": 112,
+        "heartCount": 1292,
+        "videoCount": 452,
+        "diggCount": 1029,
+        "heart": 1292
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

@@ -1,0 +1,90 @@
+{
+    "id": "7082763196808858886",
+    "desc": "",
+    "createTime": 1649084315,
+    "video": {
+        "id": "7082763196808858886",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fa483d8b7c7a4a83910791143cf4c8e6?x-expires=1649131200&x-signature=CN8nJrnR5IUOx8g5ZOYcsLVooaQ%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1792e8966b7b4150a7cbeb8744276ecb_1649084316?x-expires=1649131200&x-signature=RbchINiJreOYukw2m%2BV5l7MkVcM%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bf5fc27676bf46df929b164328b3f43e_1649084316?x-expires=1649131200&x-signature=TQ%2BGNrLm36oIO%2Bz5R2vmTiDGcJY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fa37ccb19f4b42fbeed71df2e583c357/624bc0d2/video/tos/useast2a/tos-useast2a-ve-0068c004/e27b94ce9f744b7b8bffb3cb70303a52/?a=1988&br=854&bt=427&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ-eqDXq&l=202204042208400101130062071192DC2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9vcTQ6ZjlqPDMzNzczM0ApOzo0NWU6OGVoN2c4ZTlkNGdrX2g1cjRfYzJgLS1kMTZzczBgL2FgNjBiMDNgYzMzMl86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fa37ccb19f4b42fbeed71df2e583c357/624bc0d2/video/tos/useast2a/tos-useast2a-ve-0068c004/e27b94ce9f744b7b8bffb3cb70303a52/?a=1988&br=854&bt=427&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThZ-eqDXq&l=202204042208400101130062071192DC2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am9vcTQ6ZjlqPDMzNzczM0ApOzo0NWU6OGVoN2c4ZTlkNGdrX2g1cjRfYzJgLS1kMTZzczBgL2FgNjBiMDNgYzMzMl86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1792e8966b7b4150a7cbeb8744276ecb_1649084316~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=28cx3PhySLRnZCSz60jGhr5duh0%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1792e8966b7b4150a7cbeb8744276ecb_1649084316~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=wASWgscZcN733sKMXzJbVm5owkQ%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fa483d8b7c7a4a83910791143cf4c8e6?x-expires=1649131200&x-signature=CN8nJrnR5IUOx8g5ZOYcsLVooaQ%3D",
+        "bitrate": 437305,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6949891650806137862",
+        "uniqueId": "ukrainwarcomeon",
+        "nickname": "Jamie\u2019s castle \ud83c\udff0",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5ef8fc4041de9d4cdde8689dfaef5e0~c5_100x100.jpeg?x-expires=1649196000&x-signature=6CvuQXo8gJH2Y7%2FwZTNQoQIwwF0%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5ef8fc4041de9d4cdde8689dfaef5e0~c5_720x720.jpeg?x-expires=1649196000&x-signature=vuQhLPbIcVheTTWWFWuBX%2Bp9zb0%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5ef8fc4041de9d4cdde8689dfaef5e0~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=J1j%2FYQx%2FzO1x1XXUay1iyllKTWU%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAN2Bxi7xYopxybIa_5m5gNPaoKsFTzxzwtUQ18TZQriAdP0ZJoND2VER1zepkH5FU",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082763171240381189",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7082763183177337605.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5ef8fc4041de9d4cdde8689dfaef5e0~c5_100x100.jpeg?x-expires=1649196000&x-signature=6CvuQXo8gJH2Y7%2FwZTNQoQIwwF0%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5ef8fc4041de9d4cdde8689dfaef5e0~c5_720x720.jpeg?x-expires=1649196000&x-signature=vuQhLPbIcVheTTWWFWuBX%2Bp9zb0%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f5ef8fc4041de9d4cdde8689dfaef5e0~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=J1j%2FYQx%2FzO1x1XXUay1iyllKTWU%3D",
+        "authorName": "Jamie\u2019s castle \ud83c\udff0",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 2
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 196,
+        "followerCount": 76,
+        "heartCount": 388,
+        "videoCount": 58,
+        "diggCount": 501,
+        "heart": 388
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

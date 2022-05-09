@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6797909556782973953",
+        "shortId": "",
+        "uniqueId": "mskeker",
+        "nickname": "Keker \ud83c\udf51",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/96442fc7824e75701a0170b028b9fb36~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=qp5lFMU7GwOlrfMX4ZUEXMdz0ME%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/96442fc7824e75701a0170b028b9fb36~c5_720x720.jpeg?x-expires=1650578400&x-signature=6b3n%2B6QeUssdmJXMuApq0KMYCYE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/96442fc7824e75701a0170b028b9fb36~c5_100x100.jpeg?x-expires=1650578400&x-signature=4wW2GBUm0FJTOf1UA0m%2BupU%2B0SY%3D",
+        "signature": "\ud83c\uddf5\ud83c\udded",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAOZ3OJJQfyeWUB5VvwcCNZw6LN1OzoidssCLmpWIy2RxFeml8S8nM1jnz9F57P2Ck",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 8992,
+        "followingCount": 140,
+        "heart": 216800,
+        "heartCount": 216800,
+        "videoCount": 52,
+        "diggCount": 0
+    },
+    "itemList": []
+}

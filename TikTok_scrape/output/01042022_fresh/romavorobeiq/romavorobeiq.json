@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6861463139176449030",
+        "shortId": "",
+        "uniqueId": "romavorobeiq",
+        "nickname": "Romavorobei",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d7cf25a10fff3df291fc9a2b30714461~c5_1080x1080.jpeg?x-expires=1648940400&x-signature=4%2BCDs0ub3zMX8AKl3R2iZR6igGc%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d7cf25a10fff3df291fc9a2b30714461~c5_720x720.jpeg?x-expires=1648940400&x-signature=oa5gViJaOW6cGEfomrvVzs%2BiWKs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d7cf25a10fff3df291fc9a2b30714461~c5_100x100.jpeg?x-expires=1648940400&x-signature=sEjiC2%2FhhSkQQxh1913icn5JYZU%3D",
+        "signature": "Inst. romavorobeiq",
+        "createTime": 1597530357,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAkDlnkVLab-A94kLPUJm9xAcAFz_osRXAN6WiXXrI-Exv0iXJjvncdMYLWSCbfnsj",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Other",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1321,
+        "followingCount": 1058,
+        "heart": 2041,
+        "heartCount": 2041,
+        "videoCount": 22,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7001213192870577157",
+        "shortId": "",
+        "uniqueId": "iliswem",
+        "nickname": "\ud83e\udd8b",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c17db1f815235802053c49b86ecab007~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=T30hYZl9XrwoonPcN2LSPM3AKzY%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c17db1f815235802053c49b86ecab007~c5_720x720.jpeg?x-expires=1650578400&x-signature=TSFq2VDKqLaZUaY8s78z8xjf%2BEM%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c17db1f815235802053c49b86ecab007~c5_100x100.jpeg?x-expires=1650578400&x-signature=Rx9s2OWnEVREscNuwQpXHxCBhCk%3D",
+        "signature": "\u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0444\u043e\u043d\u044b \u0434\u043b\u044f \u0432\u0438\u0434\u0435\u043e \u0431\u0435\u0440\u0443 \u0441 \u0442\u0433)\n\ud83d\udc8c51218396445\ud83d\udc8c",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAND4ELZXDV7Fp6D2QyNABRUA8ZURizI_3ldj8BlwQ8lMdCdzHImgOFaFND-xS2Hn5",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 222,
+        "followingCount": 52,
+        "heart": 12900,
+        "heartCount": 12900,
+        "videoCount": 849,
+        "diggCount": 9464
+    },
+    "itemList": []
+}

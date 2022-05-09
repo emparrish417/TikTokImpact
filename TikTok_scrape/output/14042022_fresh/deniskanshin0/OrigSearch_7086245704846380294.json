@@ -1,0 +1,90 @@
+{
+    "id": "7086245704846380294",
+    "desc": "Ukraine beautiful country",
+    "createTime": 1649895150,
+    "video": {
+        "id": "7086245704846380294",
+        "height": 1024,
+        "width": 576,
+        "duration": 29,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/dbdc5c0c07ab4c60827a70343725a564?x-expires=1649962800&x-signature=pjrE1XuCZsKkHHUNMzbdwd1SkGc%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7dc0ad1627c54b048258a2051ac59b5b_1649895151?x-expires=1649962800&x-signature=VWKH2RpT9PNgTe2S%2F4dxAbrtQDY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1c37c8f540db466b9489d71861412719_1649895151?x-expires=1649962800&x-signature=dxDUUR7zpD4eHcJpAmC4zaaVU4Y%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/4edc083a0d8b05556d6271da3eefdf17/625873c9/video/tos/useast2a/tos-useast2a-ve-0068c002/c37c5c839b3a46839540b9336f363e5d/?a=1988&br=2084&bt=1042&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrhKLwe2NVo7fl7Gb&l=202204141319080101131351361EC6555A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anVrbzk6ZnRwPDMzNzczM0ApZWc6ZTxkNDxnNzpkOGdkNWdtam8vcjRnYV9gLS1kMTZzc18vNi1jYWNeYi4vLjFgXmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/4edc083a0d8b05556d6271da3eefdf17/625873c9/video/tos/useast2a/tos-useast2a-ve-0068c002/c37c5c839b3a46839540b9336f363e5d/?a=1988&br=2084&bt=1042&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrhKLwe2NVo7fl7Gb&l=202204141319080101131351361EC6555A&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anVrbzk6ZnRwPDMzNzczM0ApZWc6ZTxkNDxnNzpkOGdkNWdtam8vcjRnYV9gLS1kMTZzc18vNi1jYWNeYi4vLjFgXmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7dc0ad1627c54b048258a2051ac59b5b_1649895151~tplv-tiktok-play.jpeg?x-expires=1650546000&x-signature=1CicH%2BoA7BblM6Ohj0m1FRPEtF8%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7dc0ad1627c54b048258a2051ac59b5b_1649895151~tplv-tiktokx-share-play.jpeg?x-expires=1650546000&x-signature=LICQAvOJlXa8yOXN0Ohx1bOGlRk%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/dbdc5c0c07ab4c60827a70343725a564?x-expires=1649962800&x-signature=pjrE1XuCZsKkHHUNMzbdwd1SkGc%3D",
+        "bitrate": 1067631,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6872295048022393861",
+        "uniqueId": "deniskanshin0",
+        "nickname": "denis kanshin",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=jxWD8ZsQd6IUQEGXfuFgRF0rLUU%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=yHFReBTiANe6KRZDVajNexm4UOY%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=iif%2BS%2FKAhrzoU9EkC2AiI%2Fk5jbs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAaI4dl69jrwaj9P7wsulVCvLSkpqe5qRRgHsbdFevezNDvHrL0Ntun6ObqSq5GsOW",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7086245654246329094",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7086245697653066501.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=jxWD8ZsQd6IUQEGXfuFgRF0rLUU%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=yHFReBTiANe6KRZDVajNexm4UOY%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/1677807373351937.jpeg?x-expires=1650114000&x-signature=iif%2BS%2FKAhrzoU9EkC2AiI%2Fk5jbs%3D",
+        "authorName": "denis kanshin",
+        "original": true,
+        "duration": 29,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 19
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 34,
+        "followerCount": 18,
+        "heartCount": 0,
+        "videoCount": 4,
+        "diggCount": 168,
+        "heart": 0
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "isAd": false
+}

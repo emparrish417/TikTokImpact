@@ -1,0 +1,127 @@
+{
+    "id": "7084486431845993771",
+    "desc": "#ukraine",
+    "createTime": 1649485538,
+    "video": {
+        "id": "7084486431845993771",
+        "height": 1024,
+        "width": 576,
+        "duration": 13,
+        "ratio": "720p",
+        "cover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fe19dd105ce24b5b9ea0c42bd3ffbcce?x-expires=1649574000&x-signature=X59UOSHEpozekYosSa9BSSG9qHg%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/3e3753848328409e92201ddc38422759_1649485539?x-expires=1649574000&x-signature=65tFPYfO9rHugtBu4YGf8O5QDe4%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4d0c5e153c0444fdacc97ee4aeac0ef4_1649485539?x-expires=1649574000&x-signature=lLFnK2gRle6ux8t%2BuUfs1pd%2BfVE%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5558317fe088b0823d6bdee982d03a97/62528bfc/video/tos/useast5/tos-useast5-ve-0068c002-tx/0cabc9eabe1e4995b44e0a225c49bddd/?a=1988&br=3270&bt=1635&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThLQ4IDXq&l=20220410014903010113135149143B8842&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3llMzU6ZjpsPDMzZzczNEApOTY4OjY0NDw7N2dkNjg0ZWdnL2JwcjQwYTVgLS1kMS9zc18yXl4yMzFgLWIvLTYtNTI6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5558317fe088b0823d6bdee982d03a97/62528bfc/video/tos/useast5/tos-useast5-ve-0068c002-tx/0cabc9eabe1e4995b44e0a225c49bddd/?a=1988&br=3270&bt=1635&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThLQ4IDXq&l=20220410014903010113135149143B8842&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3llMzU6ZjpsPDMzZzczNEApOTY4OjY0NDw7N2dkNjg0ZWdnL2JwcjQwYTVgLS1kMS9zc18yXl4yMzFgLWIvLTYtNTI6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3e3753848328409e92201ddc38422759_1649485539~tplv-tiktok-play.jpeg?x-expires=1650157200&x-signature=1cSPAtFMtVY4WoRlCx8KBhOWPPU%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3e3753848328409e92201ddc38422759_1649485539~tplv-tiktokx-share-play.jpeg?x-expires=1650157200&x-signature=JFkqXQm3MqcTRKLYsI1QfaE%2B7nk%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/fe19dd105ce24b5b9ea0c42bd3ffbcce?x-expires=1649574000&x-signature=clZ9wgYjG%2FFXoHK%2BW37A8flqVNQ%3D",
+        "bitrate": 1674876,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "53399570486931456",
+        "uniqueId": "ian_patric.k",
+        "nickname": "IAN",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/725965232d95fa793e23c2cfdce1e53e~c5_100x100.jpeg?x-expires=1649638800&x-signature=48VgF2xomexBOimTbKi217XmAUo%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/725965232d95fa793e23c2cfdce1e53e~c5_720x720.jpeg?x-expires=1649638800&x-signature=7BjiBf6iqc6RjOrA5c535AMEAeg%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/725965232d95fa793e23c2cfdce1e53e~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=8uXfnj0kAB0TCuoeVT8AHdRhMd8%3D",
+        "signature": "No bio yet",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAmQnpgnDKJTJv4giBO8xlHGVOLzzYw_KpSUIUtMmcl8IPYsfgmsMSsUbp1dpjUfvL",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6819062008885807105",
+        "title": "You Gotta Move",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a7f15c83c20a42749abcb681aeec7b08",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/959de9688952445d8be12498cd4767d6.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/959de9688952445d8be12498cd4767d6.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/959de9688952445d8be12498cd4767d6.jpeg",
+        "authorName": "Mississippi Fred McDowell",
+        "original": false,
+        "duration": 60,
+        "album": "You Gotta Move"
+    },
+    "challenges": [
+        {
+            "id": "451042",
+            "title": "ukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 41,
+        "shareCount": 0,
+        "commentCount": 4,
+        "playCount": 747
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 8,
+            "hashtagName": "ukraine",
+            "hashtagId": "451042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1311,
+        "followerCount": 1176,
+        "heartCount": 171800,
+        "videoCount": 17,
+        "diggCount": 66400,
+        "heart": 171800
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Who ate the last peice of pizza"
+            ]
+        }
+    ],
+    "isAd": false
+}

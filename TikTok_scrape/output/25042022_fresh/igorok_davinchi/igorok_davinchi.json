@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6857170859829560326",
+        "shortId": "",
+        "uniqueId": "igorok_davinchi",
+        "nickname": "Igor Da Vinchi",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/70e6210ba0ca4eb7b8fad798e9cea757~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=P8unV84Qf%2F5kuzpQ07i7gYFT5nM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/70e6210ba0ca4eb7b8fad798e9cea757~c5_720x720.jpeg?x-expires=1651086000&x-signature=HeYpivCarkko6Uvuv1XLtqP1eh8%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/70e6210ba0ca4eb7b8fad798e9cea757~c5_100x100.jpeg?x-expires=1651086000&x-signature=Vejoyyckm%2BoGNYO%2BZgx2u8%2F%2FR10%3D",
+        "signature": "Good evening,we are from Ukraine!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAktl6Px1klvTA3PFrwWjUfERduqEyICmmpZS7KCf05ZfqVtF0zK3pl0HWpjJSEPSw",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 13700,
+        "followingCount": 563,
+        "heart": 194800,
+        "heartCount": 194800,
+        "videoCount": 164,
+        "diggCount": 0
+    },
+    "itemList": []
+}

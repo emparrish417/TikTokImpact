@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6885027428500096005",
+        "shortId": "",
+        "uniqueId": "lanapervya",
+        "nickname": "\u041e\u043b\u044c\u0433\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/804186f20289348827470ca2a195535f~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=%2FhHjYq3UKW3OU2ROVJ9IyQEoNfU%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/804186f20289348827470ca2a195535f~c5_720x720.jpeg?x-expires=1650934800&x-signature=1TZBm1CAlVaZnjnHoDvFudx8bl0%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/804186f20289348827470ca2a195535f~c5_100x100.jpeg?x-expires=1650934800&x-signature=Dlbm7yfo9nkimtO8%2FmyH4jH%2FcOU%3D",
+        "signature": "\u0420\u0443\u0447\u043d\u0430\u044f \u043b\u0435\u043f\u043a\u0430 \u0438\u0437 \u043f\u043e\u043b\u0438\u043c\u0435\u0440\u043d\u043e\u0439 \u0433\u043b\u0438\u043d\u044b.",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA6PA_Cf266Vjvov3ceqf4UHT8XEnAzXZOcH4uml0FWZpehReiRJ7i0Ksufnd2onV9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Art & Crafts",
+            "categoryButton": false
+        },
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 100,
+        "followingCount": 328,
+        "heart": 1041,
+        "heartCount": 1041,
+        "videoCount": 202,
+        "diggCount": 0
+    },
+    "itemList": []
+}

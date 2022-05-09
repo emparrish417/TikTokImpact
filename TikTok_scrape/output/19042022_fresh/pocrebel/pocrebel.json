@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "6937507224479433734",
+        "shortId": "",
+        "uniqueId": "pocrebel",
+        "nickname": "Rebelpoc",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/32a78a2a9e97e18f06358113ef08d047~c5_1080x1080.jpeg?x-expires=1650578400&x-signature=XAACugf95WcPWfSxm%2FyP154wZ%2BM%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/32a78a2a9e97e18f06358113ef08d047~c5_720x720.jpeg?x-expires=1650578400&x-signature=y%2Fs7rU%2BYvJjUR%2Bd8xwLgD9kp9aU%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/32a78a2a9e97e18f06358113ef08d047~c5_100x100.jpeg?x-expires=1650578400&x-signature=AfkPmqJ6FWEom5zrqVGUQuqQRIg%3D",
+        "signature": "https://youtube.com/c/Rebelpoc444",
+        "verified": false,
+        "secUid": "MS4wLjABAAAATlgpilzqk33sqDRXc1LWUwYbjbvzy8YgshGIr5tMLRjmYr8fOkGlsWhAUKJNTqQW",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 5033,
+        "followingCount": 623,
+        "heart": 30700,
+        "heartCount": 30700,
+        "videoCount": 400,
+        "diggCount": 0
+    },
+    "itemList": []
+}

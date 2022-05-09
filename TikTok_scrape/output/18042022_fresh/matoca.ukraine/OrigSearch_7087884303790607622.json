@@ -1,0 +1,106 @@
+{
+    "id": "7087884303790607622",
+    "desc": "",
+    "createTime": 1650276667,
+    "video": {
+        "id": "7087884303790607622",
+        "height": 1024,
+        "width": 576,
+        "duration": 18,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4a5bf2e36b994f2aadda2175b67f1135?x-expires=1650330000&x-signature=97ijpDM50dgratwRlNrkgeUbFss%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d60226eb65314ad69d9357b7719d91f8_1650276668?x-expires=1650330000&x-signature=38FLgG9wR0f%2Blb1PIL0blw7rROY%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d81d4526280c46a383f3fe7a08270f9a_1650276669?x-expires=1650330000&x-signature=5mFFD%2Bnv7za4vu0bRK%2FLjWSfl9s%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/7f6d432fb241bacf330abc8e8eb31d95/625e0d96/video/tos/useast2a/tos-useast2a-ve-0068c004/65974c43eec442ba9399a8e614412e24/?a=1988&br=342&bt=171&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~Oxwwe2NnOofl7Gb&l=2022041819165201011313513502F98D22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RuOmQ6ZnltPDMzNzczM0ApNmc4NzdmPGQ2NztpZDg1OmdnX2U2cjRvYGJgLS1kMTZzc2FgNjY0LS9fLl9iMmAwL2A6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/7f6d432fb241bacf330abc8e8eb31d95/625e0d96/video/tos/useast2a/tos-useast2a-ve-0068c004/65974c43eec442ba9399a8e614412e24/?a=1988&br=342&bt=171&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z~Oxwwe2NnOofl7Gb&l=2022041819165201011313513502F98D22&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RuOmQ6ZnltPDMzNzczM0ApNmc4NzdmPGQ2NztpZDg1OmdnX2U2cjRvYGJgLS1kMTZzc2FgNjY0LS9fLl9iMmAwL2A6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d60226eb65314ad69d9357b7719d91f8_1650276668~tplv-tiktok-play.jpeg?x-expires=1650913200&x-signature=7vN93dyJD3dc5WcF7XklTRASiTY%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d60226eb65314ad69d9357b7719d91f8_1650276668~tplv-tiktokx-share-play.jpeg?x-expires=1650913200&x-signature=%2Fm3Xa0sDnGxUWL2OVHf5X1Ci68I%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4a5bf2e36b994f2aadda2175b67f1135?x-expires=1650330000&x-signature=97ijpDM50dgratwRlNrkgeUbFss%3D",
+        "bitrate": 175517,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6943793149845373957",
+        "uniqueId": "matoca.ukraine",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\ud83d\ude0dMatoca\ud83d\ude0d\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4c38371b6f03d0e318895ae90461dfa6~c5_100x100.jpeg?x-expires=1650481200&x-signature=YD31NcmMPYbOz2HY9jm8ZjHk794%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4c38371b6f03d0e318895ae90461dfa6~c5_720x720.jpeg?x-expires=1650481200&x-signature=lPz9Shwnh7klZlOZ44%2BTpeEAkv4%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4c38371b6f03d0e318895ae90461dfa6~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=dcjjRDnc8BjuilTGm86pveYbN7A%3D",
+        "signature": "\u0421\u043d\u0456\u043c\u0430\u044e \u0442\u0435 \u0449\u043e \u0445\u043e\u0447\u0443\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA-mfN616IX1JU2UjXw4h971VHUWpoZfWo_EdA4HPF1PdLH3ONK9sGsSIr2p2IopRA",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "6756879114637967368",
+        "title": "Lazy Sunday",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/017ce79c97b04be78738209dbd9e4f7b",
+        "coverThumb": "https://p16-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/default_clip_cover.png.jpeg",
+        "coverMedium": "https://p16-sg.tiktokcdn.com/aweme/200x200/tiktok-obj/default_clip_cover.png.jpeg",
+        "coverLarge": "https://p16-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/default_clip_cover.png.jpeg",
+        "authorName": "Official Sound Studio",
+        "original": false,
+        "duration": 86,
+        "album": "Lazy Sunday"
+    },
+    "stats": {
+        "diggCount": 0,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 43
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 72,
+        "followerCount": 46,
+        "heartCount": 104,
+        "videoCount": 18,
+        "diggCount": 1490,
+        "heart": 104
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\u0430 \u0442\u0438 \u0440\u0443\u0441\u043a\u043e\u0439 \u0432\u0438\u0432\u0447\u0435\u043b\u0430?",
+                ":",
+                "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                "\u0442\u0430\u043a\u0434\u0430 \u0441\u0456\u0434\u0456 \u0434\u043e\u043c\u0430 \u0437\u0430\u0431\u0438\u0432\u0430\u0439",
+                "\u0434\u0430",
+                "\u0434\u043e\u0447 \u0423\u043a\u0440\u0430\u0457\u043d\u0438: ",
+                "\u0423\u043a\u0440\u0430\u0457\u043d\u0430:",
+                "\u043c\u0430\u043c \u043c\u043e\u0436\u043d\u0430 \u044f \u043f\u0456\u0434\u0443 \n\u0433\u0443\u043b\u044f\u0442\u0438?",
+                "\u0434\u043e\u0447 \u0423\u043a\u0440\u0430\u0457\u043d\u0438:"
+            ]
+        }
+    ],
+    "isAd": false
+}

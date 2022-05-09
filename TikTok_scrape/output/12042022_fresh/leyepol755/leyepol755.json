@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7075228019649496110",
+        "shortId": "",
+        "uniqueId": "leyepol755",
+        "nickname": "leyepol755",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99747b371b30e3ad3349ee5e7f456af5~c5_1080x1080.jpeg?x-expires=1649905200&x-signature=80rU0X2M3SH8BvZ7AUVq%2B9BkC1Q%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99747b371b30e3ad3349ee5e7f456af5~c5_720x720.jpeg?x-expires=1649905200&x-signature=vwNquZh6OCRY6HFJvbpDuC6iTZY%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/99747b371b30e3ad3349ee5e7f456af5~c5_100x100.jpeg?x-expires=1649905200&x-signature=v0TAfPm9vqqHUvl4ELsjbBQjO%2B8%3D",
+        "signature": "",
+        "createTime": 1647497526,
+        "verified": false,
+        "secUid": "MS4wLjABAAAACvLCxc7DyFZPg5BRiTE2lqmt5jx3UfewEbFIGMzFTUBlBzeXAbP0HZskRhHUrFdp",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 9,
+        "followingCount": 38,
+        "heart": 80,
+        "heartCount": 80,
+        "videoCount": 77,
+        "diggCount": 0
+    },
+    "itemList": []
+}

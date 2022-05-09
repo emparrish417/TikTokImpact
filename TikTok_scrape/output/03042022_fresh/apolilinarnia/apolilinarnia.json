@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6574634504710291461",
+        "shortId": "",
+        "uniqueId": "apolilinarnia",
+        "nickname": "\ud83c\uddfa\ud83c\udde6\u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456!\ud83c\uddfa\ud83c\udde6",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/804aaa9e99cf9a046ce99cb5065398b2~c5_1080x1080.jpeg?x-expires=1649116800&x-signature=Zhy%2BJPzFxYoD4v4IJnIkFbEST8Y%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/804aaa9e99cf9a046ce99cb5065398b2~c5_720x720.jpeg?x-expires=1649116800&x-signature=2CqzNVzDBZk3fjv0m4kYJraHSWQ%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/804aaa9e99cf9a046ce99cb5065398b2~c5_100x100.jpeg?x-expires=1649116800&x-signature=p5RvU6iLIrsY7GxW2R4VyuYQyqs%3D",
+        "signature": "\ud83c\uddfa\ud83c\udde6",
+        "createTime": 1530777329,
+        "verified": false,
+        "secUid": "MS4wLjABAAAATJyzFxy051Y9l_cfRpUadyH1A4mFjflzgV5kPTEhOfRvxOLepyCJimCDEFrJkfDe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://t.me/tutzhyttya",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2247,
+        "followingCount": 192,
+        "heart": 412500,
+        "heartCount": 412500,
+        "videoCount": 1406,
+        "diggCount": 0
+    },
+    "itemList": []
+}

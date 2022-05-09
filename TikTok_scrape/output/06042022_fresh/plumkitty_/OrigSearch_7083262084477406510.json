@@ -1,0 +1,98 @@
+{
+    "id": "7083262084477406510",
+    "desc": "",
+    "createTime": 1649200471,
+    "video": {
+        "id": "7083262084477406510",
+        "height": 1024,
+        "width": 576,
+        "duration": 15,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/27da66af8e7641d8ac3a27c83880afc0?x-expires=1649307600&x-signature=LMucFdDH8lqnKUHk%2FXkp8%2FOjwzo%3D",
+        "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/d6d5fb6267914bc48a65fbb1f990e253_1649200472?x-expires=1649307600&x-signature=23h0EeuB%2BtF%2F%2BcA1SOBY5UxvloU%3D",
+        "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/be0f8d59e89c4450ad4d2ff665dda117_1649200472?x-expires=1649307600&x-signature=wYcTNDevLCEHOzSqtPijQD%2FVZnc%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/fd8f559bd6a6164e764ba9abfe68827c/624e740d/video/tos/useast5/tos-useast5-ve-0068c001-tx/3d843a9381b74ba4ababf020780c6c80/?a=1988&br=4478&bt=2239&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVsSSDXq&l=2022040623174901011313520013587D96&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RxeTs6ZjhmPDMzZzczNEApZTxlOTM4ZjszNzY0OGg7ZmdiMWA2cjQwbjNgLS1kMS9zc2FfYTNeMjQvLjExLjMzYjU6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/fd8f559bd6a6164e764ba9abfe68827c/624e740d/video/tos/useast5/tos-useast5-ve-0068c001-tx/3d843a9381b74ba4ababf020780c6c80/?a=1988&br=4478&bt=2239&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThVsSSDXq&l=2022040623174901011313520013587D96&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3RxeTs6ZjhmPDMzZzczNEApZTxlOTM4ZjszNzY0OGg7ZmdiMWA2cjQwbjNgLS1kMS9zc2FfYTNeMjQvLjExLjMzYjU6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d6d5fb6267914bc48a65fbb1f990e253_1649200472~tplv-tiktok-play.jpeg?x-expires=1649890800&x-signature=Qi75ZHQOcEP%2BmT%2FEyIikOUm%2BISE%3D",
+            "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/d6d5fb6267914bc48a65fbb1f990e253_1649200472~tplv-tiktokx-share-play.jpeg?x-expires=1649890800&x-signature=fTHr4pXiF0id6qCXX47LS9F3oUE%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/27da66af8e7641d8ac3a27c83880afc0?x-expires=1649307600&x-signature=LMucFdDH8lqnKUHk%2FXkp8%2FOjwzo%3D",
+        "bitrate": 2293121,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7040075198515610630",
+        "uniqueId": "plumkitty_",
+        "nickname": "Stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a595864ec601fbe9ac1eab336ff7252f~c5_100x100.jpeg?x-expires=1649372400&x-signature=zbbGQTi4BGyYW%2FE50sH4t4W7al0%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a595864ec601fbe9ac1eab336ff7252f~c5_720x720.jpeg?x-expires=1649372400&x-signature=NKqN9QK5jR3u%2FP5uPN220xv8ugI%3D",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a595864ec601fbe9ac1eab336ff7252f~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=NMCZbbTofn8nHRFjH9VZMG6ZMuU%3D",
+        "signature": "Plum\nSpam Likes encouraged !!!",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAu3GD7saa9LTUJkYLxxz3UmdnRmy_P8jU2Oyv8437DY9mw0G9CYB40pQZiI1y8WTh",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 1,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7069018544872573701",
+        "title": "i say hoooooo",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7069018551331375877.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9e2e67598eb769851abfd8a5e5f1afe7~c5_100x100.jpeg?x-expires=1649372400&x-signature=61VmbmOpv8Vl4Iq1XCb%2BW%2B%2B%2B6Uc%3D",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9e2e67598eb769851abfd8a5e5f1afe7~c5_720x720.jpeg?x-expires=1649372400&x-signature=FgEMukXtVU6Q2NBrShAiHoLM0Lc%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9e2e67598eb769851abfd8a5e5f1afe7~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=vvFrW3CbnuAVIwZ7vq5GeR2X8wM%3D",
+        "authorName": "sped up songs \u2764\ufe0f\u200d\ud83e\ude79",
+        "original": true,
+        "duration": 16,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 20,
+        "shareCount": 0,
+        "commentCount": 6,
+        "playCount": 294
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 6422,
+        "followerCount": 534,
+        "heartCount": 10200,
+        "videoCount": 269,
+        "diggCount": 45800,
+        "heart": 10200
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "just keep hoping it\u2019ll get better and it will"
+            ]
+        }
+    ],
+    "isAd": false
+}

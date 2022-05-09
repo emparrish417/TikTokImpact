@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6947414923262739461",
+        "shortId": "",
+        "uniqueId": "robertsonolichka",
+        "nickname": "RobertsonOlichka",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8e3bb41efd202a749dc1ca0cc297bb3~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=Yb%2B5PTCqV4UAW2aZntWXkQFFLcQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8e3bb41efd202a749dc1ca0cc297bb3~c5_720x720.jpeg?x-expires=1651086000&x-signature=6G%2Fk3HFwP1IHvrAqiqU9vcfdk2s%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c8e3bb41efd202a749dc1ca0cc297bb3~c5_100x100.jpeg?x-expires=1651086000&x-signature=%2FvOhR5OjM7E7h%2BDTJF08iks1Lzs%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA3TGsjgb1NuTXV1jhiHH0qQHK816yz63bpnBFBCQrrsyCWS82RnQLq_GMlXY11nq7",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 60,
+        "followingCount": 216,
+        "heart": 698,
+        "heartCount": 698,
+        "videoCount": 19,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6667283048457781253",
+        "shortId": "",
+        "uniqueId": "maxklymenko",
+        "nickname": "Max Klymenko",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e52824712a077e3e422dd89fcceb1e63~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=yhbTlWQ7Vnp5Hy84BcEpt%2FXEoN4%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e52824712a077e3e422dd89fcceb1e63~c5_720x720.jpeg?x-expires=1649196000&x-signature=Vy88QIP64kOua3i9ROrdMn3nRPE%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e52824712a077e3e422dd89fcceb1e63~c5_100x100.jpeg?x-expires=1649196000&x-signature=XYbE246lXtQ%2FXQ%2BCjGBqG1Vac48%3D",
+        "signature": "\u2018self-proclaimed \ud83e\udde0 of TikTok\u2019\nHelp UKRAINE \u2b07\ufe0f",
+        "createTime": 1556097261,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAAwmTzP9kGp8zW4j1UE-tNHDWkVlgqYRD8e3lU69GRPltRnEEx68KV6DpnT9SKEID",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://helpukraine.center",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 2500000,
+        "followingCount": 147,
+        "heart": 88300000,
+        "heartCount": 88300000,
+        "videoCount": 1801,
+        "diggCount": 0
+    },
+    "itemList": []
+}

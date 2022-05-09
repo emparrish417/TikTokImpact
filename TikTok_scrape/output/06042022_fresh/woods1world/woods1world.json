@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7034609971346703366",
+        "shortId": "",
+        "uniqueId": "woods1world",
+        "nickname": "woodsworld",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/387f3ba430b5b9c58a6fa7cbd070af6b~c5_1080x1080.jpeg?x-expires=1649372400&x-signature=iDOdgEyTZ0svWQAYPcGwqoz28UQ%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/387f3ba430b5b9c58a6fa7cbd070af6b~c5_720x720.jpeg?x-expires=1649372400&x-signature=5j1q%2B82taauzyCCLZnG0Z3JDj0o%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/387f3ba430b5b9c58a6fa7cbd070af6b~c5_100x100.jpeg?x-expires=1649372400&x-signature=KDtv84XmaichmzrrkaJZtVZ56bA%3D",
+        "signature": "cats&dogs daily",
+        "createTime": 1638514462,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAcGz4ubqvPf2Z7l5AFpHI_skNjiZcIJP-fR5fva5NGlA68PccbqqYGZ5ObA2Bger0",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 0,
+        "followingCount": 0,
+        "heart": 2,
+        "heartCount": 2,
+        "videoCount": 5,
+        "diggCount": 0
+    },
+    "itemList": []
+}

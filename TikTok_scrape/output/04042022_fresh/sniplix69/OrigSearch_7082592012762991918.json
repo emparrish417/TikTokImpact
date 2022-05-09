@@ -1,0 +1,119 @@
+{
+    "id": "7082592012762991918",
+    "desc": "Ukrain#funny",
+    "createTime": 1649044458,
+    "video": {
+        "id": "7082592012762991918",
+        "height": 1024,
+        "width": 576,
+        "duration": 9,
+        "ratio": "720p",
+        "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7a7852be0b5b4dbd89f8013c0753dcc0?x-expires=1649131200&x-signature=csbD%2FHfy91mMOKebz%2FQVCkYI6Sw%3D",
+        "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/a5e07478ebe949d19fc6ec4666f83385_1649044458?x-expires=1649131200&x-signature=LtW2AkHvdfxSIFe8TuBS58cWnFQ%3D",
+        "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/08c4bf3911354f93b872b0c421957870_1649044459?x-expires=1649131200&x-signature=0xiXeQY0nzCYgQck3%2FBmUjLlRes%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/5aa5d93b93161986dee2e6b622729f37/624bc050/video/tos/useast5/tos-useast5-pve-0068-tx/557f8d24b60342b6b9adc12963b1c69c/?a=1988&br=2782&bt=1391&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdFeqDXq&l=2022040422063101011313501806D03FC4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajp2cWQ6Zmk5PDMzZzczNEApODg4aTo3OWQ7NzU3Zjg2NGdrbV8vcjRvajJgLS1kMS9zczEyMjJgYjMyLzMvMjYyNmE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/5aa5d93b93161986dee2e6b622729f37/624bc050/video/tos/useast5/tos-useast5-pve-0068-tx/557f8d24b60342b6b9adc12963b1c69c/?a=1988&br=2782&bt=1391&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=XY53A3E7nz7ThdFeqDXq&l=2022040422063101011313501806D03FC4&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajp2cWQ6Zmk5PDMzZzczNEApODg4aTo3OWQ7NzU3Zjg2NGdrbV8vcjRvajJgLS1kMS9zczEyMjJgYjMyLzMvMjYyNmE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a5e07478ebe949d19fc6ec4666f83385_1649044458~tplv-tiktok-play.jpeg?x-expires=1649714400&x-signature=B5PtOK3qsXFRDIN622DbA27I5dg%3D",
+            "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/a5e07478ebe949d19fc6ec4666f83385_1649044458~tplv-tiktokx-share-play.jpeg?x-expires=1649714400&x-signature=HKhmL55CTO%2FB49MLCEtep%2BbTYyI%3D"
+        ],
+        "reflowCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/7a7852be0b5b4dbd89f8013c0753dcc0?x-expires=1649131200&x-signature=csbD%2FHfy91mMOKebz%2FQVCkYI6Sw%3D",
+        "bitrate": 1425142,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7062164789199995951",
+        "uniqueId": "sniplix69",
+        "nickname": "Jean Ca4309664765709",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e87db759d909b57ceda3ca9d4165c512~c5_100x100.jpeg?x-expires=1649196000&x-signature=IGGeu0G2BgXn6jg9vSG1hpuC8eQ%3D",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e87db759d909b57ceda3ca9d4165c512~c5_720x720.jpeg?x-expires=1649196000&x-signature=KVpTdItRnWjX%2FZty5zT%2BOlPzi%2BQ%3D",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e87db759d909b57ceda3ca9d4165c512~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=fx0PXOt2sjvJRarDMLN05oqLXcU%3D",
+        "signature": "Asusus",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_rrvwnSc1kDfypr6_4hBzoAiQsOd1DHpEYR2kzoAbn6TyiZWgo-jcaTr_dWLIhMA",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7082591965946284846",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7082592002164017963.mp3",
+        "coverThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e87db759d909b57ceda3ca9d4165c512~c5_100x100.jpeg?x-expires=1649196000&x-signature=IGGeu0G2BgXn6jg9vSG1hpuC8eQ%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e87db759d909b57ceda3ca9d4165c512~c5_720x720.jpeg?x-expires=1649196000&x-signature=KVpTdItRnWjX%2FZty5zT%2BOlPzi%2BQ%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e87db759d909b57ceda3ca9d4165c512~c5_1080x1080.jpeg?x-expires=1649196000&x-signature=fx0PXOt2sjvJRarDMLN05oqLXcU%3D",
+        "authorName": "Jean Ca4309664765709",
+        "original": true,
+        "duration": 9,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "5424",
+            "title": "funny",
+            "desc": "Oh, we have to laugh...",
+            "profileThumb": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/0efc3d4dbc8e70fe21fda5df013e2924",
+            "profileMedium": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/0efc3d4dbc8e70fe21fda5df013e2924",
+            "profileLarger": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/0efc3d4dbc8e70fe21fda5df013e2924",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 0,
+        "playCount": 78
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 6,
+            "end": 12,
+            "hashtagName": "funny",
+            "hashtagId": "5424",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 750,
+        "followerCount": 139,
+        "heartCount": 221,
+        "videoCount": 18,
+        "diggCount": 1149,
+        "heart": 221
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

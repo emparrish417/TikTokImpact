@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6604632308664958981",
+        "shortId": "",
+        "uniqueId": "oigrubby",
+        "nickname": "GrubberGuy",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1649991527942149~c5_1080x1080.jpeg?x-expires=1651010400&x-signature=RBuPXFGHnEtQ6nhPBbMOlDRj6B0%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1649991527942149~c5_720x720.jpeg?x-expires=1651010400&x-signature=%2FmwZu347jvAYNelIkmgSxw1MhNA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1649991527942149~c5_100x100.jpeg?x-expires=1651010400&x-signature=i8gbnVkxZ8fXAQkjqicI18o%2BbV8%3D",
+        "signature": "TikTok Casanova",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAf4qME3dxRImRRLKBpBKahe8VF7aUSkA4wqNbFDBfHixBDMXDv2HutFCwgcCbiWG9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3297,
+        "followingCount": 135,
+        "heart": 1100000,
+        "heartCount": 1100000,
+        "videoCount": 39,
+        "diggCount": 0
+    },
+    "itemList": []
+}

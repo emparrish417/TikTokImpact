@@ -1,0 +1,104 @@
+{
+    "id": "7089743697859988742",
+    "desc": "",
+    "createTime": 1650709592,
+    "video": {
+        "id": "7089743697859988742",
+        "height": 1024,
+        "width": 576,
+        "duration": 37,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4bee211dffb8410299d20326e4fef04f?x-expires=1650783600&x-signature=MUWf9TYJxSI9QfvWyZH%2FxGtUbGs%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1d25f0e33a4f4b74b8b6b98e7c9f016b_1650709593?x-expires=1650783600&x-signature=Q02NS5or3UhqzPJ29QK9%2FqWh6mo%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9b7b9b38e945425482ba6966f84f57da_1650709593?x-expires=1650783600&x-signature=f6b9lb%2BZNOIFR8PIQRTFIa%2F7OI0%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/f686aace051cf2c76a460f958e47d88e/6264fb53/video/tos/useast2a/tos-useast2a-ve-0068c004/9b17cfa3bf9b47088991167a4b4edc06/?a=1988&br=3116&bt=1558&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoUu4we2NP87fl7Gb&l=202204240124300101130061321FAE30B2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3g6amQ6ZmV3PDMzNzczM0ApNjdpNjZoZ2RkN2czOmk5OGdtNl5xcjRnNGVgLS1kMTZzczUxMjEvXjReNjFhXjIyNmA6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/f686aace051cf2c76a460f958e47d88e/6264fb53/video/tos/useast2a/tos-useast2a-ve-0068c004/9b17cfa3bf9b47088991167a4b4edc06/?a=1988&br=3116&bt=1558&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZoUu4we2NP87fl7Gb&l=202204240124300101130061321FAE30B2&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3g6amQ6ZmV3PDMzNzczM0ApNjdpNjZoZ2RkN2czOmk5OGdtNl5xcjRnNGVgLS1kMTZzczUxMjEvXjReNjFhXjIyNmA6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1d25f0e33a4f4b74b8b6b98e7c9f016b_1650709593~tplv-tiktok-play.jpeg?x-expires=1651366800&x-signature=b8b2Ro9PVX0fEX53GV2U5IPkC6k%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1d25f0e33a4f4b74b8b6b98e7c9f016b_1650709593~tplv-tiktokx-share-play.jpeg?x-expires=1651366800&x-signature=1RRomx9hE7zhIqunZtaWoGUR8jI%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4bee211dffb8410299d20326e4fef04f?x-expires=1650783600&x-signature=MUWf9TYJxSI9QfvWyZH%2FxGtUbGs%3D",
+        "bitrate": 1595459,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7058364078264288261",
+        "uniqueId": "archierawlings497",
+        "nickname": "I stand with Ukrain\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5950aacd58dbb468bb7cc5011ad3645f~c5_100x100.jpeg?x-expires=1650934800&x-signature=2tAYwgS%2FlHd5RaSlSusXTKaIA4o%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5950aacd58dbb468bb7cc5011ad3645f~c5_720x720.jpeg?x-expires=1650934800&x-signature=bL2sDtybEiwFIbSifPBlQiAsZro%3D",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5950aacd58dbb468bb7cc5011ad3645f~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=vKaJQ17uYchtxzzrinYYee5SO4s%3D",
+        "signature": "Edited",
+        "verified": false,
+        "secUid": "MS4wLjABAAAA_Tc4ySsvrsW6hfvxhTgakd7VRaUdw8rLNpcYKVFwx11k34iN2eSX4BJg71B-yQwP",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7085649487661730565",
+        "title": "original sound",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7085649499699301125.mp3",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/79bdabf52b5ec5de003b497fe2f910cb~c5_100x100.jpeg?x-expires=1650934800&x-signature=%2FoNMfb3jfAGwKNmekOf3PwfRwio%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/79bdabf52b5ec5de003b497fe2f910cb~c5_720x720.jpeg?x-expires=1650934800&x-signature=HTpg8BdWU%2BgYChz4POjRXq%2FbCuQ%3D",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/79bdabf52b5ec5de003b497fe2f910cb~c5_1080x1080.jpeg?x-expires=1650934800&x-signature=azn%2FH2pUIzxz4zuiBe5dXNGAOn4%3D",
+        "authorName": "\ud83c\udf0cGXLACTIC JELLIE",
+        "original": true,
+        "duration": 40,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 24
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "effectStickers": [
+        {
+            "name": "Green Screen Video",
+            "ID": "454774"
+        }
+    ],
+    "authorStats": {
+        "followingCount": 244,
+        "followerCount": 83,
+        "heartCount": 442,
+        "videoCount": 59,
+        "diggCount": 367,
+        "heart": 442
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                " Can we sing it in the comments"
+            ]
+        }
+    ],
+    "isAd": false
+}

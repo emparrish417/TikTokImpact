@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6725464211156403205",
+        "shortId": "",
+        "uniqueId": "marcus.dipaola",
+        "nickname": "Marcus DiPaola",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=waRgbu0%2F%2FmqXgCdnUYT%2FC6gNi7c%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_720x720.jpeg?x-expires=1648850400&x-signature=IY0dKuujr4L%2BxkC7Qk19WxziZUg%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3b9f84a5ce2435d60d9384ea1af9abcf~c5_100x100.jpeg?x-expires=1648850400&x-signature=IjRnW3wOQdPoPTHN%2BZqwB7pOttQ%3D",
+        "signature": "Host of News 101 on Snapchat, anchoring news as it breaks here on TikTok.",
+        "createTime": 1565894253,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAt_iVPv2xFHOnKgw70t5YNDVrDMzV-V71959z98rV441muJW6ozh0SGIIxrq5cHIS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://www.youtube.com/c/MarcusDiPaola",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3600000,
+        "followingCount": 0,
+        "heart": 285100000,
+        "heartCount": 285100000,
+        "videoCount": 3175,
+        "diggCount": 0
+    },
+    "itemList": []
+}

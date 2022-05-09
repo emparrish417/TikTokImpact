@@ -1,0 +1,39 @@
+{
+    "user": {
+        "id": "7083808949028307974",
+        "shortId": "",
+        "uniqueId": "miltonmelanie",
+        "nickname": "milton",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4579dc012bd5749439c5042a9343b89a~c5_1080x1080.jpeg?x-expires=1650481200&x-signature=c6OX%2Bqx5xw8hof4eUdKBGrD%2FpEQ%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4579dc012bd5749439c5042a9343b89a~c5_720x720.jpeg?x-expires=1650481200&x-signature=eXv%2BFNw%2FzVsOD0l60GOUWAiEUks%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4579dc012bd5749439c5042a9343b89a~c5_100x100.jpeg?x-expires=1650481200&x-signature=8nNx4gK%2FQI%2FHKzrGYgIAXMWfeD8%3D",
+        "signature": "ukraine\ud83c\uddfa\ud83c\udde6",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAwpn7_Qk9mgKSP1qruceTEeueUfTwGtCWKN6x6r2NajeJq9RI7eth4bV8ot0hHbZX",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Personal Blog",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 30,
+        "followingCount": 69,
+        "heart": 310,
+        "heartCount": 310,
+        "videoCount": 10,
+        "diggCount": 0
+    },
+    "itemList": []
+}

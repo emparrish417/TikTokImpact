@@ -1,0 +1,122 @@
+{
+    "id": "7090426495398677766",
+    "desc": "hiiiio",
+    "createTime": 1650868572,
+    "video": {
+        "id": "7090426495398677766",
+        "height": 1024,
+        "width": 576,
+        "duration": 8,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fd5d753d31294d38aa6fc937752601aa_1650868573~tplv-dmt-logom:tos-useast2a-v-0068/8540cf3609e1400c896bff62ba3a38af.image?x-expires=1650934800&x-signature=HNeXJ0zkKBgG%2BiRdZC%2BnW0MnUQ0%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f573b13ed2cd465fb95c9ae531207b68_1650868573?x-expires=1650934800&x-signature=B0Q9tiinzApWlNgyT%2BsjiJSOvxQ%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b39b07aa04244e07b3a70ffec82f9c3a_1650868574?x-expires=1650934800&x-signature=t4vLAK7XupWmqXm2XEuJNsyFOeA%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/794b9c98fd9e5062a8979e3b42e8479e/62674bdb/video/tos/useast2a/tos-useast2a-ve-0068c004/e8ed46ec4b094e63baacc687c11fa119/?a=1988&br=1642&bt=821&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZA8z4we2NuEyfl7Gb&l=202204251933070101130060381D0C938C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVsbjs6ZnA2PDMzNzczM0ApNWQ2aTk8PDs7NzY0MzUzNGdpLWk2cjRvcmdgLS1kMTZzc2EwXl4xYmIwMF40NC42YDE6Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/794b9c98fd9e5062a8979e3b42e8479e/62674bdb/video/tos/useast2a/tos-useast2a-ve-0068c004/e8ed46ec4b094e63baacc687c11fa119/?a=1988&br=1642&bt=821&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZA8z4we2NuEyfl7Gb&l=202204251933070101130060381D0C938C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajVsbjs6ZnA2PDMzNzczM0ApNWQ2aTk8PDs7NzY0MzUzNGdpLWk2cjRvcmdgLS1kMTZzc2EwXl4xYmIwMF40NC42YDE6Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f573b13ed2cd465fb95c9ae531207b68_1650868573~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=mP39x6CntvwVPDrMrhQWWBWorew%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f573b13ed2cd465fb95c9ae531207b68_1650868573~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=nD8Ua2VATGtfi%2FOVcAuKvbmclJw%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fd5d753d31294d38aa6fc937752601aa_1650868573?x-expires=1650934800&x-signature=wK59mvpQliAVvTjhFyW%2BmpCAoa8%3D",
+        "bitrate": 841559,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6641599380142178310",
+        "uniqueId": "staywithukrain2",
+        "nickname": "StaywithUkrain",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0960fa63570cd2a9933ff4f77b649e50~c5_100x100.jpeg?x-expires=1651086000&x-signature=g%2BXZmFJ6sufFEx%2FRXqDi7lYgI0Q%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0960fa63570cd2a9933ff4f77b649e50~c5_720x720.jpeg?x-expires=1651086000&x-signature=mdhOLk%2BA%2B5Bh3ShxDNvwSjdJjr4%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0960fa63570cd2a9933ff4f77b649e50~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=20AU%2FWlKElh3xf7%2Bol14kwQZE9E%3D",
+        "signature": "Send the prayers to Ukraine",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAyGx1H3bCjTjvAw5FWlmh1EeBjogxQY03b7BU9H2s_WfmBK8ZC-8k9rOEtim9zVD7",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7076519022287948590",
+        "title": "original sound",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/ies-music-tx/7076519052264426282.mp3",
+        "coverThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/23405f2af1babe52fa2480fe7f0fd09a~c5_100x100.jpeg?x-expires=1651086000&x-signature=w%2Fwc55Y1u7bsqBu07IPf8mgmcPU%3D",
+        "coverMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/23405f2af1babe52fa2480fe7f0fd09a~c5_720x720.jpeg?x-expires=1651086000&x-signature=NL%2BMR0vlXIGS8BBFIl%2Fzahm0ynw%3D",
+        "coverLarge": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/23405f2af1babe52fa2480fe7f0fd09a~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=yVtSngcfX0pPgDf%2B6%2F8YR1uvs3I%3D",
+        "authorName": "Zaniya<3",
+        "original": true,
+        "duration": 8,
+        "album": ""
+    },
+    "stats": {
+        "diggCount": 2,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 70
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 1428,
+        "followerCount": 920,
+        "heartCount": 728,
+        "videoCount": 44,
+        "diggCount": 1613,
+        "heart": 728
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": true,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "\ud83d\ude0b",
+                "\ud83e\udd2f",
+                "\ud83d\ude08",
+                "\ud83e\udd2f",
+                "\u263b",
+                "\u263b",
+                "\u267e",
+                "\ud83d\ude2f",
+                "\ud83d\ude2f",
+                "pro",
+                "\ud83d\ude0b",
+                "\u267e",
+                "\ud83d\ude08",
+                "god",
+                "\u2764",
+                "decent ",
+                "good",
+                "easy",
+                "blind"
+            ]
+        },
+        {
+            "stickerType": 9,
+            "stickerText": [
+                "hi"
+            ]
+        }
+    ],
+    "isAd": false
+}

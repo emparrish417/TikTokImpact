@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "7086494529478280198",
+        "shortId": "",
+        "uniqueId": "adamant804",
+        "nickname": "Adamant",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7086537709128253446~c5_1080x1080.jpeg?x-expires=1650240000&x-signature=LAg9h3085uW2Pb06h3ETU8EgvGs%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7086537709128253446~c5_720x720.jpeg?x-expires=1650240000&x-signature=le%2BTqnIJ5jxU%2BG%2F2hzvvYppDb1E%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7086537709128253446~c5_100x100.jpeg?x-expires=1650240000&x-signature=OmGVTOVj4TMQUgl1veTh0i6UGIM%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAADVJB8wXOD64tWx2KYJ5SOrOECtR0bd4yYocc76GuT1G6CzU85vsRgeGY03XWwtqV",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1,
+        "followingCount": 2,
+        "heart": 38,
+        "heartCount": 38,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

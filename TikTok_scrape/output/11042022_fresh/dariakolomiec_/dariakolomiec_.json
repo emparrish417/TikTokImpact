@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": "7024937028957930502",
+        "shortId": "",
+        "uniqueId": "dariakolomiec_",
+        "nickname": "DariaKolomiec_",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_1080x1080.jpeg?x-expires=1649800800&x-signature=5VazrAioBReMnHdMVEasaqi6ggw%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_720x720.jpeg?x-expires=1649800800&x-signature=Pc%2FCVkk2j89sMuazcu9RGEVHr7M%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43a30fdfea184a63f1b343ad9c39a4d3~c5_100x100.jpeg?x-expires=1649800800&x-signature=9yrzSG0a09pUV8fcMsJZixEk3Tg%3D",
+        "signature": "Host / Dj / Producer \nFounder MusiCures App \ud83c\udfb6",
+        "createTime": 1635620826,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAs5rmOZpZR8ejZklAyPjNBxK_2xOOVrBkAljEeYNi6Qbuw8k_-uhq9z-TDu5CyQx9",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "https://youtube.com/playlist?list=PLc5bQl20OLJN5gtlTgWy-kuJcP37Q_-Ih",
+            "risk": 0
+        },
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1502,
+        "followingCount": 15,
+        "heart": 20600,
+        "heartCount": 20600,
+        "videoCount": 63,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,169 @@
+{
+    "id": "7086771193600052482",
+    "desc": "#ArmUkraineNow #BraveUkraine #StopRussia",
+    "createTime": 1650017499,
+    "video": {
+        "id": "7086771193600052482",
+        "height": 464,
+        "width": 848,
+        "duration": 93,
+        "ratio": "480p",
+        "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/280d53ca9f0941d2b123b433d71fc520?x-expires=1650088800&x-signature=bBYk%2B5frw9kTah87yhkqT6WGfFo%3D",
+        "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a995d6552d5a499095b4094d68fce382_1650017501?x-expires=1650088800&x-signature=rtK4kmKDHWqSBfAIRVyhYKM%2B1hs%3D",
+        "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/73d76f987ca74b4f9b43357a88a0ed7c_1650017502?x-expires=1650088800&x-signature=bDRJknK7MRFQb8VKpbor2ZfZohg%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/60795dfcb4ddc8facd17e367b33985ca/625a6596/video/tos/alisg/tos-alisg-pve-0037c001/74a8c1d0006b4e3089e250839e5e9a15/?a=1988&br=1036&bt=518&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=2&er=&ft=ebtHKH-qMyq8ZegGLwe2NanGfl7Gb&l=202204160042010101131351231D9FC3C6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JlcTM6Zm5uPDMzODczNEApaDc4NTk8NTs4N2k7NTMzOGducmZlcjQwNmBgLS1kMS1zc19hY18yYGAxXjVjMjEwNF86Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/60795dfcb4ddc8facd17e367b33985ca/625a6596/video/tos/alisg/tos-alisg-pve-0037c001/74a8c1d0006b4e3089e250839e5e9a15/?a=1988&br=1036&bt=518&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=2&er=&ft=ebtHKH-qMyq8ZegGLwe2NanGfl7Gb&l=202204160042010101131351231D9FC3C6&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3JlcTM6Zm5uPDMzODczNEApaDc4NTk8NTs4N2k7NTMzOGducmZlcjQwNmBgLS1kMS1zc19hY18yYGAxXjVjMjEwNF86Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/a995d6552d5a499095b4094d68fce382_1650017501~tplv-tiktok-play.jpeg?x-expires=1650672000&x-signature=KD2eWw0tYm2p9wR8Nvfr9uL4xBM%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/a995d6552d5a499095b4094d68fce382_1650017501~tplv-tiktokx-share-play.jpeg?x-expires=1650672000&x-signature=gNeD0%2BgU3EPqRq0m9nF7gZvsyDs%3D"
+        ],
+        "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/280d53ca9f0941d2b123b433d71fc520?x-expires=1650088800&x-signature=bBYk%2B5frw9kTah87yhkqT6WGfFo%3D",
+        "bitrate": 530726,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "6836055783827440645",
+        "uniqueId": "anamartyanova",
+        "nickname": "\u043d\u044d\u0441\u0442\u0438 \u2728",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/79164c78ff472f7a2a430c33afcf2078.jpeg?x-expires=1650240000&x-signature=1wrzSdll9ZHOlZAU%2Bpg2kDp41cU%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/79164c78ff472f7a2a430c33afcf2078.jpeg?x-expires=1650240000&x-signature=y7jQgYr2j1ciioFLko%2BqxmPB57s%3D",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/79164c78ff472f7a2a430c33afcf2078.jpeg?x-expires=1650240000&x-signature=0C5l9TcwO9DBekHGGRk4dO31CUc%3D",
+        "signature": "",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAiihHMt7umySciRIPdjjvcvZEA4vsFnUT1C43gmLYaasVQ59DcYXU1dmOjGMSvWe-",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 3,
+        "stitchSetting": 3,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7086771215137786625",
+        "title": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7086771210029189890.mp3",
+        "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/79164c78ff472f7a2a430c33afcf2078.jpeg?x-expires=1650240000&x-signature=1wrzSdll9ZHOlZAU%2Bpg2kDp41cU%3D",
+        "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/79164c78ff472f7a2a430c33afcf2078.jpeg?x-expires=1650240000&x-signature=y7jQgYr2j1ciioFLko%2BqxmPB57s%3D",
+        "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/79164c78ff472f7a2a430c33afcf2078.jpeg?x-expires=1650240000&x-signature=0C5l9TcwO9DBekHGGRk4dO31CUc%3D",
+        "authorName": "\u043d\u044d\u0441\u0442\u0438 \u2728",
+        "original": true,
+        "duration": 93,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "7086090436799889451",
+            "title": "armukrainenow",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "7068633198787297322",
+            "title": "braveukraine",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "38130042",
+            "title": "stoprussia",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 5,
+        "shareCount": 0,
+        "commentCount": 1,
+        "playCount": 152
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 0,
+            "end": 14,
+            "hashtagName": "armukrainenow",
+            "hashtagId": "7086090436799889451",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 15,
+            "end": 28,
+            "hashtagName": "braveukraine",
+            "hashtagId": "7068633198787297322",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 29,
+            "end": 40,
+            "hashtagName": "stoprussia",
+            "hashtagId": "38130042",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 409,
+        "followerCount": 103,
+        "heartCount": 1665,
+        "videoCount": 9,
+        "diggCount": 82900,
+        "heart": 1665
+    },
+    "privateItem": false,
+    "duetEnabled": false,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "isAd": false
+}

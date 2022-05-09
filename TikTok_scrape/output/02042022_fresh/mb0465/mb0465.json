@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7035580980419937326",
+        "shortId": "",
+        "uniqueId": "mb0465",
+        "nickname": "Brian Manny997",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a90d29c8513b08d8eb323b378be161ec~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=OFpxwpaGjATLQB1EyTSiOb9%2BxzE%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a90d29c8513b08d8eb323b378be161ec~c5_720x720.jpeg?x-expires=1649008800&x-signature=ipN3hl24WiGlVJHDBGQNXmoLGR0%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a90d29c8513b08d8eb323b378be161ec~c5_100x100.jpeg?x-expires=1649008800&x-signature=kgLCyfsGDHOhaNfCt5aFOIUmNwM%3D",
+        "signature": "",
+        "createTime": 1641317166,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAQNFlzt7M7FMlN9U6IV-3nmZyqCOe90H98V294EaGcq-1aW32Agv3NJHv9TFm-_dH",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 1002,
+        "followingCount": 1306,
+        "heart": 5211,
+        "heartCount": 5211,
+        "videoCount": 146,
+        "diggCount": 12200
+    },
+    "itemList": []
+}

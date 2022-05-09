@@ -1,0 +1,38 @@
+{
+    "user": {
+        "id": "6749281586875450374",
+        "shortId": "",
+        "uniqueId": "tommywinkler",
+        "nickname": "King of *Crunch*",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fdca840c886e09b6db73d4ad510d878f~c5_1080x1080.jpeg?x-expires=1648580400&x-signature=xdcTccuRBFKsEFDE%2FOdXyaRn%2Bec%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fdca840c886e09b6db73d4ad510d878f~c5_720x720.jpeg?x-expires=1648580400&x-signature=1kP1XCNUxt1WxalOFI3%2BhG%2Fi%2Beo%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fdca840c886e09b6db73d4ad510d878f~c5_100x100.jpeg?x-expires=1648580400&x-signature=Jv1DaP8ZxaRTLAdQr4kBR43ZaQc%3D",
+        "signature": "I just eat food\ud83c\udf7d\n\ud83d\udce7 Tommy@tommywinkler.com",
+        "createTime": 1571439761,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAarV2yjIUphiDBa2By3awepQTm_PryZU82R95vG3ADkdJd4CjziIVwcRiqHpRbJdA",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "bioLink": {
+            "link": "beacons.ai/itsalltommy",
+            "risk": 3
+        },
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 7000000,
+        "followingCount": 710,
+        "heart": 328700000,
+        "heartCount": 328700000,
+        "videoCount": 1675,
+        "diggCount": 0
+    },
+    "itemList": []
+}

@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6848934803665175557",
+        "shortId": "",
+        "uniqueId": "nickyrubchenko",
+        "nickname": "Nicky Rubchenko",
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/33f7b48c057da8429417ea668821107e.jpeg?x-expires=1649638800&x-signature=pIfJxnL%2B5ItyFBo5OIOZ0lHa%2F0c%3D",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/33f7b48c057da8429417ea668821107e.jpeg?x-expires=1649638800&x-signature=x2bdWzorvoWOFblCBsipqIu%2FzEI%3D",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/33f7b48c057da8429417ea668821107e.jpeg?x-expires=1649638800&x-signature=JrFD9bo21gWmj8ahKqghytflyIE%3D",
+        "signature": "",
+        "createTime": 1594613420,
+        "verified": false,
+        "secUid": "MS4wLjABAAAApB8trHGJkZ9XkLFAPmf2X38P-EbYlMsXTyPTKU8rVsXYKyNPNP890R2kOpqLW9pe",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 35,
+        "followingCount": 28,
+        "heart": 274,
+        "heartCount": 274,
+        "videoCount": 2,
+        "diggCount": 0
+    },
+    "itemList": []
+}

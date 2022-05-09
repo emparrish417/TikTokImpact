@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": "6800340889597690882",
+        "shortId": "",
+        "uniqueId": "rooyjds",
+        "nickname": "\u0631\u0648\u064a",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/f620286868a06a0c2cb79c899a71e4cf~c5_1080x1080.jpeg?x-expires=1648850400&x-signature=1q62cnjyTfTORBVZGewgHy8J3Jo%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/f620286868a06a0c2cb79c899a71e4cf~c5_720x720.jpeg?x-expires=1648850400&x-signature=HIqpwc%2FwPZEJMJAImuygNAhH1Xs%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/f620286868a06a0c2cb79c899a71e4cf~c5_100x100.jpeg?x-expires=1648850400&x-signature=TP7%2BDznBPgfsXsug%2FFYIMxt0xn4%3D",
+        "signature": "\ud83c\uddf2\ud83c\udde8",
+        "createTime": 1583299661,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAhSxL22w3XkKVlvNXD3xzdpLZJqzHBEHS-7Wy1DW86koKE1NjQ-KhMqswO80kfZGN",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+            "commerceUser": true,
+            "downLoadLink": {},
+            "category": "Others",
+            "categoryButton": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 3651,
+        "followingCount": 49,
+        "heart": 573300,
+        "heartCount": 573300,
+        "videoCount": 7,
+        "diggCount": 0
+    },
+    "itemList": []
+}

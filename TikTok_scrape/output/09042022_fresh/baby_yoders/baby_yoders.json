@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "6631333090726903814",
+        "shortId": "",
+        "uniqueId": "baby_yoders",
+        "nickname": "Baby_Yoda",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28339865803a4c2586d968767e848026~c5_1080x1080.jpeg?x-expires=1649638800&x-signature=vOZQugMPBdM%2BBwPauumiGNgSaVY%3D",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28339865803a4c2586d968767e848026~c5_720x720.jpeg?x-expires=1649638800&x-signature=ZOzQLyfWxp56R3ypiKhg9CX09cs%3D",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28339865803a4c2586d968767e848026~c5_100x100.jpeg?x-expires=1649638800&x-signature=2p0KtQLO4NYsoIHXAuNSHPcvb90%3D",
+        "signature": "Tarki Man",
+        "createTime": 1543979140,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAxFF3k5SQXSCoxe9AVIuSJHVkKlTTuhiRcx8nAE6YM71gOQpjC-sqph_bSnrpF2SZ",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": true,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 154,
+        "followingCount": 118,
+        "heart": 543,
+        "heartCount": 543,
+        "videoCount": 19,
+        "diggCount": 3730
+    },
+    "itemList": []
+}

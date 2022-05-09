@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "7071533341463594027",
+        "shortId": "",
+        "uniqueId": "rightonenews",
+        "nickname": "Rightonenews",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.jpeg?x-expires=1649008800&x-signature=bpo0sZLj1HqKbuNAYpgfSwlKYO8%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg?x-expires=1649008800&x-signature=NDwO6O6gGZB8k71%2FosJja%2FYPQPk%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1649008800&x-signature=ECLShBBbdDSg2l0O%2F3KhP3FT6aU%3D",
+        "signature": "",
+        "createTime": 1646469704,
+        "verified": false,
+        "secUid": "MS4wLjABAAAAsEohT8dFI6LDHoikn1lhXJ_cHSGEJJ-IqH_6BtNG8j664MLmVj6JyPEKRgtsGnaP",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 491,
+        "followingCount": 6,
+        "heart": 5693,
+        "heartCount": 5693,
+        "videoCount": 104,
+        "diggCount": 0
+    },
+    "itemList": []
+}

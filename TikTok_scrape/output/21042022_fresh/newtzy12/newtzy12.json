@@ -1,0 +1,33 @@
+{
+    "user": {
+        "id": "6702443938643461125",
+        "shortId": "",
+        "uniqueId": "newtzy12",
+        "nickname": "newt",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/652e02f75503c3d140b612159674a645~c5_1080x1080.jpeg?x-expires=1650751200&x-signature=eFtrcMFI9tuBRc6H87n8mrc4qlI%3D",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/652e02f75503c3d140b612159674a645~c5_720x720.jpeg?x-expires=1650751200&x-signature=Fqs8hxbYT%2BtjX8QxxDN6jLfYPaA%3D",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/652e02f75503c3d140b612159674a645~c5_100x100.jpeg?x-expires=1650751200&x-signature=wTquAeswp68xYYVaDaOLesU0%2B1Y%3D",
+        "signature": "I don\u2019t follow back unless you are @adriankr",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAAyxaUwArbCtTilVXMlWO-Xy6S5TAiZl2ro4BXsxtJi4D4kxCLvMs7zXvR7YhK-CS",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": ""
+    },
+    "stats": {
+        "followerCount": 190,
+        "followingCount": 82,
+        "heart": 7361,
+        "heartCount": 7361,
+        "videoCount": 13,
+        "diggCount": 0
+    },
+    "itemList": []
+}

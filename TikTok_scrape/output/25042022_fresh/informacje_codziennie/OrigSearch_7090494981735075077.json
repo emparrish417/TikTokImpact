@@ -1,0 +1,202 @@
+{
+    "id": "7090494981735075077",
+    "desc": "Fakty 24 kwietnia #dc #dlaciebie #tvn #fakty",
+    "createTime": 1650884515,
+    "video": {
+        "id": "7090494981735075077",
+        "height": 1024,
+        "width": 576,
+        "duration": 66,
+        "ratio": "720p",
+        "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d0324c6a2912470dabe4e9a8dbf32aed?x-expires=1650934800&x-signature=11nDB4rxqNQgCbVWgQMG%2FhztYPs%3D",
+        "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c4ddd7c4b7aa40f991859f46d1dd316b_1650884516?x-expires=1650934800&x-signature=WV%2BVayAKppfGvKbtkTmCNgysREI%3D",
+        "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fc0262bbc3ad41b692dd870aefd886fb_1650884517?x-expires=1650934800&x-signature=k96PN65t%2FkMwuUejKJ5nniC07CY%3D",
+        "playAddr": "https://v16m-webapp.tiktokcdn-us.com/94cd9a322947fe96fc4d41579e4cfc2f/62674c29/video/tos/useast2a/tos-useast2a-ve-0068c004/a1e4e3e033c74611aa3046da96565d18/?a=1988&br=558&bt=279&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZGdz4we2NIrGfl7Gb&l=202204251933270101130062270F1A2E2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhuOzM6Znk6PDMzNzczM0ApaWc0NjxnOmRlNzQ0Mzk7ZmdwX14vcjRfcmdgLS1kMTZzcy0vXzIzNC41Ml41MDYtLS46Yw%3D%3D&vl=&vr=",
+        "downloadAddr": "https://v16m-webapp.tiktokcdn-us.com/94cd9a322947fe96fc4d41579e4cfc2f/62674c29/video/tos/useast2a/tos-useast2a-ve-0068c004/a1e4e3e033c74611aa3046da96565d18/?a=1988&br=558&bt=279&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZGdz4we2NIrGfl7Gb&l=202204251933270101130062270F1A2E2C&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzhuOzM6Znk6PDMzNzczM0ApaWc0NjxnOmRlNzQ0Mzk7ZmdwX14vcjRfcmdgLS1kMTZzcy0vXzIzNC41Ml41MDYtLS46Yw%3D%3D&vl=&vr=",
+        "shareCover": [
+            "",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4ddd7c4b7aa40f991859f46d1dd316b_1650884516~tplv-tiktok-play.jpeg?x-expires=1651518000&x-signature=1jjzASdGsyftS9BBuFvnYf337Us%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c4ddd7c4b7aa40f991859f46d1dd316b_1650884516~tplv-tiktokx-share-play.jpeg?x-expires=1651518000&x-signature=T7SEeMSUXnU4WHl6%2F3d8wJCEids%3D"
+        ],
+        "reflowCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7e7020e42e957ac3bd62d6073487cb42?x-expires=1650934800&x-signature=c5rexxSb0Lwd%2FxZqd5Xg%2Fbaag4Y%3D",
+        "bitrate": 286632,
+        "encodedType": "normal",
+        "format": "mp4",
+        "videoQuality": "normal",
+        "encodeUserTag": ""
+    },
+    "author": {
+        "id": "7018451064757404677",
+        "uniqueId": "informacje_codziennie",
+        "nickname": "Solidarni z Ukrain\u0105",
+        "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/433dd6b1987bb95167fde71b9043c29e~c5_100x100.jpeg?x-expires=1651086000&x-signature=xUgY0UEtPY19vnnrjNzYTCvTSAE%3D",
+        "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/433dd6b1987bb95167fde71b9043c29e~c5_720x720.jpeg?x-expires=1651086000&x-signature=TCE98B%2BtH99qoHF64RwGUp7zjIM%3D",
+        "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/433dd6b1987bb95167fde71b9043c29e~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=KA5hZeqdss8Q6wYblc%2BgBgvwvEk%3D",
+        "signature": "Solidarni z Ukrain\u0105\n\u2653\ufe0f\nSTART \n20.10.2021",
+        "verified": false,
+        "secUid": "MS4wLjABAAAAnwMoZ5QpAkuWjOklaKPBbHc9mUVz-72E1io9QsirDraSVBfT65leZ7bGaHrXVomN",
+        "secret": false,
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false
+    },
+    "music": {
+        "id": "7090494978824129286",
+        "title": "d\u017awi\u0119k oryginalny",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7090494969869273862.mp3",
+        "coverThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/433dd6b1987bb95167fde71b9043c29e~c5_100x100.jpeg?x-expires=1651086000&x-signature=xUgY0UEtPY19vnnrjNzYTCvTSAE%3D",
+        "coverMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/433dd6b1987bb95167fde71b9043c29e~c5_720x720.jpeg?x-expires=1651086000&x-signature=TCE98B%2BtH99qoHF64RwGUp7zjIM%3D",
+        "coverLarge": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/433dd6b1987bb95167fde71b9043c29e~c5_1080x1080.jpeg?x-expires=1651086000&x-signature=KA5hZeqdss8Q6wYblc%2BgBgvwvEk%3D",
+        "authorName": "Solidarni z Ukrain\u0105",
+        "original": true,
+        "duration": 66,
+        "album": ""
+    },
+    "challenges": [
+        {
+            "id": "13465",
+            "title": "dc",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "10638098",
+            "title": "dlaciebie",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "11528250",
+            "title": "tvn",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        },
+        {
+            "id": "11130198",
+            "title": "fakty",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+        }
+    ],
+    "stats": {
+        "diggCount": 1967,
+        "shareCount": 6,
+        "commentCount": 47,
+        "playCount": 55200
+    },
+    "duetInfo": {
+        "duetFromId": "0"
+    },
+    "originalItem": false,
+    "officalItem": false,
+    "textExtra": [
+        {
+            "awemeId": "",
+            "start": 18,
+            "end": 21,
+            "hashtagName": "dc",
+            "hashtagId": "13465",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 22,
+            "end": 32,
+            "hashtagName": "dlaciebie",
+            "hashtagId": "10638098",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 33,
+            "end": 37,
+            "hashtagName": "tvn",
+            "hashtagId": "11528250",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        },
+        {
+            "awemeId": "",
+            "start": 38,
+            "end": 44,
+            "hashtagName": "fakty",
+            "hashtagId": "11130198",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+        }
+    ],
+    "secret": false,
+    "forFriend": false,
+    "digged": false,
+    "itemCommentStatus": 0,
+    "showNotPass": false,
+    "vl1": false,
+    "itemMute": false,
+    "authorStats": {
+        "followingCount": 54,
+        "followerCount": 32700,
+        "heartCount": 717700,
+        "videoCount": 218,
+        "diggCount": 5046,
+        "heart": 717700
+    },
+    "privateItem": false,
+    "duetEnabled": true,
+    "stitchEnabled": false,
+    "shareEnabled": true,
+    "stickersOnItem": [
+        {
+            "stickerType": 4,
+            "stickerText": [
+                "Fakty 24.04"
+            ]
+        }
+    ],
+    "isAd": false
+}
